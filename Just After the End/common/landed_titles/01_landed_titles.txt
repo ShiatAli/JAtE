@@ -1,0 +1,71 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_california = {
+	color={ 126 112 74 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_san_diego
+	culture = english
+	
+	k_valley = {
+		color={ 116 122 69 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_san_diego
+		culture = english
+		
+		c_san_diego = { # 1
+			color={ 86 152 54 }
+			color2={ 255 255 255 }
+			
+			b_san_diego = {
+			}
+			b_national_city = {
+			}
+			b_chula_vista = {
+			}
+			b_coronado = {
+			}
+			b_penasquitos = {
+			}
+			b_kearny_mesa = {
+			}
+			b_pacific_beach = {
+			}
+		}
+		d_san_diego = {
+			color={ 96 142 59 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 } }
+				}
+			}
+			capital = 1 # c_san_diego
+			
+			c_san_diego = { # 1
+				color={ 86 152 54 }
+				color2={ 255 255 255 }
+				
+				b_san_diego = {
+				}
+				b_national_city = {
+				}
+				b_chula_vista = {
+				}
+				b_coronado = {
+				}
+				b_penasquitos = {
+				}
+				b_kearny_mesa = {
+				}
+				b_pacific_beach = {
+				}
+			}
+		}
+	}
+}

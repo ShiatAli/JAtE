@@ -1,0 +1,21 @@
+# c_san_diego
+
+# County Title
+title = c_san_diego
+
+# Settlements
+max_settlements = 6
+
+b_san_diego = castle
+b_national_city = city
+b_chula_vista = temple
+b_coronado = castle
+b_penasquitos = city
+#b_kearny_mesa = temple
+#b_pacific_beach = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,22 @@
+#TOP END
+technology = {
+	titles = {
+		d_arnhem_land
+		d_darwin
+		d_kakadu
+		d_roper
+		d_victoria_daly
+		d_victoria_ord
+		d_west_arnhem
+	}
+	2555 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	3200 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
