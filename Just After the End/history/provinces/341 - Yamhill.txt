@@ -1,0 +1,21 @@
+# c_yamhill
+
+# County Title
+title = c_yamhill
+
+# Settlements
+max_settlements = 4
+
+b_mcminnville = castle
+b_lafayette_2 = city
+#b_whiteson = temple
+#b_bellevue = castle
+#b_sheridan = city
+#b_willamina = temple
+#b_carlton = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

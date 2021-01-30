@@ -1,0 +1,21 @@
+# c_alamosa
+
+# County Title
+title = c_alamosa
+
+# Settlements
+max_settlements = 3
+
+b_alamosa = castle
+#b_hooper_2 = city
+#b_alamosa_east = temple
+#b_mosca = castle
+#b_waverly = city
+#b_excelsior = temple
+#b_south_lateral = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

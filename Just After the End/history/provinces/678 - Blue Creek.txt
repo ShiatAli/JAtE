@@ -1,0 +1,21 @@
+# c_blue_creek
+
+# County Title
+title = c_blue_creek
+
+# Settlements
+max_settlements = 1
+
+b_snowville = castle
+#b_stone = city
+#b_howell_2 = temple
+#b_holbrook_2 = castle
+#b_golden_spike = city
+#b_spiral_jetty = temple
+#b_mt_tarpey = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

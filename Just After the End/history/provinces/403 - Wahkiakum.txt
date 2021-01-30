@@ -1,0 +1,21 @@
+# c_wahkiakum
+
+# County Title
+title = c_wahkiakum
+
+# Settlements
+max_settlements = 3
+
+b_cathlamet = castle
+#b_eagle_cliff = city
+#b_skamokawa = temple
+#b_rosburg = castle
+#b_grays_river = city
+#b_state_camp = temple
+#b_altoona = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

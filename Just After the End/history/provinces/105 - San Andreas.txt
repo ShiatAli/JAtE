@@ -1,0 +1,21 @@
+# c_san_andreas
+
+# County Title
+title = c_san_andreas
+
+# Settlements
+max_settlements = 2
+
+b_san_andreas = castle
+#b_valley_springs = city
+#b_copperpolis = temple
+#b_angels_camp = castle
+#b_calveritas = city
+#b_cave_city = temple
+#b_paloma = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

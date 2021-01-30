@@ -1,0 +1,21 @@
+# c_coos_bay
+
+# County Title
+title = c_coos_bay
+
+# Settlements
+max_settlements = 3
+
+b_coos_bay = castle
+b_lakeside_2 = city
+#b_north_bend = temple
+#b_barview_2 = castle
+#b_coquille = city
+#b_bunker_hill = temple
+#b_millington = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

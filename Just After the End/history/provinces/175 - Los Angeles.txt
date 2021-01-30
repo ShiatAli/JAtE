@@ -1,0 +1,21 @@
+# c_los_angeles
+
+# County Title
+title = c_los_angeles
+
+# Settlements
+max_settlements = 6
+
+b_ellay = castle
+b_normandie = city
+b_montebello = temple
+b_monterrey = castle
+b_commerce = city
+#b_vernon = temple
+#b_skids_row = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

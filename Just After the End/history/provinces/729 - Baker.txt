@@ -1,0 +1,21 @@
+# c_baker
+
+# County Title
+title = c_baker
+
+# Settlements
+max_settlements = 3
+
+b_baker_city = castle
+#b_north_powder = city
+#b_haines = temple
+#b_wingville = castle
+#b_keating = city
+#b_pleasant_valley = temple
+#b_medical_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_isabella
+
+# County Title
+title = c_isabella
+
+# Settlements
+max_settlements = 2
+
+b_lake_isabella = castle
+#b_bodfish = city
+#b_alta_sierra_2 = temple
+#b_wofford_heights = castle
+#b_kernville = city
+#b_mountain_mesa = temple
+#b_keyesville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

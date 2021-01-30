@@ -1,0 +1,21 @@
+# c_saginaw
+
+# County Title
+title = c_saginaw
+
+# Settlements
+max_settlements = 4
+
+b_cottage_grove_2 = castle
+b_saginaw = city
+b_walker = temple
+#b_creswell = castle
+#b_walden = city
+#b_row_river = temple
+#b_fir_grove = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

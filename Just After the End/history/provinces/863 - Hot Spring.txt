@@ -1,0 +1,21 @@
+# c_hot_spring
+
+# County Title
+title = c_hot_spring
+
+# Settlements
+max_settlements = 3
+
+b_thermopolis = castle
+b_kirby = city
+#b_winchester_4 = temple
+#b_lucerne_2 = castle
+#b_owl_creek = city
+#b_ember = temple
+#b_grass_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

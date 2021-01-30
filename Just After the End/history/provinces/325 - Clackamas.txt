@@ -1,0 +1,21 @@
+# c_clackamas
+
+# County Title
+title = c_clackamas
+
+# Settlements
+max_settlements = 4
+
+b_clackamas = castle
+b_damascus = city
+b_happy_valley = temple
+#b_milwaukie = castle
+#b_oak_grove = city
+#b_gladstone = temple
+#b_sunnyside_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

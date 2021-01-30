@@ -1,0 +1,21 @@
+# c_napa
+
+# County Title
+title = c_napa
+
+# Settlements
+max_settlements = 5
+
+b_napa = castle
+b_american_canyon = city
+b_middleton = temple
+b_salvador = castle
+#b_union = city
+#b_oak_knoll = temple
+#b_vichy_spring = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_boise
+
+# County Title
+title = c_boise
+
+# Settlements
+max_settlements = 3
+
+b_idaho_city = castle
+#b_robie_creek = city
+#b_garden_valley_2 = temple
+#b_crouch = castle
+#b_placerville_2 = city
+#b_lowman = temple
+#b_pioneerville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

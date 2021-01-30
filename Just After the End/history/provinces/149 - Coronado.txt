@@ -1,0 +1,21 @@
+# c_coronado
+
+# County Title
+title = c_coronado
+
+# Settlements
+max_settlements = 6
+
+b_coronado = castle
+b_chula_vista = city
+b_imperial_beach = temple
+b_san_ysidro = castle
+b_national_city = city
+#b_barrio = temple
+#b_silver_strand = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

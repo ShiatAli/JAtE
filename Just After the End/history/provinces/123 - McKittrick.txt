@@ -1,0 +1,21 @@
+# c_mckittrick
+
+# County Title
+title = c_mckittrick
+
+# Settlements
+max_settlements = 3
+
+b_mckittrick = castle
+b_derby_acres = city
+#b_reward = temple
+#b_fellows = castle
+#b_soda_lake_2 = city
+#b_crocker_canyon = temple
+#b_sulphur_spring = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

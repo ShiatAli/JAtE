@@ -1,0 +1,21 @@
+# c_cottonwood_2
+
+# County Title
+title = c_cottonwood_2
+
+# Settlements
+max_settlements = 3
+
+b_cottonwood_2 = castle
+b_bell_station = city
+#b_chimney_gulch = temple
+#b_oconnells_spring = castle
+#b_san_luis_lake = city
+#b_windmill_spring = temple
+#b_hidden_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

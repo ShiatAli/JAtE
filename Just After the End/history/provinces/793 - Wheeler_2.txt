@@ -1,0 +1,21 @@
+# c_wheeler_2
+
+# County Title
+title = c_wheeler_2
+
+# Settlements
+max_settlements = 2
+
+b_fossil = castle
+#b_spray = city
+#b_clarno = temple
+#b_kimberly_2 = castle
+#b_service_creek = city
+#b_horse_heaven = temple
+#b_bone_yard = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_north_lake
+
+# County Title
+title = c_north_lake
+
+# Settlements
+max_settlements = 4
+
+b_upper_lake = castle
+b_lakeport = city
+b_north_lakeport = temple
+#b_witter_springs = castle
+#b_nice = city
+#b_pepperwood_grove = temple
+#b_lucerene = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_folsom
+
+# County Title
+title = c_folsom
+
+# Settlements
+max_settlements = 4
+
+b_folsom = castle
+b_citrus_heights = city
+b_alder = temple
+#b_nimbus = castle
+#b_orangevale = city
+#b_fair_oaks = temple
+#b_valley_pines = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

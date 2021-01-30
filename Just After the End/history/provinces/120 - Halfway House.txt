@@ -1,0 +1,21 @@
+# c_halfway_house
+
+# County Title
+title = c_halfway_house
+
+# Settlements
+max_settlements = 3
+
+b_halfway_house = castle
+b_woody = city
+#b_glennville = temple
+#b_famoso = castle
+#b_calico = city
+#b_cawelo = temple
+#b_prospero = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

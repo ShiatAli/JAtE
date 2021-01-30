@@ -1,0 +1,21 @@
+# c_keremeos
+
+# County Title
+title = c_keremeos
+
+# Settlements
+max_settlements = 3
+
+b_keremos = castle
+#b_cawston = city
+#b_olalla_2 = temple
+#b_hedley = castle
+#b_summerland = city
+#b_peachland = temple
+#b_kaleden = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

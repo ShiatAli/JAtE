@@ -1,0 +1,21 @@
+# c_leggett
+
+# County Title
+title = c_leggett
+
+# Settlements
+max_settlements = 3
+
+b_leggett = castle
+b_cummings = city
+#b_bowman_place = temple
+#b_twin_rocks = castle
+#b_pratt_place = city
+#b_piercy = temple
+#b_cooks_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

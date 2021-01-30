@@ -1,0 +1,33 @@
+#WASHINGTON
+technology = {
+	titles = {
+		d_cascadia
+		d_clallam
+		d_clark
+		d_grand_seattle
+		d_grays_harbor
+		d_kitsap
+		d_lewis
+		d_mason
+		d_pacific
+		d_pierce
+		d_posession
+		d_quinault
+		d_san_juan
+		d_skagit
+		d_snohomish
+		d_snoqualmie
+		d_thurston
+		d_whatcom
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

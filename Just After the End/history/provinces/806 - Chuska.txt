@@ -1,0 +1,21 @@
+# c_chuska
+
+# County Title
+title = c_chuska
+
+# Settlements
+max_settlements = 3
+
+b_lukachukai = castle
+#b_tsaile = city
+#b_round_rock = temple
+#b_wheatfields = castle
+#b_blackrock_2 = city
+#b_tsedatoh = temple
+#b_sonsela = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

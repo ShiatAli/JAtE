@@ -1,0 +1,21 @@
+# c_black_rock
+
+# County Title
+title = c_black_rock
+
+# Settlements
+max_settlements = 3
+
+b_gerlatch = castle
+b_black_rock_2 = city
+#b_empire = temple
+#b_selenite = castle
+#b_godeys = city
+#b_smoke_creek = temple
+#b_hualapa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

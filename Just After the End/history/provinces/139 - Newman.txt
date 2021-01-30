@@ -1,0 +1,21 @@
+# c_newman
+
+# County Title
+title = c_newman
+
+# Settlements
+max_settlements = 3
+
+b_newman = castle
+b_stomar = city
+#b_crows_landing = temple
+#b_gustine = castle
+#b_ingomar = city
+#b_timba = temple
+#b_hills_ferry = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

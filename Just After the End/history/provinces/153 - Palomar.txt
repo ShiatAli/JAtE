@@ -1,0 +1,21 @@
+# c_palomar
+
+# County Title
+title = c_palomar
+
+# Settlements
+max_settlements = 5
+
+b_palomar = castle
+b_bressi = city
+b_encinitas = temple
+b_oceanside = castle
+#b_vista = city
+#b_escondido = temple
+#b_brickland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

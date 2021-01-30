@@ -1,0 +1,21 @@
+# c_oxnard
+
+# County Title
+title = c_oxnard
+
+# Settlements
+max_settlements = 3
+
+b_oxnard = castle
+b_camarillo = city
+#b_saticoy = temple
+#b_hueneme = castle
+#b_el_rio = city
+#b_point_mugu = temple
+#b_riverpark = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

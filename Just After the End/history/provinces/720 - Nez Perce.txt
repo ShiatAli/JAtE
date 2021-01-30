@@ -1,0 +1,21 @@
+# c_nez_perce
+
+# County Title
+title = c_nez_perce
+
+# Settlements
+max_settlements = 3
+
+b_lewiston_2 = castle
+#b_lawapi = city
+#b_culdesac = temple
+#b_sweetwater = castle
+#b_gifford = city
+#b_lenore = temple
+#b_spalding = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

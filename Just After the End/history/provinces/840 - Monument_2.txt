@@ -1,0 +1,21 @@
+# c_monument_2
+
+# County Title
+title = c_monument_2
+
+# Settlements
+max_settlements = 3
+
+b_grant_3 = castle
+#b_monument_2 = city
+#b_bodego_bay = temple
+#b_gowdy = castle
+#b_plover_point = city
+#b_promontory = temple
+#b_cabin_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

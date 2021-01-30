@@ -1,0 +1,21 @@
+# c_san_juan_de_los_planes
+
+# County Title
+title = c_san_juan_de_los_planes
+
+# Settlements
+max_settlements = 4
+
+b_san_juan_de_los_planes = castle
+b_el_sargento = city
+b_la_ventana = temple
+#b_los_encinitos = castle
+#b_bahia_de_los_suenos = city
+#b_santa_cruz_2 = temple
+#b_las_cruces = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

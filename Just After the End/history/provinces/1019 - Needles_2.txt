@@ -1,0 +1,21 @@
+# c_needles_2
+
+# County Title
+title = c_needles_2
+
+# Settlements
+max_settlements = 2
+
+b_needles_2 = castle
+#b_klinefelter_2 = city
+#b_ibis_2 = temple
+#b_homer_2 = castle
+#b_bannock_3 = city
+#b_goffs_2 = temple
+#b_fenner_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

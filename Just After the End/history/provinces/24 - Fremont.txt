@@ -1,0 +1,21 @@
+# c_fremont
+
+# County Title
+title = c_fremont
+
+# Settlements
+max_settlements = 6
+
+b_fremont = castle
+b_union_city = city
+b_newark = temple
+b_ardenwood = castle
+b_glenmoor = city
+#b_irvington = temple
+#b_blacow = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

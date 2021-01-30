@@ -1,0 +1,21 @@
+# c_canby
+
+# County Title
+title = c_canby
+
+# Settlements
+max_settlements = 3
+
+b_canby = castle
+#b_ambrose = city
+#b_hackamore = temple
+#b_fletcher_creek = castle
+#b_deer_hill = city
+#b_big_sage = temple
+#b_crowder = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

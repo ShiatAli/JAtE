@@ -1,0 +1,21 @@
+# c_forest_park
+
+# County Title
+title = c_forest_park
+
+# Settlements
+max_settlements = 3
+
+b_st_john = castle
+b_kenton = city
+#b_arbor_lodge = temple
+#b_slabtown = castle
+#b_burlington = city
+#b_holbrook = temple
+#b_portsmouth = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

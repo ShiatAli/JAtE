@@ -1,0 +1,21 @@
+# c_la_paz
+
+# County Title
+title = c_la_paz
+
+# Settlements
+max_settlements = 3
+
+b_parker_2 = castle
+#b_quartzite = city
+#b_ehrenberg = temple
+#b_bluewater_2 = castle
+#b_la_paz_valley = city
+#b_parker_strip = temple
+#b_poston = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

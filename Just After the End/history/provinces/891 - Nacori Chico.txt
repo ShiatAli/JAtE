@@ -1,0 +1,21 @@
+# c_nacori_chico
+
+# County Title
+title = c_nacori_chico
+
+# Settlements
+max_settlements = 3
+
+b_nacori_chico = castle
+#b_oputo = city
+#b_bacadehuachi = temple
+#b_huasabas = castle
+#b_granados = city
+#b_la_mesa_tres_rios = temple
+#b_ejido_san_juan = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_santa_cruz
+
+# County Title
+title = c_santa_cruz
+
+# Settlements
+max_settlements = 6
+
+b_santa_cruz = castle
+b_twin_lakes = city
+b_live_oak = temple
+b_shangri_la_estates = castle
+b_soquel = city
+#b_capitola = temple
+#b_aptos = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

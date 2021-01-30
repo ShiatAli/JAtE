@@ -1,0 +1,21 @@
+# c_sahuaripa
+
+# County Title
+title = c_sahuaripa
+
+# Settlements
+max_settlements = 2
+
+b_sahuaripa = castle
+#b_arivechi = city
+#b_banacora = temple
+#b_guisamopa = castle
+#b_tacupeto = city
+#b_tarachi = temple
+#b_bamori = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

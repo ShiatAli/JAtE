@@ -1,0 +1,21 @@
+# c_port_angeles
+
+# County Title
+title = c_port_angeles
+
+# Settlements
+max_settlements = 3
+
+b_port_angeles = castle
+b_elwha = city
+#b_port_crescent = temple
+#b_joyce = castle
+#b_shadow = city
+#b_disque = temple
+#b_twin = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

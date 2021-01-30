@@ -1,0 +1,21 @@
+# c_san_felipe_3
+
+# County Title
+title = c_san_felipe_3
+
+# Settlements
+max_settlements = 4
+
+b_san_felipe_4 = castle
+#b_placitas = city
+#b_santa_anna = temple
+#b_algodones = castle
+#b_el_llanito = city
+#b_twin_warriors = temple
+#b_jemez_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

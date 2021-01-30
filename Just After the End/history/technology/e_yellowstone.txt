@@ -1,0 +1,30 @@
+#YELLOWSTONE
+technology = {
+	titles = {
+		d_absaroka
+		d_alpine
+		d_beartooth
+		d_bridger
+		d_broadwater
+		d_grand_teton
+		d_green_river
+		d_madison
+		d_old_faithful
+		d_shoshone
+		d_stillwater
+		d_sugarloaf
+		d_summit
+		d_swan_valley
+		d_targhee
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

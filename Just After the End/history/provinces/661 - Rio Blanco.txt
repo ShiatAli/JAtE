@@ -1,0 +1,21 @@
+# c_rio_blanco
+
+# County Title
+title = c_rio_blanco
+
+# Settlements
+max_settlements = 2
+
+b_meeker = castle
+#b_buford = city
+#b_white_river_2 = temple
+#b_massadona = castle
+#b_colorow = city
+#b_ellison_mt = temple
+#b_hey_flat = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_annette
+
+# County Title
+title = c_annette
+
+# Settlements
+max_settlements = 2
+
+b_annette = castle
+#b_kecks_corner = city
+#b_cholame_2 = temple
+#b_shandon_2 = castle
+#b_acebedo = city
+#b_still_canyon = temple
+#b_choice_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

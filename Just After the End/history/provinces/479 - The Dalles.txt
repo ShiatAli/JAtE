@@ -1,0 +1,21 @@
+# c_the_dalles
+
+# County Title
+title = c_the_dalles
+
+# Settlements
+max_settlements = 3
+
+b_the_dalles = castle
+#b_chenoweth = city
+#b_rowena = temple
+#b_mosier = castle
+#b_wasco_2 = city
+#b_dufur = temple
+#b_boyd = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

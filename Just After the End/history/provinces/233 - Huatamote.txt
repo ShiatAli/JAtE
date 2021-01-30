@@ -1,0 +1,21 @@
+# c_huatamote
+
+# County Title
+title = c_huatamote
+
+# Settlements
+max_settlements = 3
+
+b_huatamote = castle
+b_puerto_agua_verde = city
+#b_san_cosme = temple
+#b_san_damian = castle
+#b_la_ultima_agua = city
+#b_tinajas = temple
+#b_ciudad_huatamote = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

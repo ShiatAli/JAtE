@@ -1,0 +1,21 @@
+# c_deer_park
+
+# County Title
+title = c_deer_park
+
+# Settlements
+max_settlements = 2
+
+b_deer_park = castle
+#b_elk_2 = city
+#b_camden_2 = temple
+#b_buckeye_2 = castle
+#b_chattaroy = city
+#b_clayton_2 = temple
+#b_colbert = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

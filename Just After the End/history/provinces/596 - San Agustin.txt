@@ -1,0 +1,21 @@
+# c_san_agustin
+
+# County Title
+title = c_san_agustin
+
+# Settlements
+max_settlements = 2
+
+b_quemado = castle
+#b_pie_town = city
+#b_datil = temple
+#b_omega = castle
+#b_old_horse_springs = city
+#b_obaro = temple
+#b_luera = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_san_luis_obispo
+
+# County Title
+title = c_san_luis_obispo
+
+# Settlements
+max_settlements = 6
+
+b_san_luis_obispo = castle
+b_avila_beach = city
+b_arroyo_grande = temple
+b_oceano = castle
+b_nipomo = city
+#b_edna = temple
+#b_huasna = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,26 @@
+#SACRAMENTO
+technology = {
+	titles = {
+		d_butte_slopes
+		d_colusa
+		d_consumnes
+		d_dorado_slopes
+		d_folsom_heights
+		d_glenn
+		d_oroville
+		d_sacramento
+		d_sutter_valley
+		d_tehama
+		d_yolo
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

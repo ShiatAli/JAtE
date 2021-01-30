@@ -1,0 +1,21 @@
+# c_liguei
+
+# County Title
+title = c_liguei
+
+# Settlements
+max_settlements = 4
+
+b_liguei = castle
+b_ensenada_blanca = city
+b_isla_danzante = temple
+#b_juncalito = castle
+#b_tripui = city
+#b_palmar = temple
+#b_isla_pardo = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = grassland
+#History

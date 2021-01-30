@@ -1,0 +1,21 @@
+# c_lakehead_lakeshore
+
+# County Title
+title = c_lakehead_lakeshore
+
+# Settlements
+max_settlements = 3
+
+b_lakehead_lakeshore = castle
+#b_pollard_flat = city
+#b_delta_2 = temple
+#b_lamoine = castle
+#b_gibson = city
+#b_fisher = temple
+#b_sims = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

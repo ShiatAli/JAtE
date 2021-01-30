@@ -1,0 +1,21 @@
+# c_scotts_valley
+
+# County Title
+title = c_scotts_valley
+
+# Settlements
+max_settlements = 4
+
+b_scotts_valley = castle
+b_davenport = city
+b_felton = temple
+#b_ben_lomond = castle
+#b_brookdale = city
+#b_bonny_don = temple
+#b_camp_evers = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

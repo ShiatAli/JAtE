@@ -1,0 +1,4 @@
+# e_sonora
+1990.1.1={
+	liege=k_altar
+}

@@ -1,0 +1,21 @@
+# c_pleasant_grove
+
+# County Title
+title = c_pleasant_grove
+
+# Settlements
+max_settlements = 4
+
+b_pleasant_grove = castle
+b_counsman = city
+#b_nicolaus = temple
+#b_rio_oso = castle
+#b_east_nicolaus = city
+#b_joes_landing = temple
+#b_river_oaks_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

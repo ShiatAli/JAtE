@@ -1,0 +1,21 @@
+# c_five_points
+
+# County Title
+title = c_five_points
+
+# Settlements
+max_settlements = 2
+
+b_five_points = castle
+#b_westside = city
+#b_huron = temple
+#b_vanguard = castle
+#b_westhaven = city
+#b_lemorre = temple
+#b_burrel = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

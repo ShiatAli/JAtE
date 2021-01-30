@@ -1,0 +1,36 @@
+#IDAHO
+technology = {
+	titles = {
+		d_baker
+		d_bannock
+		d_beaverhead
+		d_bingham
+		d_boise_canyon
+		d_cassia
+		d_custer
+		d_deschutes
+		d_duck_valley
+		d_elmore
+		d_gem
+		d_harney
+		d_idaho_falls
+		d_lemhi
+		d_magic_valley
+		d_malheur
+		d_nez_perce
+		d_ochoco
+		d_salmon_river
+		d_wallowa
+		d_white_cloud
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

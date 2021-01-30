@@ -1,0 +1,21 @@
+# c_covelo
+
+# County Title
+title = c_covelo
+
+# Settlements
+max_settlements = 2
+
+b_covelo = castle
+#b_marks_place = city
+#b_mcclure_place = temple
+#b_four_pines = castle
+#b_oneil_place = city
+#b_hays_place = temple
+#b_black_butte_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

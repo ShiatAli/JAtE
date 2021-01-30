@@ -1,0 +1,21 @@
+# c_mathews
+
+# County Title
+title = c_mathews
+
+# Settlements
+max_settlements = 3
+
+b_lake_mathews = castle
+b_arcilla = city
+#b_temescal = temple
+#b_alberhill = castle
+#b_el_cerrito_2 = city
+#b_mead_valley = temple
+#b_campbell_ranch = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

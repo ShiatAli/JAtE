@@ -1,0 +1,21 @@
+# c_palo_verde
+
+# County Title
+title = c_palo_verde
+
+# Settlements
+max_settlements = 2
+
+b_palo_verde = castle
+#b_ripley = city
+#b_paymaster_landing = temple
+#b_coon_hollow = castle
+#b_ironwood = city
+#b_chuckwalla = temple
+#b_raumington = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

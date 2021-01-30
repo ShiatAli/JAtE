@@ -1,0 +1,21 @@
+# c_beaver
+
+# County Title
+title = c_beaver
+
+# Settlements
+max_settlements = 3
+
+b_beaver_2 = castle
+#b_milford = city
+#b_minersville = temple
+#b_adamsville = castle
+#b_greenville_2 = city
+#b_manderville = temple
+#b_sulphurdale = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

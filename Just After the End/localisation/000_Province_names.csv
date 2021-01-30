@@ -1,1 +1,1038 @@
-PROV1;San Diego;San Diego;San Diego;;;;;;;;;x
+PROV1;San Francisco;San Francisco;San Francisco;;;;;;;;;x
+PROV2;San Mateo;San Mateo;San Mateo;;;;;;;;;x
+PROV3;Redwood City;Redwood City;Redwood City;;;;;;;;;x
+PROV4;Half Moon Bay;Half Moon Bay;Half Moon Bay;;;;;;;;;x
+PROV5;San Rafael;San Rafael;San Rafael;;;;;;;;;x
+PROV6;Novato;Novato;Novato;;;;;;;;;x
+PROV7;Point Reyes;Point Reyes;Point Reyes;;;;;;;;;x
+PROV8;Santa Rosa;Santa Rosa;Santa Rosa;;;;;;;;;x
+PROV9;Petaluma;Petaluma;Petaluma;;;;;;;;;x
+PROV10;Bodega Bay;Bodega Bay;Bodega Bay;;;;;;;;;x
+PROV11;Windsor;Windsor;Windsor;;;;;;;;;x
+PROV12;Napa;Napa;Napa;;;;;;;;;x
+PROV13;St. Helena;St. Helena;St. Helena;;;;;;;;;x
+PROV14;Spanish Flat;Spanish Flat;Spanish Flat;;;;;;;;;x
+PROV15;Vallejo;Vallejo;Vallejo;;;;;;;;;x
+PROV16;Vacaville;Vacaville;Vacaville;;;;;;;;;x
+PROV17;Rio Vista;Rio Vista;Rio Vista;;;;;;;;;x
+PROV18;Richmond;Richmond;Richmond;;;;;;;;;x
+PROV19;Concord;Concord;Concord;;;;;;;;;x
+PROV20;Walnut Creek;Walnut Creek;Walnut Creek;;;;;;;;;x
+PROV21;Antioch;Antioch;Antioch;;;;;;;;;x
+PROV22;Berkeley;Berkeley;Berkeley;;;;;;;;;x
+PROV23;Oakland;Oakland;Oakland;;;;;;;;;x
+PROV24;Fremont;Fremont;Fremont;;;;;;;;;x
+PROV25;Pleasanton;Pleasanton;Pleasanton;;;;;;;;;x
+PROV26;San Jose;San Jose;San Jose;;;;;;;;;x
+PROV27;Mountain View;Mountain View;Mountain View;;;;;;;;;x
+PROV28;Santa Clara;Santa Clara;Santa Clara;;;;;;;;;x
+PROV29;Gilroy;Gilroy;Gilroy;;;;;;;;;x
+PROV30;San Felipe;San Felipe;San Felipe;;;;;;;;;x
+PROV31;Los Gatos;Los Gatos;Los Gatos;;;;;;;;;x
+PROV32;Coe Ranch;Coe Ranch;Coe Ranch;;;;;;;;;x
+PROV33;Ohlone;Ohlone;Ohlone;;;;;;;;;x
+PROV34;Wilson;Wilson;Wilson;;;;;;;;;x
+PROV35;South Lake;South Lake;South Lake;;;;;;;;;x
+PROV36;North Lake;North Lake;North Lake;;;;;;;;;x
+PROV37;Kelseyville;Kelseyville;Kelseyville;;;;;;;;;x
+PROV38;Santa Cruz;Santa Cruz;Santa Cruz;;;;;;;;;x
+PROV39;Watsonville;Watsonville;Watsonville;;;;;;;;;x
+PROV40;Scotts Valley;Scotts Valley;Scotts Valley;;;;;;;;;x
+PROV41;Hollister;Hollister;Hollister;;;;;;;;;x
+PROV42;San Benito;San Benito;San Benito;;;;;;;;;x
+PROV43;Idria;Idria;Idria;;;;;;;;;x
+PROV44;Salinas;Salinas;Salinas;;;;;;;;;x
+PROV45;Monterey;Monterey;Monterey;;;;;;;;;x
+PROV46;Carmel-By-The-Sea;Carmel-By-The-Sea;Carmel-By-The-Sea;;;;;;;;;x
+PROV47;Big Sur;Big Sur;Big Sur;;;;;;;;;x
+PROV48;Slates Hot Spring;Slates Hot Spring;Slates Hot Spring;;;;;;;;;x
+PROV49;Gorda;Gorda;Gorda;;;;;;;;;x
+PROV50;King City;King City;King City;;;;;;;;;x
+PROV51;Soledad;Soledad;Soledad;;;;;;;;;x
+PROV52;Gonzales;Gonzales;Gonzales;;;;;;;;;x
+PROV53;Wunpost;Wunpost;Wunpost;;;;;;;;;x
+PROV54;Hidden Valley;Hidden Valley;Hidden Valley;;;;;;;;;x
+PROV55;Lockwood;Lockwood;Lockwood;;;;;;;;;x
+PROV56;San Luis Obispo;San Luis Obispo;San Luis Obispo;;;;;;;;;x
+PROV57;Atascadero;Atascadero;Atascadero;;;;;;;;;x
+PROV58;San Simeon;San Simeon;San Simeon;;;;;;;;;x
+PROV59;Pozo;Pozo;Pozo;;;;;;;;;x
+PROV60;Topaz;Topaz;Topaz;;;;;;;;;x
+PROV61;Sacramento;Sacramento;Sacramento;;;;;;;;;x
+PROV62;Rancho Cordova;Rancho Cordova;Rancho Cordova;;;;;;;;;x
+PROV63;Elk Grove;Elk Grove;Elk Grove;;;;;;;;;x
+PROV64;Folsom;Folsom;Folsom;;;;;;;;;x
+PROV65;Arden-Arcade;Arden-Arcade;Arden-Arcade;;;;;;;;;x
+PROV66;Rio Linda;Rio Linda;Rio Linda;;;;;;;;;x
+PROV67;Walnut Grove;Walnut Grove;Walnut Grove;;;;;;;;;x
+PROV68;Herald;Herald;Herald;;;;;;;;;x
+PROV69;Rancho Murieta;Rancho Murieta;Rancho Murieta;;;;;;;;;x
+PROV70;Placerville;Placerville;Placerville;;;;;;;;;x
+PROV71;Roseville;Roseville;Roseville;;;;;;;;;x
+PROV72;Nevada City;Nevada City;Nevada City;;;;;;;;;x
+PROV73;Oroville;Oroville;Oroville;;;;;;;;;x
+PROV74;Oliverhurst;Oliverhurst;Oliverhurst;;;;;;;;;x
+PROV75;Pleasant Grove;Pleasant Grove;Pleasant Grove;;;;;;;;;x
+PROV76;Taylorville;Taylorville;Taylorville;;;;;;;;;x
+PROV77;Chester;Chester;Chester;;;;;;;;;x
+PROV78;Portola;Portola;Portola;;;;;;;;;x
+PROV79;Olympic Valley;Olympic Valley;Olympic Valley;;;;;;;;;x
+PROV80;Monument;Monument;Monument;;;;;;;;;x
+PROV81;Lincoln;Lincoln;Lincoln;;;;;;;;;x
+PROV82;Yuba;Yuba;Yuba;;;;;;;;;x
+PROV83;Robbins;Robbins;Robbins;;;;;;;;;x
+PROV84;Butte;Butte;Butte;;;;;;;;;x
+PROV85;Chico;Chico;Chico;;;;;;;;;x
+PROV86;Los Molinos;Los Molinos;Los Molinos;;;;;;;;;x
+PROV87;Dairyville;Dairyville;Dairyville;;;;;;;;;x
+PROV88;Davis;Davis;Davis;;;;;;;;;x
+PROV89;Cottonwood;Cottonwood;Cottonwood;;;;;;;;;x
+PROV90;Rumsey;Rumsey;Rumsey;;;;;;;;;x
+PROV91;Colusa;Colusa;Colusa;;;;;;;;;x
+PROV92;Arbuckle;Arbuckle;Arbuckle;;;;;;;;;x
+PROV93;Willow;Willow;Willow;;;;;;;;;x
+PROV94;Artois;Artois;Artois;;;;;;;;;x
+PROV95;Hamilton City;Hamilton City;Hamilton City;;;;;;;;;x
+PROV96;Elk Creek;Elk Creek;Elk Creek;;;;;;;;;x
+PROV97;Red Bluff;Red Bluff;Red Bluff;;;;;;;;;x
+PROV98;Corning;Corning;Corning;;;;;;;;;x
+PROV99;Rosewood;Rosewood;Rosewood;;;;;;;;;x
+PROV100;Stockton;Stockton;Stockton;;;;;;;;;x
+PROV101;Lodi;Lodi;Lodi;;;;;;;;;x
+PROV102;Amador;Amador;Amador;;;;;;;;;x
+PROV103;Modesto;Modesto;Modesto;;;;;;;;;x
+PROV104;Le Grange;Le Grange;Le Grange;;;;;;;;;x
+PROV105;San Andreas;San Andreas;San Andreas;;;;;;;;;x
+PROV106;Merced;Merced;Merced;;;;;;;;;x
+PROV107;Mariposa;Mariposa;Mariposa;;;;;;;;;x
+PROV108;Toulumnes;Toulumnes;Toulumnes;;;;;;;;;x
+PROV109;Madera;Madera;Madera;;;;;;;;;x
+PROV110;Yosemite Lakes;Yosemite Lakes;Yosemite Lakes;;;;;;;;;x
+PROV111;Chowchilla;Chowchilla;Chowchilla;;;;;;;;;x
+PROV112;Bakersfield;Bakersfield;Bakersfield;;;;;;;;;x
+PROV113;Bear Valley;Bear Valley;Bear Valley;;;;;;;;;x
+PROV114;Mojave;Mojave;Mojave;;;;;;;;;x
+PROV115;Tupman;Tupman;Tupman;;;;;;;;;x
+PROV116;Mettler;Mettler;Mettler;;;;;;;;;x
+PROV117;Visalia;Visalia;Visalia;;;;;;;;;x
+PROV118;Kings Canyon;Kings Canyon;Kings Canyon;;;;;;;;;x
+PROV119;Terra Bella;Terra Bella;Terra Bella;;;;;;;;;x
+PROV120;Halfway House;Halfway House;Halfway House;;;;;;;;;x
+PROV121;Isabella;Isabella;Isabella;;;;;;;;;x
+PROV122;Taft;Taft;Taft;;;;;;;;;x
+PROV123;McKittrick;McKittrick;McKittrick;;;;;;;;;x
+PROV124;Annette;Annette;Annette;;;;;;;;;x
+PROV125;Buttonwillow;Buttonwillow;Buttonwillow;;;;;;;;;x
+PROV126;Lost Hills;Lost Hills;Lost Hills;;;;;;;;;x
+PROV127;Alpaugh;Alpaugh;Alpaugh;;;;;;;;;x
+PROV128;Hanford;Hanford;Hanford;;;;;;;;;x
+PROV129;Shafter;Shafter;Shafter;;;;;;;;;x
+PROV130;Fresno;Fresno;Fresno;;;;;;;;;x
+PROV131;Millerton;Millerton;Millerton;;;;;;;;;x
+PROV132;Kerman;Kerman;Kerman;;;;;;;;;x
+PROV133;Helm;Helm;Helm;;;;;;;;;x
+PROV134;Selma;Selma;Selma;;;;;;;;;x
+PROV135;Centerville;Centerville;Centerville;;;;;;;;;x
+PROV136;Tracy;Tracy;Tracy;;;;;;;;;x
+PROV137;Diablo Grande;Diablo Grande;Diablo Grande;;;;;;;;;x
+PROV138;Cottonwood;Cottonwood;Cottonwood;;;;;;;;;x
+PROV139;Newman;Newman;Newman;;;;;;;;;x
+PROV140;Mendota;Mendota;Mendota;;;;;;;;;x
+PROV141;Los Banos;Los Banos;Los Banos;;;;;;;;;x
+PROV142;Wood Ranch;Wood Ranch;Wood Ranch;;;;;;;;;x
+PROV143;Cantua;Cantua;Cantua;;;;;;;;;x
+PROV144;Riverdale;Riverdale;Riverdale;;;;;;;;;x
+PROV145;Kettleman;Kettleman;Kettleman;;;;;;;;;x
+PROV146;Coalinga;Coalinga;Coalinga;;;;;;;;;x
+PROV147;Five Points;Five Points;Five Points;;;;;;;;;x
+PROV148;Balboa;Balboa;Balboa;;;;;;;;;x
+PROV149;Coronado;Coronado;Coronado;;;;;;;;;x
+PROV150;Otay Lakes;Otay Lakes;Otay Lakes;;;;;;;;;x
+PROV151;Torrey;Torrey;Torrey;;;;;;;;;x
+PROV152;El Cajon;El Cajon;El Cajon;;;;;;;;;x
+PROV153;Palomar;Palomar;Palomar;;;;;;;;;x
+PROV154;Poway;Poway;Poway;;;;;;;;;x
+PROV155;Pendleton;Pendleton;Pendleton;;;;;;;;;x
+PROV156;San Clemente;San Clemente;San Clemente;;;;;;;;;x
+PROV157;Irvine;Irvine;Irvine;;;;;;;;;x
+PROV158;Huntington;Huntington;Huntington;;;;;;;;;x
+PROV159;Anaheim;Anaheim;Anaheim;;;;;;;;;x
+PROV160;Fullerton;Fullerton;Fullerton;;;;;;;;;x
+PROV161;The Times;The Times;The Times;;;;;;;;;x
+PROV162;Chino;Chino;Chino;;;;;;;;;x
+PROV163;Riverside;Riverside;Riverside;;;;;;;;;x
+PROV164;Mathews;Mathews;Mathews;;;;;;;;;x
+PROV165;San Bernardino;San Bernardino;San Bernardino;;;;;;;;;x
+PROV166;Moreno;Moreno;Moreno;;;;;;;;;x
+PROV167;Temecula;Temecula;Temecula;;;;;;;;;x
+PROV168;Diamond Valley;Diamond Valley;Diamond Valley;;;;;;;;;x
+PROV169;Morongo;Morongo;Morongo;;;;;;;;;x
+PROV170;Pauma;Pauma;Pauma;;;;;;;;;x
+PROV171;Ramona;Ramona;Ramona;;;;;;;;;x
+PROV172;Salton;Salton;Salton;;;;;;;;;x
+PROV173;Palm Desert;Palm Desert;Palm Desert;;;;;;;;;x
+PROV174;El Centro;El Centro;El Centro;;;;;;;;;x
+PROV175;Los Angeles;Los Angeles;Los Angeles;;;;;;;;;x
+PROV176;Long Beach;Long Beach;Long Beach;;;;;;;;;x
+PROV177;Compton;Compton;Compton;;;;;;;;;x
+PROV178;Torrance;Torrance;Torrance;;;;;;;;;x
+PROV179;Hollywood;Hollywood;Hollywood;;;;;;;;;x
+PROV180;Glendale;Glendale;Glendale;;;;;;;;;x
+PROV181;Pasadena;Pasadena;Pasadena;;;;;;;;;x
+PROV182;Thousand Oaks;Thousand Oaks;Thousand Oaks;;;;;;;;;x
+PROV183;Oxnard;Oxnard;Oxnard;;;;;;;;;x
+PROV184;Simi;Simi;Simi;;;;;;;;;x
+PROV185;Ventura;Ventura;Ventura;;;;;;;;;x
+PROV186;Santa Barbara;Santa Barbara;Santa Barbara;;;;;;;;;x
+PROV187;Las Crusces;Las Crusces;Las Crusces;;;;;;;;;x
+PROV188;Lompoc;Lompoc;Lompoc;;;;;;;;;x
+PROV189;Obispo;Obispo;Obispo;;;;;;;;;x
+PROV190;The Padres;The Padres;The Padres;;;;;;;;;x
+PROV191;Wheeler;Wheeler;Wheeler;;;;;;;;;x
+PROV192;Alamo;Alamo;Alamo;;;;;;;;;x
+PROV193;Tejon Pass;Tejon Pass;Tejon Pass;;;;;;;;;x
+PROV194;Las Vegas;Las Vegas;Las Vegas;;;;;;;;;x
+PROV195;Fire Valley;Fire Valley;Fire Valley;;;;;;;;;x
+PROV196;Ash Springs;Ash Springs;Ash Springs;;;;;;;;;x
+PROV197;Pahrump;Pahrump;Pahrump;;;;;;;;;x
+PROV198;Imperial;Imperial;Imperial;;;;;;;;;x
+PROV199;Picacho;Picacho;Picacho;;;;;;;;;x
+PROV200;Slab City;Slab City;Slab City;;;;;;;;;x
+PROV201;Palo Verde;Palo Verde;Palo Verde;;;;;;;;;x
+PROV202;North Shore;North Shore;North Shore;;;;;;;;;x
+PROV203;Desert Center;Desert Center;Desert Center;;;;;;;;;x
+PROV204;Old Dale;Old Dale;Old Dale;;;;;;;;;x
+PROV205;Bagdad;Bagdad;Bagdad;;;;;;;;;x
+PROV206;Searchlight;Searchlight;Searchlight;;;;;;;;;x
+PROV207;Goodsprings;Goodsprings;Goodsprings;;;;;;;;;x
+PROV208;Boulder City;Boulder City;Boulder City;;;;;;;;;x
+PROV209;Halloran;Halloran;Halloran;;;;;;;;;x
+PROV210;Vidal;Vidal;Vidal;;;;;;;;;x
+PROV211;Blythe;Blythe;Blythe;;;;;;;;;x
+PROV212;Needles;Needles;Needles;;;;;;;;;x
+PROV213;Barstow;Barstow;Barstow;;;;;;;;;x
+PROV214;Afton;Afton;Afton;;;;;;;;;x
+PROV215;Siberia;Siberia;Siberia;;;;;;;;;x
+PROV216;Johnson Valley;Johnson Valley;Johnson Valley;;;;;;;;;x
+PROV217;Paz;Paz;Paz;;;;;;;;;x
+PROV218;El Quelele;El Quelele;El Quelele;;;;;;;;;x
+PROV219;San Juan de Los Planes;San Juan de Los Planes;San Juan de Los Planes;;;;;;;;;x
+PROV220;Todos Santos;Todos Santos;Todos Santos;;;;;;;;;x
+PROV221;San Pedro;San Pedro;San Pedro;;;;;;;;;x
+PROV222;Cabo Pulmo;Cabo Pulmo;Cabo Pulmo;;;;;;;;;x
+PROV223;San Jose del Cabo;San Jose del Cabo;San Jose del Cabo;;;;;;;;;x
+PROV224;Cabo San Lucas;Cabo San Lucas;Cabo San Lucas;;;;;;;;;x
+PROV225;Carrizalito;Carrizalito;Carrizalito;;;;;;;;;x
+PROV226;Cresciente;Cresciente;Cresciente;;;;;;;;;x
+PROV227;Hiray;Hiray;Hiray;;;;;;;;;x
+PROV228;Banderitas;Banderitas;Banderitas;;;;;;;;;x
+PROV229;Constitución;Constitución;Constitución;;;;;;;;;x
+PROV230;Matancita;Matancita;Matancita;;;;;;;;;x
+PROV231;San Evaristo;San Evaristo;San Evaristo;;;;;;;;;x
+PROV232;Timbabichi;Timbabichi;Timbabichi;;;;;;;;;x
+PROV233;Huatamote;Huatamote;Huatamote;;;;;;;;;x
+PROV234;Ligüí;Ligüí;Ligüí;;;;;;;;;x
+PROV235;Loreto;Loreto;Loreto;;;;;;;;;x
+PROV236;La Poza Grande;La Poza Grande;La Poza Grande;;;;;;;;;x
+PROV237;Heroica Mulegé;Heroica Mulegé;Heroica Mulegé;;;;;;;;;x
+PROV238;La Yaqui;La Yaqui;La Yaqui;;;;;;;;;x
+PROV239;Bahía Tortugas;Bahía Tortugas;Bahía Tortugas;;;;;;;;;x
+PROV240;Guerrero Negro;Guerrero Negro;Guerrero Negro;;;;;;;;;x
+PROV241;El Marasal;El Marasal;El Marasal;;;;;;;;;x
+PROV242;Santa Rosalía;Santa Rosalía;Santa Rosalía;;;;;;;;;x
+PROV243;Punta Abreojos;Punta Abreojos;Punta Abreojos;;;;;;;;;x
+PROV244;Tijuana;Tijuana;Tijuana;;;;;;;;;x
+PROV245;Tecate;Tecate;Tecate;;;;;;;;;x
+PROV246;Guadalupe;Guadalupe;Guadalupe;;;;;;;;;x
+PROV247;La Rumorosa;La Rumorosa;La Rumorosa;;;;;;;;;x
+PROV248;Mexicali;Mexicali;Mexicali;;;;;;;;;x
+PROV249;Progreso;Progreso;Progreso;;;;;;;;;x
+PROV250;Morelos;Morelos;Morelos;;;;;;;;;x
+PROV251;Delta;Delta;Delta;;;;;;;;;x
+PROV252;El Indiviso;El Indiviso;El Indiviso;;;;;;;;;x
+PROV253;Condensadora;Condensadora;Condensadora;;;;;;;;;x
+PROV254;Lázaro Cárdenas;Lázaro Cárdenas;Lázaro Cárdenas;;;;;;;;;x
+PROV255;San Felipe;San Felipe;San Felipe;;;;;;;;;x
+PROV256;Puertecitos;Puertecitos;Puertecitos;;;;;;;;;x
+PROV257;El Rosario;El Rosario;El Rosario;;;;;;;;;x
+PROV258;Rancho los Pinos;Rancho los Pinos;Rancho los Pinos;;;;;;;;;x
+PROV259;Ensenada;Ensenada;Ensenada;;;;;;;;;x
+PROV260;San Salvador;San Salvador;San Salvador;;;;;;;;;x
+PROV261;Santo Tomás;Santo Tomás;Santo Tomás;;;;;;;;;x
+PROV262;Camalú;Camalú;Camalú;;;;;;;;;x
+PROV263;Rosarito;Rosarito;Rosarito;;;;;;;;;x
+PROV264;Bahía de los Ángeles;Bahía de los Ángeles;Bahía de los Ángeles;;;;;;;;;x
+PROV265;Punta Final;Punta Final;Punta Final;;;;;;;;;x
+PROV266;Redding;Redding;Redding;;;;;;;;;x
+PROV267;Round Mountain;Round Mountain;Round Mountain;;;;;;;;;x
+PROV268;Platina;Platina;Platina;;;;;;;;;x
+PROV269;Burney;Burney;Burney;;;;;;;;;x
+PROV270;Weaverville;Weaverville;Weaverville;;;;;;;;;x
+PROV271;Hayfork;Hayfork;Hayfork;;;;;;;;;x
+PROV272;Ridgeville;Ridgeville;Ridgeville;;;;;;;;;x
+PROV273;Mt. Shasta;Mt. Shasta;Mt. Shasta;;;;;;;;;x
+PROV274;Pondosa;Pondosa;Pondosa;;;;;;;;;x
+PROV275;Lakehead-Lakeshore;Lakehead-Lakeshore;Lakehead-Lakeshore;;;;;;;;;x
+PROV276;Ukiah;Ukiah;Ukiah;;;;;;;;;x
+PROV277;Hopland;Hopland;Hopland;;;;;;;;;x
+PROV278;Boonville;Boonville;Boonville;;;;;;;;;x
+PROV279;Willits;Willits;Willits;;;;;;;;;x
+PROV280;Mendocino;Mendocino;Mendocino;;;;;;;;;x
+PROV281;Fort Bragg;Fort Bragg;Fort Bragg;;;;;;;;;x
+PROV282;Point Arena;Point Arena;Point Arena;;;;;;;;;x
+PROV283;Rockport;Rockport;Rockport;;;;;;;;;x
+PROV284;Laytonville;Laytonville;Laytonville;;;;;;;;;x
+PROV285;Leggett;Leggett;Leggett;;;;;;;;;x
+PROV286;Dos Rios;Dos Rios;Dos Rios;;;;;;;;;x
+PROV287;Covelo;Covelo;Covelo;;;;;;;;;x
+PROV288;Eureka;Eureka;Eureka;;;;;;;;;x
+PROV289;Willow Creek;Willow Creek;Willow Creek;;;;;;;;;x
+PROV290;Trinidad;Trinidad;Trinidad;;;;;;;;;x
+PROV291;Del Norte;Del Norte;Del Norte;;;;;;;;;x
+PROV292;Fortuna;Fortuna;Fortuna;;;;;;;;;x
+PROV293;Garberville;Garberville;Garberville;;;;;;;;;x
+PROV294;Dinsmore;Dinsmore;Dinsmore;;;;;;;;;x
+PROV295;Yreka;Yreka;Yreka;;;;;;;;;x
+PROV296;Fort Jones;Fort Jones;Fort Jones;;;;;;;;;x
+PROV297;Mt. Hebron;Mt. Hebron;Mt. Hebron;;;;;;;;;x
+PROV298;Hornbrook;Hornbrook;Hornbrook;;;;;;;;;x
+PROV299;Fort Goff;Fort Goff;Fort Goff;;;;;;;;;x
+PROV300;Cottage Grove;Cottage Grove;Cottage Grove;;;;;;;;;x
+PROV301;Alturas;Alturas;Alturas;;;;;;;;;x
+PROV302;Canby;Canby;Canby;;;;;;;;;x
+PROV303;Mammoth;Mammoth;Mammoth;;;;;;;;;x
+PROV304;Susanville;Susanville;Susanville;;;;;;;;;x
+PROV305;Termo;Termo;Termo;;;;;;;;;x
+PROV306;Little Valley;Little Valley;Little Valley;;;;;;;;;x
+PROV307;Klamath Falls;Klamath Falls;Klamath Falls;;;;;;;;;x
+PROV308;Bonaza;Bonaza;Bonaza;;;;;;;;;x
+PROV309;Chiloquin;Chiloquin;Chiloquin;;;;;;;;;x
+PROV310;Chemult;Chemult;Chemult;;;;;;;;;x
+PROV311;Jackson;Jackson;Jackson;;;;;;;;;x
+PROV312;Josephine;Josephine;Josephine;;;;;;;;;x
+PROV313;Eagle Valley;Eagle Valley;Eagle Valley;;;;;;;;;x
+PROV314;Lakeview;Lakeview;Lakeview;;;;;;;;;x
+PROV315;Wagonfire;Wagonfire;Wagonfire;;;;;;;;;x
+PROV316;Christmas Valley;Christmas Valley;Christmas Valley;;;;;;;;;x
+PROV317;Portland;Portland;Portland;;;;;;;;;x
+PROV318;Gersham;Gersham;Gersham;;;;;;;;;x
+PROV319;Forest Park;Forest Park;Forest Park;;;;;;;;;x
+PROV320;Multnomah;Multnomah;Multnomah;;;;;;;;;x
+PROV321;Mt. Hood;Mt. Hood;Mt. Hood;;;;;;;;;x
+PROV322;Marmot;Marmot;Marmot;;;;;;;;;x
+PROV323;Sandy;Sandy;Sandy;;;;;;;;;x
+PROV324;Oregon City;Oregon City;Oregon City;;;;;;;;;x
+PROV325;Clackamas;Clackamas;Clackamas;;;;;;;;;x
+PROV326;Wilsonville;Wilsonville;Wilsonville;;;;;;;;;x
+PROV327;Hillsboro;Hillsboro;Hillsboro;;;;;;;;;x
+PROV328;Beaverton;Beaverton;Beaverton;;;;;;;;;x
+PROV329;Forest Grove;Forest Grove;Forest Grove;;;;;;;;;x
+PROV330;Wilkesboro;Wilkesboro;Wilkesboro;;;;;;;;;x
+PROV331;St.Helens;St.Helens;St.Helens;;;;;;;;;x
+PROV332;Pittsburg;Pittsburg;Pittsburg;;;;;;;;;x
+PROV333;Clatskanie;Clatskanie;Clatskanie;;;;;;;;;x
+PROV334;Astoria;Astoria;Astoria;;;;;;;;;x
+PROV335;Jewell;Jewell;Jewell;;;;;;;;;x
+PROV336;Warrenton;Warrenton;Warrenton;;;;;;;;;x
+PROV337;Tillamook;Tillamook;Tillamook;;;;;;;;;x
+PROV338;Pacific City;Pacific City;Pacific City;;;;;;;;;x
+PROV339;Manzanita;Manzanita;Manzanita;;;;;;;;;x
+PROV340;Salem;Salem;Salem;;;;;;;;;x
+PROV341;Yamhill;Yamhill;Yamhill;;;;;;;;;x
+PROV342;Polks;Polks;Polks;;;;;;;;;x
+PROV343;Woodburn;Woodburn;Woodburn;;;;;;;;;x
+PROV344;Albany;Albany;Albany;;;;;;;;;x
+PROV345;Cascadia;Cascadia;Cascadia;;;;;;;;;x
+PROV346;Benton;Benton;Benton;;;;;;;;;x
+PROV347;Eugene;Eugene;Eugene;;;;;;;;;x
+PROV348;Newport;Newport;Newport;;;;;;;;;x
+PROV349;Lincoln City;Lincoln City;Lincoln City;;;;;;;;;x
+PROV350;Eddyville;Eddyville;Eddyville;;;;;;;;;x
+PROV351;Florence;Florence;Florence;;;;;;;;;x
+PROV352;Gardiner;Gardiner;Gardiner;;;;;;;;;x
+PROV353;Mapleton;Mapleton;Mapleton;;;;;;;;;x
+PROV354;Springfield;Springfield;Springfield;;;;;;;;;x
+PROV355;Hadleyville;Hadleyville;Hadleyville;;;;;;;;;x
+PROV356;Saginaw;Saginaw;Saginaw;;;;;;;;;x
+PROV357;Roseburg;Roseburg;Roseburg;;;;;;;;;x
+PROV358;Glide;Glide;Glide;;;;;;;;;x
+PROV359;Yoncalla;Yoncalla;Yoncalla;;;;;;;;;x
+PROV360;Elkton;Elkton;Elkton;;;;;;;;;x
+PROV361;Tri-City;Tri-City;Tri-City;;;;;;;;;x
+PROV362;Winston;Winston;Winston;;;;;;;;;x
+PROV363;Gaylord;Gaylord;Gaylord;;;;;;;;;x
+PROV364;Coos Bay;Coos Bay;Coos Bay;;;;;;;;;x
+PROV365;Port Orford;Port Orford;Port Orford;;;;;;;;;x
+PROV366;Nesika Beach;Nesika Beach;Nesika Beach;;;;;;;;;x
+PROV367;Seattle;Seattle;Seattle;;;;;;;;;x
+PROV368;Bellevue;Bellevue;Bellevue;;;;;;;;;x
+PROV369;Renton;Renton;Renton;;;;;;;;;x
+PROV370;Federal Way;Federal Way;Federal Way;;;;;;;;;x
+PROV371;Sammamish;Sammamish;Sammamish;;;;;;;;;x
+PROV372;Carnation;Carnation;Carnation;;;;;;;;;x
+PROV373;North Bend;North Bend;North Bend;;;;;;;;;x
+PROV374;Everett;Everett;Everett;;;;;;;;;x
+PROV375;Lynnwood;Lynnwood;Lynnwood;;;;;;;;;x
+PROV376;Whidbey;Whidbey;Whidbey;;;;;;;;;x
+PROV377;Snohomish;Snohomish;Snohomish;;;;;;;;;x
+PROV378;Halford;Halford;Halford;;;;;;;;;x
+PROV379;Arlington;Arlington;Arlington;;;;;;;;;x
+PROV380;Mt.Vernon;Mt.Vernon;Mt.Vernon;;;;;;;;;x
+PROV381;North Smith;North Smith;North Smith;;;;;;;;;x
+PROV382;South Smith;South Smith;South Smith;;;;;;;;;x
+PROV383;Lyman;Lyman;Lyman;;;;;;;;;x
+PROV384;Rockport;Rockport;Rockport;;;;;;;;;x
+PROV385;Darrington;Darrington;Darrington;;;;;;;;;x
+PROV386;Bellingham;Bellingham;Bellingham;;;;;;;;;x
+PROV387;Deming;Deming;Deming;;;;;;;;;x
+PROV388;Lynden;Lynden;Lynden;;;;;;;;;x
+PROV389;San Juan;San Juan;San Juan;;;;;;;;;x
+PROV390;Lopez;Lopez;Lopez;;;;;;;;;x
+PROV391;Orca;Orca;Orca;;;;;;;;;x
+PROV392;Tacoma;Tacoma;Tacoma;;;;;;;;;x
+PROV393;Spanaway;Spanaway;Spanaway;;;;;;;;;x
+PROV394;Enumclaw;Enumclaw;Enumclaw;;;;;;;;;x
+PROV395;Columbia;Columbia;Columbia;;;;;;;;;x
+PROV396;Battle Ground;Battle Ground;Battle Ground;;;;;;;;;x
+PROV397;Skamania;Skamania;Skamania;;;;;;;;;x
+PROV398;Centralia;Centralia;Centralia;;;;;;;;;x
+PROV399;Cowitz;Cowitz;Cowitz;;;;;;;;;x
+PROV400;La Grande;La Grande;La Grande;;;;;;;;;x
+PROV401;Raymond;Raymond;Raymond;;;;;;;;;x
+PROV402;Ilwaco;Ilwaco;Ilwaco;;;;;;;;;x
+PROV403;Wahkiakum;Wahkiakum;Wahkiakum;;;;;;;;;x
+PROV404;Olympia;Olympia;Olympia;;;;;;;;;x
+PROV405;Thompson;Thompson;Thompson;;;;;;;;;x
+PROV406;Grand Mound;Grand Mound;Grand Mound;;;;;;;;;x
+PROV407;Aberdeen;Aberdeen;Aberdeen;;;;;;;;;x
+PROV408;Elma;Elma;Elma;;;;;;;;;x
+PROV409;Westport;Westport;Westport;;;;;;;;;x
+PROV410;Oceanshore;Oceanshore;Oceanshore;;;;;;;;;x
+PROV411;Quinault;Quinault;Quinault;;;;;;;;;x
+PROV412;La Push;La Push;La Push;;;;;;;;;x
+PROV413;Port Angeles;Port Angeles;Port Angeles;;;;;;;;;x
+PROV414;Neah Bay;Neah Bay;Neah Bay;;;;;;;;;x
+PROV415;Sequim;Sequim;Sequim;;;;;;;;;x
+PROV416;Shelton;Shelton;Shelton;;;;;;;;;x
+PROV417;Quilcene;Quilcene;Quilcene;;;;;;;;;x
+PROV418;Jefferson;Jefferson;Jefferson;;;;;;;;;x
+PROV419;Bremerton;Bremerton;Bremerton;;;;;;;;;x
+PROV420;Port Orchard;Port Orchard;Port Orchard;;;;;;;;;x
+PROV421;Poulsbo;Poulsbo;Poulsbo;;;;;;;;;x
+PROV422;Spokane;Spokane;Spokane;;;;;;;;;x
+PROV423;Spokane Valley;Spokane Valley;Spokane Valley;;;;;;;;;x
+PROV424;Deer Park;Deer Park;Deer Park;;;;;;;;;x
+PROV425;Steven;Steven;Steven;;;;;;;;;x
+PROV426;Fruitland;Fruitland;Fruitland;;;;;;;;;x
+PROV427;Newport;Newport;Newport;;;;;;;;;x
+PROV428;Republic;Republic;Republic;;;;;;;;;x
+PROV429;Marcus;Marcus;Marcus;;;;;;;;;x
+PROV430;Nespelem;Nespelem;Nespelem;;;;;;;;;x
+PROV431;Okanogan;Okanogan;Okanogan;;;;;;;;;x
+PROV432;Tonasket;Tonasket;Tonasket;;;;;;;;;x
+PROV433;Oroville;Oroville;Oroville;;;;;;;;;x
+PROV434;Wenatchee;Wenatchee;Wenatchee;;;;;;;;;x
+PROV435;Chelan;Chelan;Chelan;;;;;;;;;x
+PROV436;Winthrop;Winthrop;Winthrop;;;;;;;;;x
+PROV437;Coeur d'Alene;Coeur d'Alene;Coeur d'Alene;;;;;;;;;x
+PROV438;Ponderay;Ponderay;Ponderay;;;;;;;;;x
+PROV439;Boundary;Boundary;Boundary;;;;;;;;;x
+PROV440;Moscow;Moscow;Moscow;;;;;;;;;x
+PROV441;Benewah;Benewah;Benewah;;;;;;;;;x
+PROV442;Orofino;Orofino;Orofino;;;;;;;;;x
+PROV443;Shoshone;Shoshone;Shoshone;;;;;;;;;x
+PROV444;Sanders;Sanders;Sanders;;;;;;;;;x
+PROV445;Superior;Superior;Superior;;;;;;;;;x
+PROV446;Missoula;Missoula;Missoula;;;;;;;;;x
+PROV447;Ravalli;Ravalli;Ravalli;;;;;;;;;x
+PROV448;Sellway;Sellway;Sellway;;;;;;;;;x
+PROV449;Kalispell;Kalispell;Kalispell;;;;;;;;;x
+PROV450;Glacier;Glacier;Glacier;;;;;;;;;x
+PROV451;Polson;Polson;Polson;;;;;;;;;x
+PROV452;Lincoln;Lincoln;Lincoln;;;;;;;;;x
+PROV453;Franklin;Franklin;Franklin;;;;;;;;;x
+PROV454;Washtucna;Washtucna;Washtucna;;;;;;;;;x
+PROV455;Royal City;Royal City;Royal City;;;;;;;;;x
+PROV456;Quincy;Quincy;Quincy;;;;;;;;;x
+PROV457;Douglas;Douglas;Douglas;;;;;;;;;x
+PROV458;Bridgeport;Bridgeport;Bridgeport;;;;;;;;;x
+PROV459;Grand Coulee;Grand Coulee;Grand Coulee;;;;;;;;;x
+PROV460;Odessa;Odessa;Odessa;;;;;;;;;x
+PROV461;Davenport;Davenport;Davenport;;;;;;;;;x
+PROV462;Reardan;Reardan;Reardan;;;;;;;;;x
+PROV463;Towell;Towell;Towell;;;;;;;;;x
+PROV464;Pullman;Pullman;Pullman;;;;;;;;;x
+PROV465;Yakima;Yakima;Yakima;;;;;;;;;x
+PROV466;Ellenburg;Ellenburg;Ellenburg;;;;;;;;;x
+PROV467;Moxee;Moxee;Moxee;;;;;;;;;x
+PROV468;Goldendale;Goldendale;Goldendale;;;;;;;;;x
+PROV469;Toppenish;Toppenish;Toppenish;;;;;;;;;x
+PROV470;Sunnyside;Sunnyside;Sunnyside;;;;;;;;;x
+PROV471;Kennewick;Kennewick;Kennewick;;;;;;;;;x
+PROV472;Grandview;Grandview;Grandview;;;;;;;;;x
+PROV473;Walla Walla;Walla Walla;Walla Walla;;;;;;;;;x
+PROV474;Pomeroy;Pomeroy;Pomeroy;;;;;;;;;x
+PROV475;Burbank;Burbank;Burbank;;;;;;;;;x
+PROV476;Pendleton;Pendleton;Pendleton;;;;;;;;;x
+PROV477;Hermiston;Hermiston;Hermiston;;;;;;;;;x
+PROV478;Morrow;Morrow;Morrow;;;;;;;;;x
+PROV479;The Dalles;The Dalles;The Dalles;;;;;;;;;x
+PROV480;Warm Springs;Warm Springs;Warm Springs;;;;;;;;;x
+PROV481;Gillam;Gillam;Gillam;;;;;;;;;x
+PROV482;Vancouver;Vancouver;Vancouver;;;;;;;;;x
+PROV483;Richmond;Richmond;Richmond;;;;;;;;;x
+PROV484;Capilano;Capilano;Capilano;;;;;;;;;x
+PROV485;Surrey;Surrey;Surrey;;;;;;;;;x
+PROV486;Coquitlam;Coquitlam;Coquitlam;;;;;;;;;x
+PROV487;Abbotsford;Abbotsford;Abbotsford;;;;;;;;;x
+PROV488;Chilliwack;Chilliwack;Chilliwack;;;;;;;;;x
+PROV489;Hope;Hope;Hope;;;;;;;;;x
+PROV490;Pemberton;Pemberton;Pemberton;;;;;;;;;x
+PROV491;Squamish;Squamish;Squamish;;;;;;;;;x
+PROV492;Gibsons;Gibsons;Gibsons;;;;;;;;;x
+PROV493;Sechelt;Sechelt;Sechelt;;;;;;;;;x
+PROV494;Victoria;Victoria;Victoria;;;;;;;;;x
+PROV495;Sidney;Sidney;Sidney;;;;;;;;;x
+PROV496;Langford;Langford;Langford;;;;;;;;;x
+PROV497;Nanaimo;Nanaimo;Nanaimo;;;;;;;;;x
+PROV498;Duncan;Duncan;Duncan;;;;;;;;;x
+PROV499;Port Renfrew;Port Renfrew;Port Renfrew;;;;;;;;;x
+PROV500;Parksville;Parksville;Parksville;;;;;;;;;x
+PROV501;Port Alberni;Port Alberni;Port Alberni;;;;;;;;;x
+PROV502;Royston;Royston;Royston;;;;;;;;;x
+PROV503;Comox;Comox;Comox;;;;;;;;;x
+PROV504;Campbell River;Campbell River;Campbell River;;;;;;;;;x
+PROV505;Port Hardy;Port Hardy;Port Hardy;;;;;;;;;x
+PROV506;Port Alice;Port Alice;Port Alice;;;;;;;;;x
+PROV507;Port McNiell;Port McNiell;Port McNiell;;;;;;;;;x
+PROV508;Ucluelet;Ucluelet;Ucluelet;;;;;;;;;x
+PROV509;Tofino;Tofino;Tofino;;;;;;;;;x
+PROV510;Ahousat;Ahousat;Ahousat;;;;;;;;;x
+PROV511;Yuquot;Yuquot;Yuquot;;;;;;;;;x
+PROV512;Fair Harbour;Fair Harbour;Fair Harbour;;;;;;;;;x
+PROV513;Powell;Powell;Powell;;;;;;;;;x
+PROV514;Maderia Park;Maderia Park;Maderia Park;;;;;;;;;x
+PROV515;Lund;Lund;Lund;;;;;;;;;x
+PROV516;Blind Channel;Blind Channel;Blind Channel;;;;;;;;;x
+PROV517;Port Neville;Port Neville;Port Neville;;;;;;;;;x
+PROV518;Echo Bay;Echo Bay;Echo Bay;;;;;;;;;x
+PROV519;Hopetown;Hopetown;Hopetown;;;;;;;;;x
+PROV520;Allison Harbor;Allison Harbor;Allison Harbor;;;;;;;;;x
+PROV521;Kelowna;Kelowna;Kelowna;;;;;;;;;x
+PROV522;Keremeos;Keremeos;Keremeos;;;;;;;;;x
+PROV523;Penticton;Penticton;Penticton;;;;;;;;;x
+PROV524;Kamloops;Kamloops;Kamloops;;;;;;;;;x
+PROV525;Skeetchestn;Skeetchestn;Skeetchestn;;;;;;;;;x
+PROV526;Lillooet;Lillooet;Lillooet;;;;;;;;;x
+PROV527;Merritt;Merritt;Merritt;;;;;;;;;x
+PROV528;Princeton;Princeton;Princeton;;;;;;;;;x
+PROV529;Westwold;Westwold;Westwold;;;;;;;;;x
+PROV530;Vernon;Vernon;Vernon;;;;;;;;;x
+PROV531;Salmon Arm;Salmon Arm;Salmon Arm;;;;;;;;;x
+PROV532;Sorrento;Sorrento;Sorrento;;;;;;;;;x
+PROV533;Nelson;Nelson;Nelson;;;;;;;;;x
+PROV534;Kaslo;Kaslo;Kaslo;;;;;;;;;x
+PROV535;Crawford;Crawford;Crawford;;;;;;;;;x
+PROV536;Creston;Creston;Creston;;;;;;;;;x
+PROV537;Cranbrook;Cranbrook;Cranbrook;;;;;;;;;x
+PROV538;Ivermere;Ivermere;Ivermere;;;;;;;;;x
+PROV539;Elko;Elko;Elko;;;;;;;;;x
+PROV540;Castlegar;Castlegar;Castlegar;;;;;;;;;x
+PROV541;Rossland;Rossland;Rossland;;;;;;;;;x
+PROV542;Salmo;Salmo;Salmo;;;;;;;;;x
+PROV543;South Slocan;South Slocan;South Slocan;;;;;;;;;x
+PROV544;New Denver;New Denver;New Denver;;;;;;;;;x
+PROV545;Nakusp;Nakusp;Nakusp;;;;;;;;;x
+PROV546;Grand Forks;Grand Forks;Grand Forks;;;;;;;;;x
+PROV547;Rock Creek;Rock Creek;Rock Creek;;;;;;;;;x
+PROV548;Revelstoke;Revelstoke;Revelstoke;;;;;;;;;x
+PROV549;Shuswap Falls;Shuswap Falls;Shuswap Falls;;;;;;;;;x
+PROV550;Phoenix;Phoenix;Phoenix;;;;;;;;;x
+PROV551;Mesa;Mesa;Mesa;;;;;;;;;x
+PROV552;Harquahala;Harquahala;Harquahala;;;;;;;;;x
+PROV553;Pinal;Pinal;Pinal;;;;;;;;;x
+PROV554;Maricopa;Maricopa;Maricopa;;;;;;;;;x
+PROV555;Flagstaff;Flagstaff;Flagstaff;;;;;;;;;x
+PROV556;Gateway;Gateway;Gateway;;;;;;;;;x
+PROV557;Grand Canyon;Grand Canyon;Grand Canyon;;;;;;;;;x
+PROV558;Kaibab;Kaibab;Kaibab;;;;;;;;;x
+PROV559;Havasupai;Havasupai;Havasupai;;;;;;;;;x
+PROV560;Prescott;Prescott;Prescott;;;;;;;;;x
+PROV561;Verde;Verde;Verde;;;;;;;;;x
+PROV562;Aquarius;Aquarius;Aquarius;;;;;;;;;x
+PROV563;Tonto;Tonto;Tonto;;;;;;;;;x
+PROV564;Fort Apache;Fort Apache;Fort Apache;;;;;;;;;x
+PROV565;San Carlos;San Carlos;San Carlos;;;;;;;;;x
+PROV566;Graham;Graham;Graham;;;;;;;;;x
+PROV567;Apache Forest;Apache Forest;Apache Forest;;;;;;;;;x
+PROV568;San Pedro;San Pedro;San Pedro;;;;;;;;;x
+PROV569;Kingman;Kingman;Kingman;;;;;;;;;x
+PROV570;Hualapai;Hualapai;Hualapai;;;;;;;;;x
+PROV571;Wikiup;Wikiup;Wikiup;;;;;;;;;x
+PROV572;Mesquite;Mesquite;Mesquite;;;;;;;;;x
+PROV573;Hoover;Hoover;Hoover;;;;;;;;;x
+PROV574;Parashant;Parashant;Parashant;;;;;;;;;x
+PROV575;La Paz;La Paz;La Paz;;;;;;;;;x
+PROV576;Bullhead;Bullhead;Bullhead;;;;;;;;;x
+PROV577;Sacramento Valley;Sacramento Valley;Sacramento Valley;;;;;;;;;x
+PROV578;Havasu;Havasu;Havasu;;;;;;;;;x
+PROV579;Plomosa;Plomosa;Plomosa;;;;;;;;;x
+PROV580;Yuma;Yuma;Yuma;;;;;;;;;x
+PROV581;Kofa;Kofa;Kofa;;;;;;;;;x
+PROV582;Pima;Pima;Pima;;;;;;;;;x
+PROV583;Organ Pipe;Organ Pipe;Organ Pipe;;;;;;;;;x
+PROV584;Jupin Tohono;Jupin Tohono;Jupin Tohono;;;;;;;;;x
+PROV585;Tohono Jevud;Tohono Jevud;Tohono Jevud;;;;;;;;;x
+PROV586;Santa Cruz;Santa Cruz;Santa Cruz;;;;;;;;;x
+PROV587;Sierra Vista;Sierra Vista;Sierra Vista;;;;;;;;;x
+PROV588;Sulphur Springs;Sulphur Springs;Sulphur Springs;;;;;;;;;x
+PROV589;San Simon;San Simon;San Simon;;;;;;;;;x
+PROV590;Animas;Animas;Animas;;;;;;;;;x
+PROV591;Bootheel;Bootheel;Bootheel;;;;;;;;;x
+PROV592;Luna;Luna;Luna;;;;;;;;;x
+PROV593;Grant;Grant;Grant;;;;;;;;;x
+PROV594;East Sierra;East Sierra;East Sierra;;;;;;;;;x
+PROV595;Mogollon;Mogollon;Mogollon;;;;;;;;;x
+PROV596;San Agustin;San Agustin;San Agustin;;;;;;;;;x
+PROV597;Alamo;Alamo;Alamo;;;;;;;;;x
+PROV598;Bernalillo;Bernalillo;Bernalillo;;;;;;;;;x
+PROV599;Torrance;Torrance;Torrance;;;;;;;;;x
+PROV600;Valencia;Valencia;Valencia;;;;;;;;;x
+PROV601;Sandia;Sandia;Sandia;;;;;;;;;x
+PROV602;Socorro;Socorro;Socorro;;;;;;;;;x
+PROV603;Valley of Fires;Valley of Fires;Valley of Fires;;;;;;;;;x
+PROV604;Chupadera;Chupadera;Chupadera;;;;;;;;;x
+PROV605;Santa Fe;Santa Fe;Santa Fe;;;;;;;;;x
+PROV606;Pojoaque;Pojoaque;Pojoaque;;;;;;;;;x
+PROV607;Galiesto;Galiesto;Galiesto;;;;;;;;;x
+PROV608;El Paso;El Paso;El Paso;;;;;;;;;x
+PROV609;Juarez;Juarez;Juarez;;;;;;;;;x
+PROV610;Doña Ana;Doña Ana;Doña Ana;;;;;;;;;x
+PROV611;Otero;Otero;Otero;;;;;;;;;x
+PROV612;West Sierra;West Sierra;West Sierra;;;;;;;;;x
+PROV613;Denver;Denver;Denver;;;;;;;;;x
+PROV614;Arapahoe;Arapahoe;Arapahoe;;;;;;;;;x
+PROV615;Jefferson;Jefferson;Jefferson;;;;;;;;;x
+PROV616;Adams;Adams;Adams;;;;;;;;;x
+PROV617;Boulder;Boulder;Boulder;;;;;;;;;x
+PROV618;Longmont;Longmont;Longmont;;;;;;;;;x
+PROV619;Collins;Collins;Collins;;;;;;;;;x
+PROV620;Weld;Weld;Weld;;;;;;;;;x
+PROV621;Boyd;Boyd;Boyd;;;;;;;;;x
+PROV622;Larimie;Larimie;Larimie;;;;;;;;;x
+PROV623;Albany;Albany;Albany;;;;;;;;;x
+PROV624;Colorado;Colorado;Colorado;;;;;;;;;x
+PROV625;Fountain Valley;Fountain Valley;Fountain Valley;;;;;;;;;x
+PROV626;Douglas;Douglas;Douglas;;;;;;;;;x
+PROV627;Pueblo;Pueblo;Pueblo;;;;;;;;;x
+PROV628;Fremont;Fremont;Fremont;;;;;;;;;x
+PROV629;Alamosa;Alamosa;Alamosa;;;;;;;;;x
+PROV630;Costilla;Costilla;Costilla;;;;;;;;;x
+PROV631;Conejos;Conejos;Conejos;;;;;;;;;x
+PROV632;Rio Grande;Rio Grande;Rio Grande;;;;;;;;;x
+PROV633;Saguache;Saguache;Saguache;;;;;;;;;x
+PROV634;Taos;Taos;Taos;;;;;;;;;x
+PROV635;Picuris;Picuris;Picuris;;;;;;;;;x
+PROV636;Sunshine Valley;Sunshine Valley;Sunshine Valley;;;;;;;;;x
+PROV637;Huerfano;Huerfano;Huerfano;;;;;;;;;x
+PROV638;Wet Mountain;Wet Mountain;Wet Mountain;;;;;;;;;x
+PROV639;Park;Park;Park;;;;;;;;;x
+PROV640;Teller;Teller;Teller;;;;;;;;;x
+PROV641;Chaffee;Chaffee;Chaffee;;;;;;;;;x
+PROV642;Mesa;Mesa;Mesa;;;;;;;;;x
+PROV643;Delta;Delta;Delta;;;;;;;;;x
+PROV644;Montrose;Montrose;Montrose;;;;;;;;;x
+PROV645;Ouray;Ouray;Ouray;;;;;;;;;x
+PROV646;La Plata;La Plata;La Plata;;;;;;;;;x
+PROV647;Montezuma;Montezuma;Montezuma;;;;;;;;;x
+PROV648;San Miguel;San Miguel;San Miguel;;;;;;;;;x
+PROV649;Gunnison;Gunnison;Gunnison;;;;;;;;;x
+PROV650;Curecanti;Curecanti;Curecanti;;;;;;;;;x
+PROV651;Hinsdale;Hinsdale;Hinsdale;;;;;;;;;x
+PROV652;Twin Lakes;Twin Lakes;Twin Lakes;;;;;;;;;x
+PROV653;Pitkin;Pitkin;Pitkin;;;;;;;;;x
+PROV654;Garfield;Garfield;Garfield;;;;;;;;;x
+PROV655;Eagle;Eagle;Eagle;;;;;;;;;x
+PROV656;Granby;Granby;Granby;;;;;;;;;x
+PROV657;Jackson;Jackson;Jackson;;;;;;;;;x
+PROV658;Dillon;Dillon;Dillon;;;;;;;;;x
+PROV659;Moffat;Moffat;Moffat;;;;;;;;;x
+PROV660;Routt;Routt;Routt;;;;;;;;;x
+PROV661;Rio Blanco;Rio Blanco;Rio Blanco;;;;;;;;;x
+PROV662;Salt Lake City;Salt Lake City;Salt Lake City;;;;;;;;;x
+PROV663;Bountiful;Bountiful;Bountiful;;;;;;;;;x
+PROV664;West Valley;West Valley;West Valley;;;;;;;;;x
+PROV665;Murray;Murray;Murray;;;;;;;;;x
+PROV666;Jordan;Jordan;Jordan;;;;;;;;;x
+PROV667;Sandy;Sandy;Sandy;;;;;;;;;x
+PROV668;Provo;Provo;Provo;;;;;;;;;x
+PROV669;Lehi;Lehi;Lehi;;;;;;;;;x
+PROV670;Spanish Fork;Spanish Fork;Spanish Fork;;;;;;;;;x
+PROV671;Lake Mountain;Lake Mountain;Lake Mountain;;;;;;;;;x
+PROV672;Goshen;Goshen;Goshen;;;;;;;;;x
+PROV673;Ogden;Ogden;Ogden;;;;;;;;;x
+PROV674;Cache;Cache;Cache;;;;;;;;;x
+PROV675;Box Elder;Box Elder;Box Elder;;;;;;;;;x
+PROV676;Antelope Island;Antelope Island;Antelope Island;;;;;;;;;x
+PROV677;Park Valley;Park Valley;Park Valley;;;;;;;;;x
+PROV678;Blue Creek;Blue Creek;Blue Creek;;;;;;;;;x
+PROV679;Grouse Creek;Grouse Creek;Grouse Creek;;;;;;;;;x
+PROV680;Morgan;Morgan;Morgan;;;;;;;;;x
+PROV681;Summit;Summit;Summit;;;;;;;;;x
+PROV682;Pineview;Pineview;Pineview;;;;;;;;;x
+PROV683;Millard;Millard;Millard;;;;;;;;;x
+PROV684;Juab;Juab;Juab;;;;;;;;;x
+PROV685;Little Sahara;Little Sahara;Little Sahara;;;;;;;;;x
+PROV686;Tooele;Tooele;Tooele;;;;;;;;;x
+PROV687;Washington;Washington;Washington;;;;;;;;;x
+PROV688;Iron;Iron;Iron;;;;;;;;;x
+PROV689;Beaver;Beaver;Beaver;;;;;;;;;x
+PROV690;Kanab;Kanab;Kanab;;;;;;;;;x
+PROV691;Dixie Forest;Dixie Forest;Dixie Forest;;;;;;;;;x
+PROV692;Glen Canyon;Glen Canyon;Glen Canyon;;;;;;;;;x
+PROV693;Grand Staircase;Grand Staircase;Grand Staircase;;;;;;;;;x
+PROV694;Manti;Manti;Manti;;;;;;;;;x
+PROV695;Sanpete;Sanpete;Sanpete;;;;;;;;;x
+PROV696;Sevier;Sevier;Sevier;;;;;;;;;x
+PROV697;Piute;Piute;Piute;;;;;;;;;x
+PROV698;Bryce;Bryce;Bryce;;;;;;;;;x
+PROV699;San Rafael;San Rafael;San Rafael;;;;;;;;;x
+PROV700;Carbon;Carbon;Carbon;;;;;;;;;x
+PROV701;Capitol Reef;Capitol Reef;Capitol Reef;;;;;;;;;x
+PROV702;Wayne;Wayne;Wayne;;;;;;;;;x
+PROV703;San Juan;San Juan;San Juan;;;;;;;;;x
+PROV704;Grand;Grand;Grand;;;;;;;;;x
+PROV705;Canyonland;Canyonland;Canyonland;;;;;;;;;x
+PROV706;Duchesne;Duchesne;Duchesne;;;;;;;;;x
+PROV707;Uintah;Uintah;Uintah;;;;;;;;;x
+PROV708;Soldier Creek;Soldier Creek;Soldier Creek;;;;;;;;;x
+PROV709;Ada;Ada;Ada;;;;;;;;;x
+PROV710;Deer Flat;Deer Flat;Deer Flat;;;;;;;;;x
+PROV711;Canyon;Canyon;Canyon;;;;;;;;;x
+PROV712;Homedale;Homedale;Homedale;;;;;;;;;x
+PROV713;Payette;Payette;Payette;;;;;;;;;x
+PROV714;Weiser;Weiser;Weiser;;;;;;;;;x
+PROV715;Cascade Valley;Cascade Valley;Cascade Valley;;;;;;;;;x
+PROV716;East Salmon;East Salmon;East Salmon;;;;;;;;;x
+PROV717;West Salmon;West Salmon;West Salmon;;;;;;;;;x
+PROV718;Riggins;Riggins;Riggins;;;;;;;;;x
+PROV719;Deadwood;Deadwood;Deadwood;;;;;;;;;x
+PROV720;Nez Perce;Nez Perce;Nez Perce;;;;;;;;;x
+PROV721;Idaho;Idaho;Idaho;;;;;;;;;x
+PROV722;Lewis;Lewis;Lewis;;;;;;;;;x
+PROV723;Elk;Elk;Elk;;;;;;;;;x
+PROV724;Selway;Selway;Selway;;;;;;;;;x
+PROV725;Silver Lake;Silver Lake;Silver Lake;;;;;;;;;x
+PROV726;Grande Rond;Grande Rond;Grande Rond;;;;;;;;;x
+PROV727;Whitman;Whitman;Whitman;;;;;;;;;x
+PROV728;Wallowa;Wallowa;Wallowa;;;;;;;;;x
+PROV729;Baker;Baker;Baker;;;;;;;;;x
+PROV730;Pine Creek;Pine Creek;Pine Creek;;;;;;;;;x
+PROV731;Union;Union;Union;;;;;;;;;x
+PROV732;Burnt River;Burnt River;Burnt River;;;;;;;;;x
+PROV733;Bonneville;Bonneville;Bonneville;;;;;;;;;x
+PROV734;Mud Lake;Mud Lake;Mud Lake;;;;;;;;;x
+PROV735;Ricks;Ricks;Ricks;;;;;;;;;x
+PROV736;Swan Valley;Swan Valley;Swan Valley;;;;;;;;;x
+PROV737;Pocatello;Pocatello;Pocatello;;;;;;;;;x
+PROV738;Power;Power;Power;;;;;;;;;x
+PROV739;Fort Hall;Fort Hall;Fort Hall;;;;;;;;;x
+PROV740;Blackfoot;Blackfoot;Blackfoot;;;;;;;;;x
+PROV741;Springfield;Springfield;Springfield;;;;;;;;;x
+PROV742;Franklin;Franklin;Franklin;;;;;;;;;x
+PROV743;Malad;Malad;Malad;;;;;;;;;x
+PROV744;Portneuf;Portneuf;Portneuf;;;;;;;;;x
+PROV745;Arbon;Arbon;Arbon;;;;;;;;;x
+PROV746;Rockland;Rockland;Rockland;;;;;;;;;x
+PROV747;Burley;Burley;Burley;;;;;;;;;x
+PROV748;Malta;Malta;Malta;;;;;;;;;x
+PROV749;Salmon Falls;Salmon Falls;Salmon Falls;;;;;;;;;x
+PROV750;Shoshone Falls;Shoshone Falls;Shoshone Falls;;;;;;;;;x
+PROV751;Craters of the Moon;Craters of the Moon;Craters of the Moon;;;;;;;;;x
+PROV752;Minidoka;Minidoka;Minidoka;;;;;;;;;x
+PROV753;Jerome;Jerome;Jerome;;;;;;;;;x
+PROV754;Gooding;Gooding;Gooding;;;;;;;;;x
+PROV755;Lincoln;Lincoln;Lincoln;;;;;;;;;x
+PROV756;Challis;Challis;Challis;;;;;;;;;x
+PROV757;Butte;Butte;Butte;;;;;;;;;x
+PROV758;Pahsimeroi;Pahsimeroi;Pahsimeroi;;;;;;;;;x
+PROV759;Salmon;Salmon;Salmon;;;;;;;;;x
+PROV760;Lemhi;Lemhi;Lemhi;;;;;;;;;x
+PROV761;Deerlodge;Deerlodge;Deerlodge;;;;;;;;;x
+PROV762;Odell;Odell;Odell;;;;;;;;;x
+PROV763;Madison;Madison;Madison;;;;;;;;;x
+PROV764;Red Rock;Red Rock;Red Rock;;;;;;;;;x
+PROV765;Boise;Boise;Boise;;;;;;;;;x
+PROV766;No Return;No Return;No Return;;;;;;;;;x
+PROV767;Sawtooth;Sawtooth;Sawtooth;;;;;;;;;x
+PROV768;Blaine;Blaine;Blaine;;;;;;;;;x
+PROV769;Camas;Camas;Camas;;;;;;;;;x
+PROV770;Mid Fork;Mid Fork;Mid Fork;;;;;;;;;x
+PROV771;Mountain Home;Mountain Home;Mountain Home;;;;;;;;;x
+PROV772;Three Island;Three Island;Three Island;;;;;;;;;x
+PROV773;Strike;Strike;Strike;;;;;;;;;x
+PROV774;Owyhee;Owyhee;Owyhee;;;;;;;;;x
+PROV775;Duck Valley;Duck Valley;Duck Valley;;;;;;;;;x
+PROV776;Wild horse;Wild horse;Wild horse;;;;;;;;;x
+PROV777;Clover;Clover;Clover;;;;;;;;;x
+PROV778;Dickshooter;Dickshooter;Dickshooter;;;;;;;;;x
+PROV779;Bend;Bend;Bend;;;;;;;;;x
+PROV780;Christmas Valley;Christmas Valley;Christmas Valley;;;;;;;;;x
+PROV781;Ochoco;Ochoco;Ochoco;;;;;;;;;x
+PROV782;Deschutes;Deschutes;Deschutes;;;;;;;;;x
+PROV783;Crook;Crook;Crook;;;;;;;;;x
+PROV784;Ontario;Ontario;Ontario;;;;;;;;;x
+PROV785;McDermitt;McDermitt;McDermitt;;;;;;;;;x
+PROV786;Cow Lake;Cow Lake;Cow Lake;;;;;;;;;x
+PROV787;Silvies;Silvies;Silvies;;;;;;;;;x
+PROV788;Blitzen;Blitzen;Blitzen;;;;;;;;;x
+PROV789;Harper;Harper;Harper;;;;;;;;;x
+PROV790;Upper Silves;Upper Silves;Upper Silves;;;;;;;;;x
+PROV791;John Day;John Day;John Day;;;;;;;;;x
+PROV792;Rock Creek;Rock Creek;Rock Creek;;;;;;;;;x
+PROV793;Wheeler;Wheeler;Wheeler;;;;;;;;;x
+PROV794;Grant;Grant;Grant;;;;;;;;;x
+PROV795;Window Rock;Window Rock;Window Rock;;;;;;;;;x
+PROV796;Dilkon;Dilkon;Dilkon;;;;;;;;;x
+PROV797;Ganado;Ganado;Ganado;;;;;;;;;x
+PROV798;Houck;Houck;Houck;;;;;;;;;x
+PROV799;Twin Lakes;Twin Lakes;Twin Lakes;;;;;;;;;x
+PROV800;Tuba;Tuba;Tuba;;;;;;;;;x
+PROV801;Monument Valley;Monument Valley;Monument Valley;;;;;;;;;x
+PROV802;Navajo Mountain;Navajo Mountain;Navajo Mountain;;;;;;;;;x
+PROV803;Kaibito;Kaibito;Kaibito;;;;;;;;;x
+PROV804;Canyon de Chelly;Canyon de Chelly;Canyon de Chelly;;;;;;;;;x
+PROV805;Pinon;Pinon;Pinon;;;;;;;;;x
+PROV806;Chuska;Chuska;Chuska;;;;;;;;;x
+PROV807;Shiprock;Shiprock;Shiprock;;;;;;;;;x
+PROV808;Red Mesas;Red Mesas;Red Mesas;;;;;;;;;x
+PROV809;Fruitland;Fruitland;Fruitland;;;;;;;;;x
+PROV810;Animas;Animas;Animas;;;;;;;;;x
+PROV811;Crownpoint;Crownpoint;Crownpoint;;;;;;;;;x
+PROV812;Gallup;Gallup;Gallup;;;;;;;;;x
+PROV813;Chaco;Chaco;Chaco;;;;;;;;;x
+PROV814;Crow Mesa;Crow Mesa;Crow Mesa;;;;;;;;;x
+PROV815;Third Mesa;Third Mesa;Third Mesa;;;;;;;;;x
+PROV816;Second Mesa;Second Mesa;Second Mesa;;;;;;;;;x
+PROV817;First Mesa;First Mesa;First Mesa;;;;;;;;;x
+PROV818;Moenkopi;Moenkopi;Moenkopi;;;;;;;;;x
+PROV819;Petrified Forest;Petrified Forest;Petrified Forest;;;;;;;;;x
+PROV820;Canyon Diablo;Canyon Diablo;Canyon Diablo;;;;;;;;;x
+PROV821;Snowflake;Snowflake;Snowflake;;;;;;;;;x
+PROV822;Lyman;Lyman;Lyman;;;;;;;;;x
+PROV823;Zuni;Zuni;Zuni;;;;;;;;;x
+PROV824;Ramah;Ramah;Ramah;;;;;;;;;x
+PROV825;Jicarilla;Jicarilla;Jicarilla;;;;;;;;;x
+PROV826;Archuleta;Archuleta;Archuleta;;;;;;;;;x
+PROV827;Heron;Heron;Heron;;;;;;;;;x
+PROV828;Cuba;Cuba;Cuba;;;;;;;;;x
+PROV829;San Felipe;San Felipe;San Felipe;;;;;;;;;x
+PROV830;Santo Domingo;Santo Domingo;Santo Domingo;;;;;;;;;x
+PROV831;Jemez;Jemez;Jemez;;;;;;;;;x
+PROV832;Los Alamos;Los Alamos;Los Alamos;;;;;;;;;x
+PROV833;San Juan;San Juan;San Juan;;;;;;;;;x
+PROV834;Abiquiu;Abiquiu;Abiquiu;;;;;;;;;x
+PROV835;Acoma;Acoma;Acoma;;;;;;;;;x
+PROV836;Grants;Grants;Grants;;;;;;;;;x
+PROV837;Laguna;Laguna;Laguna;;;;;;;;;x
+PROV838;Isleta;Isleta;Isleta;;;;;;;;;x
+PROV839;Yellowstone;Yellowstone;Yellowstone;;;;;;;;;x
+PROV840;Monument;Monument;Monument;;;;;;;;;x
+PROV841;Colter Bay;Colter Bay;Colter Bay;;;;;;;;;x
+PROV842;Lemhi;Lemhi;Lemhi;;;;;;;;;x
+PROV843;Mammoth;Mammoth;Mammoth;;;;;;;;;x
+PROV844;Cowen;Cowen;Cowen;;;;;;;;;x
+PROV845;Fremont;Fremont;Fremont;;;;;;;;;x
+PROV846;Tetonia;Tetonia;Tetonia;;;;;;;;;x
+PROV847;Ashton;Ashton;Ashton;;;;;;;;;x
+PROV848;Teton;Teton;Teton;;;;;;;;;x
+PROV849;Breccia;Breccia;Breccia;;;;;;;;;x
+PROV850;Sublette;Sublette;Sublette;;;;;;;;;x
+PROV851;Montpelier;Montpelier;Montpelier;;;;;;;;;x
+PROV852;Paris;Paris;Paris;;;;;;;;;x
+PROV853;Grays Lake;Grays Lake;Grays Lake;;;;;;;;;x
+PROV854;Uinta;Uinta;Uinta;;;;;;;;;x
+PROV855;Fossil;Fossil;Fossil;;;;;;;;;x
+PROV856;Silver Eagle;Silver Eagle;Silver Eagle;;;;;;;;;x
+PROV857;Palisades;Palisades;Palisades;;;;;;;;;x
+PROV858;Star Valley;Star Valley;Star Valley;;;;;;;;;x
+PROV859;Flaming Gorge;Flaming Gorge;Flaming Gorge;;;;;;;;;x
+PROV860;Pilot Butte;Pilot Butte;Pilot Butte;;;;;;;;;x
+PROV861;Red Desert;Red Desert;Red Desert;;;;;;;;;x
+PROV862;Wind River;Wind River;Wind River;;;;;;;;;x
+PROV863;Hot Spring;Hot Spring;Hot Spring;;;;;;;;;x
+PROV864;Natrona;Natrona;Natrona;;;;;;;;;x
+PROV865;Washakie;Washakie;Washakie;;;;;;;;;x
+PROV866;Big Horn;Big Horn;Big Horn;;;;;;;;;x
+PROV867;Meeteetse;Meeteetse;Meeteetse;;;;;;;;;x
+PROV868;Albany;Albany;Albany;;;;;;;;;x
+PROV869;Carbon;Carbon;Carbon;;;;;;;;;x
+PROV870;Helena;Helena;Helena;;;;;;;;;x
+PROV871;Missouri;Missouri;Missouri;;;;;;;;;x
+PROV872;Jefferson;Jefferson;Jefferson;;;;;;;;;x
+PROV873;Powell;Powell;Powell;;;;;;;;;x
+PROV874;Granite;Granite;Granite;;;;;;;;;x
+PROV875;Swan;Swan;Swan;;;;;;;;;x
+PROV876;Gallatin;Gallatin;Gallatin;;;;;;;;;x
+PROV877;Silver Bow;Silver Bow;Silver Bow;;;;;;;;;x
+PROV878;Park;Park;Park;;;;;;;;;x
+PROV879;Stillwater;Stillwater;Stillwater;;;;;;;;;x
+PROV880;Sweet Grass;Sweet Grass;Sweet Grass;;;;;;;;;x
+PROV881;Pitic;Pitic;Pitic;;;;;;;;;x
+PROV882;Ures;Ures;Ures;;;;;;;;;x
+PROV883;Carbo;Carbo;Carbo;;;;;;;;;x
+PROV884;La Colorada;La Colorada;La Colorada;;;;;;;;;x
+PROV885;Rio Sonora;Rio Sonora;Rio Sonora;;;;;;;;;x
+PROV886;Bahía Kino;Bahía Kino;Bahía Kino;;;;;;;;;x
+PROV887;Isla Tiburón;Isla Tiburón;Isla Tiburón;;;;;;;;;x
+PROV888;Agua Prieta;Agua Prieta;Agua Prieta;;;;;;;;;x
+PROV889;Cananea;Cananea;Cananea;;;;;;;;;x
+PROV890;Bacerac;Bacerac;Bacerac;;;;;;;;;x
+PROV891;Nácori Chico;Nácori Chico;Nácori Chico;;;;;;;;;x
+PROV892;Cumpas;Cumpas;Cumpas;;;;;;;;;x
+PROV893;Nogales;Nogales;Nogales;;;;;;;;;x
+PROV894;Saric;Saric;Saric;;;;;;;;;x
+PROV895;Santa Ana;Santa Ana;Santa Ana;;;;;;;;;x
+PROV896;Arizpe;Arizpe;Arizpe;;;;;;;;;x
+PROV897;Caborca;Caborca;Caborca;;;;;;;;;x
+PROV898;Caborca Occidental;Caborca Occidental;Caborca Occidental;;;;;;;;;x
+PROV899;San Luis;San Luis;San Luis;;;;;;;;;x
+PROV900;Puerto Peñasco;Puerto Peñasco;Puerto Peñasco;;;;;;;;;x
+PROV901;Calles;Calles;Calles;;;;;;;;;x
+PROV902;Obregón;Obregón;Obregón;;;;;;;;;x
+PROV903;Guaymas;Guaymas;Guaymas;;;;;;;;;x
+PROV904;Suaqui Grande;Suaqui Grande;Suaqui Grande;;;;;;;;;x
+PROV905;Navajoa;Navajoa;Navajoa;;;;;;;;;x
+PROV906;Álamos;Álamos;Álamos;;;;;;;;;x
+PROV907;Rosario;Rosario;Rosario;;;;;;;;;x
+PROV908;Sahuaripa;Sahuaripa;Sahuaripa;;;;;;;;;x
+PROV909;Tepache;Tepache;Tepache;;;;;;;;;x
+PROV910;Ahome;Ahome;Ahome;;;;;;;;;x
+PROV911;El Fuerte;El Fuerte;El Fuerte;;;;;;;;;x
+PROV912;Choix;Choix;Choix;;;;;;;;;x
+PROV913;Guasave;Guasave;Guasave;;;;;;;;;x
+PROV914;Salvador Alvarado;Salvador Alvarado;Salvador Alvarado;;;;;;;;;x
+PROV915;Angostura;Angostura;Angostura;;;;;;;;;x
+PROV916;Sinaloa;Sinaloa;Sinaloa;;;;;;;;;x
+PROV917;Badiraguato;Badiraguato;Badiraguato;;;;;;;;;x
+PROV918;Mocorito;Mocorito;Mocorito;;;;;;;;;x
+PROV919;Culiacan;Culiacan;Culiacan;;;;;;;;;x
+PROV920;Pabellones;Pabellones;Pabellones;;;;;;;;;x
+PROV921;Navolato;Navolato;Navolato;;;;;;;;;x
+PROV922;Cosala;Cosala;Cosala;;;;;;;;;x
+PROV923;Mazatlan;Mazatlan;Mazatlan;;;;;;;;;x
+PROV924;San Ignacio;San Ignacio;San Ignacio;;;;;;;;;x
+PROV925;Elota;Elota;Elota;;;;;;;;;x
+PROV926;Concordia;Concordia;Concordia;;;;;;;;;x
+PROV927;Rosario;Rosario;Rosario;;;;;;;;;x
+PROV928;Escuinapa;Escuinapa;Escuinapa;;;;;;;;;x
+PROV929;Catalina Island;Catalina Island;Catalina Island;;;;;;;;;x
+PROV930;Channel Islands;Channel Islands;Channel Islands;;;;;;;;;x
+PROV931;Reno;Reno;Reno;;;;;;;;;x
+PROV932;Washoe City;Washoe City;Washoe City;;;;;;;;;x
+PROV933;Fernley;Fernley;Fernley;;;;;;;;;x
+PROV934;Nixon;Nixon;Nixon;;;;;;;;;x
+PROV935;Sutcliffe;Sutcliffe;Sutcliffe;;;;;;;;;x
+PROV936;Doyle;Doyle;Doyle;;;;;;;;;x
+PROV937;Black Rock;Black Rock;Black Rock;;;;;;;;;x
+PROV938;Sierra Valley;Sierra Valley;Sierra Valley;;;;;;;;;x
+PROV939;Carson;Carson;Carson;;;;;;;;;x
+PROV940;Dayton;Dayton;Dayton;;;;;;;;;x
+PROV941;Topaz;Topaz;Topaz;;;;;;;;;x
+PROV942;Lyon;Lyon;Lyon;;;;;;;;;x
+PROV943;Granite;Granite;Granite;;;;;;;;;x
+PROV944;Hart Mountain;Hart Mountain;Hart Mountain;;;;;;;;;x
+PROV945;Elko;Elko;Elko;;;;;;;;;x
+PROV946;Wells;Wells;Wells;;;;;;;;;x
+PROV947;Wendover;Wendover;Wendover;;;;;;;;;x
+PROV948;Montello;Montello;Montello;;;;;;;;;x
+PROV949;Carlin;Carlin;Carlin;;;;;;;;;x
+PROV950;Ruby Valley;Ruby Valley;Ruby Valley;;;;;;;;;x
+PROV951;Ely;Ely;Ely;;;;;;;;;x
+PROV952;West White Pine;West White Pine;West White Pine;;;;;;;;;x
+PROV953;Steptoe;Steptoe;Steptoe;;;;;;;;;x
+PROV954;Osceloa;Osceloa;Osceloa;;;;;;;;;x
+PROV955;Eskdale;Eskdale;Eskdale;;;;;;;;;x
+PROV956;Pioche;Pioche;Pioche;;;;;;;;;x
+PROV957;Caliente;Caliente;Caliente;;;;;;;;;x
+PROV958;Pahranagat;Pahranagat;Pahranagat;;;;;;;;;x
+PROV959;Rachel;Rachel;Rachel;;;;;;;;;x
+PROV960;Lund;Lund;Lund;;;;;;;;;x
+PROV961;Tonopah;Tonopah;Tonopah;;;;;;;;;x
+PROV962;Railroad Valley;Railroad Valley;Railroad Valley;;;;;;;;;x
+PROV963;Smokey Valley;Smokey Valley;Smokey Valley;;;;;;;;;x
+PROV964;Austin;Austin;Austin;;;;;;;;;x
+PROV965;New Pass;New Pass;New Pass;;;;;;;;;x
+PROV966;Eureka;Eureka;Eureka;;;;;;;;;x
+PROV967;Battle Mountain;Battle Mountain;Battle Mountain;;;;;;;;;x
+PROV968;Reese River;Reese River;Reese River;;;;;;;;;x
+PROV969;Crescent Valley;Crescent Valley;Crescent Valley;;;;;;;;;x
+PROV970;Winnemucca;Winnemucca;Winnemucca;;;;;;;;;x
+PROV971;Santa Rosas;Santa Rosas;Santa Rosas;;;;;;;;;x
+PROV972;Lovelock;Lovelock;Lovelock;;;;;;;;;x
+PROV973;Fallon;Fallon;Fallon;;;;;;;;;x
+PROV974;Denio;Denio;Denio;;;;;;;;;x
+PROV975;Paoha;Paoha;Paoha;;;;;;;;;x
+PROV976;Pine Grove;Pine Grove;Pine Grove;;;;;;;;;x
+PROV977;Lee Vining;Lee Vining;Lee Vining;;;;;;;;;x
+PROV978;Pizona;Pizona;Pizona;;;;;;;;;x
+PROV979;Benton;Benton;Benton;;;;;;;;;x
+PROV980;Chalfant Valley;Chalfant Valley;Chalfant Valley;;;;;;;;;x
+PROV981;Big Pine;Big Pine;Big Pine;;;;;;;;;x
+PROV982;Oasis;Oasis;Oasis;;;;;;;;;x
+PROV983;Coaldale;Coaldale;Coaldale;;;;;;;;;x
+PROV984;Tokop;Tokop;Tokop;;;;;;;;;x
+PROV985;Mineral;Mineral;Mineral;;;;;;;;;x
+PROV986;Lone Pine;Lone Pine;Lone Pine;;;;;;;;;x
+PROV987;Haiwee;Haiwee;Haiwee;;;;;;;;;x
+PROV988;Ballarat;Ballarat;Ballarat;;;;;;;;;x
+PROV989;Skytop;Skytop;Skytop;;;;;;;;;x
+PROV990;Stovepipe;Stovepipe;Stovepipe;;;;;;;;;x
+PROV991;Grapevine;Grapevine;Grapevine;;;;;;;;;x
+PROV992;Chloride;Chloride;Chloride;;;;;;;;;x
+PROV993;Ryan;Ryan;Ryan;;;;;;;;;x
+PROV994;Amargosa;Amargosa;Amargosa;;;;;;;;;x
+PROV995;Ridgecrest;Ridgecrest;Ridgecrest;;;;;;;;;x
+PROV996;Copper City;Copper City;Copper City;;;;;;;;;x
+PROV997;Fremont Valley;Fremont Valley;Fremont Valley;;;;;;;;;x
+PROV998;Mars;Mars;Mars;;;;;;;;;x
+PROV999;Badwater;Badwater;Badwater;;;;;;;;;x
+PROV1000;Ashford Meadows;Ashford Meadows;Ashford Meadows;;;;;;;;;x
+PROV1001;Las Vegas;Las Vegas;Las Vegas;;;;;;;;;x
+PROV1002;Fire Valley;Fire Valley;Fire Valley;;;;;;;;;x
+PROV1003;Indian Springs;Indian Springs;Indian Springs;;;;;;;;;x
+PROV1004;Pahrump;Pahrump;Pahrump;;;;;;;;;x
+PROV1005;Imperial;Imperial;Imperial;;;;;;;;;x
+PROV1006;Picacho;Picacho;Picacho;;;;;;;;;x
+PROV1007;Slab City;Slab City;Slab City;;;;;;;;;x
+PROV1008;Palo Verde;Palo Verde;Palo Verde;;;;;;;;;x
+PROV1009;North Shore;North Shore;North Shore;;;;;;;;;x
+PROV1010;Desert Center;Desert Center;Desert Center;;;;;;;;;x
+PROV1011;Old Dale;Old Dale;Old Dale;;;;;;;;;x
+PROV1012;Bagdad;Bagdad;Bagdad;;;;;;;;;x
+PROV1013;Searchlight;Searchlight;Searchlight;;;;;;;;;x
+PROV1014;Goodsprings;Goodsprings;Goodsprings;;;;;;;;;x
+PROV1015;Boulder City;Boulder City;Boulder City;;;;;;;;;x
+PROV1016;Halloran;Halloran;Halloran;;;;;;;;;x
+PROV1017;Vidal;Vidal;Vidal;;;;;;;;;x
+PROV1018;Blythe;Blythe;Blythe;;;;;;;;;x
+PROV1019;Needles;Needles;Needles;;;;;;;;;x
+PROV1020;Barstow;Barstow;Barstow;;;;;;;;;x
+PROV1021;Afton;Afton;Afton;;;;;;;;;x
+PROV1022;Siberia;Siberia;Siberia;;;;;;;;;x
+PROV1023;Johnson Valley;Johnson Valley;Johnson Valley;;;;;;;;;x
+PROV1024;Twin Oaks;Twin Oaks;Twin Oaks;;;;;;;;;x
+PROV1025;Santiago;Santiago;Santiago;;;;;;;;;x
+PROV1026;Borrego;Borrego;Borrego;;;;;;;;;x
+PROV1027;Anza;Anza;Anza;;;;;;;;;x
+PROV1028;Idyllwild;Idyllwild;Idyllwild;;;;;;;;;x
+PROV1029;Santa Clarita;Santa Clarita;Santa Clarita;;;;;;;;;x
+PROV1030;Palmdale;Palmdale;Palmdale;;;;;;;;;x
+PROV1031;Lancaster;Lancaster;Lancaster;;;;;;;;;x
+PROV1032;Rosamond;Rosamond;Rosamond;;;;;;;;;x
+PROV1033;Fairmont;Fairmont;Fairmont;;;;;;;;;x
+PROV1034;Victorville;Victorville;Victorville;;;;;;;;;x
+PROV1035;Hesperia;Hesperia;Hesperia;;;;;;;;;x
+PROV1036;El Mirage;El Mirage;El Mirage;;;;;;;;;x
+PROV1037;Yucca;Yucca;Yucca;;;;;;;;;x
+PROV1038;Helendale;Helendale;Helendale;;;;;;;;;x

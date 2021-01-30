@@ -1,0 +1,21 @@
+# c_maderia_park
+
+# County Title
+title = c_maderia_park
+
+# Settlements
+max_settlements = 3
+
+b_maderia_park = castle
+b_garden_bay = city
+#b_kleindale = temple
+#b_halfmoon_bay = castle
+#b_earls_cove = city
+#b_irvines_landing = temple
+#b_beaver_island = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

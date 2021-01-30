@@ -1,0 +1,27 @@
+#SAN JOAQUIN
+technology = {
+	titles = {
+		d_aqueduct
+		d_calavera
+		d_canal
+		d_grand_fresno
+		d_kern
+		d_kings
+		d_madera
+		d_maricopa
+		d_merced
+		d_pacheco
+		d_san_joaquin
+		d_sequoia
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

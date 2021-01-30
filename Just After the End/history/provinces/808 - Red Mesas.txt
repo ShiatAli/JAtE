@@ -1,0 +1,21 @@
+# c_red_mesas
+
+# County Title
+title = c_red_mesas
+
+# Settlements
+max_settlements = 4
+
+b_teec_nos_pos = castle
+#b_rock_point = city
+#b_aneth = temple
+#b_montezuma_creek = castle
+#b_red_mesa = city
+#b_mexican_water = temple
+#b_sweetwater_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

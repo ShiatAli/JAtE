@@ -1,0 +1,21 @@
+# c_mt_vernon
+
+# County Title
+title = c_mt_vernon
+
+# Settlements
+max_settlements = 3
+
+b_mt_vernon = castle
+b_burlington_2 = city
+#b_baker_heights = temple
+#b_allen = castle
+#b_sterling = city
+#b_bay_view = temple
+#b_la_conner = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

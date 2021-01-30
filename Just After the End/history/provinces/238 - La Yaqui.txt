@@ -1,0 +1,21 @@
+# c_la_yaqui
+
+# County Title
+title = c_la_yaqui
+
+# Settlements
+max_settlements = 2
+
+b_la_yaqui = castle
+#b_san_juanico = city
+#b_boca_del_melgoita = temple
+#b_el_mezquital = castle
+#b_el_batequi = city
+#b_el_arenal = temple
+#b_camino_de_enmedio = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

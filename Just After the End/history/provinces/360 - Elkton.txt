@@ -1,0 +1,21 @@
+# c_elkton
+
+# County Title
+title = c_elkton
+
+# Settlements
+max_settlements = 2
+
+b_elkton = castle
+#b_kellogg_2 = city
+#b_green_acres = temple
+#b_scottsburg = castle
+#b_tyee = city
+#b_millwood = temple
+#b_umpqua = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

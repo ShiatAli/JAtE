@@ -1,0 +1,21 @@
+# c_camalu
+
+# County Title
+title = c_camalu
+
+# Settlements
+max_settlements = 2
+
+b_camalu = castle
+#b_colonet = city
+#b_ejido_mexico = temple
+#b_rancho_san_francisco = castle
+#b_generalisimo_morelos = city
+#b_el_carricito = temple
+#b_el_bramadero = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

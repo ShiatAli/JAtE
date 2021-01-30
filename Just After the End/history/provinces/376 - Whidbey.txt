@@ -1,0 +1,21 @@
+# c_whidbey
+
+# County Title
+title = c_whidbey
+
+# Settlements
+max_settlements = 3
+
+b_clinton = castle
+b_langley = city
+#b_baby_island_heights = temple
+#b_freeland = castle
+#b_maxwelton = city
+#b_beverly_beach = temple
+#b_greenback = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

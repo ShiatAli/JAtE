@@ -1,0 +1,21 @@
+# c_le_grange
+
+# County Title
+title = c_le_grange
+
+# Settlements
+max_settlements = 2
+
+b_le_grange = castle
+#b_copperstown = city
+#b_warnerville = temple
+#b_paulsell = castle
+#b_oakdale = city
+#b_knights_ferry = temple
+#b_eugene = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,30 @@
+#JEFFERSON
+technology = {
+	titles = {
+		d_arcata
+		d_artemisia
+		d_big_bend
+		d_goose
+		d_kings_range
+		d_klamath
+		d_lassen
+		d_mendo
+		d_redding
+		d_rogue_valley
+		d_seiad_valley
+		d_standley
+		d_trinity
+		d_ukiah
+		d_yreka
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

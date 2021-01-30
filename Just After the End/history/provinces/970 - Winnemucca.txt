@@ -1,0 +1,21 @@
+# c_winnemucca
+
+# County Title
+title = c_winnemucca
+
+# Settlements
+max_settlements = 3
+
+b_winnemucca = castle
+#b_golconda = city
+#b_mill_city_2 = temple
+#b_sonoma_2 = castle
+#b_pedroli = city
+#b_krum = temple
+#b_mt_edna = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

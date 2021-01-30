@@ -1,7 +1,7 @@
-NDefines.NTechnology.IDEAL_YEAR_LEVEL_0 = 2250
-NDefines.NTechnology.IDEAL_YEAR_LEVEL_8 = 3100
+NDefines.NTechnology.IDEAL_YEAR_LEVEL_0 = 2200
+NDefines.NTechnology.IDEAL_YEAR_LEVEL_8 = 2600
 
-NDefines.NEngine.MISSING_SCRIPTED_SUCCESSOR_ERROR_CUTOFF_YEAR = 2670
+NDefines.NEngine.MISSING_SCRIPTED_SUCCESSOR_ERROR_CUTOFF_YEAR = 2060
 
 NDefines.NFrontend.CAMERA_LOOKAT_X = 1000.0
 NDefines.NFrontend.CAMERA_LOOKAT_Y = 0.0
@@ -82,7 +82,7 @@ NDefines.NEndGame.DYN14_ID = 1491901
 NDefines.NEndGame.DYN15_SCORE = 1000
 NDefines.NEndGame.DYN15_ID = 2001034
 
-NDefines.NLearningScenario.START_YEAR = 2666
-NDefines.NLearningScenario.START_MONTH = 1
-NDefines.NLearningScenario.START_DAY = 1
+NDefines.NLearningScenario.START_YEAR = 2055
+NDefines.NLearningScenario.START_MONTH = 11
+NDefines.NLearningScenario.START_DAY = 25
 NDefines.NLearningScenario.START_CHARACTER = 1788001

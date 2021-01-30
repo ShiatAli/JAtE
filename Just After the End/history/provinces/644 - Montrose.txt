@@ -1,0 +1,21 @@
+# c_montrose
+
+# County Title
+title = c_montrose
+
+# Settlements
+max_settlements = 3
+
+b_montrose_2 = castle
+#b_olathe = city
+#b_cimarron = temple
+#b_gunnison_gorge = castle
+#b_black_canyon = city
+#b_coffee_pot = temple
+#b_sheep_knob = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

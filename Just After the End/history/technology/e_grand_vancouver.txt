@@ -1,0 +1,29 @@
+#GRAND VANCOUVER
+technology = {
+	titles = {
+		d_chicktoria
+		d_cowichan
+		d_edinburgh
+		d_fraser
+		d_georgia_strait
+		d_haihte
+		d_halifax
+		d_johnstone
+		d_lotusland
+		d_parks
+		d_prince_of_wales
+		d_sophia
+		d_sunshine_coast
+		d_suquash
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

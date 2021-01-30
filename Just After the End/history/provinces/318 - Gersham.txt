@@ -1,0 +1,21 @@
+# c_gersham
+
+# County Title
+title = c_gersham
+
+# Settlements
+max_settlements = 4
+
+b_gersham = castle
+b_springdale = city
+b_orient = temple
+#b_troutdale = castle
+#b_fairview = city
+#b_interlachen = temple
+#b_wood_village = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

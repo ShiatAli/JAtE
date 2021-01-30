@@ -1,0 +1,21 @@
+# c_windsor
+
+# County Title
+title = c_windsor
+
+# Settlements
+max_settlements = 5
+
+b_windsor = castle
+b_healdsburg = city
+b_geyserville = temple
+b_cloverdale = castle
+#b_kellogg = city
+#b_chiquita = temple
+#b_asti = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

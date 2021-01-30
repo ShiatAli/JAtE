@@ -1,0 +1,21 @@
+# c_chico
+
+# County Title
+title = c_chico
+
+# Settlements
+max_settlements = 4
+
+b_chico = castle
+b_gridley = city
+#b_richvale = temple
+#b_durham = castle
+#b_roble = city
+#b_barber = temple
+#b_esquon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

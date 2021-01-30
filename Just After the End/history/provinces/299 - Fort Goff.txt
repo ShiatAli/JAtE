@@ -1,0 +1,21 @@
+# c_fort_goff
+
+# County Title
+title = c_fort_goff
+
+# Settlements
+max_settlements = 3
+
+b_fort_goff = castle
+#b_seiad_valley = city
+#b_hamburg_2 = temple
+#b_scott_bar = castle
+#b_horse_creek = city
+#b_oakbar = temple
+#b_red_butte = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

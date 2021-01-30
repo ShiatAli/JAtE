@@ -1,0 +1,21 @@
+# c_lincoln
+
+# County Title
+title = c_lincoln
+
+# Settlements
+max_settlements = 4
+
+b_camino = castle
+b_cedar_grove = city
+#b_fresh_pond = temple
+#b_riverton = castle
+#b_white_hall = city
+#b_kyburz = temple
+#b_short_place = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

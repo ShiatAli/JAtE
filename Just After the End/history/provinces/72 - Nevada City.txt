@@ -1,0 +1,21 @@
+# c_nevada_city
+
+# County Title
+title = c_nevada_city
+
+# Settlements
+max_settlements = 4
+
+b_nevada_city = castle
+b_grass_valley = city
+#b_penn_valley = temple
+#b_dew_drop = castle
+#b_alta_sierra = city
+#b_glenbrook = temple
+#b_birchville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

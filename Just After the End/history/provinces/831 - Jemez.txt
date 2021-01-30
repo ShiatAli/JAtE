@@ -1,0 +1,21 @@
+# c_jemez
+
+# County Title
+title = c_jemez
+
+# Settlements
+max_settlements = 4
+
+b_jemez_pueblo = castle
+#b_zia_pueblo = city
+#b_ponderosa = temple
+#b_canon = castle
+#b_jemez_springs = city
+#b_san_ysidro_3 = temple
+#b_cucho_mesa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

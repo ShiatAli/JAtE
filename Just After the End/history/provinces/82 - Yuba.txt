@@ -1,0 +1,21 @@
+# c_yuba
+
+# County Title
+title = c_yuba
+
+# Settlements
+max_settlements = 4
+
+b_yuba_city = castle
+b_sutter = city
+#b_live_oak_2 = temple
+#b_abbott = castle
+#b_nuestro = city
+#b_sanders = temple
+#b_encinal = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

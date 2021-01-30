@@ -1,0 +1,21 @@
+# c_taft
+
+# County Title
+title = c_taft
+
+# Settlements
+max_settlements = 3
+
+b_taft = castle
+b_maricopa = city
+#b_ford_city = temple
+#b_san_emidio = castle
+#b_hazelton = city
+#b_midoil = temple
+#b_spellacy = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_fresno
+
+# County Title
+title = c_fresno
+
+# Settlements
+max_settlements = 6
+
+b_fresno = castle
+b_calwa = city
+b_clovis = temple
+b_muscatel = castle
+b_herndon = city
+#b_goldleaf = temple
+#b_malaga = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_la_rumorosa
+
+# County Title
+title = c_la_rumorosa
+
+# Settlements
+max_settlements = 3
+
+b_la_rumorosa = castle
+b_colonia_luis_echeverria = city
+#b_cienega_redonda = temple
+#b_wilberth = castle
+#b_los_lagos = city
+#b_rancho_escondido = temple
+#b_agua_hechicera = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

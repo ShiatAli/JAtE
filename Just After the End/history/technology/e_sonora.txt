@@ -1,0 +1,30 @@
+#SONORA
+technology = {
+	titles = {
+		d_badiraguato
+		d_cajeme
+		d_concordia
+		d_culiacan
+		d_el_picante
+		d_gran_hermosillo
+		d_guasave
+		d_hermasillo_occidental
+		d_heroica_caborca
+		d_las_estribaciones
+		d_los_mochis
+		d_mayo
+		d_mazatlan
+		d_opateria
+		d_sierra_madre_norte
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

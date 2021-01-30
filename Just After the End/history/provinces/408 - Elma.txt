@@ -1,0 +1,21 @@
+# c_elma
+
+# County Title
+title = c_elma
+
+# Settlements
+max_settlements = 3
+
+b_elma = castle
+#b_brady = city
+#b_satsop = temple
+#b_rayville = castle
+#b_garden_city = city
+#b_mccleary = temple
+#b_roonys = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

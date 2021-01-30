@@ -1,0 +1,21 @@
+# c_artois
+
+# County Title
+title = c_artois
+
+# Settlements
+max_settlements = 4
+
+b_artois = castle
+b_grapit = city
+#b_ordbend = temple
+#b_rotavele = castle
+#b_fruto = city
+#b_newville = temple
+#b_chrome = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

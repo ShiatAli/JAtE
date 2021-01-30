@@ -1,0 +1,21 @@
+# c_oakland
+
+# County Title
+title = c_oakland
+
+# Settlements
+max_settlements = 6
+
+b_oakland = castle
+b_alameda = city
+b_piedmont = temple
+b_rockridge = castle
+b_san_antonio = city
+#b_fruitvale = temple
+#b_montclair = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

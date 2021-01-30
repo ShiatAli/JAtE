@@ -1,0 +1,21 @@
+# c_fernley
+
+# County Title
+title = c_fernley
+
+# Settlements
+max_settlements = 3
+
+b_fernley = castle
+#b_silver_springs = city
+#b_stagecoach = temple
+#b_hazen = castle
+#b_clark = city
+#b_bango = temple
+#b_lahontan = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

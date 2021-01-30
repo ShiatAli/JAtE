@@ -1,0 +1,21 @@
+# c_kings_canyon
+
+# County Title
+title = c_kings_canyon
+
+# Settlements
+max_settlements = 2
+
+b_pinehurst = castle
+#b_grant_grove = city
+#b_hume = temple
+#b_cedar_grove_2 = castle
+#b_dunlap = city
+#b_badger = temple
+#b_red_fir = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

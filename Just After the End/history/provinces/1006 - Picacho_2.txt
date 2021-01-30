@@ -1,0 +1,21 @@
+# c_picacho_2
+
+# County Title
+title = c_picacho_2
+
+# Settlements
+max_settlements = 2
+
+b_picacho_3 = castle
+#b_obregon_2 = city
+#b_felicity_2 = temple
+#b_ogilby_2 = castle
+#b_cactus_2 = city
+#b_dunes_2 = temple
+#b_ruthven_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

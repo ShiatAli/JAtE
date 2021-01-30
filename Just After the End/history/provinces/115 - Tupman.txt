@@ -1,0 +1,21 @@
+# c_tupman
+
+# County Title
+title = c_tupman
+
+# Settlements
+max_settlements = 3
+
+b_tupman = castle
+b_tule_elk = city
+#b_buena_vista_2 = temple
+#b_millux = castle
+#b_gulf = city
+#b_conner = temple
+#b_stevens = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

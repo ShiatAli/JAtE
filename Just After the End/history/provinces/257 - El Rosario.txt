@@ -1,0 +1,21 @@
+# c_el_rosario
+
+# County Title
+title = c_el_rosario
+
+# Settlements
+max_settlements = 2
+
+b_el_rosario = castle
+#b_nuevo_uruapan = city
+#b_la_estrellita = temple
+#b_el_castillo = castle
+#b_ejido_valle_tranquilo = city
+#b_el_rosario_de_abajo = temple
+#b_la_lobera = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

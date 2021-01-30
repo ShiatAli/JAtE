@@ -1,0 +1,21 @@
+# c_long_beach
+
+# County Title
+title = c_long_beach
+
+# Settlements
+max_settlements = 4
+
+b_long_beach = castle
+b_west_side = city
+b_san_pedro = temple
+#b_belmont_2 = castle
+#b_wilmington = city
+#b_terminal = temple
+#b_the_iowa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

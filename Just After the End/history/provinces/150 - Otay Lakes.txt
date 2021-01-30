@@ -1,0 +1,21 @@
+# c_otay_lakes
+
+# County Title
+title = c_otay_lakes
+
+# Settlements
+max_settlements = 4
+
+b_otay = castle
+b_jamul = city
+b_bonita = temple
+#b_dulzura = castle
+#b_barret = city
+#b_la_presa = temple
+#b_boarder = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

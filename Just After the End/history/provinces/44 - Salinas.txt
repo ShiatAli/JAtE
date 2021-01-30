@@ -1,0 +1,21 @@
+# c_salinas
+
+# County Title
+title = c_salinas
+
+# Settlements
+max_settlements = 5
+
+b_salinas = castle
+b_prunedale = city
+b_castroville = temple
+b_moss_landing = castle
+#b_springtown = city
+#b_spreckels = temple
+#b_oak_hills = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

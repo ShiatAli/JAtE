@@ -1,0 +1,21 @@
+# c_manti
+
+# County Title
+title = c_manti
+
+# Settlements
+max_settlements = 4
+
+b_ephriam = castle
+b_manti = city
+#b_gunnison_2 = temple
+#b_centerfield = castle
+#b_mayfield = city
+#b_sterling_2 = temple
+#b_fayette = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

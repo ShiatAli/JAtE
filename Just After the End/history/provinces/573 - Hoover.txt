@@ -1,0 +1,21 @@
+# c_hoover
+
+# County Title
+title = c_hoover
+
+# Settlements
+max_settlements = 3
+
+b_meadview = castle
+#b_white_hills = city
+#b_hoover = temple
+#b_temple_bar = castle
+#b_willow_beach = city
+#b_south_cove = temple
+#b_petroglyph_bay = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

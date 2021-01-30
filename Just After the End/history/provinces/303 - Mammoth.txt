@@ -1,0 +1,21 @@
+# c_mammoth
+
+# County Title
+title = c_mammoth
+
+# Settlements
+max_settlements = 3
+
+b_mammoth = castle
+#b_tionesta = city
+#b_perez = temple
+#b_kephart = castle
+#b_newell = city
+#b_scarface = temple
+#b_whitehorse = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

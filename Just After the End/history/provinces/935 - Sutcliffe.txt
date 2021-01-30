@@ -1,0 +1,21 @@
+# c_sutcliffe
+
+# County Title
+title = c_sutcliffe
+
+# Settlements
+max_settlements = 2
+
+b_sutcliffe = castle
+#b_pyramid = city
+#b_anaho = temple
+#b_sand_pass = castle
+#b_tule = city
+#b_jigger_bobb = temple
+#b_warrior_point = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

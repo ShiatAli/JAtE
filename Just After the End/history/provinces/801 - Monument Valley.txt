@@ -1,0 +1,21 @@
+# c_monument_valley
+
+# County Title
+title = c_monument_valley
+
+# Settlements
+max_settlements = 4
+
+b_kayenta = castle
+#b_oljato = city
+#b_dennehotso = temple
+#b_chilchinbito = castle
+#b_jeddito_2 = city
+#b_halchita = temple
+#b_mexican_hat = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_rumsey
+
+# County Title
+title = c_rumsey
+
+# Settlements
+max_settlements = 4
+
+b_rumsey = castle
+b_guinda = city
+#b_tancred = temple
+#b_brooks = castle
+#b_cadenasso = city
+#b_capay = temple
+#b_esparto = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

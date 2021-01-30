@@ -1,0 +1,21 @@
+# c_hamilton_city
+
+# County Title
+title = c_hamilton_city
+
+# Settlements
+max_settlements = 4
+
+b_hamilton_city = castle
+b_mills_orchard = city
+#b_capay_2 = temple
+#b_cory = castle
+#b_wyo = city
+#b_orland_buttes = temple
+#b_orland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

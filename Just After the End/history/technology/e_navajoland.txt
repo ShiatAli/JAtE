@@ -1,0 +1,27 @@
+#NAVAJOLAND
+technology = {
+	titles = {
+		d_acoma
+		d_chinle
+		d_crownpoint
+		d_fort_defiance
+		d_hopituskwa
+		d_jicarilla
+		d_little_colorado
+		d_los_alamos
+		d_sandoval
+		d_shiprock
+		d_tuba
+		d_zuni
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

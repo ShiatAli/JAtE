@@ -1,13 +1,10 @@
-bm_terra_nullius = {
-	name = "BM_TERRA_NULLIUS"
-	desc = "BM_TERRA_NULLIUS_DESC"
-	date = 2666.1.1
+bm_battle_la = {
+	name = "BM_BATTLE_LA"
+	desc = "BM_BATTLE_LA_DESC"
+	date = 2055.11.25
 	
 	era = yes
-	picture = GFX_pick_era_image_5
+	picture = GFX_pick_era_image_1
 	custom_start = yes
-	
-	selectable_character = {
-		id = 12 # 
-	}
+
 }

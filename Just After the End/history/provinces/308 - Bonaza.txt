@@ -1,0 +1,21 @@
+# c_bonaza
+
+# County Title
+title = c_bonaza
+
+# Settlements
+max_settlements = 3
+
+b_bonaza = castle
+#b_dairy = city
+#b_yonna = temple
+#b_hildebrand = castle
+#b_lorella = city
+#b_hot_springs = temple
+#b_langell_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

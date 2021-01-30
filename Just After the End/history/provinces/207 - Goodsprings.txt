@@ -1,0 +1,21 @@
+# c_goodsprings
+
+# County Title
+title = c_goodsprings
+
+# Settlements
+max_settlements = 2
+
+b_goodsprings = castle
+#b_jean = city
+#b_roach = temple
+#b_primm = castle
+#b_sandy_valley = city
+#b_sloan = temple
+#b_shenandoah = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,11 @@
+song = {
+	name = "Zero 7 - Simple Things.ogg"
+	song_name = "Simple Things"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+	volume = 0.48
+}

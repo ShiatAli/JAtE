@@ -1,0 +1,21 @@
+# c_hollywood
+
+# County Title
+title = c_hollywood
+
+# Settlements
+max_settlements = 4
+
+b_hollywood_hills = castle
+b_santa_monica_2 = city
+b_marina_del_rey = temple
+#b_beverleys_hills = castle
+#b_culver = city
+#b_brentwood_2 = temple
+#b_venice_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

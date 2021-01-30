@@ -1,0 +1,21 @@
+# c_thompson
+
+# County Title
+title = c_thompson
+
+# Settlements
+max_settlements = 3
+
+b_thompson = castle
+b_lacey = city
+#b_union_mill = temple
+#b_south_bay = castle
+#b_boston_harbor = city
+#b_puget = temple
+#b_beachcrest = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

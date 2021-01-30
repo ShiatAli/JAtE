@@ -1,0 +1,21 @@
+# c_san_mateo
+
+# County Title
+title = c_san_mateo
+
+# Settlements
+max_settlements = 6
+
+b_san_mateo = castle
+b_south_san_francisco = city
+b_daly_city = temple
+b_san_bruno = castle
+b_millbrae = city
+#b_burlingame = temple
+#b_brisbane = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

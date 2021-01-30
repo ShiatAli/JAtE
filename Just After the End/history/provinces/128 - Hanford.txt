@@ -1,0 +1,21 @@
+# c_hanford
+
+# County Title
+title = c_hanford
+
+# Settlements
+max_settlements = 4
+
+b_hanford = castle
+b_grangeville = city
+b_lucerne = temple
+#b_pitco = castle
+#b_remnoy = city
+#b_guernsey = temple
+#b_armona = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

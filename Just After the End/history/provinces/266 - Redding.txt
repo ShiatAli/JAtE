@@ -1,0 +1,21 @@
+# c_redding
+
+# County Title
+title = c_redding
+
+# Settlements
+max_settlements = 4
+
+b_redding = castle
+b_bella_vista = city
+b_portal_inn = temple
+#b_anderson = castle
+#b_cottonwood_4 = city
+#b_shasta = temple
+#b_palo_cedro = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

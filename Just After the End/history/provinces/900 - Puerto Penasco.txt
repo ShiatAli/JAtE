@@ -1,0 +1,21 @@
+# c_puerto_penasco
+
+# County Title
+title = c_puerto_penasco
+
+# Settlements
+max_settlements = 4
+
+b_puerto_penasco = castle
+#b_la_choya = city
+#b_las_conchas = temple
+#b_alfredo_lopez_aceves = castle
+#b_arturo_soto = city
+#b_ejido_san_rafael = temple
+#b_las_sinitas = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

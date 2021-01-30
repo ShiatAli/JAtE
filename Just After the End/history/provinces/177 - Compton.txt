@@ -1,0 +1,21 @@
+# c_compton
+
+# County Title
+title = c_compton
+
+# Settlements
+max_settlements = 3
+
+b_compton = castle
+b_inglewood = city
+#b_torrance = temple
+#b_norwalk = castle
+#b_whittier = city
+#b_lynwood = temple
+#b_lakewood = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

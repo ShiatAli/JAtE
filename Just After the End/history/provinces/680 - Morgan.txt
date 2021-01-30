@@ -1,0 +1,21 @@
+# c_morgan
+
+# County Title
+title = c_morgan
+
+# Settlements
+max_settlements = 3
+
+b_morgan = castle
+#b_mountain_green = city
+#b_coalville = temple
+#b_hoytsville = castle
+#b_henefer = city
+#b_echo_2 = temple
+#b_peterson = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

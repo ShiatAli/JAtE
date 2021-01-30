@@ -1,0 +1,21 @@
+# c_bellevue
+
+# County Title
+title = c_bellevue
+
+# Settlements
+max_settlements = 4
+
+b_bellevue_2 = castle
+b_redmond = city
+b_kirkland = temple
+#b_kenmore = castle
+#b_woodinville = city
+#b_bothell = temple
+#b_factoria = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

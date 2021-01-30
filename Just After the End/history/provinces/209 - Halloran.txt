@@ -1,0 +1,21 @@
+# c_halloran
+
+# County Title
+title = c_halloran
+
+# Settlements
+max_settlements = 3
+
+b_halloran = castle
+b_baker = city
+#b_renoville = temple
+#b_valean = castle
+#b_mountain_pass = city
+#b_cima = temple
+#b_chase = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

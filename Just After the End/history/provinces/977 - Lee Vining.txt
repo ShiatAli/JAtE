@@ -1,0 +1,21 @@
+# c_lee_vining
+
+# County Title
+title = c_lee_vining
+
+# Settlements
+max_settlements = 3
+
+b_lee_vining = castle
+b_mono_mills = city
+#b_june_lake = temple
+#b_williams_butte = castle
+#b_cowtrack = city
+#b_granite_mountain = temple
+#b_sagehen = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

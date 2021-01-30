@@ -1,0 +1,21 @@
+# c_bernalillo
+
+# County Title
+title = c_bernalillo
+
+# Settlements
+max_settlements = 5
+
+b_albequerque = castle
+#b_south_valley = city
+#b_north_valley = temple
+#b_los_ranchos = castle
+#b_paradise_hills = city
+#b_carnuel = temple
+#b_cedar_crest = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_battle_ground
+
+# County Title
+title = c_battle_ground
+
+# Settlements
+max_settlements = 3
+
+b_battle_ground = castle
+b_cherry_grove = city
+#b_ridgefield = temple
+#b_charter_oak = castle
+#b_hockinson = city
+#b_lewisville_2 = temple
+#b_heisson = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

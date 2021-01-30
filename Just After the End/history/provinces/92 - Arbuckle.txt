@@ -1,0 +1,21 @@
+# c_arbuckle
+
+# County Title
+title = c_arbuckle
+
+# Settlements
+max_settlements = 4
+
+b_arbuckle = castle
+b_harrington = city
+#b_graino = temple
+#b_grimes = castle
+#b_genevra = city
+#b_college_city = temple
+#b_grand_island = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

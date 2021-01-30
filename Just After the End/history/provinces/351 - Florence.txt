@@ -1,0 +1,21 @@
+# c_florence
+
+# County Title
+title = c_florence
+
+# Settlements
+max_settlements = 4
+
+b_florence = castle
+b_glenada = city
+#b_cushman = temple
+#b_hecata_beach = castle
+#b_sutton = city
+#b_tiernan = temple
+#b_acme = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

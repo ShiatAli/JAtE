@@ -1,0 +1,21 @@
+# c_blackfoot
+
+# County Title
+title = c_blackfoot
+
+# Settlements
+max_settlements = 4
+
+b_blackfoot = castle
+#b_shelley = city
+#b_moreland = temple
+#b_groveland_2 = castle
+#b_riverside_5 = city
+#b_firth = temple
+#b_basalt_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

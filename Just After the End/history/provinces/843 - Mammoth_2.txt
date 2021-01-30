@@ -1,0 +1,21 @@
+# c_mammoth_2
+
+# County Title
+title = c_mammoth_2
+
+# Settlements
+max_settlements = 3
+
+b_cooke_city = castle
+#b_mammoth_springs = city
+#b_devils_den = temple
+#b_yanceys = castle
+#b_tower_junction = city
+#b_lamar = temple
+#b_tower_falls = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_darrington
+
+# County Title
+title = c_darrington
+
+# Settlements
+max_settlements = 3
+
+b_darington = castle
+b_mansford = city
+#b_tulkers = temple
+#b_oso = castle
+#b_white_horse = city
+#b_boulder_river = temple
+#b_old_sauk = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

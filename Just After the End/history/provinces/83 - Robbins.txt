@@ -1,0 +1,21 @@
+# c_robbins
+
+# County Title
+title = c_robbins
+
+# Settlements
+max_settlements = 4
+
+b_robbins = castle
+b_kirkville = city
+#b_subaco = temple
+#b_cranmore = castle
+#b_everglade = city
+#b_ensley = temple
+#b_marchant = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

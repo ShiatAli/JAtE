@@ -1,0 +1,21 @@
+# c_josephine
+
+# County Title
+title = c_josephine
+
+# Settlements
+max_settlements = 3
+
+b_grant_pass = castle
+#b_provolt = city
+#b_murphy = temple
+#b_applegate = castle
+#b_new_hope = city
+#b_selma_2 = temple
+#b_wonder = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

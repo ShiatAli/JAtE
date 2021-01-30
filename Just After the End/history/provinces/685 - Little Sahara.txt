@@ -1,0 +1,21 @@
+# c_little_sahara
+
+# County Title
+title = c_little_sahara
+
+# Settlements
+max_settlements = 3
+
+b_leamington = castle
+#b_lynndyl = city
+#b_eureka_3 = temple
+#b_oak_city = castle
+#b_mammoth_3 = city
+#b_fool_creek = temple
+#b_silver_city_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

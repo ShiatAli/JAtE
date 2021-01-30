@@ -1,0 +1,21 @@
+# c_denver
+
+# County Title
+title = c_denver
+
+# Settlements
+max_settlements = 6
+
+b_civic_center = castle
+#b_five_points_2 = city
+#b_commerce_city = temple
+#b_glendale_5 = castle
+#b_auraria = city
+#b_hampden = temple
+#b_park_hill = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_temecula
+
+# County Title
+title = c_temecula
+
+# Settlements
+max_settlements = 4
+
+b_temecula = castle
+b_elsinore = city
+b_murietta_2 = temple
+#b_wildomar = castle
+#b_dutch = city
+#b_alberhill_2 = temple
+#b_menifee = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

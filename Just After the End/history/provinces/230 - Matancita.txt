@@ -1,0 +1,21 @@
+# c_matancita
+
+# County Title
+title = c_matancita
+
+# Settlements
+max_settlements = 4
+
+b_la_matancita = castle
+b_adolfo_lopez_mateos = city
+b_isla_magdalena = temple
+#b_santo_domingo = castle
+#b_ciudad_de_la_magdalena = city
+#b_villa_hidalgo = temple
+#b_ramaditas = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

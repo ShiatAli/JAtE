@@ -1,0 +1,21 @@
+# c_willow
+
+# County Title
+title = c_willow
+
+# Settlements
+max_settlements = 4
+
+b_willows = castle
+b_glenn = city
+#b_loganville = temple
+#b_norman = castle
+#b_bluegum = city
+#b_glenn_2 = temple
+#b_codora = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

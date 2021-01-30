@@ -1,0 +1,21 @@
+# c_rockport_2
+
+# County Title
+title = c_rockport_2
+
+# Settlements
+max_settlements = 3
+
+b_rockport_2 = castle
+b_corkindale = city
+#b_marblemount = temple
+#b_newhalem = castle
+#b_diablo_2 = city
+#b_marten = temple
+#b_ross = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_rosewood
+
+# County Title
+title = c_rosewood
+
+# Settlements
+max_settlements = 2
+
+b_rosewood = castle
+#b_hooker = city
+#b_fowler_place = temple
+#b_pettyjohn_place = castle
+#b_saunders_place = city
+#b_brown_place = temple
+#b_lowrey = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

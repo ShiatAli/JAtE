@@ -1,0 +1,21 @@
+# c_wendover
+
+# County Title
+title = c_wendover
+
+# Settlements
+max_settlements = 2
+
+b_wendover = castle
+#b_proctor = city
+#b_silver_zone = temple
+#b_leppy = castle
+#b_leadmine = city
+#b_white_horse_2 = temple
+#b_toano = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

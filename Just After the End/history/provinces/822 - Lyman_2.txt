@@ -1,0 +1,21 @@
+# c_lyman_2
+
+# County Title
+title = c_lyman_2
+
+# Settlements
+max_settlements = 3
+
+b_eagar = castle
+#b_st_johns = city
+#b_springerville = temple
+#b_vernon_4 = castle
+#b_concho = city
+#b_mesita_blanca = temple
+#b_cienega_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

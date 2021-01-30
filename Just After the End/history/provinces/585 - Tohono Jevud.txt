@@ -1,0 +1,21 @@
+# c_tohono_jevud
+
+# County Title
+title = c_tohono_jevud
+
+# Settlements
+max_settlements = 4
+
+b_sells = castle
+#b_topawa = city
+#b_chuichu  = temple
+#b_pisinemo = castle
+#b_san_miguel_3 = city
+#b_ali_molina = temple
+#b_kohatk = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

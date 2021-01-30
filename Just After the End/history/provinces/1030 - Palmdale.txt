@@ -1,0 +1,21 @@
+# c_palmdale
+
+# County Title
+title = c_palmdale
+
+# Settlements
+max_settlements = 4
+
+b_palmdale = castle
+b_lakeview_4 = city
+b_little_rock = temple
+#b_acton = castle
+#b_pearland = city
+#b_vincent = temple
+#b_ravenna = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

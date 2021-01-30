@@ -1,0 +1,21 @@
+# c_nespelem
+
+# County Title
+title = c_nespelem
+
+# Settlements
+max_settlements = 2
+
+b_nespelem = castle
+#b_keller = city
+#b_mason_city = temple
+#b_elmer_city = castle
+#b_coulee = city
+#b_disautel = temple
+#b_aeneas = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

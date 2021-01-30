@@ -1,0 +1,21 @@
+# c_los_banos
+
+# County Title
+title = c_los_banos
+
+# Settlements
+max_settlements = 4
+
+b_los_banos = castle
+b_trent = city
+b_volta = temple
+#b_brito = castle
+#b_dos_palos = city
+#b_oro_loma = temple
+#b_meadowland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

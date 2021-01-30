@@ -1,0 +1,21 @@
+# c_mendocino
+
+# County Title
+title = c_mendocino
+
+# Settlements
+max_settlements = 3
+
+b_mendicino = castle
+b_little_river = city
+#b_casper = temple
+#b_albion = castle
+#b_elk = city
+#b_whitesboro = temple
+#b_point_cabrillo = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

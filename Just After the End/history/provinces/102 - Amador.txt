@@ -1,0 +1,21 @@
+# c_amador
+
+# County Title
+title = c_amador
+
+# Settlements
+max_settlements = 2
+
+b_amador_city = castle
+#b_scottsville = city
+#b_fiddletown = temple
+#b_plymouth = castle
+#b_buena_vista = city
+#b_dagon = temple
+#b_sutter_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_goshen
+
+# County Title
+title = c_goshen
+
+# Settlements
+max_settlements = 3
+
+b_goshen_3 = castle
+#b_elberta = city
+#b_genola = temple
+#b_mosida = castle
+#b_little_moab = city
+#b_pinyon = temple
+#b_nothing = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

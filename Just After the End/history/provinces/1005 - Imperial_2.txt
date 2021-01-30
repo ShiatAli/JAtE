@@ -1,0 +1,21 @@
+# c_imperial_2
+
+# County Title
+title = c_imperial_2
+
+# Settlements
+max_settlements = 4
+
+b_imperial_2 = castle
+b_calexico_3 = city
+b_dixieland_2 = temple
+#b_date_city_2 = castle
+#b_sandia_3 = city
+#b_plaster_city_2 = temple
+#b_heber_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

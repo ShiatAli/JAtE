@@ -1,0 +1,21 @@
+# c_san_ignacio
+
+# County Title
+title = c_san_ignacio
+
+# Settlements
+max_settlements = 2
+
+b_san_ignacio_3 = castle
+#b_dimas = city
+#b_piaxtla_de_abajo = temple
+#b_coyotitan = castle
+#b_duranguito = city
+#b_san_juan_3 = temple
+#b_barras_de_piaxtla = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_pahrump
+
+# County Title
+title = c_pahrump
+
+# Settlements
+max_settlements = 2
+
+b_pahrump = castle
+#b_johnnie = city
+#b_mountain_springs = temple
+#b_evelyn = castle
+#b_mt_stirling = city
+#b_shoshone = temple
+#b_charleston = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

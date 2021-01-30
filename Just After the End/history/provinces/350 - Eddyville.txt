@@ -1,0 +1,21 @@
+# c_eddyville
+
+# County Title
+title = c_eddyville
+
+# Settlements
+max_settlements = 3
+
+b_eddyville = castle
+#b_chitwood = city
+#b_nortons = temple
+#b_logsden = castle
+#b_nashville = city
+#b_blodgett = temple
+#b_summit = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

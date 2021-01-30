@@ -1,0 +1,21 @@
+# c_san_rafael
+
+# County Title
+title = c_san_rafael
+
+# Settlements
+max_settlements = 6
+
+b_san_rafael = castle
+b_san_quentin = city
+b_lakespur = temple
+b_corte_madera = castle
+b_mill_valley = city
+#b_marin_city = temple
+#b_sausalito = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

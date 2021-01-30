@@ -1,0 +1,21 @@
+# c_pima
+
+# County Title
+title = c_pima
+
+# Settlements
+max_settlements = 5
+
+b_tuscon = castle
+#b_casa_adobes = city
+#b_oro_valley = temple
+#b_sahuarita = castle
+#b_green_valley = city
+#b_flowing_wells = temple
+#b_tanque_verde = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

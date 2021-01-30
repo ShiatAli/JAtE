@@ -1,0 +1,21 @@
+# c_wheeler
+
+# County Title
+title = c_wheeler
+
+# Settlements
+max_settlements = 2
+
+b_wheeler = castle
+#b_ojala = city
+#b_oak_view_2 = temple
+#b_mira_monte = castle
+#b_mission_canyon = city
+#b_hines = temple
+#b_maricopa_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

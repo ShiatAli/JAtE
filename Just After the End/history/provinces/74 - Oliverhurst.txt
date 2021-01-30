@@ -1,0 +1,21 @@
+# c_oliverhurst
+
+# County Title
+title = c_oliverhurst
+
+# Settlements
+max_settlements = 4
+
+b_oliverhurst = castle
+b_iowa_city = city
+#b_linda = temple
+#b_loma_rica = castle
+#b_honcut = city
+#b_bangor = temple
+#b_horstville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

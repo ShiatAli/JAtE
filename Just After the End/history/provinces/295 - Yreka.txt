@@ -1,0 +1,21 @@
+# c_yreka
+
+# County Title
+title = c_yreka
+
+# Settlements
+max_settlements = 3
+
+b_yreka = castle
+b_montague = city
+#b_grenada = temple
+#b_gazelle = castle
+#b_edgewood = city
+#b_carrick = temple
+#b_weed = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

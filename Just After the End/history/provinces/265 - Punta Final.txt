@@ -1,0 +1,21 @@
+# c_punta_final
+
+# County Title
+title = c_punta_final
+
+# Settlements
+max_settlements = 2
+
+b_punta_final = castle
+#b_bufeo = city
+#b_san_antonio_de_las_minas = temple
+#b_molino_lacy = castle
+#b_el_numero_rojo = city
+#b_alfonsinas = temple
+#b_san_luis_gonzaga = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

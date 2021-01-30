@@ -1,0 +1,21 @@
+# c_millerton
+
+# County Title
+title = c_millerton
+
+# Settlements
+max_settlements = 4
+
+b_friant = castle
+b_sumner_hill = city
+b_prather = temple
+#b_auberry = castle
+#b_new_auberry = city
+#b_tollhouse = temple
+#b_alder_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

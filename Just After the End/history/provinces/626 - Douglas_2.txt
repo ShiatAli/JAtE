@@ -1,0 +1,21 @@
+# c_douglas_2
+
+# County Title
+title = c_douglas_2
+
+# Settlements
+max_settlements = 4
+
+b_castle_rock_2 = castle
+#b_parker_3 = city
+#b_castle_pines = temple
+#b_lone_tree = castle
+#b_meridian_3 = city
+#b_larkspur = temple
+#b_sedalia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

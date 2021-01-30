@@ -1,0 +1,21 @@
+# c_san_evaristo
+
+# County Title
+title = c_san_evaristo
+
+# Settlements
+max_settlements = 3
+
+b_san_evaristo = castle
+b_rancho = city
+#b_la_purificacion = temple
+#b_isla_san_jose = castle
+#b_punta_coyote = city
+#b_el_portugues = temple
+#b_san_mateo_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

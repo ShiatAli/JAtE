@@ -1,0 +1,21 @@
+# c_platina
+
+# County Title
+title = c_platina
+
+# Settlements
+max_settlements = 3
+
+b_platina = castle
+#b_beegum = city
+#b_ono = temple
+#b_igo = castle
+#b_gas_point = city
+#b_centerville_2 = temple
+#b_whiskeytown = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

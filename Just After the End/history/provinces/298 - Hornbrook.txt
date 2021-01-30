@@ -1,0 +1,21 @@
+# c_hornbrook
+
+# County Title
+title = c_hornbrook
+
+# Settlements
+max_settlements = 3
+
+b_hornbrook = castle
+#b_ager = city
+#b_hilt = temple
+#b_copco = castle
+#b_cottonwood_peak = city
+#b_cole = temple
+#b_collier = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

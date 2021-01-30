@@ -1,0 +1,21 @@
+# c_badwater
+
+# County Title
+title = c_badwater
+
+# Settlements
+max_settlements = 2
+
+b_badwater = castle
+#b_funeral_peak = city
+#b_sidewinder_canyon = temple
+#b_gold_hill_2 = castle
+#b_warm_springs_4 = city
+#b_smith_mountain = temple
+#b_greenwater_range = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

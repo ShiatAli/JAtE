@@ -1,0 +1,21 @@
+# c_diablo_grande
+
+# County Title
+title = c_diablo_grande
+
+# Settlements
+max_settlements = 2
+
+b_diablo_grande = castle
+#b_patterson = city
+#b_westley = temple
+#b_grayson = castle
+#b_jet = city
+#b_san_antonio_valley = temple
+#b_second_lift = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_gunnison
+
+# County Title
+title = c_gunnison
+
+# Settlements
+max_settlements = 2
+
+b_gunnison = castle
+#b_crested_butte = city
+#b_mount_crested_butte = temple
+#b_pitkin = castle
+#b_almont = city
+#b_dolyeville = temple
+#b_ohio_city = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_oroville_2
+
+# County Title
+title = c_oroville_2
+
+# Settlements
+max_settlements = 2
+
+b_oroville_2 = castle
+#b_cordell = city
+#b_havillah = temple
+#b_wauconda = castle
+#b_chesaw = city
+#b_molson = temple
+#b_simikameen = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

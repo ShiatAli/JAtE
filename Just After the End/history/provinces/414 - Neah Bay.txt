@@ -1,0 +1,21 @@
+# c_neah_bay
+
+# County Title
+title = c_neah_bay
+
+# Settlements
+max_settlements = 3
+
+b_neah_bay = castle
+#b_waatch = city
+#b_classet = temple
+#b_sekiu = castle
+#b_pysht = city
+#b_sappho = temple
+#b_old_royal = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

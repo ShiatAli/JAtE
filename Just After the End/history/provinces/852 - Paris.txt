@@ -1,0 +1,21 @@
+# c_paris
+
+# County Title
+title = c_paris
+
+# Settlements
+max_settlements = 3
+
+b_paris = castle
+b_liberty_2 = city
+#b_ovid = temple
+#b_bloomington = castle
+#b_st_charles = city
+#b_fish_haven = temple
+#b_garden_city_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

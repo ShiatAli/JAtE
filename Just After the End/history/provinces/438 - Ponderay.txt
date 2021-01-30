@@ -1,0 +1,21 @@
+# c_ponderay
+
+# County Title
+title = c_ponderay
+
+# Settlements
+max_settlements = 2
+
+b_ponderay = castle
+#b_sandpoint = city
+#b_priest_river = temple
+#b_sagle = castle
+#b_westmond = city
+#b_kootenai = temple
+#b_samuel = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

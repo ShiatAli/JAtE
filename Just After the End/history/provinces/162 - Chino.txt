@@ -1,0 +1,21 @@
+# c_chino
+
+# County Title
+title = c_chino
+
+# Settlements
+max_settlements = 3
+
+b_chino = castle
+b_pomona = city
+#b_placentia = temple
+#b_prado = castle
+#b_corona = city
+#b_mira_loma = temple
+#b_yorba_linda = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

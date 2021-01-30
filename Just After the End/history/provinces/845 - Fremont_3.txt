@@ -1,0 +1,21 @@
+# c_fremont_3
+
+# County Title
+title = c_fremont_3
+
+# Settlements
+max_settlements = 3
+
+b_st_anthony = castle
+b_wilford = city
+#b_parker_4 = temple
+#b_hermin = castle
+#b_egin = city
+#b_twin_groves = temple
+#b_chester_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

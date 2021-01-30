@@ -1,0 +1,21 @@
+# c_eagle_valley
+
+# County Title
+title = c_eagle_valley
+
+# Settlements
+max_settlements = 3
+
+b_eagle_point = castle
+#b_white_city = city
+#b_brownsboro = temple
+#b_lakecreek = castle
+#b_shady_cove = city
+#b_table_rock = temple
+#b_beagle = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

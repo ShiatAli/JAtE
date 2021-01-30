@@ -1,0 +1,21 @@
+# c_soledad
+
+# County Title
+title = c_soledad
+
+# Settlements
+max_settlements = 6
+
+b_soledad = castle
+b_mission_soledad = city
+b_metz = temple
+#b_harlem = castle
+#b_fort_romie = city
+#b_camphora = temple
+#b_byrant_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

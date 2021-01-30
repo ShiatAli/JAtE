@@ -1,0 +1,21 @@
+# c_susanville
+
+# County Title
+title = c_susanville
+
+# Settlements
+max_settlements = 3
+
+b_susanville = castle
+b_janeville = city
+#b_herlong = temple
+#b_stacy = castle
+#b_standish = city
+#b_viewland = temple
+#b_belfast = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

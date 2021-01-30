@@ -1,0 +1,21 @@
+# c_pine_grove
+
+# County Title
+title = c_pine_grove
+
+# Settlements
+max_settlements = 2
+
+b_pine_grove_2 = castle
+#b_wichman = city
+#b_bald_mountain = temple
+#b_belfort = castle
+#b_grant_4 = city
+#b_corey = temple
+#b_big_indian_mountain = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

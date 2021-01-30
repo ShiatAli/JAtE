@@ -1,0 +1,21 @@
+# c_enumclaw
+
+# County Title
+title = c_enumclaw
+
+# Settlements
+max_settlements = 3
+
+b_enumclaw = castle
+b_payallup = city
+#b_sumner = temple
+#b_orting = castle
+#b_buckley = city
+#b_krain = temple
+#b_greenwater = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

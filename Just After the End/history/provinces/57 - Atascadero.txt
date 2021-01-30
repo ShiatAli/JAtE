@@ -1,0 +1,21 @@
+# c_atascadero
+
+# County Title
+title = c_atascadero
+
+# Settlements
+max_settlements = 6
+
+b_atascadero = castle
+b_templeton = city
+b_creston = temple
+b_paso_robles = castle
+b_san_miguel = city
+#b_shandon = temple
+#b_cholame = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

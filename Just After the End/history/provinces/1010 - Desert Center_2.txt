@@ -1,0 +1,21 @@
+# c_desert_center_2
+
+# County Title
+title = c_desert_center_2
+
+# Settlements
+max_settlements = 2
+
+b_desert_center_2 = castle
+#b_hayfield_2 = city
+#b_eagle_mountain_3 = temple
+#b_corn_spring_2 = castle
+#b_tamarisk_2 = city
+#b_chiriaco_2 = temple
+#b_shadow_way_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

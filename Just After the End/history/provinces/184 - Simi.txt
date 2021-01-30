@@ -1,0 +1,21 @@
+# c_simi
+
+# County Title
+title = c_simi
+
+# Settlements
+max_settlements = 3
+
+b_simi = castle
+b_moorpark = city
+#b_somis = temple
+#b_reagan = castle
+#b_marr_range = city
+#b_santa_susana = temple
+#b_filmore = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

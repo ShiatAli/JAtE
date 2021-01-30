@@ -1,0 +1,21 @@
+# c_san_felipe
+
+# County Title
+title = c_san_felipe
+
+# Settlements
+max_settlements = 4
+
+b_san_felipe_2 = castle
+b_pacheco_pass = city
+#b_casa_de_carousel = temple
+#b_casa_de_fruta = castle
+#b_leal = city
+#b_elephant_head_creek = temple
+#b_harper_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

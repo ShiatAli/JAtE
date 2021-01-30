@@ -1,0 +1,21 @@
+# c_berkeley
+
+# County Title
+title = c_berkeley
+
+# Settlements
+max_settlements = 6
+
+b_berkeley = castle
+b_albany = city
+b_emeryville = temple
+b_southside = castle
+b_elmwood = city
+#b_claremont = temple
+#b_westbrae = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

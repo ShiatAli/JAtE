@@ -1,0 +1,21 @@
+# c_moreno
+
+# County Title
+title = c_moreno
+
+# Settlements
+max_settlements = 3
+
+b_moreno = castle
+b_edgemont = city
+#b_mission_grove = temple
+#b_march_air = castle
+#b_woodcrest = city
+#b_lake_perris = temple
+#b_arnold_heights = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

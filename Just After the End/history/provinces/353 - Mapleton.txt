@@ -1,0 +1,21 @@
+# c_mapleton
+
+# County Title
+title = c_mapleton
+
+# Settlements
+max_settlements = 3
+
+b_mapleton = castle
+b_rainrock = city
+#b_swisshome = temple
+#b_walton = castle
+#b_veneta = city
+#b_elmira_2 = temple
+#b_noti = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

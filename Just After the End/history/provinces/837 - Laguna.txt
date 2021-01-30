@@ -1,0 +1,21 @@
+# c_laguna
+
+# County Title
+title = c_laguna
+
+# Settlements
+max_settlements = 3
+
+b_laguna_2 = castle
+#b_metisa = city
+#b_paraje = temple
+#b_seama = castle
+#b_paguate = city
+#b_encinal_2 = temple
+#b_seboyeta = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

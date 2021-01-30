@@ -1,0 +1,21 @@
+# c_ruby_valley
+
+# County Title
+title = c_ruby_valley
+
+# Settlements
+max_settlements = 2
+
+b_ruby_valley = castle
+#b_arthur = city
+#b_hankins = temple
+#b_franklin_lake = castle
+#b_tipton = city
+#b_pearl_peak = temple
+#b_shanty = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

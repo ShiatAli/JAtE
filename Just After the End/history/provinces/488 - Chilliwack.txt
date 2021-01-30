@@ -1,0 +1,21 @@
+# c_chilliwack
+
+# County Title
+title = c_chilliwack
+
+# Settlements
+max_settlements = 3
+
+b_chilliwack = castle
+b_sardis = city
+#b_atchelitz = temple
+#b_deroche = castle
+#b_lake_errock = city
+#b_agassiz = temple
+#b_popkum = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

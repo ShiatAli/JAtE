@@ -1,0 +1,21 @@
+# c_fair_harbour
+
+# County Title
+title = c_fair_harbour
+
+# Settlements
+max_settlements = 2
+
+b_fair_harbour = castle
+#b_zeballos = city
+#b_woss = temple
+#b_union_island = castle
+#b_catala = city
+#b_hohoae_island = temple
+#b_whiteley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

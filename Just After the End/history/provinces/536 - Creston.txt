@@ -1,0 +1,21 @@
+# c_creston
+
+# County Title
+title = c_creston
+
+# Settlements
+max_settlements = 3
+
+b_creston_4 = castle
+#b_wynndel = city
+#b_erickson = temple
+#b_lister = castle
+#b_canyon = city
+#b_eastport_2 = temple
+#b_yahk = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

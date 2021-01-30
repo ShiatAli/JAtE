@@ -1,0 +1,21 @@
+# c_thousand_oaks
+
+# County Title
+title = c_thousand_oaks
+
+# Settlements
+max_settlements = 3
+
+b_thousand_oaks = castle
+b_malibu = city
+#b_calabasas = temple
+#b_hidden_hills = castle
+#b_monte_nido = city
+#b_newbury = temple
+#b_agoura = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

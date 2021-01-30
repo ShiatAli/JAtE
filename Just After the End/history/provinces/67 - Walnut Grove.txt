@@ -1,0 +1,21 @@
+# c_walnut_grove
+
+# County Title
+title = c_walnut_grove
+
+# Settlements
+max_settlements = 4
+
+b_consumnes = castle
+b_rydes = city
+#b_vorden = temple
+#b_isleton = castle
+#b_mackenson = city
+#b_emmaton = temple
+#b_courtland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

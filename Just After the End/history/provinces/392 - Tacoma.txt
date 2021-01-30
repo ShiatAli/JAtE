@@ -1,0 +1,21 @@
+# c_tacoma
+
+# County Title
+title = c_tacoma
+
+# Settlements
+max_settlements = 4
+
+b_tacoma = castle
+b_ruston = city
+b_lakewood_2 = temple
+#b_fircrest = castle
+#b_university_place = city
+#b_stellacoom = temple
+#b_camp_murray = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

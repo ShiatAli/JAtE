@@ -1,0 +1,21 @@
+# c_jerome
+
+# County Title
+title = c_jerome
+
+# Settlements
+max_settlements = 3
+
+b_jerome = castle
+#b_hazelton_2 = city
+#b_eden_3 = temple
+#b_hunt = castle
+#b_greenwood_5 = city
+#b_falls_city = temple
+#b_clover_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

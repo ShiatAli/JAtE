@@ -1,0 +1,21 @@
+# c_monterey
+
+# County Title
+title = c_monterey
+
+# Settlements
+max_settlements = 5
+
+b_monterey = castle
+b_seaside = city
+b_marina = temple
+#b_pacific_grove = castle
+#b_del_rey_oaks = city
+#b_corral_de_tierra = temple
+#b_neponset = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

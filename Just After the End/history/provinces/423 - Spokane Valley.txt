@@ -1,0 +1,21 @@
+# c_spokane_valley
+
+# County Title
+title = c_spokane_valley
+
+# Settlements
+max_settlements = 3
+
+b_spokane_valley = castle
+b_miliwood = city
+#b_pasadena_park = temple
+#b_veradale = castle
+#b_dishman = city
+#b_liberty_lake = temple
+#b_hutton = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

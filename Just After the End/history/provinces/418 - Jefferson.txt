@@ -1,0 +1,21 @@
+# c_jefferson
+
+# County Title
+title = c_jefferson
+
+# Settlements
+max_settlements = 3
+
+b_port_townsend = castle
+b_glen_cove = city
+#b_marrowstone = temple
+#b_port_hadlock_irondale = castle
+#b_chimacum = city
+#b_port_ludlow = temple
+#b_bridgeheaven = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

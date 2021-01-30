@@ -1,0 +1,21 @@
+# c_poulsbo
+
+# County Title
+title = c_poulsbo
+
+# Settlements
+max_settlements = 3
+
+b_poulsbo = castle
+b_keyport = city
+#b_bangor_2 = temple
+#b_briedablick = castle
+#b_bainbridge = city
+#b_suquamish = temple
+#b_hansville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_south_lake
+
+# County Title
+title = c_south_lake
+
+# Settlements
+max_settlements = 4
+
+b_middletown = castle
+b_hidden_lake = city
+b_clearlake = temple
+#b_lower_lake = castle
+#b_clearlake_oaks = city
+#b_sunrise_vista = temple
+#b_loch_lomond = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

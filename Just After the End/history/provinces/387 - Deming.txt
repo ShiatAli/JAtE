@@ -1,0 +1,21 @@
+# c_deming
+
+# County Title
+title = c_deming
+
+# Settlements
+max_settlements = 3
+
+b_deming = castle
+b_nugents_corner = city
+#b_van_zandt = temple
+#b_acme_2 = castle
+#b_saxon_2 = city
+#b_wickersham = temple
+#b_kendall = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

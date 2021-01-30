@@ -1,0 +1,21 @@
+# c_ukiah
+
+# County Title
+title = c_ukiah
+
+# Settlements
+max_settlements = 3
+
+b_ukiah = castle
+b_talmage = city
+#b_regina_heights = temple
+#b_presswood = castle
+#b_the_forks = city
+#b_calpella = temple
+#b_vichy_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

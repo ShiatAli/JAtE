@@ -1,0 +1,21 @@
+# c_aberdeen
+
+# County Title
+title = c_aberdeen
+
+# Settlements
+max_settlements = 3
+
+b_aberdeen = castle
+b_melbourne = city
+#b_hoquiam = temple
+#b_montesano = castle
+#b_central_park = city
+#b_cosmopolis = temple
+#b_artic = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,28 @@
+#ARIXO
+technology = {
+	titles = {
+		d_ahwe_nyava
+		d_cochise
+		d_coconino
+		d_gila
+		d_hidalgo
+		d_luna
+		d_mead
+		d_mogollon
+		d_mohave
+		d_phoenix
+		d_two_sun
+		d_yavapai
+		d_yuma
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

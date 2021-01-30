@@ -1,0 +1,21 @@
+# c_carnation
+
+# County Title
+title = c_carnation
+
+# Settlements
+max_settlements = 3
+
+b_carnation = castle
+b_novelty = city
+#b_duvall = temple
+#b_fall_city = castle
+#b_snoqualmie = city
+#b_preston = temple
+#b_spring_glen = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_havasu
+
+# County Title
+title = c_havasu
+
+# Settlements
+max_settlements = 4
+
+b_lake_havasu_city = castle
+#b_desert_hills = city
+#b_golden_shores = temple
+#b_topock = castle
+#b_franconia = city
+#b_catfish_paradise = temple
+#b_mohave_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

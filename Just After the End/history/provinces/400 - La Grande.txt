@@ -1,0 +1,21 @@
+# c_la_grande
+
+# County Title
+title = c_la_grande
+
+# Settlements
+max_settlements = 3
+
+b_la_grande = castle
+#b_elbe = city
+#b_morton = temple
+#b_carlson = castle
+#b_randall = city
+#b_packwood = temple
+#b_glenoma = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

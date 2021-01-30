@@ -1,0 +1,21 @@
+# c_siberia
+
+# County Title
+title = c_siberia
+
+# Settlements
+max_settlements = 3
+
+b_siberia = castle
+b_klondike = city
+#b_ragtown = temple
+#b_ludlow = castle
+#b_hector = city
+#b_pisgah = temple
+#b_lavic = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

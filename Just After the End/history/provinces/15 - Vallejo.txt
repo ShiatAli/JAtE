@@ -1,0 +1,21 @@
+# c_vallejo
+
+# County Title
+title = c_vallejo
+
+# Settlements
+max_settlements = 5
+
+b_vallejo = castle
+b_fairfield = city
+b_benicia = temple
+b_suisun_city = castle
+#b_russel = city
+#b_suvel = temple
+#b_cordelia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

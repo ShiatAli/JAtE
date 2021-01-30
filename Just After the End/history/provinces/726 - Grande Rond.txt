@@ -1,0 +1,21 @@
+# c_grande_rond
+
+# County Title
+title = c_grande_rond
+
+# Settlements
+max_settlements = 2
+
+b_troy_3 = castle
+#b_grouse = city
+#b_flora = temple
+#b_maxwell = castle
+#b_rogersburg = city
+#b_paradise_4 = temple
+#b_mountain_view_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

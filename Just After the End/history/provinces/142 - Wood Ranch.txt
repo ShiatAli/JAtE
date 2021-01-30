@@ -1,0 +1,21 @@
+# c_wood_ranch
+
+# County Title
+title = c_wood_ranch
+
+# Settlements
+max_settlements = 2
+
+b_wood_ranch = castle
+#b_llanada_2 = city
+#b_panoche_2 = temple
+#b_mercey = castle
+#b_hamburg = city
+#b_pilibos = temple
+#b_chaney = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

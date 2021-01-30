@@ -1,0 +1,21 @@
+# c_termo
+
+# County Title
+title = c_termo
+
+# Settlements
+max_settlements = 3
+
+b_termo = castle
+#b_crest = city
+#b_karlo = temple
+#b_moran = castle
+#b_brockman = city
+#b_sage_hen = temple
+#b_madeline = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

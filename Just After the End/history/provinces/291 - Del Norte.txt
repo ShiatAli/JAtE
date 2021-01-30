@@ -1,0 +1,21 @@
+# c_del_norte
+
+# County Title
+title = c_del_norte
+
+# Settlements
+max_settlements = 3
+
+b_crescent_city = castle
+b_klamath = city
+#b_requa = temple
+#b_hiouchi = castle
+#b_fort_dick = city
+#b_yontocket = temple
+#b_idlewild = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

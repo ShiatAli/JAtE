@@ -1,0 +1,21 @@
+# c_sandy
+
+# County Title
+title = c_sandy
+
+# Settlements
+max_settlements = 4
+
+b_sandy = castle
+b_boring = city
+#b_kelso = temple
+#b_cottrell = castle
+#b_barton = city
+#b_eagle_creek = temple
+#b_estacada = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

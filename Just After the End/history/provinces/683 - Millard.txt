@@ -1,0 +1,21 @@
+# c_millard
+
+# County Title
+title = c_millard
+
+# Settlements
+max_settlements = 3
+
+b_filmore_2 = castle
+#b_delta_4 = city
+#b_hinkley_2 = temple
+#b_kanosh = castle
+#b_holden = city
+#b_deseret = temple
+#b_mccornick = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

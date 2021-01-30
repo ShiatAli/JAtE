@@ -1,0 +1,21 @@
+# c_fullerton
+
+# County Title
+title = c_fullerton
+
+# Settlements
+max_settlements = 4
+
+b_fullerton = castle
+b_cals_state = city
+b_amerige = temple
+#b_ford = castle
+#b_hillcrest = city
+#b_sherbeck = temple
+#b_acacia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

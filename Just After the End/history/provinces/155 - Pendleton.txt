@@ -1,0 +1,21 @@
+# c_pendleton
+
+# County Title
+title = c_pendleton
+
+# Settlements
+max_settlements = 3
+
+b_pendleton = castle
+b_san_luis_rey = city
+#b_yaldora = temple
+#b_cockleburr = castle
+#b_douglas = city
+#b_aliso_canyon = temple
+#b_agra = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

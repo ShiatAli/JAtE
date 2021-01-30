@@ -1,0 +1,21 @@
+# c_navajoa
+
+# County Title
+title = c_navajoa
+
+# Settlements
+max_settlements = 5
+
+b_navajoa = castle
+#b_etchojoa = city
+#b_huatabampo = temple
+#b_villa_juarez = castle
+#b_bacame_nuevo = city
+#b_basconcobe = temple
+#b_paredon_colorado = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

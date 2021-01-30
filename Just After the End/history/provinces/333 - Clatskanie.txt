@@ -1,0 +1,21 @@
+# c_clatskanie
+
+# County Title
+title = c_clatskanie
+
+# Settlements
+max_settlements = 4
+
+b_quincy_2 = castle
+b_clatskanie = city
+#b_delena = temple
+#b_mayger = castle
+#b_westport_2 = city
+#b_rainer = temple
+#b_woodson = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

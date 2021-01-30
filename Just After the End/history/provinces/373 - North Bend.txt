@@ -1,0 +1,21 @@
+# c_north_bend
+
+# County Title
+title = c_north_bend
+
+# Settlements
+max_settlements = 3
+
+b_north_bend_2 = castle
+b_ellisville = city
+#b_ernies_grove = temple
+#b_tanner = castle
+#b_garcia = city
+#b_bandera = temple
+#b_rockdale = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

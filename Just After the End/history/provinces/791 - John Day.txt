@@ -1,0 +1,21 @@
+# c_john_day
+
+# County Title
+title = c_john_day
+
+# Settlements
+max_settlements = 3
+
+b_john_day = castle
+#b_canyon_city = city
+#b_prairie_city = temple
+#b_mount_vernon = castle
+#b_dayville = city
+#b_mitchell = temple
+#b_antone = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

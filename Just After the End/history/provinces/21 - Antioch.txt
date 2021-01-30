@@ -1,0 +1,21 @@
+# c_antioch
+
+# County Title
+title = c_antioch
+
+# Settlements
+max_settlements = 6
+
+b_antioch = castle
+b_pittburg = city
+b_oakley = temple
+b_arbor = castle
+b_brentwood = city
+#b_discovery_bay = temple
+#b_byron = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

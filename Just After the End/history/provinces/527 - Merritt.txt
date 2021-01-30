@@ -1,0 +1,21 @@
+# c_merritt
+
+# County Title
+title = c_merritt
+
+# Settlements
+max_settlements = 3
+
+b_merritt = castle
+#b_lower_nicola = city
+#b_quilchena = temple
+#b_kingsvale = castle
+#b_aspen_grove = city
+#b_mamette_lake = temple
+#b_shackan = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

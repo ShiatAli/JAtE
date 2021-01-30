@@ -1,0 +1,21 @@
+# c_carbon
+
+# County Title
+title = c_carbon
+
+# Settlements
+max_settlements = 4
+
+b_price = castle
+#b_helper = city
+#b_wellington_2 = temple
+#b_carbonville = castle
+#b_spring_glen_2 = city
+#b_dragerton = temple
+#b_west_wood = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

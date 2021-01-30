@@ -1,0 +1,21 @@
+# c_oroville
+
+# County Title
+title = c_oroville
+
+# Settlements
+max_settlements = 4
+
+b_oroville = castle
+b_palermo = city
+#b_paradise = temple
+#b_magalia = castle
+#b_oregon_city = city
+#b_pentz = temple
+#b_concow = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_big_sur
+
+# County Title
+title = c_big_sur
+
+# Settlements
+max_settlements = 3
+
+b_big_sur = castle
+b_posts = city
+#b_pfeiffer_big_sur = temple
+#b_andrew_molera = castle
+#b_point_sur = city
+#b_castro_canyon = temple
+#b_wreck_beach = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

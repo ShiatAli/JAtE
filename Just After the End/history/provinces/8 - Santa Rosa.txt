@@ -1,0 +1,21 @@
+# c_santa_rosa
+
+# County Title
+title = c_santa_rosa
+
+# Settlements
+max_settlements = 4
+
+b_santa_rosa = castle
+b_sebastopol = city
+b_roseland = temple
+#b_kenwood = castle
+#b_fulton = city
+#b_larkfield_wikiup = temple
+#b_granton = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

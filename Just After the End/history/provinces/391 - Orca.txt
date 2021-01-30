@@ -1,0 +1,21 @@
+# c_orca
+
+# County Title
+title = c_orca
+
+# Settlements
+max_settlements = 3
+
+b_west_sound = castle
+#b_east_sound = city
+#b_deer_harbor = temple
+#b_rosario = castle
+#b_olga = city
+#b_sea_acre = temple
+#b_shaw = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

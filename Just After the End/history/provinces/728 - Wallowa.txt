@@ -1,0 +1,21 @@
+# c_wallowa
+
+# County Title
+title = c_wallowa
+
+# Settlements
+max_settlements = 2
+
+b_wallowa = castle
+#b_lostine = city
+#b_minam = temple
+#b_whiskey = castle
+#b_fox_creek = city
+#b_bear_creek = temple
+#b_doc_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

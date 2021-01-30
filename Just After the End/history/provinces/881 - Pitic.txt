@@ -1,0 +1,21 @@
+# c_pitic
+
+# County Title
+title = c_pitic
+
+# Settlements
+max_settlements = 6
+
+b_hermosillo_2 = castle
+#b_balderrama = city
+#b_sahuaro = temple
+#b_staus = castle
+#b_la_manga = city
+#b_pitic = temple
+#b_las_viboras = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

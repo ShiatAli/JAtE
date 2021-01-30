@@ -1,0 +1,21 @@
+# c_dinsmore
+
+# County Title
+title = c_dinsmore
+
+# Settlements
+max_settlements = 3
+
+b_dinsmore = castle
+#b_carlotta = city
+#b_bridgeville = temple
+#b_alderpoint = castle
+#b_fort_seward = city
+#b_blocksburg = temple
+#b_brock_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

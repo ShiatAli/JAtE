@@ -1,0 +1,21 @@
+# c_salmon_arm
+
+# County Title
+title = c_salmon_arm
+
+# Settlements
+max_settlements = 3
+
+b_salmon_arm = castle
+b_canoe = city
+#b_south_canoe = temple
+#b_gleneden = castle
+#b_tappen = city
+#b_sunnybrae = temple
+#b_grindod = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

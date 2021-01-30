@@ -1,0 +1,21 @@
+# c_loreto
+
+# County Title
+title = c_loreto
+
+# Settlements
+max_settlements = 4
+
+b_loreto = castle
+b_san_javier = city
+b_concepcion_2 = temple
+#b_san_sebastian = castle
+#b_combedon = city
+#b_el_copalito = temple
+#b_las_parras = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = grassland
+#History

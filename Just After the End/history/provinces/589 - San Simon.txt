@@ -1,0 +1,21 @@
+# c_san_simon
+
+# County Title
+title = c_san_simon
+
+# Settlements
+max_settlements = 2
+
+b_bowie = castle
+#b_san_simon_2 = city
+#b_rodeo_2 = temple
+#b_portal = castle
+#b_hilltop = city
+#b_raso = temple
+#b_chiricahua = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

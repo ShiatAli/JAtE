@@ -1,0 +1,21 @@
+# c_san_simeon
+
+# County Title
+title = c_san_simeon
+
+# Settlements
+max_settlements = 6
+
+b_san_simeon = castle
+b_cambria = city
+b_ragged_point = temple
+b_baywood_los_osos = castle
+b_cayucos = city
+#b_morro_bay = temple
+#b_harmony = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

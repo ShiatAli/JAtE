@@ -1,0 +1,21 @@
+# c_buttonwillow
+
+# County Title
+title = c_buttonwillow
+
+# Settlements
+max_settlements = 4
+
+b_buttonwillow = castle
+b_lokern = city
+b_bowerbank = temple
+#b_rio_bravo = castle
+#b_calders_corner = city
+#b_kilowatt = temple
+#b_buckwood = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

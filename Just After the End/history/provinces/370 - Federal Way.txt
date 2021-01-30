@@ -1,0 +1,21 @@
+# c_federal_way
+
+# County Title
+title = c_federal_way
+
+# Settlements
+max_settlements = 3
+
+b_federal_way = castle
+b_auburn_2 = city
+#b_algona = temple
+#b_dash_point = castle
+#b_olympic_view = city
+#b_christopher = temple
+#b_meredith = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

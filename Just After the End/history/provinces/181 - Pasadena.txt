@@ -1,0 +1,21 @@
+# c_pasadena
+
+# County Title
+title = c_pasadena
+
+# Settlements
+max_settlements = 4
+
+b_pasadena = castle
+b_alhambra = city
+b_altadena = temple
+#b_sierra_madre = castle
+#b_baldwin = city
+#b_rosemead = temple
+#b_arcadia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

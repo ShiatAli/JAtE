@@ -1,0 +1,21 @@
+# c_mid_fork
+
+# County Title
+title = c_mid_fork
+
+# Settlements
+max_settlements = 1
+
+b_prairie = castle
+#b_dutch_frank = city
+#b_loftus_spring = temple
+#b_arrowrock = castle
+#b_willow_creek_3 = city
+#b_sheep_mountain = temple
+#b_rattlesnake_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_cottage_grove
+
+# County Title
+title = c_cottage_grove
+
+# Settlements
+max_settlements = 3
+
+b_cottage_grove = castle
+#b_somes_bar = city
+#b_happy_camp = temple
+#b_clear_creek = castle
+#b_dilion_creek = city
+#b_marble_mountain = temple
+#b_sulphur_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

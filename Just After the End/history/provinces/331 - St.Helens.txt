@@ -1,0 +1,21 @@
+# c_st_helens
+
+# County Title
+title = c_st_helens
+
+# Settlements
+max_settlements = 4
+
+b_st_helens = castle
+b_scappoose = city
+#b_spitzenburg = temple
+#b_warren = castle
+#b_columbia_city = city
+#b_beaver_homes = temple
+#b_prescott = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

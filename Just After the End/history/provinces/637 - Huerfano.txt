@@ -1,0 +1,21 @@
+# c_huerfano
+
+# County Title
+title = c_huerfano
+
+# Settlements
+max_settlements = 3
+
+b_walsenburg = castle
+#b_farisita = city
+#b_la_veta = temple
+#b_cuchara = castle
+#b_badito = city
+#b_gardner = temple
+#b_red_wing = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

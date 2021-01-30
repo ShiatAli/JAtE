@@ -1,0 +1,21 @@
+# c_kerman
+
+# County Title
+title = c_kerman
+
+# Settlements
+max_settlements = 4
+
+b_kerman = castle
+b_jamesan = city
+b_rolinda = temple
+#b_barstow = castle
+#b_biola = city
+#b_raco = temple
+#b_pratton = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

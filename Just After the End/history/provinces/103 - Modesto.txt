@@ -1,0 +1,21 @@
+# c_modesto
+
+# County Title
+title = c_modesto
+
+# Settlements
+max_settlements = 4
+
+b_modesto = castle
+b_turlock = city
+b_bret_harte = temple
+#b_montpelier = castle
+#b_waterford = city
+#b_salida = temple
+#b_keyes = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

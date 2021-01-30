@@ -1,0 +1,21 @@
+# c_helm
+
+# County Title
+title = c_helm
+
+# Settlements
+max_settlements = 3
+
+b_helm = castle
+b_tranquility = city
+#b_san_joaquin = temple
+#b_raisin_city = castle
+#b_caruthers = city
+#b_easton = temple
+#b_elm_view = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

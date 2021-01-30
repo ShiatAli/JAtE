@@ -1,0 +1,21 @@
+# c_glendale
+
+# County Title
+title = c_glendale
+
+# Settlements
+max_settlements = 5
+
+b_glendale = castle
+b_burbank = city
+b_san_fernando = temple
+b_north_hollywood = castle
+#b_sun_valley = city
+#b_reseda = temple
+#b_northridge = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

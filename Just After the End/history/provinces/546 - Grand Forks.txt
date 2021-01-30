@@ -1,0 +1,21 @@
+# c_grand_forks
+
+# County Title
+title = c_grand_forks
+
+# Settlements
+max_settlements = 2
+
+b_grand_forks = castle
+#b_almond_gardens = city
+#b_christine_lakes = temple
+#b_cascade = castle
+#b_laurier = city
+#b_niagara = temple
+#b_renata = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

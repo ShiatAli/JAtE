@@ -1,0 +1,21 @@
+# c_elk_grove
+
+# County Title
+title = c_elk_grove
+
+# Settlements
+max_settlements = 4
+
+b_elk_grove = castle
+b_laguna = city
+b_franklin = temple
+#b_vinyard = castle
+#b_sheldon = city
+#b_clarksburg = temple
+#b_hood = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

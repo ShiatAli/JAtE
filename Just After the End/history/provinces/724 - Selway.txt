@@ -1,0 +1,21 @@
+# c_selway
+
+# County Title
+title = c_selway
+
+# Settlements
+max_settlements = 1
+
+b_syringa = castle
+#b_lowell = city
+#b_selway_falls = temple
+#b_cedar_flats = castle
+#b_wylies_peak = city
+#b_freeman_peak = temple
+#b_gardiner_peak = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

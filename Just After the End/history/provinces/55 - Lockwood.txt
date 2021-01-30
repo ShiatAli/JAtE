@@ -1,0 +1,21 @@
+# c_lockwood
+
+# County Title
+title = c_lockwood
+
+# Settlements
+max_settlements = 4
+
+b_lockwood = castle
+b_jolon = city
+#b_wellong = temple
+#b_fort_hunter_liggett = castle
+#b_pierce_ranch = city
+#b_martinus_corner = temple
+#b_country_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

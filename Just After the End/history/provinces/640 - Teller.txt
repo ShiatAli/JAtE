@@ -1,0 +1,21 @@
+# c_teller
+
+# County Title
+title = c_teller
+
+# Settlements
+max_settlements = 4
+
+b_cripple_creek = castle
+#b_cascade_chipita_park = city
+#b_woodland_park = temple
+#b_green_mountain = castle
+#b_victor_3 = city
+#b_midland_2 = temple
+#b_westcreek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_vacaville
+
+# County Title
+title = c_vacaville
+
+# Settlements
+max_settlements = 5
+
+b_vacaville = castle
+b_elmira = city
+b_bucktown = temple
+b_batavia = castle
+#b_binghampton = city
+#b_allendale = temple
+#b_dixon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

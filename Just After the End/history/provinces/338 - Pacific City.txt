@@ -1,0 +1,21 @@
+# c_pacific_city
+
+# County Title
+title = c_pacific_city
+
+# Settlements
+max_settlements = 4
+
+b_pacific_city = castle
+b_neskowin = city
+#b_oretown = temple
+#b_tierra_del_mar = castle
+#b_sandlake = city
+#b_hebo = temple
+#b_cloverdale_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

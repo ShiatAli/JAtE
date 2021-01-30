@@ -1,0 +1,21 @@
+# c_mettler
+
+# County Title
+title = c_mettler
+
+# Settlements
+max_settlements = 3
+
+b_mettler = castle
+b_meridian_2 = city
+#b_wheeler_ridge = temple
+#b_weedpatch = castle
+#b_kern_lake = city
+#b_lamont = temple
+#b_grapevine = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

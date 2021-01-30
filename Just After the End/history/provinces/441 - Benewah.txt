@@ -1,0 +1,21 @@
+# c_benewah
+
+# County Title
+title = c_benewah
+
+# Settlements
+max_settlements = 3
+
+b_st_maries = castle
+b_emida = city
+#b_potlatch_2 = temple
+#b_tensed = castle
+#b_plummer = city
+#b_santa = temple
+#b_fernwood = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

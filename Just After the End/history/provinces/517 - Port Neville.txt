@@ -1,0 +1,21 @@
+# c_port_neville
+
+# County Title
+title = c_port_neville
+
+# Settlements
+max_settlements = 2
+
+b_port_neville = castle
+#b_matilpi = city
+#b_jackson_bay = temple
+#b_glendale_cove = castle
+#b_roy_2 = city
+#b_cracroft = temple
+#b_lagoon_cove = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

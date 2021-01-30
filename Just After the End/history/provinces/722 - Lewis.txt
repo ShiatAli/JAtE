@@ -1,0 +1,21 @@
+# c_lewis
+
+# County Title
+title = c_lewis
+
+# Settlements
+max_settlements = 3
+
+b_kamiah = castle
+#b_craigmont = city
+#b_nezperce = temple
+#b_winchester_3 = castle
+#b_peck_2 = city
+#b_reubens = temple
+#b_greer_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

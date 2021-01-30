@@ -1,0 +1,21 @@
+# c_costilla
+
+# County Title
+title = c_costilla
+
+# Settlements
+max_settlements = 2
+
+b_san_luis_4 = castle
+#b_fort_garland = city
+#b_blanca = temple
+#b_san_acacio = castle
+#b_chama = city
+#b_sangre_de_christo = temple
+#b_mesita = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

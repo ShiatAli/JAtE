@@ -1,0 +1,21 @@
+# c_surrey
+
+# County Title
+title = c_surrey
+
+# Settlements
+max_settlements = 3
+
+b_surrey = castle
+b_langley_city = city
+b_white_rock_2 = temple
+#b_walnut_grove = castle
+#b_cloverdale_4 = city
+#b_murrayville = temple
+#b_crescent_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

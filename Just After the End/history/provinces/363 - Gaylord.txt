@@ -1,0 +1,21 @@
+# c_gaylord
+
+# County Title
+title = c_gaylord
+
+# Settlements
+max_settlements = 2
+
+b_gaylord = castle
+#b_broadbent = city
+#b_myrtle_point = temple
+#b_powers = castle
+#b_bridge = city
+#b_remote = temple
+#b_norway = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

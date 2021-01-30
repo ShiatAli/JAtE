@@ -1,0 +1,21 @@
+# c_bremerton
+
+# County Title
+title = c_bremerton
+
+# Settlements
+max_settlements = 3
+
+b_bremerton = castle
+b_erlands_point = city
+#b_silverdale = temple
+#b_seabeck = castle
+#b_holly = city
+#b_dewatto = temple
+#b_tahuya = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

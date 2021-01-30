@@ -1,0 +1,21 @@
+# c_lynnwood
+
+# County Title
+title = c_lynnwood
+
+# Settlements
+max_settlements = 3
+
+b_lynnwood = castle
+b_mukilteo = city
+#b_edmonds = temple
+#b_mountain_lake_terrace = castle
+#b_north_creek = city
+#b_martha_lake = temple
+#b_esperance = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

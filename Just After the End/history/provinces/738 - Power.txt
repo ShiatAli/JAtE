@@ -1,0 +1,21 @@
+# c_power
+
+# County Title
+title = c_power
+
+# Settlements
+max_settlements = 3
+
+b_american_falls = castle
+#b_neeley = city
+#b_fairview_4 = temple
+#b_raft_river = castle
+#b_register_rock = city
+#b_falls_view = temple
+#b_warm_and_cold = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

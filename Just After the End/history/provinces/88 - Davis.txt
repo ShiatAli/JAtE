@@ -1,0 +1,21 @@
+# c_davis
+
+# County Title
+title = c_davis
+
+# Settlements
+max_settlements = 4
+
+b_davis = castle
+b_plainfields = city
+b_woodland = temple
+#b_king_farms = castle
+#b_el_macero = city
+#b_riverview = temple
+#b_saxon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

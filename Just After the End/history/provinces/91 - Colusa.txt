@@ -1,0 +1,21 @@
+# c_colusa
+
+# County Title
+title = c_colusa
+
+# Settlements
+max_settlements = 4
+
+b_colusa = castle
+b_williams = city
+#b_cortena = temple
+#b_maxwells = castle
+#b_sites = city
+#b_delevan = temple
+#b_stegeman = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

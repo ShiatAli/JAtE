@@ -1,0 +1,21 @@
+# c_wagonfire
+
+# County Title
+title = c_wagonfire
+
+# Settlements
+max_settlements = 3
+
+b_wagonfire = castle
+#b_valley_falls = city
+#b_plush = temple
+#b_denio = castle
+#b_andrews = city
+#b_fields = temple
+#b_diamond = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

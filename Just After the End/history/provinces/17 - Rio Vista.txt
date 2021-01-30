@@ -1,0 +1,21 @@
+# c_rio_vista
+
+# County Title
+title = c_rio_vista
+
+# Settlements
+max_settlements = 3
+
+b_rio_vista = castle
+b_collinville = city
+#b_maine_prairie = temple
+#b_denverton = castle
+#b_yolano = city
+#b_rio_vista_junction = temple
+#b_birds_landing = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

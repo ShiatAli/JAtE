@@ -1,0 +1,21 @@
+# c_point_arena
+
+# County Title
+title = c_point_arena
+
+# Settlements
+max_settlements = 3
+
+b_point_arena = castle
+b_manchester = city
+#b_gallaway = temple
+#b_gualala = castle
+#b_fish_rock = city
+#b_stornetta = temple
+#b_flumeville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

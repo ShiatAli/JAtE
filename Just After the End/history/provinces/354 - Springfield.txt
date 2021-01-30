@@ -1,0 +1,21 @@
+# c_springfield
+
+# County Title
+title = c_springfield
+
+# Settlements
+max_settlements = 3
+
+b_springfield = castle
+b_goshen_2 = city
+#b_jasper = temple
+#b_pleasant_hill_2 = castle
+#b_trent_2 = city
+#b_cloverdale_3 = temple
+#b_dexter = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

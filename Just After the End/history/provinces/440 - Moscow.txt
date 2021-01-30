@@ -1,0 +1,21 @@
+# c_moscow
+
+# County Title
+title = c_moscow
+
+# Settlements
+max_settlements = 3
+
+b_moscow = castle
+b_howell = city
+#b_troy = temple
+#b_genesee = castle
+#b_lenville = city
+#b_derry = temple
+#b_helmer = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

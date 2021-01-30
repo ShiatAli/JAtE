@@ -1,0 +1,21 @@
+# c_rancho_murieta
+
+# County Title
+title = c_rancho_murieta
+
+# Settlements
+max_settlements = 4
+
+b_rancho_murieta = castle
+b_sloughhouse = city
+#b_white_rock = temple
+#b_carbondale = castle
+#b_rancho_seco = city
+#b_van_vleck_ranch = temple
+#b_gill_ranch = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

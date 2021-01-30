@@ -1,0 +1,21 @@
+# c_klamath_falls
+
+# County Title
+title = c_klamath_falls
+
+# Settlements
+max_settlements = 3
+
+b_klamath_falls = castle
+#b_oretech = city
+#b_terminal_city = temple
+#b_olene = castle
+#b_henley = city
+#b_merrill = temple
+#b_keno = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_bahia_de_los_angeles
+
+# County Title
+title = c_bahia_de_los_angeles
+
+# Settlements
+max_settlements = 4
+
+b_bahia_de_los_angeles = castle
+b_san_lorenzo = city
+b_isla_smiths = temple
+#b_amarga = castle
+#b_la_mona = city
+#b_mision_san_francisco = temple
+#b_el_pescador = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

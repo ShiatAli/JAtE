@@ -1,0 +1,21 @@
+# c_rosarito
+
+# County Title
+title = c_rosarito
+
+# Settlements
+max_settlements = 3
+
+b_rosarito_2 = castle
+b_santa_rosalita = city
+#b_punta_prieta = temple
+#b_el_marron = castle
+#b_agua_leon = city
+#b_intermitente = temple
+#b_chapala = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

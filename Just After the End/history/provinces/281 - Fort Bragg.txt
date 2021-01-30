@@ -1,0 +1,21 @@
+# c_fort_bragg
+
+# County Title
+title = c_fort_bragg
+
+# Settlements
+max_settlements = 3
+
+b_fort_bragg = castle
+b_cleone = city
+#b_inglenook = temple
+#b_newport_2 = castle
+#b_westport = city
+#b_dehaven = temple
+#b_kibesillah = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

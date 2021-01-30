@@ -1,0 +1,21 @@
+# c_crow_mesa
+
+# County Title
+title = c_crow_mesa
+
+# Settlements
+max_settlements = 3
+
+b_nageezi = castle
+#b_huerfano = city
+#b_dzilth_na_o_dith_hle = temple
+#b_counselor = castle
+#b_bisti = city
+#b_kutz = temple
+#b_palluche = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

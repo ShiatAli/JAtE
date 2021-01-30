@@ -1,0 +1,21 @@
+# c_gateway
+
+# County Title
+title = c_gateway
+
+# Settlements
+max_settlements = 2
+
+b_parks = castle
+b_williams_2 = city
+#b_ash_fork = temple
+#b_bearizona = castle
+#b_red_lake = city
+#b_bill_williams = temple
+#b_holden_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

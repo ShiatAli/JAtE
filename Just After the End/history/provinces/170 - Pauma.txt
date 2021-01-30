@@ -1,0 +1,21 @@
+# c_pauma
+
+# County Title
+title = c_pauma
+
+# Settlements
+max_settlements = 3
+
+b_pauma = castle
+b_mount_palomar = city
+#b_rincon = temple
+#b_hellhole_canyon = castle
+#b_valley_center = city
+#b_lilac = temple
+#b_holcomb = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

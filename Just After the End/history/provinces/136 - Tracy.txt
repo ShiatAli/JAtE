@@ -1,0 +1,21 @@
+# c_tracy
+
+# County Title
+title = c_tracy
+
+# Settlements
+max_settlements = 5
+
+b_tracy = castle
+b_lyoth = city
+b_banta = temple
+b_carbona = castle
+#b_vernalisia = city
+#b_new_jerusalem = temple
+#b_mountain_house = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,30 @@
+#OREGON
+technology = {
+	titles = {
+		d_calstop
+		d_clackers
+		d_columbia
+		d_coos
+		d_hood_river
+		d_lane
+		d_limm
+		d_multnomah
+		d_newport
+		d_roseburg
+		d_santiam
+		d_searose
+		d_surprise
+		d_tillamook
+		d_washington
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,21 @@
+# c_roseburg
+
+# County Title
+title = c_roseburg
+
+# Settlements
+max_settlements = 4
+
+b_roseburg = castle
+b_dixonville = city
+b_wilbur = temple
+#b_sutherlin = castle
+#b_union_gap = city
+#b_oakland_2 = temple
+#b_old_town = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

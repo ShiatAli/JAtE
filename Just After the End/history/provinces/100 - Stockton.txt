@@ -1,0 +1,21 @@
+# c_stockton
+
+# County Title
+title = c_stockton
+
+# Settlements
+max_settlements = 4
+
+b_stockton = castle
+b_kennedy = city
+b_morada = temple
+#b_manteca = castle
+#b_lathrop = city
+#b_atlanta = temple
+#b_farmington = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_ash_springs
+
+# County Title
+title = c_ash_springs
+
+# Settlements
+max_settlements = 2
+
+b_ash_springs = castle
+#b_crystal_springs = city
+#b_alamo = temple
+#b_hiko = castle
+#b_rachel = city
+#b_caliente = temple
+#b_etna = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

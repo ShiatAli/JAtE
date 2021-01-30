@@ -1,0 +1,21 @@
+# c_doyle
+
+# County Title
+title = c_doyle
+
+# Settlements
+max_settlements = 2
+
+b_doyle = castle
+#b_chilcoot_vinton = city
+#b_flannigan = temple
+#b_herlong_2 = castle
+#b_omira = city
+#b_calneva = temple
+#b_stacy_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

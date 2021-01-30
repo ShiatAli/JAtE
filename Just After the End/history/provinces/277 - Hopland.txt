@@ -1,0 +1,21 @@
+# c_hopland
+
+# County Title
+title = c_hopland
+
+# Settlements
+max_settlements = 3
+
+b_hopland = castle
+b_largo = city
+#b_dawes = temple
+#b_peita = castle
+#b_ingram = city
+#b_yorkville = temple
+#b_the_oaks = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

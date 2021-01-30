@@ -1,0 +1,34 @@
+#NEVADA
+technology = {
+	titles = {
+		d_ashford
+		d_coso
+		d_elko
+		d_express
+		d_humboldt
+		d_inyo
+		d_lander
+		d_lincoln
+		d_mono
+		d_nye
+		d_plumas
+		d_red_rock
+		d_tahoe
+		d_truckee_meadows
+		d_warner
+		d_washoe
+		d_waucoba
+		d_white_pine
+		d_zabriskie
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

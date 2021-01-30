@@ -1,0 +1,21 @@
+# c_raymond
+
+# County Title
+title = c_raymond
+
+# Settlements
+max_settlements = 3
+
+b_raymond_2 = castle
+b_south_bend = city
+#b_menlo = temple
+#b_lebarn = castle
+#b_pluvius = city
+#b_pe_ell = temple
+#b_doty = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_cuba
+
+# County Title
+title = c_cuba
+
+# Settlements
+max_settlements = 3
+
+b_cuba = castle
+#b_st_leibowitz = city
+#b_la_jara_2 = temple
+#b_san_luis_5 = castle
+#b_sandy_bowitts = city
+#b_pajarito = temple
+#b_prieta = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

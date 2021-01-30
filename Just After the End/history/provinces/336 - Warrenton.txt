@@ -1,0 +1,21 @@
+# c_warrenton
+
+# County Title
+title = c_warrenton
+
+# Settlements
+max_settlements = 4
+
+b_warrenton = castle
+b_fort_steven = city
+#b_sunset_beach = temple
+#b_gearhart = castle
+#b_seaside_2 = city
+#b_cannon_beach = temple
+#b_arch_cape = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

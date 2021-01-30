@@ -1,0 +1,21 @@
+# c_lodi
+
+# County Title
+title = c_lodi
+
+# Settlements
+max_settlements = 4
+
+b_lodi = castle
+b_youngstown = city
+b_armstrong = temple
+#b_victor = castle
+#b_lockeford = city
+#b_clements = temple
+#b_collierville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

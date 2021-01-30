@@ -1,0 +1,21 @@
+# c_half_moon_bay
+
+# County Title
+title = c_half_moon_bay
+
+# Settlements
+max_settlements = 4
+
+b_half_moon_bay = castle
+b_pacifica = city
+b_el_granada = temple
+#b_lobitos = castle
+#b_la_honda = city
+#b_pescadero = temple
+#b_san_gregorio = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

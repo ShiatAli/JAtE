@@ -1,0 +1,21 @@
+# c_arizpe
+
+# County Title
+title = c_arizpe
+
+# Settlements
+max_settlements = 3
+
+b_arizpe = castle
+#b_cucurpe = city
+#b_sinoquipe = temple
+#b_unamichi = castle
+#b_bacanuchi = city
+#b_chinapa = temple
+#b_caporachi = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

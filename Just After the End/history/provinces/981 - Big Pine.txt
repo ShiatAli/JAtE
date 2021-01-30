@@ -1,0 +1,21 @@
+# c_big_pine
+
+# County Title
+title = c_big_pine
+
+# Settlements
+max_settlements = 3
+
+b_big_pine = castle
+b_zurich = city
+#b_wilkerson = temple
+#b_monola = castle
+#b_keough = city
+#b_aberdeen_3 = temple
+#b_blackrock_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

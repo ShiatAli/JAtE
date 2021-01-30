@@ -1,0 +1,21 @@
+# c_morongo
+
+# County Title
+title = c_morongo
+
+# Settlements
+max_settlements = 3
+
+b_morongo = castle
+b_banning = city
+#b_beaumont = temple
+#b_owl = castle
+#b_cabazon = city
+#b_whitewater = temple
+#b_yucaipa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

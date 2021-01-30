@@ -1,0 +1,21 @@
+# c_ohlone
+
+# County Title
+title = c_ohlone
+
+# Settlements
+max_settlements = 2
+
+b_stewarts_camp = castle
+#b_sycamore = city
+#b_hawks_nest = temple
+#b_washburn = castle
+#b_sierra_vista_point = city
+#b_sky_camp = temple
+#b_stars_rest = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

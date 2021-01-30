@@ -1,0 +1,21 @@
+# c_los_gatos
+
+# County Title
+title = c_los_gatos
+
+# Settlements
+max_settlements = 5
+
+b_los_gatos_2 = castle
+b_campell = city
+b_saratoga = temple
+b_alamito = castle
+#b_robertsville = city
+#b_meadow_faire = temple
+#b_summerside = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

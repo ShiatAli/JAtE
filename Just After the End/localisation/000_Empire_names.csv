@@ -1,3 +1,41 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-e_california;California;California;California;;California;;;;;;;;;x
-e_california_adj;Californian;;californer;;;;;;;;;;;x
+e_arixo;Arixo;Arixo;Arixo;;Arixo;;;;;;;;;x
+e_arixo_adj;Arixian;;arixer;;;;;;;;;;;x
+e_baja;Baja;Baja;Baja;;Baja;;;;;;;;;x
+e_baja_adj;Bajan;;bajer;;;;;;;;;;;x
+e_caledonia;Caledonia;Caledonia;Caledonia;;Caledonia;;;;;;;;;x
+e_caledonia_adj;Caledonian;;caledoner;;;;;;;;;;;x
+e_colorado;Colorado;Colorado;Colorado;;Colorado;;;;;;;;;x
+e_colorado_adj;Coloradian;;colorader;;;;;;;;;;;x
+e_deseret;Deseret;Deseret;Deseret;;Deseret;;;;;;;;;x
+e_deseret_adj;Deseretian;;desereter;;;;;;;;;;;x
+e_gran_francisco;Gran Francisco;Gran Francisco;Gran Francisco;;Gran Francisco;;;;;;;;;x
+e_gran_francisco_adj;Gran Franciscian;;Gran Franciscer;;;;;;;;;;;x
+e_grand_vancouver;Grand Vancouver;Grand Vancouver;Grand Vancouver;;Grand Vancouver;;;;;;;;;x
+e_grand_vancouver_adj;Grand Vancouverian;;Grand Vancouverer;;;;;;;;;;;x
+e_idaho;Idaho;Idaho;Idaho;;Idaho;;;;;;;;;x
+e_idaho_adj;Idahian;;idaher;;;;;;;;;;;x
+e_jefferson;Jefferson;Jefferson;Jefferson;;Jefferson;;;;;;;;;x
+e_jefferson_adj;Jeffersonian;;jeffersoner;;;;;;;;;;;x
+e_lincoln;Lincoln;Lincoln;Lincoln;;Lincoln;;;;;;;;;x
+e_lincoln_adj;Lincolnian;;lincolner;;;;;;;;;;;x
+e_lone_star;Lone Star;Lone Star;Lone Star;;Lone Star;;;;;;;;;x
+e_lone_star_adj;Lone Starian;;Lone Starer;;;;;;;;;;;x
+e_navajoland;Navajoland;Navajoland;Navajoland;;Navajoland;;;;;;;;;x
+e_navajoland_adj;Navajolandian;;navajolander;;;;;;;;;;;x
+e_nevada;Nevada;Nevada;Nevada;;Nevada;;;;;;;;;x
+e_nevada_adj;Nevadan;;nevader;;;;;;;;;;;x
+e_oregon;Oregon;Oregon;Oregon;;Oregon;;;;;;;;;x
+e_oregon_adj;Oregonian;;oregoner;;;;;;;;;;;x
+e_sacramento;Sacramento;Sacramento;Sacramento;;Sacramento;;;;;;;;;x
+e_sacramento_adj;Sacramentian;;sacramenter;;;;;;;;;;;x
+e_san_joaquin;San Joaquin;San Joaquin;San Joaquin;;San Joaquin;;;;;;;;;x
+e_san_joaquin_adj;San Joaquinian;;San Joaquiner;;;;;;;;;;;x
+e_socal;Socal;Socal;Socal;;Socal;;;;;;;;;x
+e_socal_adj;Socalian;;socaler;;;;;;;;;;;x
+e_sonora;Sonora;Sonora;Sonora;;Sonora;;;;;;;;;x
+e_sonora_adj;Sonoran;;sonorer;;;;;;;;;;;x
+e_washington;Washington;Washington;Washington;;Washington;;;;;;;;;x
+e_washington_adj;Washingtonian;;washingtoner;;;;;;;;;;;x
+e_yellowstone;Yellowstone;Yellowstone;Yellowstone;;Yellowstone;;;;;;;;;x
+e_yellowstone_adj;Yellowstonean;;yellowstoner;;;;;;;;;;;x

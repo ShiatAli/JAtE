@@ -1,0 +1,21 @@
+# c_chowchilla
+
+# County Title
+title = c_chowchilla
+
+# Settlements
+max_settlements = 2
+
+b_chowchilla = castle
+#b_minturn = city
+#b_dairyland = temple
+#b_fairmead = castle
+#b_sharon = city
+#b_daulton = temple
+#b_kismet = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

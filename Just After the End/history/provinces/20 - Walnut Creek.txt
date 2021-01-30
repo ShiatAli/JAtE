@@ -1,0 +1,21 @@
+# c_walnut_creek
+
+# County Title
+title = c_walnut_creek
+
+# Settlements
+max_settlements = 6
+
+b_walnut_creek = castle
+b_lafayette = city
+b_orinda = temple
+b_diablo = castle
+b_san_ramon = city
+#b_danville = temple
+#b_clayton = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

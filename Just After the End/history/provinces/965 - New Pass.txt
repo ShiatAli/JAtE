@@ -1,0 +1,21 @@
+# c_new_pass
+
+# County Title
+title = c_new_pass
+
+# Settlements
+max_settlements = 1
+
+b_middlegate = castle
+#b_eastgate = city
+#b_augusta = temple
+#b_desatoya = castle
+#b_stingaree = city
+#b_new_pass = temple
+#b_smith_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

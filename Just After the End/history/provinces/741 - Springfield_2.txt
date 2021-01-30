@@ -1,0 +1,21 @@
+# c_springfield_2
+
+# County Title
+title = c_springfield_2
+
+# Settlements
+max_settlements = 3
+
+b_aberdeen_2 = castle
+#b_rockfield = city
+#b_pingree = temple
+#b_springfield_2 = castle
+#b_sterling_3 = city
+#b_thomas = temple
+#b_coffee_point = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_silver_eagle
+
+# County Title
+title = c_silver_eagle
+
+# Settlements
+max_settlements = 3
+
+b_fort_bridger = castle
+#b_robertson = city
+#b_lyman_3 = temple
+#b_mountain_view_4 = castle
+#b_urie = city
+#b_piedmont_3 = temple
+#b_carter = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_shafter
+
+# County Title
+title = c_shafter
+
+# Settlements
+max_settlements = 3
+
+b_shafter = castle
+b_palmo = city
+#b_wasco = temple
+#b_crome = castle
+#b_una = city
+#b_smith_corner = temple
+#b_myricks = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

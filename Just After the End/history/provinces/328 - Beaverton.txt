@@ -1,0 +1,21 @@
+# c_beaverton
+
+# County Title
+title = c_beaverton
+
+# Settlements
+max_settlements = 4
+
+b_beaverton = castle
+b_tigard = city
+b_king_city_2 = temple
+#b_durham_2 = castle
+#b_tualatin = city
+#b_kinton = temple
+#b_raliegh_hills = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

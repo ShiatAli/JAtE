@@ -1,0 +1,21 @@
+# c_la_push
+
+# County Title
+title = c_la_push
+
+# Settlements
+max_settlements = 3
+
+b_la_push = castle
+#b_ozette = city
+#b_beaver = temple
+#b_forks = castle
+#b_mora = city
+#b_oil_city = temple
+#b_clearwater = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

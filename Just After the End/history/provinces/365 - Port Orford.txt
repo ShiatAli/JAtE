@@ -1,0 +1,21 @@
+# c_port_orford
+
+# County Title
+title = c_port_orford
+
+# Settlements
+max_settlements = 2
+
+b_port_orford = castle
+#b_sixes = city
+#b_denmark = temple
+#b_langlois = castle
+#b_fourmile = city
+#b_bandon = temple
+#b_bullards = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

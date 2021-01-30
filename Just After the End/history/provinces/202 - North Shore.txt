@@ -1,0 +1,21 @@
+# c_north_shore
+
+# County Title
+title = c_north_shore
+
+# Settlements
+max_settlements = 3
+
+b_north_shore_2 = castle
+b_ferrum = city
+#b_durmid = temple
+#b_bertram = castle
+#b_pope = city
+#b_bombay = temple
+#b_frink = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

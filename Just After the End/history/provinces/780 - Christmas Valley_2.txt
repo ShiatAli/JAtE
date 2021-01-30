@@ -1,0 +1,21 @@
+# c_christmas_valley_2
+
+# County Title
+title = c_christmas_valley_2
+
+# Settlements
+max_settlements = 2
+
+b_silver_lake_2 = castle
+#b_fort_rock_2 = city
+#b_christmas_valley_2 = temple
+#b_yamsay_2 = castle
+#b_petes_creek = city
+#b_buck_creek = temple
+#b_derrick_cave = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

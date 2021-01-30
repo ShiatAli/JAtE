@@ -1,0 +1,21 @@
+# c_reese_river
+
+# County Title
+title = c_reese_river
+
+# Settlements
+max_settlements = 1
+
+b_valley_of_the_moon = castle
+#b_horseshoe_basin = city
+#b_dewitt_mill = temple
+#b_fish_creek = castle
+#b_mccoy = city
+#b_philadelphia_canyon = temple
+#b_crippen = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,34 @@
+#GRAN FRANCISCO
+technology = {
+	titles = {
+		d_alameda
+		d_big_sur
+		d_carmel_coast
+		d_contra_costa
+		d_gilroy
+		d_henry
+		d_hidden_valley
+		d_king_corridor
+		d_marin
+		d_napa
+		d_pozo_canyon
+		d_san_benito
+		d_san_francisco
+		d_san_jose
+		d_san_luis_obispo
+		d_santa_cruz
+		d_solano
+		d_sonoma
+		d_the_lake
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

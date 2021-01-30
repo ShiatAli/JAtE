@@ -1,0 +1,21 @@
+# c_oregon_city
+
+# County Title
+title = c_oregon_city
+
+# Settlements
+max_settlements = 4
+
+b_oregon_city_2 = castle
+b_central_point = city
+b_new_era = temple
+#b_canemah = castle
+#b_hillendale = city
+#b_mcloughlin = temple
+#b_gaffney_lane = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

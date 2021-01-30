@@ -1,0 +1,21 @@
+# c_dillon
+
+# County Title
+title = c_dillon
+
+# Settlements
+max_settlements = 3
+
+b_breckenridge = castle
+#b_frisco = city
+#b_silverthorn = temple
+#b_keystone_3 = castle
+#b_dillon = city
+#b_blue_river = temple
+#b_montezuma = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

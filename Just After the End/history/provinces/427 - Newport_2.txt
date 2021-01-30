@@ -1,0 +1,21 @@
+# c_newport_2
+
+# County Title
+title = c_newport_2
+
+# Settlements
+max_settlements = 2
+
+b_newport_4 = castle
+#b_diamond_lake_3 = city
+#b_wolfred = temple
+#b_furport = castle
+#b_usk = city
+#b_cusick = temple
+#b_blueslide = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

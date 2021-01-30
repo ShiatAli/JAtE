@@ -1,0 +1,21 @@
+# c_grand_mound
+
+# County Title
+title = c_grand_mound
+
+# Settlements
+max_settlements = 3
+
+b_grand_mound = castle
+b_rochester = city
+#b_chehalis_village = temple
+#b_oakville_2 = castle
+#b_peterson_corner = city
+#b_tenino = temple
+#b_sunnydale = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

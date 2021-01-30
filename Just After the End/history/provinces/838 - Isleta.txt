@@ -1,0 +1,21 @@
+# c_isleta
+
+# County Title
+title = c_isleta
+
+# Settlements
+max_settlements = 4
+
+b_isleta = castle
+#b_los_lunas = city
+#b_bosque_farms = temple
+#b_peralta = castle
+#b_chical = city
+#b_cat_mesa = temple
+#b_wind_mesa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

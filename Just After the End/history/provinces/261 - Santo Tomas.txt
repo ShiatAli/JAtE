@@ -1,0 +1,21 @@
+# c_santo_tomas
+
+# County Title
+title = c_santo_tomas
+
+# Settlements
+max_settlements = 3
+
+b_santo_tomas = castle
+b_rancho_san_jacinto = city
+#b_rancho_el_refugio = temple
+#b_ejido_erendira = castle
+#b_buenos_aires = city
+#b_vista_hermosa = temple
+#b_ejido_el_ajusco = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = hills
+#History

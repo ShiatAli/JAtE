@@ -1,0 +1,21 @@
+# c_everett
+
+# County Title
+title = c_everett
+
+# Settlements
+max_settlements = 4
+
+b_everett = castle
+b_marysville = city
+b_jetty = temple
+#b_spencer_island = castle
+#b_priest_point = city
+#b_quil_ceda = temple
+#b_port_gardner = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

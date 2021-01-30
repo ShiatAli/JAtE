@@ -1,0 +1,21 @@
+# c_point_reyes
+
+# County Title
+title = c_point_reyes
+
+# Settlements
+max_settlements = 4
+
+b_inverness = castle
+b_seahaven = city
+b_millerton = temple
+#b_point_reyes_station = castle
+#b_olema = city
+#b_bolinas = temple
+#b_stinson_beach = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

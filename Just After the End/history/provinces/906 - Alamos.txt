@@ -1,0 +1,21 @@
+# c_alamos
+
+# County Title
+title = c_alamos
+
+# Settlements
+max_settlements = 3
+
+b_alamos = castle
+#b_san_bernardo = city
+#b_el_mocuzarit = temple
+#b_los_tanques = castle
+#b_minas_nuevas = city
+#b_mesa_colorada = temple
+#b_basiroa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

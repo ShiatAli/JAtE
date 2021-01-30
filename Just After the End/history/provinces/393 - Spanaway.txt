@@ -1,0 +1,21 @@
+# c_spanaway
+
+# County Title
+title = c_spanaway
+
+# Settlements
+max_settlements = 4
+
+b_spanaway = castle
+b_parkland = city
+b_elk_plain = temple
+#b_roy = castle
+#b_ohop_bob = city
+#b_graham = temple
+#b_graham_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_lincoln_city
+
+# County Title
+title = c_lincoln_city
+
+# Settlements
+max_settlements = 4
+
+b_lincoln_city = castle
+b_rose_lodge = city
+#b_depoe_bay = temple
+#b_lincoln_beach = castle
+#b_kernville_2 = city
+#b_otis = temple
+#b_neotsu = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_lompoc
+
+# County Title
+title = c_lompoc
+
+# Settlements
+max_settlements = 4
+
+b_vandenberg = castle
+b_solvang = city
+b_lompoc = temple
+#b_buellton = castle
+#b_concepcion = city
+#b_santa_ynez = temple
+#b_jalama = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

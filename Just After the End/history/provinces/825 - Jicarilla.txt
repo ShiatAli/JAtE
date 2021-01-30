@@ -1,0 +1,21 @@
+# c_jicarilla
+
+# County Title
+title = c_jicarilla
+
+# Settlements
+max_settlements = 3
+
+b_dulce = castle
+#b_young_place = city
+#b_regina_2 = temple
+#b_navajo_city = castle
+#b_lindreth = city
+#b_ojito = temple
+#b_navajo_dam = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

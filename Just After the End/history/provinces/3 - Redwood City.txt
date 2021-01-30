@@ -1,0 +1,21 @@
+# c_redwood_city
+
+# County Title
+title = c_redwood_city
+
+# Settlements
+max_settlements = 6
+
+b_redwood_city = castle
+b_belmont = city
+b_san_carlos = temple
+b_atherton = castle
+b_menlo_park = city
+#b_foster_city = temple
+#b_east_palo_alto = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

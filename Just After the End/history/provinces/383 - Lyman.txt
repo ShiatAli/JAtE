@@ -1,0 +1,21 @@
+# c_lyman
+
+# County Title
+title = c_lyman
+
+# Settlements
+max_settlements = 3
+
+b_sedro_woolley = castle
+b_lyman = city
+#b_hamilton = temple
+#b_birdsview = castle
+#b_concrete = city
+#b_day_creek = temple
+#b_cokedale = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

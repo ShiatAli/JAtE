@@ -1,0 +1,21 @@
+# c_alamo
+
+# County Title
+title = c_alamo
+
+# Settlements
+max_settlements = 2
+
+b_alamo_mountain = castle
+#b_mount_pinos = city
+#b_pine_mountain = temple
+#b_pinon = castle
+#b_frazier = city
+#b_lake_owoods = temple
+#b_ventucopa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

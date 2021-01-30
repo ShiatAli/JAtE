@@ -1,0 +1,21 @@
+# c_isla_tiburon
+
+# County Title
+title = c_isla_tiburon
+
+# Settlements
+max_settlements = 1
+
+b_tecomate = castle
+#b_turon = city
+#b_turners = temple
+#b_cholludo = castle
+#b_patos_2 = city
+#b_punta_risco = temple
+#b_tiburon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

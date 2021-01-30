@@ -1,0 +1,21 @@
+# c_irvine
+
+# County Title
+title = c_irvine
+
+# Settlements
+max_settlements = 5
+
+b_irvine = castle
+b_turtle_rock = city
+b_newport = temple
+b_san_joaquin_2 = castle
+#b_woodbridge = city
+#b_yuuci_eye = temple
+#b_costa_mesa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

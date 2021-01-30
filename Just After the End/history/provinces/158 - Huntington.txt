@@ -1,0 +1,21 @@
+# c_huntington
+
+# County Title
+title = c_huntington
+
+# Settlements
+max_settlements = 4
+
+b_huntington = castle
+b_orange = city
+b_fountain_valley = temple
+#b_westminster = castle
+#b_tustin = city
+#b_santa_ana = temple
+#b_yorktown = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

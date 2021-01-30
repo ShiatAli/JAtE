@@ -1,0 +1,21 @@
+# c_park_2
+
+# County Title
+title = c_park_2
+
+# Settlements
+max_settlements = 3
+
+b_livingston = castle
+#b_clyde_park = city
+#b_grannis = temple
+#b_chadborn = castle
+#b_wilsall = city
+#b_sedan = temple
+#b_ringling = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

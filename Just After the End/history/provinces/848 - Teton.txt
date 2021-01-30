@@ -1,0 +1,21 @@
+# c_teton
+
+# County Title
+title = c_teton
+
+# Settlements
+max_settlements = 3
+
+b_jackson_3 = castle
+b_wilson_2 = city
+#b_teton_village = temple
+#b_south_park_2 = castle
+#b_beaver_creek_2 = city
+#b_kelly_2 = temple
+#b_moose = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

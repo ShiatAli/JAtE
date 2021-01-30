@@ -1,0 +1,21 @@
+# c_portneuf
+
+# County Title
+title = c_portneuf
+
+# Settlements
+max_settlements = 2
+
+b_inkom = castle
+#b_mccammon = city
+#b_downey = temple
+#b_lava_hot_springs = castle
+#b_arimo = city
+#b_swan_lake = temple
+#b_virginia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

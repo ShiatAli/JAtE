@@ -1,0 +1,21 @@
+# c_carlin
+
+# County Title
+title = c_carlin
+
+# Settlements
+max_settlements = 1
+
+b_carlin = castle
+#b_marys_2 = city
+#b_pinon_4 = temple
+#b_pine_creek_2 = castle
+#b_adobe = city
+#b_tyrol = temple
+#b_swales = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

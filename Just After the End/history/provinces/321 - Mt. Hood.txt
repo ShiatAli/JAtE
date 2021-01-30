@@ -1,0 +1,21 @@
+# c_mt_hood
+
+# County Title
+title = c_mt_hood
+
+# Settlements
+max_settlements = 4
+
+b_mt_hood = castle
+b_rockford = city
+b_odell_2 = temple
+#b_dee = castle
+#b_parkdale = city
+#b_tamanwas = temple
+#b_pine_grove = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

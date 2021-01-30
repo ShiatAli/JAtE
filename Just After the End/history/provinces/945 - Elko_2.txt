@@ -1,0 +1,21 @@
+# c_elko_2
+
+# County Title
+title = c_elko_2
+
+# Settlements
+max_settlements = 4
+
+b_elko_2 = castle
+#b_spring_creek = city
+#b_osino = temple
+#b_halleck = castle
+#b_lamoille = city
+#b_lee = temple
+#b_jiggs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_poway
+
+# County Title
+title = c_poway
+
+# Settlements
+max_settlements = 3
+
+b_poway = castle
+b_rancho_bernardo = city
+#b_carmel_mountain = temple
+#b_black_mountain = castle
+#b_del_dios = city
+#b_fernbrook = temple
+#b_sabre_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

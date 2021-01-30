@@ -1,0 +1,21 @@
+# c_angostura
+
+# County Title
+title = c_angostura
+
+# Settlements
+max_settlements = 3
+
+b_la_reforma_2 = castle
+#b_angostura = city
+#b_chinitos = temple
+#b_palmitas = castle
+#b_alhuey = city
+#b_leopoldo_sanchez_celis = temple
+#b_la_esperanza = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

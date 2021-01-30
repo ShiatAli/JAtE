@@ -1,0 +1,21 @@
+# c_alturas
+
+# County Title
+title = c_alturas
+
+# Settlements
+max_settlements = 3
+
+b_alturas = castle
+b_new_pine_creek = city
+#b_davis_creek = temple
+#b_surprise_station = castle
+#b_vestil = city
+#b_flourney = temple
+#b_california_pines = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_third_mesa
+
+# County Title
+title = c_third_mesa
+
+# Settlements
+max_settlements = 4
+
+b_kykotsmovi  = castle
+#b_oraibi = city
+#b_hotevilla = temple
+#b_bacavi = castle
+#b_white_ruin = city
+#b_begashibito = temple
+#b_ha_ho_no_geh = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_quinault
+
+# County Title
+title = c_quinault
+
+# Settlements
+max_settlements = 3
+
+b_quinault = castle
+#b_queets = city
+#b_taholah = temple
+#b_neilton = castle
+#b_humptulips = city
+#b_moclip = temple
+#b_pacific_beach_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_hiray
+
+# County Title
+title = c_hiray
+
+# Settlements
+max_settlements = 2
+
+b_villa_morelos = castle
+#b_el_frijol = city
+#b_la_selva = temple
+#b_castello_de_hiray = castle
+#b_el_guatamota = city
+#b_san_luis = temple
+#b_el_quemado = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

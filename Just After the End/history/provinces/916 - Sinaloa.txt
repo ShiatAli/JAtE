@@ -1,0 +1,21 @@
+# c_sinaloa
+
+# County Title
+title = c_sinaloa
+
+# Settlements
+max_settlements = 4
+
+b_estacion_naranjo = castle
+#b_sinaloa_de_leyva = city
+#b_genaro_estrada = temple
+#b_gabriel_leyva_velazquez = castle
+#b_ruiz_cortines_numero_tres = city
+#b_alfonso_g_calderon_velarde = temple
+#b_cubiri_de_portelas = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

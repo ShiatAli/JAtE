@@ -1,0 +1,21 @@
+# c_astoria
+
+# County Title
+title = c_astoria
+
+# Settlements
+max_settlements = 4
+
+b_astoria = castle
+b_svensen = city
+#b_knappa = temple
+#b_brownsmead = castle
+#b_clifton = city
+#b_wanua = temple
+#b_olney = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

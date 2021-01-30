@@ -1,0 +1,27 @@
+#DESERET
+technology = {
+	titles = {
+		d_bear_river
+		d_box_elder
+		d_canyonlands
+		d_emery
+		d_escalante
+		d_fishlake
+		d_manti_la_sal
+		d_salt_lake
+		d_uinta
+		d_utah
+		d_wasatch
+		d_zion
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

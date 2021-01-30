@@ -1,0 +1,21 @@
+# c_banderitas
+
+# County Title
+title = c_banderitas
+
+# Settlements
+max_settlements = 3
+
+b_banderitas = castle
+b_perto_san_carlos = city
+#b_san_buto = temple
+#b_fondeport = castle
+#b_isla_monserrat = city
+#b_capilla_de_angel_de_la_toba = temple
+#b_medano_amarillo = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

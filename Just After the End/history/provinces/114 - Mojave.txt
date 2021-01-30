@@ -1,0 +1,21 @@
+# c_mojave
+
+# County Title
+title = c_mojave
+
+# Settlements
+max_settlements = 2
+
+b_mojave = castle
+#b_cameron = city
+#b_monolith = temple
+#b_fleta = castle
+#b_sanborn = city
+#b_actis = temple
+#b_reefer_city = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

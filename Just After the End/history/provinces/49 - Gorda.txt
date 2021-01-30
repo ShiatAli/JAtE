@@ -1,0 +1,21 @@
+# c_gorda
+
+# County Title
+title = c_gorda
+
+# Settlements
+max_settlements = 3
+
+b_gorda = castle
+b_plaskett = city
+#b_lucia = temple
+#b_limeklin = castle
+#b_sand_dollar = city
+#b_salmon_creek = temple
+#b_buckeye = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

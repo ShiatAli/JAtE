@@ -1,0 +1,21 @@
+# c_el_quelele
+
+# County Title
+title = c_el_quelele
+
+# Settlements
+max_settlements = 3
+
+b_el_quelele = castle
+b_centenario = city
+#b_el_zacatal = temple
+#b_el_cajete = castle
+#b_el_datilito = city
+#b_chametla = temple
+#b_jesus_maria = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = grassland
+#History

@@ -1,0 +1,21 @@
+# c_carrizalito
+
+# County Title
+title = c_carrizalito
+
+# Settlements
+max_settlements = 3
+
+b_el_carrizalito = castle
+#b_san_antonio_2 = city
+#b_los_barriles = temple
+#b_texcalama = castle
+#b_la_posta = city
+#b_san_bartolo = temple
+#b_san_simon = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = mountain
+#History

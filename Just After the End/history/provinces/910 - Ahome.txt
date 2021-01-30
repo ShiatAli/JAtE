@@ -1,0 +1,21 @@
+# c_ahome
+
+# County Title
+title = c_ahome
+
+# Settlements
+max_settlements = 5
+
+b_los_mochis = castle
+#b_higuera_de_zaragoza = city
+#b_ahome = temple
+#b_topolobampo = castle
+#b_san_miguel_zapotitlan = city
+#b_bagojo_colectivo = temple
+#b_el_carrizo = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

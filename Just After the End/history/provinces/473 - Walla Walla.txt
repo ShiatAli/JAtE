@@ -1,0 +1,21 @@
+# c_walla_walla
+
+# County Title
+title = c_walla_walla
+
+# Settlements
+max_settlements = 3
+
+b_walla_walla = castle
+b_touchett = city
+#b_college_place = temple
+#b_waitsburg = castle
+#b_prescott_2 = city
+#b_dixie_2 = temple
+#b_lowden = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

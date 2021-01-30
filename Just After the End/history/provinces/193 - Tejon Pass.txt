@@ -1,0 +1,21 @@
+# c_tejon_pass
+
+# County Title
+title = c_tejon_pass
+
+# Settlements
+max_settlements = 3
+
+b_tejon = castle
+b_lebec = city
+#b_gorman = temple
+#b_hungry_valley = castle
+#b_johnson = city
+#b_grapevine_creek = temple
+#b_digier = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

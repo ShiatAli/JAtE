@@ -1,0 +1,21 @@
+# c_routt
+
+# County Title
+title = c_routt
+
+# Settlements
+max_settlements = 3
+
+b_steamboat = castle
+#b_oak_creek_2 = city
+#b_hayden_3 = temple
+#b_yampa = castle
+#b_phippsburg = city
+#b_hahns_peak = temple
+#b_toponas = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

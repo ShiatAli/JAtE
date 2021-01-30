@@ -1,0 +1,21 @@
+# c_wunpost
+
+# County Title
+title = c_wunpost
+
+# Settlements
+max_settlements = 4
+
+b_wunpost = castle
+b_san_lucas = city
+#b_bradley = temple
+#b_san_ardo = castle
+#b_valleton = city
+#b_nacimiento = temple
+#b_paris_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

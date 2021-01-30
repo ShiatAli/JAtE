@@ -1,0 +1,21 @@
+# c_concord
+
+# County Title
+title = c_concord
+
+# Settlements
+max_settlements = 6
+
+b_concord = castle
+b_pleasant_hill = city
+b_pacheco = temple
+b_martinez = castle
+b_baypoint = city
+#b_vine_hill = temple
+#b_four_corners = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

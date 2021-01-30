@@ -1,0 +1,21 @@
+# c_torrey
+
+# County Title
+title = c_torrey
+
+# Settlements
+max_settlements = 4
+
+b_verona_2 = castle
+b_carmel_valley_2 = city
+b_torrey_pines = temple
+#b_scripps = castle
+#b_del_mar = city
+#b_solana = temple
+#b_miramar = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

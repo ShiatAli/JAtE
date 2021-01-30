@@ -1,0 +1,21 @@
+# c_quilcene
+
+# County Title
+title = c_quilcene
+
+# Settlements
+max_settlements = 3
+
+b_quilcene = castle
+b_brinnon = city
+#b_leland = temple
+#b_discovery_bay_2 = castle
+#b_gardiner_2 = city
+#b_blyn = temple
+#b_eldon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

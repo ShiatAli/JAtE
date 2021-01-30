@@ -1,0 +1,21 @@
+# c_herald
+
+# County Title
+title = c_herald
+
+# Settlements
+max_settlements = 4
+
+b_herald = castle
+b_wilton = city
+#b_galt = temple
+#b_franklin_field = castle
+#b_elk_grove_milling = city
+#b_dillard = temple
+#b_valensin = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

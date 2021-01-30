@@ -1,0 +1,21 @@
+# c_richmond
+
+# County Title
+title = c_richmond
+
+# Settlements
+max_settlements = 6
+
+b_richmond = castle
+b_el_cerrito = city
+b_san_pablo = temple
+b_el_sobrante = castle
+b_pinole = city
+#b_hercules = temple
+#b_rodeo = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

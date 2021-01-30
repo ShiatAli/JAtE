@@ -1,0 +1,21 @@
+# c_boulder_city_2
+
+# County Title
+title = c_boulder_city_2
+
+# Settlements
+max_settlements = 4
+
+b_boulder_city_2 = castle
+b_henderson_2 = city
+b_emerald_cove_2 = temple
+#b_black_mountain_3 = castle
+#b_cascata_2 = city
+#b_bighorn_2 = temple
+#b_hemenway_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_pozo
+
+# County Title
+title = c_pozo
+
+# Settlements
+max_settlements = 3
+
+b_lozo = castle
+#b_oak_creek_ranch = city
+#b_turkey_flat = temple
+#b_soto_canyon = castle
+#b_rock_front = city
+#b_gracia = temple
+#b_alamo_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

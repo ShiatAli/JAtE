@@ -1,0 +1,21 @@
+# c_breccia
+
+# County Title
+title = c_breccia
+
+# Settlements
+max_settlements = 3
+
+b_dubois_2 = castle
+#b_dunoir = city
+#b_lava_lodge = temple
+#b_wind_river = castle
+#b_togwotee = city
+#b_moran_2 = temple
+#b_elk_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

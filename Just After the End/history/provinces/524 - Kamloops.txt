@@ -1,0 +1,21 @@
+# c_kamloops
+
+# County Title
+title = c_kamloops
+
+# Settlements
+max_settlements = 3
+
+b_kamloops = castle
+b_shuswap = city
+b_barriere = temple
+#b_monte_creek = castle
+#b_vinsulla = city
+#b_black_pines = temple
+#b_louis_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

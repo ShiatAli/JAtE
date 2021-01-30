@@ -1,0 +1,21 @@
+# c_copper_city
+
+# County Title
+title = c_copper_city
+
+# Settlements
+max_settlements = 2
+
+b_copper_city = castle
+#b_randsburg = city
+#b_atolia = temple
+#b_grass_valley_2 = castle
+#b_rand_2 = city
+#b_randsburg_2 = temple
+#b_golden_valley_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

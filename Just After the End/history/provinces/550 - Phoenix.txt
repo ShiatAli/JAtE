@@ -1,0 +1,21 @@
+# c_phoenix
+
+# County Title
+title = c_phoenix
+
+# Settlements
+max_settlements = 7
+
+b_phoenix_2 = castle
+#b_scottsdale = city
+#b_glendale_4 = temple
+#b_peoria = castle
+#b_goodyear = city
+#b_sun_city_2 = temple
+#b_el_mirage = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

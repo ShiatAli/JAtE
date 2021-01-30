@@ -1,0 +1,21 @@
+# c_window_rock
+
+# County Title
+title = c_window_rock
+
+# Settlements
+max_settlements = 5
+
+b_window_rock = castle
+#b_navajo = city
+#b_fort_defiance = temple
+#b_st_michaels = castle
+#b_sawmill = city
+#b_crystal_2 = temple
+#b_tse_bonito = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

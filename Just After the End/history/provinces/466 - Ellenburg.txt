@@ -1,0 +1,21 @@
+# c_ellenburg
+
+# County Title
+title = c_ellenburg
+
+# Settlements
+max_settlements = 3
+
+b_ellenburg = castle
+#b_kittitas = city
+#b_holme = temple
+#b_vantage = castle
+#b_thorp = city
+#b_bristol = temple
+#b_ceader_cove = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

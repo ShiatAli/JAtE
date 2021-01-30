@@ -1,0 +1,21 @@
+# c_olympia
+
+# County Title
+title = c_olympia
+
+# Settlements
+max_settlements = 4
+
+b_olympia = castle
+b_tumwater = city
+b_lamberts_corner = temple
+#b_south_union = castle
+#b_nottingham = city
+#b_maytown = temple
+#b_capital = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

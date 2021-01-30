@@ -1,0 +1,21 @@
+# c_halford
+
+# County Title
+title = c_halford
+
+# Settlements
+max_settlements = 3
+
+b_halford = castle
+b_startup = city
+#b_gold_bar = temple
+#b_index = castle
+#b_baring = city
+#b_grotto = temple
+#b_gunn = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

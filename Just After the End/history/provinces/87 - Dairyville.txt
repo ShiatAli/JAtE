@@ -1,0 +1,21 @@
+# c_dairyville
+
+# County Title
+title = c_dairyville
+
+# Settlements
+max_settlements = 4
+
+b_dairyville = castle
+b_bend = city
+#b_dales = temple
+#b_paynes_creek = castle
+#b_lyonsville = city
+#b_mineral = temple
+#b_wells_place = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

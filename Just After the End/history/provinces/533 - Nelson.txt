@@ -1,0 +1,21 @@
+# c_nelson
+
+# County Title
+title = c_nelson
+
+# Settlements
+max_settlements = 3
+
+b_nelson = castle
+#b_taghum = city
+#b_willow_point = temple
+#b_balfour = castle
+#b_queens_bay = city
+#b_ainsworth = temple
+#b_procter = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

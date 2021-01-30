@@ -1,0 +1,21 @@
+# c_tetonia
+
+# County Title
+title = c_tetonia
+
+# Settlements
+max_settlements = 3
+
+b_driggs = castle
+b_victor_4 = city
+#b_fox_creek_2 = temple
+#b_chapin = castle
+#b_darby = city
+#b_alta = temple
+#b_clementsville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

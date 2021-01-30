@@ -1,0 +1,21 @@
+# c_centralia
+
+# County Title
+title = c_centralia
+
+# Settlements
+max_settlements = 3
+
+b_centralia = castle
+b_chehalis = city
+#b_napavine = temple
+#b_adna = castle
+#b_onalaska = city
+#b_cinebar = temple
+#b_cowlitz = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

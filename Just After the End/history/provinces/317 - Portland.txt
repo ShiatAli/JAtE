@@ -1,0 +1,21 @@
+# c_portland
+
+# County Title
+title = c_portland
+
+# Settlements
+max_settlements = 5
+
+b_portland = castle
+b_alberta = city
+b_sunnyside = temple
+#b_irvington_2 = castle
+#b_montavilla = city
+#b_lents = temple
+#b_argay = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

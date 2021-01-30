@@ -1,0 +1,25 @@
+#CALEDONIA
+technology = {
+	titles = {
+		d_cascade
+		d_coldstream
+		d_kokanee
+		d_monashee
+		d_okanagan
+		d_purcells
+		d_selkirk
+		d_similkameen
+		d_thompson
+		d_valhalla
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

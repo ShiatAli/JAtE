@@ -1,0 +1,21 @@
+# c_bellingham
+
+# County Title
+title = c_bellingham
+
+# Settlements
+max_settlements = 4
+
+b_bellingham = castle
+b_geneva = city
+b_dewey_2 = temple
+#b_van_wyck = castle
+#b_marietta_alderwood = city
+#b_fairhaven = temple
+#b_chuckanut = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

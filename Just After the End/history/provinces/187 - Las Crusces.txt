@@ -1,0 +1,21 @@
+# c_las_crusces
+
+# County Title
+title = c_las_crusces
+
+# Settlements
+max_settlements = 2
+
+b_las_crusces = castle
+#b_gaviota = city
+#b_capitan = temple
+#b_peak = castle
+#b_del_barro = city
+#b_de_alegeria = temple
+#b_del_sacate = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

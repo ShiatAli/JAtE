@@ -1,0 +1,21 @@
+# c_boundary
+
+# County Title
+title = c_boundary
+
+# Settlements
+max_settlements = 2
+
+b_bonners_ferry = castle
+#b_moyie_springs = city
+#b_porthill = temple
+#b_eastport = castle
+#b_naples = city
+#b_elmiras = temple
+#b_good_grief = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

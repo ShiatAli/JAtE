@@ -1,0 +1,21 @@
+# c_deerlodge
+
+# County Title
+title = c_deerlodge
+
+# Settlements
+max_settlements = 3
+
+b_dillon_2 = castle
+#b_argenta_2 = city
+#b_glen = temple
+#b_ford_3 = castle
+#b_bill_hill = city
+#b_blacktail = temple
+#b_hoffman = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

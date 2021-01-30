@@ -1,0 +1,21 @@
+# c_terra_bella
+
+# County Title
+title = c_terra_bella
+
+# Settlements
+max_settlements = 3
+
+b_terra_bella = castle
+b_ducor = city
+#b_white_river = temple
+#b_worth = castle
+#b_porterville = city
+#b_richgrove = temple
+#b_jasmin = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

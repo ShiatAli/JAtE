@@ -1,0 +1,21 @@
+# c_salton
+
+# County Title
+title = c_salton
+
+# Settlements
+max_settlements = 3
+
+b_salton_city = castle
+b_kane_spring = city
+#b_ocotillo = temple
+#b_shoreline = castle
+#b_torres = city
+#b_martinez_2 = temple
+#b_borrego = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

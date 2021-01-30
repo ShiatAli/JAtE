@@ -1,0 +1,21 @@
+# c_gilroy
+
+# County Title
+title = c_gilroy
+
+# Settlements
+max_settlements = 4
+
+b_gilroy = castle
+b_coyote = city
+b_madrone = temple
+#b_morgan_hill = castle
+#b_san_martin = city
+#b_rucker = temple
+#b_san_felipe = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

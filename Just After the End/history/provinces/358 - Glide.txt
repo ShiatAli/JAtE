@@ -1,0 +1,21 @@
+# c_glide
+
+# County Title
+title = c_glide
+
+# Settlements
+max_settlements = 2
+
+b_glide = castle
+#b_peel = city
+#b_cleanwater = temple
+#b_diamond_lake_2 = castle
+#b_fair_oaks_2 = city
+#b_hawthrone_2 = temple
+#b_elkhead = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

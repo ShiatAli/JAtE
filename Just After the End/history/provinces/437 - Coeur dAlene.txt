@@ -1,0 +1,21 @@
+# c_coeur_dalene
+
+# County Title
+title = c_coeur_dalene
+
+# Settlements
+max_settlements = 3
+
+b_coeur_dalene = castle
+b_post_falls = city
+#b_hayden = temple
+#b_dalton_gardens = castle
+#b_rathdrum = city
+#b_garwood = temple
+#b_ramsey_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_condensadora
+
+# County Title
+title = c_condensadora
+
+# Settlements
+max_settlements = 2
+
+b_condensadora = castle
+#b_mina_san_felipe = city
+#b_las_pintas = temple
+#b_las_tinajas = castle
+#b_carrizo = city
+#b_coyote_2 = temple
+#b_la_ventana_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = marsh
+#History

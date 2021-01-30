@@ -1,0 +1,21 @@
+# c_snohomish
+
+# County Title
+title = c_snohomish
+
+# Settlements
+max_settlements = 3
+
+b_snohomish = castle
+b_monroe = city
+#b_cathcart = temple
+#b_highrock = castle
+#b_sultan = city
+#b_north_sultan = temple
+#b_woods_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_idria
+
+# County Title
+title = c_idria
+
+# Settlements
+max_settlements = 3
+
+b_idria = castle
+b_llanada = city
+#b_panoche = temple
+#b_moody_canyon = castle
+#b_silver_creek = city
+#b_paicines = temple
+#b_tres_pinos = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

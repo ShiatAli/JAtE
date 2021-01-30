@@ -1,0 +1,21 @@
+# c_canyon_de_chelly
+
+# County Title
+title = c_canyon_de_chelly
+
+# Settlements
+max_settlements = 5
+
+b_chinle = castle
+#b_many_farms = city
+#b_nazlini = temple
+#b_rough_rock = castle
+#b_del_muerto = city
+#b_tselani = temple
+#b_cottonwood_6 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

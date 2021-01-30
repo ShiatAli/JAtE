@@ -1,0 +1,21 @@
+# c_no_return
+
+# County Title
+title = c_no_return
+
+# Settlements
+max_settlements = 2
+
+b_stanley = castle
+#b_clayton_3 = city
+#b_torreys = temple
+#b_custer_bonanza = castle
+#b_potaman = city
+#b_boulder_white = temple
+#b_potato_mountain = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

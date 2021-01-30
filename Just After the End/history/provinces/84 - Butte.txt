@@ -1,0 +1,21 @@
+# c_butte
+
+# County Title
+title = c_butte
+
+# Settlements
+max_settlements = 4
+
+b_butte_city = castle
+b_afton = city
+#b_meridian = temple
+#b_tarke = castle
+#b_josephine = city
+#b_tisdale = temple
+#b_west_butte = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

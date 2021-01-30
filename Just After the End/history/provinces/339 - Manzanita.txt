@@ -1,0 +1,21 @@
+# c_manzanita
+
+# County Title
+title = c_manzanita
+
+# Settlements
+max_settlements = 4
+
+b_manzanita = castle
+b_mohler = city
+#b_wheeler_3 = temple
+#b_batterston = castle
+#b_rockaway_beach = city
+#b_barview = temple
+#b_barnesdale = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_barstow
+
+# County Title
+title = c_barstow
+
+# Settlements
+max_settlements = 3
+
+b_barstow_2 = castle
+b_lenwood = city
+#b_irwin = temple
+#b_hinkley = castle
+#b_nebo = city
+#b_yermo = temple
+#b_daggett = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_spokane
+
+# County Title
+title = c_spokane
+
+# Settlements
+max_settlements = 5
+
+b_spokane = castle
+b_town_and_country = city
+#b_country_home = temple
+#b_fairwood_2 = castle
+#b_mead = city
+#b_manito_park = temple
+#b_logan_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_toulumnes
+
+# County Title
+title = c_toulumnes
+
+# Settlements
+max_settlements = 2
+
+b_toulumnes = castle
+#b_groveland = city
+#b_moccasin = temple
+#b_columbia = castle
+#b_jamestown = city
+#b_sonora = temple
+#b_twain_harte = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

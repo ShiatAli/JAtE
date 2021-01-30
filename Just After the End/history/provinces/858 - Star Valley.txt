@@ -1,0 +1,21 @@
+# c_star_valley
+
+# County Title
+title = c_star_valley
+
+# Settlements
+max_settlements = 3
+
+b_afton_3 = castle
+b_grover = city
+#b_auburn_3 = temple
+#b_fairview_5 = castle
+#b_smoot = city
+#b_kodiak = temple
+#b_water_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

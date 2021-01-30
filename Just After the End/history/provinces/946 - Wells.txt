@@ -1,0 +1,21 @@
+# c_wells
+
+# County Title
+title = c_wells
+
+# Settlements
+max_settlements = 1
+
+b_wells = castle
+#b_alazon = city
+#b_moor = temple
+#b_town_creek = castle
+#b_wood_hills = city
+#b_melandco = temple
+#b_windmere = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

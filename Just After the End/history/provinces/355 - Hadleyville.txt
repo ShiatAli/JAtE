@@ -1,0 +1,21 @@
+# c_hadleyville
+
+# County Title
+title = c_hadleyville
+
+# Settlements
+max_settlements = 2
+
+b_hadleyville = castle
+#b_vaughn = city
+#b_crow = temple
+#b_lorane = castle
+#b_mill_camp = city
+#b_sweet_cheeks = temple
+#b_powell = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

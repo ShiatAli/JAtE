@@ -1,0 +1,21 @@
+# c_sequim
+
+# County Title
+title = c_sequim
+
+# Settlements
+max_settlements = 3
+
+b_sequim = castle
+b_carlsborg = city
+#b_dungeness = temple
+#b_port_williams = castle
+#b_bell_hill = city
+#b_agnew = temple
+#b_old_town_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

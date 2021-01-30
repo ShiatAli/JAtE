@@ -1,0 +1,21 @@
+# c_hayfork
+
+# County Title
+title = c_hayfork
+
+# Settlements
+max_settlements = 3
+
+b_hayfork = castle
+#b_peanut = city
+#b_knob = temple
+#b_forest_glen = castle
+#b_mad_river = city
+#b_ruth = temple
+#b_miller_place = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

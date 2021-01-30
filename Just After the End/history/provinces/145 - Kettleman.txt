@@ -1,0 +1,21 @@
+# c_kettleman
+
+# County Title
+title = c_kettleman
+
+# Settlements
+max_settlements = 3
+
+b_kettleman = castle
+b_avenal = city
+#b_reef_station = temple
+#b_hydril = castle
+#b_murray = city
+#b_la_salida = temple
+#b_kettleman_city = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

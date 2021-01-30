@@ -1,0 +1,21 @@
+# c_shiprock
+
+# County Title
+title = c_shiprock
+
+# Settlements
+max_settlements = 5
+
+b_shiprock = castle
+#b_sanostee = city
+#b_newcomb = temple
+#b_becklabito = castle
+#b_red_valley = city
+#b_sheep_springs = temple
+#b_hogback = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

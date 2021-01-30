@@ -1,0 +1,21 @@
+# c_pocatello
+
+# County Title
+title = c_pocatello
+
+# Settlements
+max_settlements = 4
+
+b_pocatello = castle
+#b_chubbuck_2 = city
+#b_portneuf = temple
+#b_blackrock = castle
+#b_bengal = city
+#b_highland_3 = temple
+#b_mink = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

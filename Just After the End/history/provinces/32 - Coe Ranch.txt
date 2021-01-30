@@ -1,0 +1,21 @@
+# c_coe_ranch
+
+# County Title
+title = c_coe_ranch
+
+# Settlements
+max_settlements = 2
+
+b_coe_ranch = castle
+#b_coit_lake = city
+#b_sierra_view = temple
+#b_lion_spring = castle
+#b_flat_frog = city
+#b_manazanita = temple
+#b_frog_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

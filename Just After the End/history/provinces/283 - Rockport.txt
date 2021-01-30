@@ -1,0 +1,21 @@
+# c_rockport
+
+# County Title
+title = c_rockport
+
+# Settlements
+max_settlements = 3
+
+b_rockport = castle
+b_hardy = city
+#b_wheeler_2 = temple
+#b_hales_grove = castle
+#b_kenny = city
+#b_sinkyone = temple
+#b_usal = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

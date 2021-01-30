@@ -1,0 +1,35 @@
+#LINCOLN
+technology = {
+	titles = {
+		d_adams
+		d_bluewood
+		d_chelan
+		d_crag
+		d_ferry
+		d_flathead
+		d_franklin
+		d_grant
+		d_great_coulee
+		d_horse_heaven
+		d_kittitas
+		d_klickitat
+		d_lateh
+		d_lilac
+		d_mineral
+		d_okanogan
+		d_pend_oreille
+		d_steven
+		d_umatilla
+		d_wasco
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

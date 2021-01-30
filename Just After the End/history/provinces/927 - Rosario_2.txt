@@ -1,0 +1,21 @@
+# c_rosario_2
+
+# County Title
+title = c_rosario_2
+
+# Settlements
+max_settlements = 3
+
+b_el_rosario_2 = castle
+#b_el_pozole = city
+#b_agua_verde = temple
+#b_apoderado = castle
+#b_chametla_2 = city
+#b_ejido_cajon_ojo_de_agua_numero_dos = temple
+#b_cacalotan = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

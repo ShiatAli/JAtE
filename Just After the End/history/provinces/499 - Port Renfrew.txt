@@ -1,0 +1,21 @@
+# c_port_renfrew
+
+# County Title
+title = c_port_renfrew
+
+# Settlements
+max_settlements = 3
+
+b_port_renfrew = castle
+#b_lake_cowichan = city
+#b_base_camp = temple
+#b_sahtlam = castle
+#b_somenos = city
+#b_youbou = temple
+#b_jordan_river = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

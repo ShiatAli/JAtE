@@ -1,0 +1,21 @@
+# c_republic
+
+# County Title
+title = c_republic
+
+# Settlements
+max_settlements = 2
+
+b_republic = castle
+#b_torboy = city
+#b_malo = temple
+#b_curlew = castle
+#b_danville_2 = city
+#b_toroda = temple
+#b_cooper = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

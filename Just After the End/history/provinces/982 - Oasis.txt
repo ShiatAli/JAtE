@@ -1,0 +1,21 @@
+# c_oasis
+
+# County Title
+title = c_oasis
+
+# Settlements
+max_settlements = 3
+
+b_oasis = castle
+b_deep_springs = city
+#b_sylvania = temple
+#b_crater = castle
+#b_mount_nunn = city
+#b_last_chance = temple
+#b_magruder = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

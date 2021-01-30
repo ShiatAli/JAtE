@@ -1,0 +1,21 @@
+# c_woodburn
+
+# County Title
+title = c_woodburn
+
+# Settlements
+max_settlements = 4
+
+b_woodburn = castle
+b_labish_village = city
+#b_mt_angel = temple
+#b_st_paul = castle
+#b_hubbard = city
+#b_aurora = temple
+#b_brooks_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

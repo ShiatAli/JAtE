@@ -1,0 +1,21 @@
+# c_st_helena
+
+# County Title
+title = c_st_helena
+
+# Settlements
+max_settlements = 5
+
+b_st_helena = castle
+b_yountville = city
+b_oakville = temple
+b_zinfadel = castle
+#b_larkmead = city
+#b_calistoga = temple
+#b_rutherford = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_whitman
+
+# County Title
+title = c_whitman
+
+# Settlements
+max_settlements = 1
+
+b_imnaha = castle
+#b_buckhorn = city
+#b_dug_bar = temple
+#b_temperance = castle
+#b_zumwalt = city
+#b_kurry = temple
+#b_getta = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

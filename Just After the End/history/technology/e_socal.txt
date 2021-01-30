@@ -1,0 +1,35 @@
+#SOCAL
+technology = {
+	titles = {
+		d_anaheim
+		d_anza_borrego
+		d_channel_islands
+		d_dead_mountains
+		d_grand_vegas
+		d_inland
+		d_joshua_tree
+		d_los_angeles
+		d_los_padres
+		d_moreno_valley
+		d_orange
+		d_pendleton
+		d_riverside
+		d_rodman
+		d_salton
+		d_san_diego
+		d_santa_barbara
+		d_the_empire
+		d_ventura
+		d_whipple
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

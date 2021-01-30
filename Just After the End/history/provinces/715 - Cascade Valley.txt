@@ -1,0 +1,21 @@
+# c_cascade_valley
+
+# County Title
+title = c_cascade_valley
+
+# Settlements
+max_settlements = 2
+
+b_mccall = castle
+#b_cascade_2 = city
+#b_new_meadows = temple
+#b_donnelley = castle
+#b_smiths_ferry = city
+#b_banks_2 = temple
+#b_lake_fork = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

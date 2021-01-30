@@ -1,0 +1,21 @@
+# c_penticton
+
+# County Title
+title = c_penticton
+
+# Settlements
+max_settlements = 3
+
+b_penticton = castle
+#b_okanagan_falls = city
+#b_oliver = temple
+#b_fairview_2 = castle
+#b_osoyoos = city
+#b_inkaneep = temple
+#b_nkmip = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

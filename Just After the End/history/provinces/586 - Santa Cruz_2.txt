@@ -1,0 +1,21 @@
+# c_santa_cruz_2
+
+# County Title
+title = c_santa_cruz_2
+
+# Settlements
+max_settlements = 3
+
+b_rio_rico = castle
+#b_tubac = city
+#b_patagonia = temple
+#b_sonoita = castle
+#b_tumacacori = city
+#b_amado = temple
+#b_beyerville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

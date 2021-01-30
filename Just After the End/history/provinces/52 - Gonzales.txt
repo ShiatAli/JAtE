@@ -1,0 +1,21 @@
+# c_gonzales
+
+# County Title
+title = c_gonzales
+
+# Settlements
+max_settlements = 6
+
+b_gonzales = castle
+b_molus = city
+b_dean = temple
+#b_penvir = castle
+#b_chualar = city
+#b_mer_soliel = temple
+#b_somavia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

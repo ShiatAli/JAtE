@@ -1,0 +1,21 @@
+# c_burley
+
+# County Title
+title = c_burley
+
+# Settlements
+max_settlements = 3
+
+b_burley = castle
+#b_oakley_3 = city
+#b_declo = temple
+#b_jackson = castle
+#b_springdale_3 = city
+#b_milner = temple
+#b_view = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

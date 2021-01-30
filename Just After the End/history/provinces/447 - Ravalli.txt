@@ -1,0 +1,21 @@
+# c_ravalli
+
+# County Title
+title = c_ravalli
+
+# Settlements
+max_settlements = 3
+
+b_hamilton_2 = castle
+#b_pinedale = city
+#b_corvalis = temple
+#b_victor_2 = castle
+#b_cinnabar_court = city
+#b_stevensville = temple
+#b_florence_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

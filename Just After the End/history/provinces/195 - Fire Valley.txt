@@ -1,0 +1,21 @@
+# c_fire_valley
+
+# County Title
+title = c_fire_valley
+
+# Settlements
+max_settlements = 3
+
+b_ute = castle
+b_crystal = city
+#b_dry_lake = temple
+#b_amber = castle
+#b_jackman = city
+#b_glendale_2 = temple
+#b_moapa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_jewell
+
+# County Title
+title = c_jewell
+
+# Settlements
+max_settlements = 4
+
+b_jewell = castle
+b_grand_rapids = city
+#b_elsie = temple
+#b_hamlet = castle
+#b_lukarilla = city
+#b_nehalem = temple
+#b_sunset = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

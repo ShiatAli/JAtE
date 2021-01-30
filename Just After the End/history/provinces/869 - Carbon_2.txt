@@ -1,0 +1,21 @@
+# c_carbon_2
+
+# County Title
+title = c_carbon_2
+
+# Settlements
+max_settlements = 3
+
+b_rawlins = castle
+#b_bairoil = city
+#b_sinclair = temple
+#b_fort_steele_2 = castle
+#b_saratoga_2 = city
+#b_encampment = temple
+#b_walcott = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

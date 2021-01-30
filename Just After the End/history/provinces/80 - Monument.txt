@@ -1,0 +1,21 @@
+# c_monument
+
+# County Title
+title = c_monument
+
+# Settlements
+max_settlements = 4
+
+b_meyers = castle
+b_camp_richardson = city
+#b_round_hill_village = temple
+#b_phillip = castle
+#b_strawberry = city
+#b_nebelhorn = temple
+#b_echo_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

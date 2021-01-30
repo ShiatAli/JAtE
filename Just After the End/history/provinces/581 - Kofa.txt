@@ -1,0 +1,21 @@
+# c_kofa
+
+# County Title
+title = c_kofa
+
+# Settlements
+max_settlements = 3
+
+b_wellton = castle
+#b_roll = city
+#b_dateland = temple
+#b_tacna = castle
+#b_wellton_hills = city
+#b_aztec = temple
+#b_cabeza_prieta = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

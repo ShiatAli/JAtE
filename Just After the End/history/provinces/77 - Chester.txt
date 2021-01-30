@@ -1,0 +1,21 @@
+# c_chester
+
+# County Title
+title = c_chester
+
+# Settlements
+max_settlements = 4
+
+b_chester = castle
+b_westwood = city
+#b_east_shore = temple
+#b_north_shore = castle
+#b_last_chance_creek = city
+#b_foxwood_park = temple
+#b_mud_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_corning
+
+# County Title
+title = c_corning
+
+# Settlements
+max_settlements = 3
+
+b_corning = castle
+b_richfield = city
+#b_henleyville = temple
+#b_flournoy = castle
+#b_paskenta = city
+#b_rolling_hill = temple
+#b_squaw_hill = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_the_padres
+
+# County Title
+title = c_the_padres
+
+# Settlements
+max_settlements = 3
+
+b_los_padres = castle
+b_cuyama = city
+#b_sisquoc = temple
+#b_madulce = castle
+#b_san_rafael_2 = city
+#b_cachuma = temple
+#b_knapps_castle = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

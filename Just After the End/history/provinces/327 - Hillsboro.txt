@@ -1,0 +1,21 @@
+# c_hillsboro
+
+# County Title
+title = c_hillsboro
+
+# Settlements
+max_settlements = 4
+
+b_hillsboro = castle
+b_aloha = city
+b_tanasbourne = temple
+#b_hazeldale = castle
+#b_roloffs = city
+#b_north_plains = temple
+#b_bethany = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

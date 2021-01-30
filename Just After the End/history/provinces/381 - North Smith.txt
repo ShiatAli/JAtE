@@ -1,0 +1,21 @@
+# c_north_smith
+
+# County Title
+title = c_north_smith
+
+# Settlements
+max_settlements = 3
+
+b_oak_harbor = castle
+b_anacortes = city
+#b_howards_corner = temple
+#b_dewey = castle
+#b_ault_field = city
+#b_penn_cove_park = temple
+#b_san_de_fuca = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

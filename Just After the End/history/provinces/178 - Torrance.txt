@@ -1,0 +1,21 @@
+# c_torrance
+
+# County Title
+title = c_torrance
+
+# Settlements
+max_settlements = 4
+
+b_torrance_2 = castle
+b_santa_monica = city
+b_venice = temple
+#b_hawthrone = castle
+#b_redondo = city
+#b_carson = temple
+#b_hermosa = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

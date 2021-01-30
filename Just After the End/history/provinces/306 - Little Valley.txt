@@ -1,0 +1,21 @@
+# c_little_valley
+
+# County Title
+title = c_little_valley
+
+# Settlements
+max_settlements = 3
+
+b_little_valley = castle
+#b_dixie = city
+#b_hayden_hill = temple
+#b_sheepshead = castle
+#b_bieber = city
+#b_adin = temple
+#b_lookout = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

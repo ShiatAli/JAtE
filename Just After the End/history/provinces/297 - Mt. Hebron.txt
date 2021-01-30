@@ -1,0 +1,21 @@
+# c_mt_hebron
+
+# County Title
+title = c_mt_hebron
+
+# Settlements
+max_settlements = 3
+
+b_mt_hebron = castle
+#b_tennant = city
+#b_macdoel = temple
+#b_dorris = castle
+#b_canby_lake = city
+#b_tulelake = temple
+#b_red_rock = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

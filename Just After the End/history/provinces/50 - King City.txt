@@ -1,0 +1,21 @@
+# c_king_city
+
+# County Title
+title = c_king_city
+
+# Settlements
+max_settlements = 6
+
+b_king_city = castle
+b_greenfield = city
+b_elsa = temple
+#b_quinado_valley = castle
+#b_pine_canyon = city
+#b_california_orchard = temple
+#b_welby = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

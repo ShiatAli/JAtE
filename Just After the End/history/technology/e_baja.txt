@@ -1,0 +1,28 @@
+#BAJA
+technology = {
+	titles = {
+		d_biosfera
+		d_comondu
+		d_diablo
+		d_ensenada
+		d_gran_paz
+		d_gran_rosarito
+		d_kakigui
+		d_loreto
+		d_los_cabos
+		d_magdalena
+		d_mexicali
+		d_mulege
+		d_tijuana
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

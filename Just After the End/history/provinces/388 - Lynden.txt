@@ -1,0 +1,21 @@
+# c_lynden
+
+# County Title
+title = c_lynden
+
+# Settlements
+max_settlements = 4
+
+b_lynden = castle
+b_everson = city
+b_greenwood = temple
+#b_ferndale_2 = castle
+#b_blaine = city
+#b_custer = temple
+#b_laurel = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

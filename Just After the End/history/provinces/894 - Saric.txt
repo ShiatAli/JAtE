@@ -1,0 +1,21 @@
+# c_saric
+
+# County Title
+title = c_saric
+
+# Settlements
+max_settlements = 3
+
+b_saric = castle
+#b_atil = city
+#b_sasabe = temple
+#b_oquitoa = castle
+#b_tubutama = city
+#b_cerro_prieto = temple
+#b_la_reforma = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

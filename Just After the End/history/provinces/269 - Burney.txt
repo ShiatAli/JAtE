@@ -1,0 +1,21 @@
+# c_burney
+
+# County Title
+title = c_burney
+
+# Settlements
+max_settlements = 3
+
+b_burney = castle
+b_cassel = city
+#b_doyles_corner = temple
+#b_gomez = castle
+#b_mcarthur = city
+#b_pittville = temple
+#b_hat_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

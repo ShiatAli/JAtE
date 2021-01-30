@@ -1,0 +1,21 @@
+# c_san_francisco
+
+# County Title
+title = c_san_francisco
+
+# Settlements
+max_settlements = 6
+
+b_san_francisco = castle
+b_richmond_district = city
+b_embarcadero = temple
+b_mission_district = castle
+#b_sunset_district = city
+#b_hunters_point = temple
+#b_the_castro = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

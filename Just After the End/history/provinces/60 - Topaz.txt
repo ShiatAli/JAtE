@@ -1,0 +1,21 @@
+# c_topaz
+
+# County Title
+title = c_topaz
+
+# Settlements
+max_settlements = 3
+
+b_topaz = castle
+#b_lazy_arrow = city
+#b_soda_lake = temple
+#b_california_valley = castle
+#b_larson_spring = city
+#b_wells_spring = temple
+#b_abbott_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

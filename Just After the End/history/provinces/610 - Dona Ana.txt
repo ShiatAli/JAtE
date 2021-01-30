@@ -1,0 +1,21 @@
+# c_dona_ana
+
+# County Title
+title = c_dona_ana
+
+# Settlements
+max_settlements = 4
+
+b_las_cruces_2 = castle
+#b_vado = city
+#b_mesilla = temple
+#b_san_ysidro_2 = castle
+#b_radium_springs = city
+#b_dona_ana = temple
+#b_fairacres = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_caliente
+
+# County Title
+title = c_caliente
+
+# Settlements
+max_settlements = 1
+
+b_caliente_2 = castle
+#b_etna_5 = city
+#b_chokecherry = temple
+#b_delamar = castle
+#b_burnt_springs = city
+#b_clover_range = temple
+#b_rainbow_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

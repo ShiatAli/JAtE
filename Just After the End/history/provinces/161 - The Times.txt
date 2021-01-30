@@ -1,0 +1,21 @@
+# c_the_times
+
+# County Title
+title = c_the_times
+
+# Settlements
+max_settlements = 4
+
+b_the_times = castle
+b_the_knott = city
+b_buena_park = temple
+#b_almond = castle
+#b_artesia = city
+#b_berryfarm = temple
+#b_bellis = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_rancho_cordova
+
+# County Title
+title = c_rancho_cordova
+
+# Settlements
+max_settlements = 4
+
+b_rancho_cordova = castle
+b_mills_acre = city
+b_sunnyvale = temple
+#b_el_cortez = castle
+#b_por_alexander = city
+#b_lincoln_park = temple
+#b_mather = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_apache_forest
+
+# County Title
+title = c_apache_forest
+
+# Settlements
+max_settlements = 2
+
+b_morenci = castle
+#b_luna = city
+#b_alpine = temple
+#b_hannagan_meadow = castle
+#b_wispering_pines = city
+#b_honeymoon = temple
+#b_blue_range = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

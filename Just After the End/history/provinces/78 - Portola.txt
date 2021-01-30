@@ -1,0 +1,21 @@
+# c_portola
+
+# County Title
+title = c_portola
+
+# Settlements
+max_settlements = 4
+
+b_portola = castle
+b_iron_horse = city
+#b_graeagle = temple
+#b_clio = castle
+#b_cromberg = city
+#b_greenhorn = temple
+#b_quincy = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

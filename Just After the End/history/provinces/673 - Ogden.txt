@@ -1,0 +1,21 @@
+# c_ogden
+
+# County Title
+title = c_ogden
+
+# Settlements
+max_settlements = 4
+
+b_layton = castle
+b_ogden = city
+#b_roy_3 = temple
+#b_clearfield = castle
+#b_kaysville = city
+#b_syracuse = temple
+#b_pleasant_view = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

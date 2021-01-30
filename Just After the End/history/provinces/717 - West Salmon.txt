@@ -1,0 +1,21 @@
+# c_west_salmon
+
+# County Title
+title = c_west_salmon
+
+# Settlements
+max_settlements = 2
+
+b_warren_3 = castle
+#b_burgdorf = city
+#b_yellow_pine = temple
+#b_dixie_3 = castle
+#b_edwardsburg = city
+#b_florence_5 = temple
+#b_hot_springs_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

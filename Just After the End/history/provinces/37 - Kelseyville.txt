@@ -1,0 +1,21 @@
+# c_kelseyville
+
+# County Title
+title = c_kelseyville
+
+# Settlements
+max_settlements = 4
+
+b_kelseyville = castle
+b_finley = city
+b_buckingham_park = temple
+#b_riveria_estate = castle
+#b_clear_lake_riveria = city
+#b_highland_springs = temple
+#b_soda_bay = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

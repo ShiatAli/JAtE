@@ -1,0 +1,21 @@
+# c_pondosa
+
+# County Title
+title = c_pondosa
+
+# Settlements
+max_settlements = 3
+
+b_pondosa = castle
+#b_obie = city
+#b_wyntoon = temple
+#b_slagger = castle
+#b_harlow_place = city
+#b_dana = temple
+#b_cayton = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

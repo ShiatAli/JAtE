@@ -1,0 +1,21 @@
+# c_willits
+
+# County Title
+title = c_willits
+
+# Settlements
+max_settlements = 3
+
+b_willits = castle
+b_simerson = city
+#b_ridge = temple
+#b_redwood_valley = castle
+#b_potter_valley = city
+#b_pomo = temple
+#b_laughlin = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

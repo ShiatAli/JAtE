@@ -1,0 +1,21 @@
+# c_clover
+
+# County Title
+title = c_clover
+
+# Settlements
+max_settlements = 1
+
+b_jarbridge = castle
+#b_murphy_springs = city
+#b_three_creek = temple
+#b_marys = castle
+#b_black_leg = city
+#b_whiskey_draw = temple
+#b_hicks_mountain = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

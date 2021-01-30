@@ -1,0 +1,21 @@
+# c_rockland
+
+# County Title
+title = c_rockland
+
+# Settlements
+max_settlements = 2
+
+b_rockland_2 = castle
+#b_roy_4 = city
+#b_flint_canyon = temple
+#b_meadow_brook = castle
+#b_portage_2 = city
+#b_houtz = temple
+#b_east_fork = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

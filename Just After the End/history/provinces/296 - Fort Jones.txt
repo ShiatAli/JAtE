@@ -1,0 +1,21 @@
+# c_fort_jones
+
+# County Title
+title = c_fort_jones
+
+# Settlements
+max_settlements = 3
+
+b_fort_jones = castle
+#b_greenville = city
+#b_etna_2 = temple
+#b_callahan = castle
+#b_foster = city
+#b_sawyers_bar = temple
+#b_kidder_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

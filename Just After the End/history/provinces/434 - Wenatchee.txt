@@ -1,0 +1,21 @@
+# c_wenatchee
+
+# County Title
+title = c_wenatchee
+
+# Settlements
+max_settlements = 3
+
+b_wenatchee = castle
+b_sunnyslope = city
+#b_malaga_2 = temple
+#b_cashmere = castle
+#b_dryden = city
+#b_peshastin = temple
+#b_leavenworth = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

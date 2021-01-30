@@ -1,3 +1,599 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_absaroka;Absaroka;Absaroka;Absaroka;;Absaroka;;;;;;;;;x
+d_absaroka_adj;Absarokan;;absaroker;;;;;;;;;;;x
+d_acoma;Acoma;Acoma;Acoma;;Acoma;;;;;;;;;x
+d_acoma_adj;Acoman;;acomer;;;;;;;;;;;x
+d_adams;Adams;Adams;Adams;;Adams;;;;;;;;;x
+d_adams_adj;Adamsian;;adamser;;;;;;;;;;;x
+d_ahwe_nyava;Ahwe Nyava;Ahwe Nyava;Ahwe Nyava;;Ahwe Nyava;;;;;;;;;x
+d_ahwe_nyava_adj;Ahwe Nyavan;;Ahwe Nyaver;;;;;;;;;;;x
+d_alameda;Alameda;Alameda;Alameda;;Alameda;;;;;;;;;x
+d_alameda_adj;Alamedan;;alameder;;;;;;;;;;;x
+d_alpine;Alpine;Alpine;Alpine;;Alpine;;;;;;;;;x
+d_alpine_adj;Alpinean;;alpiner;;;;;;;;;;;x
+d_anaheim;Anaheim;Anaheim;Anaheim;;Anaheim;;;;;;;;;x
+d_anaheim_adj;Anaheimian;;anaheimer;;;;;;;;;;;x
+d_antelope_valley;Antelope Valley;Antelope Valley;Antelope Valley;;Antelope Valley;;;;;;;;;x
+d_antelope_valley_adj;Antelope Valleian;;Antelope Valleer;;;;;;;;;;;x
+d_anza_borrego;Anza-Borrego;Anza-Borrego;Anza-Borrego;;Anza-Borrego;;;;;;;;;x
+d_anza_borrego_adj;Anza-Borregian;;anza-borreger;;;;;;;;;;;x
+d_aqueduct;Aqueduct;Aqueduct;Aqueduct;;Aqueduct;;;;;;;;;x
+d_aqueduct_adj;Aqueductian;;aqueducter;;;;;;;;;;;x
+d_arcata;Arcata;Arcata;Arcata;;Arcata;;;;;;;;;x
+d_arcata_adj;Arcatan;;arcater;;;;;;;;;;;x
+d_artemisia;Artemisia;Artemisia;Artemisia;;Artemisia;;;;;;;;;x
+d_artemisia_adj;Artemisian;;artemiser;;;;;;;;;;;x
+d_ashford;Ashford;Ashford;Ashford;;Ashford;;;;;;;;;x
+d_ashford_adj;Ashfordian;;ashforder;;;;;;;;;;;x
+d_badiraguato;Badiraguato;Badiraguato;Badiraguato;;Badiraguato;;;;;;;;;x
+d_badiraguato_adj;Badiraguatian;;badiraguater;;;;;;;;;;;x
+d_baker;Baker;Baker;Baker;;Baker;;;;;;;;;x
+d_baker_adj;Bakerian;;bakerer;;;;;;;;;;;x
+d_bannock;Bannock;Bannock;Bannock;;Bannock;;;;;;;;;x
+d_bannock_adj;Bannockian;;bannocker;;;;;;;;;;;x
+d_bear_river;Bear River;Bear River;Bear River;;Bear River;;;;;;;;;x
+d_bear_river_adj;Bear Riverian;;Bear Riverer;;;;;;;;;;;x
+d_beartooth;Beartooth;Beartooth;Beartooth;;Beartooth;;;;;;;;;x
+d_beartooth_adj;Beartoothian;;beartoother;;;;;;;;;;;x
+d_beaverhead;Beaverhead;Beaverhead;Beaverhead;;Beaverhead;;;;;;;;;x
+d_beaverhead_adj;Beaverheadian;;beaverheader;;;;;;;;;;;x
+d_big_bend;Big Bend;Big Bend;Big Bend;;Big Bend;;;;;;;;;x
+d_big_bend_adj;Big Bendian;;Big Bender;;;;;;;;;;;x
+d_big_morongo;Big Morongo;Big Morongo;Big Morongo;;Big Morongo;;;;;;;;;x
+d_big_morongo_adj;Big Morongian;;Big Moronger;;;;;;;;;;;x
+d_big_sur;Big Sur;Big Sur;Big Sur;;Big Sur;;;;;;;;;x
+d_big_sur_adj;Big Surian;;Big Surer;;;;;;;;;;;x
+d_bingham;Bingham;Bingham;Bingham;;Bingham;;;;;;;;;x
+d_bingham_adj;Binghamian;;binghamer;;;;;;;;;;;x
+d_biosfera;Biosfera;Biosfera;Biosfera;;Biosfera;;;;;;;;;x
+d_biosfera_adj;Biosferan;;biosferer;;;;;;;;;;;x
+d_bluewood;Bluewood;Bluewood;Bluewood;;Bluewood;;;;;;;;;x
+d_bluewood_adj;Bluewoodian;;bluewooder;;;;;;;;;;;x
+d_boise_canyon;Boise Canyon;Boise Canyon;Boise Canyon;;Boise Canyon;;;;;;;;;x
+d_boise_canyon_adj;Boise Canyonian;;Boise Canyoner;;;;;;;;;;;x
+d_boulder;Boulder;Boulder;Boulder;;Boulder;;;;;;;;;x
+d_boulder_adj;Boulderian;;boulderer;;;;;;;;;;;x
+d_box_elder;Box Elder;Box Elder;Box Elder;;Box Elder;;;;;;;;;x
+d_box_elder_adj;Box Elderian;;Box Elderer;;;;;;;;;;;x
+d_bridger;Bridger;Bridger;Bridger;;Bridger;;;;;;;;;x
+d_bridger_adj;Bridgerian;;bridgerer;;;;;;;;;;;x
+d_broadwater;Broadwater;Broadwater;Broadwater;;Broadwater;;;;;;;;;x
+d_broadwater_adj;Broadwaterian;;broadwaterer;;;;;;;;;;;x
+d_butte_slopes;Butte Slopes;Butte Slopes;Butte Slopes;;Butte Slopes;;;;;;;;;x
+d_butte_slopes_adj;Butte Slopesian;;Butte Slopeser;;;;;;;;;;;x
+d_cajeme;Cajeme;Cajeme;Cajeme;;Cajeme;;;;;;;;;x
+d_cajeme_adj;Cajemean;;cajemer;;;;;;;;;;;x
+d_calavera;Calavera;Calavera;Calavera;;Calavera;;;;;;;;;x
+d_calavera_adj;Calaveran;;calaverer;;;;;;;;;;;x
+d_calstop;Calstop;Calstop;Calstop;;Calstop;;;;;;;;;x
+d_calstop_adj;Calstopian;;calstoper;;;;;;;;;;;x
+d_canal;Canal;Canal;Canal;;Canal;;;;;;;;;x
+d_canal_adj;Canalian;;canaler;;;;;;;;;;;x
+d_canyonlands;Canyonlands;Canyonlands;Canyonlands;;Canyonlands;;;;;;;;;x
+d_canyonlands_adj;Canyonlandsian;;canyonlandser;;;;;;;;;;;x
+d_carmel_coast;Carmel Coast;Carmel Coast;Carmel Coast;;Carmel Coast;;;;;;;;;x
+d_carmel_coast_adj;Carmel Coastian;;Carmel Coaster;;;;;;;;;;;x
+d_cascade;Cascade;Cascade;Cascade;;Cascade;;;;;;;;;x
+d_cascade_adj;Cascadean;;cascader;;;;;;;;;;;x
+d_cascadia;Cascadia;Cascadia;Cascadia;;Cascadia;;;;;;;;;x
+d_cascadia_adj;Cascadian;;cascader;;;;;;;;;;;x
+d_cassia;Cassia;Cassia;Cassia;;Cassia;;;;;;;;;x
+d_cassia_adj;Cassian;;casser;;;;;;;;;;;x
+d_channel_islands;Channel Islands;Channel Islands;Channel Islands;;Channel Islands;;;;;;;;;x
+d_channel_islands_adj;Channel Islandsian;;Channel Islandser;;;;;;;;;;;x
+d_chelan;Chelan;Chelan;Chelan;;Chelan;;;;;;;;;x
+d_chelan_adj;Chelanian;;chelaner;;;;;;;;;;;x
+d_chicktoria;Chicktoria;Chicktoria;Chicktoria;;Chicktoria;;;;;;;;;x
+d_chicktoria_adj;Chicktorian;;chicktorer;;;;;;;;;;;x
+d_chinle;Chinle;Chinle;Chinle;;Chinle;;;;;;;;;x
+d_chinle_adj;Chinlean;;chinler;;;;;;;;;;;x
+d_clackers;Clackers;Clackers;Clackers;;Clackers;;;;;;;;;x
+d_clackers_adj;Clackersian;;clackerser;;;;;;;;;;;x
+d_clallam;Clallam;Clallam;Clallam;;Clallam;;;;;;;;;x
+d_clallam_adj;Clallamian;;clallamer;;;;;;;;;;;x
+d_clark;Clark;Clark;Clark;;Clark;;;;;;;;;x
+d_clark_adj;Clarkian;;clarker;;;;;;;;;;;x
+d_cochise;Cochise;Cochise;Cochise;;Cochise;;;;;;;;;x
+d_cochise_adj;Cochisean;;cochiser;;;;;;;;;;;x
+d_coconino;Coconino;Coconino;Coconino;;Coconino;;;;;;;;;x
+d_coconino_adj;Coconinian;;coconiner;;;;;;;;;;;x
+d_coldstream;Coldstream;Coldstream;Coldstream;;Coldstream;;;;;;;;;x
+d_coldstream_adj;Coldstreamian;;coldstreamer;;;;;;;;;;;x
+d_columbia;Columbia;Columbia;Columbia;;Columbia;;;;;;;;;x
+d_columbia_adj;Columbian;;columber;;;;;;;;;;;x
+d_colusa;Colusa;Colusa;Colusa;;Colusa;;;;;;;;;x
+d_colusa_adj;Colusan;;coluser;;;;;;;;;;;x
+d_comondu;Comondú;Comondú;Comondú;;Comondú;;;;;;;;;x
+d_comondu_adj;Comondúian;;comondúer;;;;;;;;;;;x
+d_concordia;Concordia;Concordia;Concordia;;Concordia;;;;;;;;;x
+d_concordia_adj;Concordian;;concorder;;;;;;;;;;;x
+d_consumnes;Consumnes;Consumnes;Consumnes;;Consumnes;;;;;;;;;x
+d_consumnes_adj;Consumnesian;;consumneser;;;;;;;;;;;x
+d_contra_costa;Contra Costa;Contra Costa;Contra Costa;;Contra Costa;;;;;;;;;x
+d_contra_costa_adj;Contra Costan;;Contra Coster;;;;;;;;;;;x
+d_coos;Coos;Coos;Coos;;Coos;;;;;;;;;x
+d_coos_adj;Coosian;;cooser;;;;;;;;;;;x
+d_coso;Coso;Coso;Coso;;Coso;;;;;;;;;x
+d_coso_adj;Cosian;;coser;;;;;;;;;;;x
+d_cowichan;Cowichan;Cowichan;Cowichan;;Cowichan;;;;;;;;;x
+d_cowichan_adj;Cowichanian;;cowichaner;;;;;;;;;;;x
+d_crag;Crag;Crag;Crag;;Crag;;;;;;;;;x
+d_crag_adj;Cragian;;crager;;;;;;;;;;;x
+d_crownpoint;Crownpoint;Crownpoint;Crownpoint;;Crownpoint;;;;;;;;;x
+d_crownpoint_adj;Crownpointian;;crownpointer;;;;;;;;;;;x
+d_culiacan;Culiacan;Culiacan;Culiacan;;Culiacan;;;;;;;;;x
+d_culiacan_adj;Culiacanian;;culiacaner;;;;;;;;;;;x
+d_custer;Custer;Custer;Custer;;Custer;;;;;;;;;x
+d_custer_adj;Custerian;;custerer;;;;;;;;;;;x
+d_dead_mountains;Dead Mountains;Dead Mountains;Dead Mountains;;Dead Mountains;;;;;;;;;x
+d_dead_mountains_adj;Dead Mountainsian;;Dead Mountainser;;;;;;;;;;;x
+d_denver;Denver;Denver;Denver;;Denver;;;;;;;;;x
+d_denver_adj;Denverian;;denverer;;;;;;;;;;;x
+d_deschutes;Deschutes;Deschutes;Deschutes;;Deschutes;;;;;;;;;x
+d_deschutes_adj;Deschutesian;;deschuteser;;;;;;;;;;;x
+d_diablo;Diablo;Diablo;Diablo;;Diablo;;;;;;;;;x
+d_diablo_adj;Diablian;;diabler;;;;;;;;;;;x
+d_dorado_slopes;Dorado Slopes;Dorado Slopes;Dorado Slopes;;Dorado Slopes;;;;;;;;;x
+d_dorado_slopes_adj;Dorado Slopesian;;Dorado Slopeser;;;;;;;;;;;x
+d_duck_valley;Duck Valley;Duck Valley;Duck Valley;;Duck Valley;;;;;;;;;x
+d_duck_valley_adj;Duck Valleian;;Duck Valleer;;;;;;;;;;;x
+d_edinburgh;Edinburgh;Edinburgh;Edinburgh;;Edinburgh;;;;;;;;;x
+d_edinburgh_adj;Edinburghian;;edinburgher;;;;;;;;;;;x
+d_el_paso;El Paso;El Paso;El Paso;;El Paso;;;;;;;;;x
+d_el_paso_adj;El Pasian;;El Paser;;;;;;;;;;;x
+d_el_picante;El Picante;El Picante;El Picante;;El Picante;;;;;;;;;x
+d_el_picante_adj;El Picantean;;El Picanter;;;;;;;;;;;x
+d_elko;Elko;Elko;Elko;;Elko;;;;;;;;;x
+d_elko_adj;Elkian;;elker;;;;;;;;;;;x
+d_elmore;Elmore;Elmore;Elmore;;Elmore;;;;;;;;;x
+d_elmore_adj;Elmorean;;elmorer;;;;;;;;;;;x
+d_emery;Emery;Emery;Emery;;Emery;;;;;;;;;x
+d_emery_adj;Emerian;;emerer;;;;;;;;;;;x
+d_ensenada;Ensenada;Ensenada;Ensenada;;Ensenada;;;;;;;;;x
+d_ensenada_adj;Ensenadan;;ensenader;;;;;;;;;;;x
+d_escalante;Escalante;Escalante;Escalante;;Escalante;;;;;;;;;x
+d_escalante_adj;Escalantean;;escalanter;;;;;;;;;;;x
+d_express;Express;Express;Express;;Express;;;;;;;;;x
+d_express_adj;Expressian;;expresser;;;;;;;;;;;x
+d_ferry;Ferry;Ferry;Ferry;;Ferry;;;;;;;;;x
+d_ferry_adj;Ferrian;;ferrer;;;;;;;;;;;x
+d_fishlake;Fishlake;Fishlake;Fishlake;;Fishlake;;;;;;;;;x
+d_fishlake_adj;Fishlakean;;fishlaker;;;;;;;;;;;x
+d_flathead;Flathead;Flathead;Flathead;;Flathead;;;;;;;;;x
+d_flathead_adj;Flatheadian;;flatheader;;;;;;;;;;;x
+d_folsom_heights;Folsom Heights;Folsom Heights;Folsom Heights;;Folsom Heights;;;;;;;;;x
+d_folsom_heights_adj;Folsom Heightsian;;Folsom Heightser;;;;;;;;;;;x
+d_fort_defiance;Fort Defiance;Fort Defiance;Fort Defiance;;Fort Defiance;;;;;;;;;x
+d_fort_defiance_adj;Fort Defiancean;;Fort Defiancer;;;;;;;;;;;x
+d_franklin;Franklin;Franklin;Franklin;;Franklin;;;;;;;;;x
+d_franklin_adj;Franklinian;;frankliner;;;;;;;;;;;x
+d_fraser;Fraser;Fraser;Fraser;;Fraser;;;;;;;;;x
+d_fraser_adj;Fraserian;;fraserer;;;;;;;;;;;x
+d_gem;Gem;Gem;Gem;;Gem;;;;;;;;;x
+d_gem_adj;Gemian;;gemer;;;;;;;;;;;x
+d_georgia_strait;Georgia Strait;Georgia Strait;Georgia Strait;;Georgia Strait;;;;;;;;;x
+d_georgia_strait_adj;Georgia Straitian;;Georgia Straiter;;;;;;;;;;;x
+d_gila;Gila;Gila;Gila;;Gila;;;;;;;;;x
+d_gila_adj;Gilan;;giler;;;;;;;;;;;x
+d_gilroy;Gilroy;Gilroy;Gilroy;;Gilroy;;;;;;;;;x
+d_gilroy_adj;Gilroian;;gilroer;;;;;;;;;;;x
+d_glenn;Glenn;Glenn;Glenn;;Glenn;;;;;;;;;x
+d_glenn_adj;Glennian;;glenner;;;;;;;;;;;x
+d_goose;Goose;Goose;Goose;;Goose;;;;;;;;;x
+d_goose_adj;Goosean;;gooser;;;;;;;;;;;x
+d_gran_hermosillo;Gran Hermosillo;Gran Hermosillo;Gran Hermosillo;;Gran Hermosillo;;;;;;;;;x
+d_gran_hermosillo_adj;Gran Hermosillian;;Gran Hermosiller;;;;;;;;;;;x
+d_gran_paz;Gran Paz;Gran Paz;Gran Paz;;Gran Paz;;;;;;;;;x
+d_gran_paz_adj;Gran Pazian;;Gran Pazer;;;;;;;;;;;x
+d_gran_rosarito;Gran Rosarito;Gran Rosarito;Gran Rosarito;;Gran Rosarito;;;;;;;;;x
+d_gran_rosarito_adj;Gran Rosaritian;;Gran Rosariter;;;;;;;;;;;x
+d_grand;Grand;Grand;Grand;;Grand;;;;;;;;;x
+d_grand_adj;Grandian;;grander;;;;;;;;;;;x
+d_grand_fresno;Grand Fresno;Grand Fresno;Grand Fresno;;Grand Fresno;;;;;;;;;x
+d_grand_fresno_adj;Grand Fresnian;;Grand Fresner;;;;;;;;;;;x
+d_grand_mesa;Grand Mesa;Grand Mesa;Grand Mesa;;Grand Mesa;;;;;;;;;x
+d_grand_mesa_adj;Grand Mesan;;Grand Meser;;;;;;;;;;;x
+d_grand_seattle;Grand Seattle;Grand Seattle;Grand Seattle;;Grand Seattle;;;;;;;;;x
+d_grand_seattle_adj;Grand Seattlean;;Grand Seattler;;;;;;;;;;;x
+d_grand_teton;Grand Teton;Grand Teton;Grand Teton;;Grand Teton;;;;;;;;;x
+d_grand_teton_adj;Grand Tetonian;;Grand Tetoner;;;;;;;;;;;x
+d_grand_vegas;Grand Vegas;Grand Vegas;Grand Vegas;;Grand Vegas;;;;;;;;;x
+d_grand_vegas_adj;Grand Vegasian;;Grand Vegaser;;;;;;;;;;;x
+d_grant;Grant;Grant;Grant;;Grant;;;;;;;;;x
+d_grant_adj;Grantian;;granter;;;;;;;;;;;x
+d_grays_harbor;Grays Harbor;Grays Harbor;Grays Harbor;;Grays Harbor;;;;;;;;;x
+d_grays_harbor_adj;Grays Harborian;;Grays Harborer;;;;;;;;;;;x
+d_great_coulee;Great Coulee;Great Coulee;Great Coulee;;Great Coulee;;;;;;;;;x
+d_great_coulee_adj;Great Couleean;;Great Couler;;;;;;;;;;;x
+d_green_river;Green River;Green River;Green River;;Green River;;;;;;;;;x
+d_green_river_adj;Green Riverian;;Green Riverer;;;;;;;;;;;x
+d_guasave;Guasave;Guasave;Guasave;;Guasave;;;;;;;;;x
+d_guasave_adj;Guasavean;;guasaver;;;;;;;;;;;x
+d_gunnison;Gunnison;Gunnison;Gunnison;;Gunnison;;;;;;;;;x
+d_gunnison_adj;Gunnisonian;;gunnisoner;;;;;;;;;;;x
+d_haihte;Haihte;Haihte;Haihte;;Haihte;;;;;;;;;x
+d_haihte_adj;Haihtean;;haihter;;;;;;;;;;;x
+d_halifax;Halifax;Halifax;Halifax;;Halifax;;;;;;;;;x
+d_halifax_adj;Halifaxian;;halifaxer;;;;;;;;;;;x
+d_harney;Harney;Harney;Harney;;Harney;;;;;;;;;x
+d_harney_adj;Harneian;;harneer;;;;;;;;;;;x
+d_henry;Henry;Henry;Henry;;Henry;;;;;;;;;x
+d_henry_adj;Henrian;;henrer;;;;;;;;;;;x
+d_hermasillo_occidental;Hermasillo Occidental;Hermasillo Occidental;Hermasillo Occidental;;Hermasillo Occidental;;;;;;;;;x
+d_hermasillo_occidental_adj;Hermasillo Occidentalian;;Hermasillo Occidentaler;;;;;;;;;;;x
+d_heroica_caborca;Heroica Caborca;Heroica Caborca;Heroica Caborca;;Heroica Caborca;;;;;;;;;x
+d_heroica_caborca_adj;Heroica Caborcan;;Heroica Caborcer;;;;;;;;;;;x
+d_hidalgo;Hidalgo;Hidalgo;Hidalgo;;Hidalgo;;;;;;;;;x
+d_hidalgo_adj;Hidalgian;;hidalger;;;;;;;;;;;x
+d_hidden_valley;Hidden Valley;Hidden Valley;Hidden Valley;;Hidden Valley;;;;;;;;;x
+d_hidden_valley_adj;Hidden Valleian;;Hidden Valleer;;;;;;;;;;;x
+d_hood_river;Hood River;Hood River;Hood River;;Hood River;;;;;;;;;x
+d_hood_river_adj;Hood Riverian;;Hood Riverer;;;;;;;;;;;x
+d_hopituskwa;Hopituskwa;Hopituskwa;Hopituskwa;;Hopituskwa;;;;;;;;;x
+d_hopituskwa_adj;Hopituskwan;;hopituskwer;;;;;;;;;;;x
+d_horse_heaven;Horse Heaven;Horse Heaven;Horse Heaven;;Horse Heaven;;;;;;;;;x
+d_horse_heaven_adj;Horse Heavenian;;Horse Heavener;;;;;;;;;;;x
+d_huerfano;Huerfano;Huerfano;Huerfano;;Huerfano;;;;;;;;;x
+d_huerfano_adj;Huerfanian;;huerfaner;;;;;;;;;;;x
+d_humboldt;Humboldt;Humboldt;Humboldt;;Humboldt;;;;;;;;;x
+d_humboldt_adj;Humboldtian;;humboldter;;;;;;;;;;;x
+d_idaho_falls;Idaho Falls;Idaho Falls;Idaho Falls;;Idaho Falls;;;;;;;;;x
+d_idaho_falls_adj;Idaho Fallsian;;Idaho Fallser;;;;;;;;;;;x
+d_inland;Inland;Inland;Inland;;Inland;;;;;;;;;x
+d_inland_adj;Inlandian;;inlander;;;;;;;;;;;x
+d_inyo;Inyo;Inyo;Inyo;;Inyo;;;;;;;;;x
+d_inyo_adj;Inian;;iner;;;;;;;;;;;x
+d_jicarilla;Jicarilla;Jicarilla;Jicarilla;;Jicarilla;;;;;;;;;x
+d_jicarilla_adj;Jicarillan;;jicariller;;;;;;;;;;;x
+d_johnstone;Johnstone;Johnstone;Johnstone;;Johnstone;;;;;;;;;x
+d_johnstone_adj;Johnstonean;;johnstoner;;;;;;;;;;;x
+d_joshua_tree;Joshua Tree;Joshua Tree;Joshua Tree;;Joshua Tree;;;;;;;;;x
+d_joshua_tree_adj;Joshua Treean;;Joshua Trer;;;;;;;;;;;x
+d_kakigui;Kakigui;Kakigui;Kakigui;;Kakigui;;;;;;;;;x
+d_kakigui_adj;Kakigian;;kakiger;;;;;;;;;;;x
+d_kern;Kern;Kern;Kern;;Kern;;;;;;;;;x
+d_kern_adj;Kernian;;kerner;;;;;;;;;;;x
+d_king_corridor;King Corridor;King Corridor;King Corridor;;King Corridor;;;;;;;;;x
+d_king_corridor_adj;King Corridorian;;King Corridorer;;;;;;;;;;;x
+d_kings;Kings;Kings;Kings;;Kings;;;;;;;;;x
+d_kings_adj;Kingsian;;kingser;;;;;;;;;;;x
+d_kings_range;Kings Range;Kings Range;Kings Range;;Kings Range;;;;;;;;;x
+d_kings_range_adj;Kings Rangean;;Kings Ranger;;;;;;;;;;;x
+d_kitsap;Kitsap;Kitsap;Kitsap;;Kitsap;;;;;;;;;x
+d_kitsap_adj;Kitsapian;;kitsaper;;;;;;;;;;;x
+d_kittitas;Kittitas;Kittitas;Kittitas;;Kittitas;;;;;;;;;x
+d_kittitas_adj;Kittitasian;;kittitaser;;;;;;;;;;;x
+d_klamath;Klamath;Klamath;Klamath;;Klamath;;;;;;;;;x
+d_klamath_adj;Klamathian;;klamather;;;;;;;;;;;x
+d_klickitat;Klickitat;Klickitat;Klickitat;;Klickitat;;;;;;;;;x
+d_klickitat_adj;Klickitatian;;klickitater;;;;;;;;;;;x
+d_kokanee;Kokanee;Kokanee;Kokanee;;Kokanee;;;;;;;;;x
+d_kokanee_adj;Kokaneean;;kokaner;;;;;;;;;;;x
+d_lander;Lander;Lander;Lander;;Lander;;;;;;;;;x
+d_lander_adj;Landerian;;landerer;;;;;;;;;;;x
+d_lane;Lane;Lane;Lane;;Lane;;;;;;;;;x
+d_lane_adj;Lanean;;laner;;;;;;;;;;;x
+d_larimer;Larimer;Larimer;Larimer;;Larimer;;;;;;;;;x
+d_larimer_adj;Larimerian;;larimerer;;;;;;;;;;;x
+d_las_estribaciones;Las Estribaciones;Las Estribaciones;Las Estribaciones;;Las Estribaciones;;;;;;;;;x
+d_las_estribaciones_adj;Las Estribacionesian;;Las Estribacioneser;;;;;;;;;;;x
+d_lassen;Lassen;Lassen;Lassen;;Lassen;;;;;;;;;x
+d_lassen_adj;Lassenian;;lassener;;;;;;;;;;;x
+d_lateh;Lateh;Lateh;Lateh;;Lateh;;;;;;;;;x
+d_lateh_adj;Latehian;;lateher;;;;;;;;;;;x
+d_lemhi;Lemhi;Lemhi;Lemhi;;Lemhi;;;;;;;;;x
+d_lemhi_adj;Lemhian;;lemher;;;;;;;;;;;x
+d_lewis;Lewis;Lewis;Lewis;;Lewis;;;;;;;;;x
+d_lewis_adj;Lewisian;;lewiser;;;;;;;;;;;x
+d_lilac;Lilac;Lilac;Lilac;;Lilac;;;;;;;;;x
+d_lilac_adj;Lilacian;;lilacer;;;;;;;;;;;x
+d_limm;Limm;Limm;Limm;;Limm;;;;;;;;;x
+d_limm_adj;Limmian;;limmer;;;;;;;;;;;x
+d_lincoln;Lincoln;Lincoln;Lincoln;;Lincoln;;;;;;;;;x
+d_lincoln_adj;Lincolnian;;lincolner;;;;;;;;;;;x
+d_little_colorado;Little Colorado;Little Colorado;Little Colorado;;Little Colorado;;;;;;;;;x
+d_little_colorado_adj;Little Coloradian;;Little Colorader;;;;;;;;;;;x
+d_loreto;Loreto;Loreto;Loreto;;Loreto;;;;;;;;;x
+d_loreto_adj;Loretian;;loreter;;;;;;;;;;;x
+d_los_alamos;Los Alamos;Los Alamos;Los Alamos;;Los Alamos;;;;;;;;;x
+d_los_alamos_adj;Los Alamosian;;Los Alamoser;;;;;;;;;;;x
+d_los_angeles;Los Angeles;Los Angeles;Los Angeles;;Los Angeles;;;;;;;;;x
+d_los_angeles_adj;Los Angelesian;;Los Angeleser;;;;;;;;;;;x
+d_los_cabos;Los Cabos;Los Cabos;Los Cabos;;Los Cabos;;;;;;;;;x
+d_los_cabos_adj;Los Cabosian;;Los Caboser;;;;;;;;;;;x
+d_los_mochis;Los Mochis;Los Mochis;Los Mochis;;Los Mochis;;;;;;;;;x
+d_los_mochis_adj;Los Mochisian;;Los Mochiser;;;;;;;;;;;x
+d_los_padres;Los Padres;Los Padres;Los Padres;;Los Padres;;;;;;;;;x
+d_los_padres_adj;Los Padresian;;Los Padreser;;;;;;;;;;;x
+d_lotusland;Lotusland;Lotusland;Lotusland;;Lotusland;;;;;;;;;x
+d_lotusland_adj;Lotuslandian;;lotuslander;;;;;;;;;;;x
+d_luna;Luna;Luna;Luna;;Luna;;;;;;;;;x
+d_luna_adj;Lunan;;luner;;;;;;;;;;;x
+d_madera;Madera;Madera;Madera;;Madera;;;;;;;;;x
+d_madera_adj;Maderan;;maderer;;;;;;;;;;;x
+d_madison;Madison;Madison;Madison;;Madison;;;;;;;;;x
+d_madison_adj;Madisonian;;madisoner;;;;;;;;;;;x
+d_magdalena;Magdalena;Magdalena;Magdalena;;Magdalena;;;;;;;;;x
+d_magdalena_adj;Magdalenan;;magdalener;;;;;;;;;;;x
+d_magic_valley;Magic Valley;Magic Valley;Magic Valley;;Magic Valley;;;;;;;;;x
+d_magic_valley_adj;Magic Valleian;;Magic Valleer;;;;;;;;;;;x
+d_malheur;Malheur;Malheur;Malheur;;Malheur;;;;;;;;;x
+d_malheur_adj;Malheurian;;malheurer;;;;;;;;;;;x
+d_manti_la_sal;Manti La Sal;Manti La Sal;Manti La Sal;;Manti La Sal;;;;;;;;;x
+d_manti_la_sal_adj;Manti La Salian;;Manti La Saler;;;;;;;;;;;x
+d_maricopa;Maricopa;Maricopa;Maricopa;;Maricopa;;;;;;;;;x
+d_maricopa_adj;Maricopan;;maricoper;;;;;;;;;;;x
+d_marin;Marin;Marin;Marin;;Marin;;;;;;;;;x
+d_marin_adj;Marinian;;mariner;;;;;;;;;;;x
+d_mason;Mason;Mason;Mason;;Mason;;;;;;;;;x
+d_mason_adj;Masonian;;masoner;;;;;;;;;;;x
+d_mayo;Mayo;Mayo;Mayo;;Mayo;;;;;;;;;x
+d_mayo_adj;Maian;;maer;;;;;;;;;;;x
+d_mazatlan;Mazatlan;Mazatlan;Mazatlan;;Mazatlan;;;;;;;;;x
+d_mazatlan_adj;Mazatlanian;;mazatlaner;;;;;;;;;;;x
+d_mead;Mead;Mead;Mead;;Mead;;;;;;;;;x
+d_mead_adj;Meadian;;meader;;;;;;;;;;;x
+d_mendo;Mendo;Mendo;Mendo;;Mendo;;;;;;;;;x
+d_mendo_adj;Mendian;;mender;;;;;;;;;;;x
+d_merced;Merced;Merced;Merced;;Merced;;;;;;;;;x
+d_merced_adj;Mercedian;;merceder;;;;;;;;;;;x
+d_mesa_verde;Mesa Verde;Mesa Verde;Mesa Verde;;Mesa Verde;;;;;;;;;x
+d_mesa_verde_adj;Mesa Verdean;;Mesa Verder;;;;;;;;;;;x
+d_mexicali;Mexicali;Mexicali;Mexicali;;Mexicali;;;;;;;;;x
+d_mexicali_adj;Mexicalian;;mexicaler;;;;;;;;;;;x
+d_mineral;Mineral;Mineral;Mineral;;Mineral;;;;;;;;;x
+d_mineral_adj;Mineralian;;mineraler;;;;;;;;;;;x
+d_mineral_belt;Mineral Belt;Mineral Belt;Mineral Belt;;Mineral Belt;;;;;;;;;x
+d_mineral_belt_adj;Mineral Beltian;;Mineral Belter;;;;;;;;;;;x
+d_mogollon;Mogollon;Mogollon;Mogollon;;Mogollon;;;;;;;;;x
+d_mogollon_adj;Mogollonian;;mogolloner;;;;;;;;;;;x
+d_mohave;Mohave;Mohave;Mohave;;Mohave;;;;;;;;;x
+d_mohave_adj;Mohavean;;mohaver;;;;;;;;;;;x
+d_monashee;Monashee;Monashee;Monashee;;Monashee;;;;;;;;;x
+d_monashee_adj;Monasheean;;monasher;;;;;;;;;;;x
+d_mono;Mono;Mono;Mono;;Mono;;;;;;;;;x
+d_mono_adj;Monian;;moner;;;;;;;;;;;x
+d_moreno_valley;Moreno Valley;Moreno Valley;Moreno Valley;;Moreno Valley;;;;;;;;;x
+d_moreno_valley_adj;Moreno Valleian;;Moreno Valleer;;;;;;;;;;;x
+d_mulege;Mulegé;Mulegé;Mulegé;;Mulegé;;;;;;;;;x
+d_mulege_adj;Mulegéian;;mulegéer;;;;;;;;;;;x
+d_multnomah;Multnomah;Multnomah;Multnomah;;Multnomah;;;;;;;;;x
+d_multnomah_adj;Multnomahian;;multnomaher;;;;;;;;;;;x
+d_napa;Napa;Napa;Napa;;Napa;;;;;;;;;x
+d_napa_adj;Napan;;naper;;;;;;;;;;;x
+d_newport;Newport;Newport;Newport;;Newport;;;;;;;;;x
+d_newport_adj;Newportian;;newporter;;;;;;;;;;;x
+d_nez_perce;Nez Perce;Nez Perce;Nez Perce;;Nez Perce;;;;;;;;;x
+d_nez_perce_adj;Nez Percean;;Nez Percer;;;;;;;;;;;x
+d_nye;Nye;Nye;Nye;;Nye;;;;;;;;;x
+d_nye_adj;Nyean;;ner;;;;;;;;;;;x
+d_ochoco;Ochoco;Ochoco;Ochoco;;Ochoco;;;;;;;;;x
+d_ochoco_adj;Ochocian;;ochocer;;;;;;;;;;;x
+d_okanagan;Okanagan;Okanagan;Okanagan;;Okanagan;;;;;;;;;x
+d_okanagan_adj;Okanaganian;;okanaganer;;;;;;;;;;;x
+d_okanogan;Okanogan;Okanogan;Okanogan;;Okanogan;;;;;;;;;x
+d_okanogan_adj;Okanoganian;;okanoganer;;;;;;;;;;;x
+d_old_faithful;Old Faithful;Old Faithful;Old Faithful;;Old Faithful;;;;;;;;;x
+d_old_faithful_adj;Old Faithfulian;;Old Faithfuler;;;;;;;;;;;x
+d_opateria;Opateria;Opateria;Opateria;;Opateria;;;;;;;;;x
+d_opateria_adj;Opaterian;;opaterer;;;;;;;;;;;x
+d_orange;Orange;Orange;Orange;;Orange;;;;;;;;;x
+d_orange_adj;Orangean;;oranger;;;;;;;;;;;x
+d_oroville;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
+d_oroville_adj;Orovillean;;oroviller;;;;;;;;;;;x
+d_pacheco;Pacheco;Pacheco;Pacheco;;Pacheco;;;;;;;;;x
+d_pacheco_adj;Pachecian;;pachecer;;;;;;;;;;;x
+d_pacific;Pacific;Pacific;Pacific;;Pacific;;;;;;;;;x
+d_pacific_adj;Pacifician;;pacificer;;;;;;;;;;;x
+d_park;Park;Park;Park;;Park;;;;;;;;;x
+d_park_adj;Parkian;;parker;;;;;;;;;;;x
+d_parks;Parks;Parks;Parks;;Parks;;;;;;;;;x
+d_parks_adj;Parksian;;parkser;;;;;;;;;;;x
+d_pend_oreille;Pend Oreille;Pend Oreille;Pend Oreille;;Pend Oreille;;;;;;;;;x
+d_pend_oreille_adj;Pend Oreillean;;Pend Oreiller;;;;;;;;;;;x
+d_pendleton;Pendleton;Pendleton;Pendleton;;Pendleton;;;;;;;;;x
+d_pendleton_adj;Pendletonian;;pendletoner;;;;;;;;;;;x
+d_phoenix;Phoenix;Phoenix;Phoenix;;Phoenix;;;;;;;;;x
+d_phoenix_adj;Phoenixian;;phoenixer;;;;;;;;;;;x
+d_pierce;Pierce;Pierce;Pierce;;Pierce;;;;;;;;;x
+d_pierce_adj;Piercean;;piercer;;;;;;;;;;;x
+d_pikes_peak;Pikes Peak;Pikes Peak;Pikes Peak;;Pikes Peak;;;;;;;;;x
+d_pikes_peak_adj;Pikes Peakian;;Pikes Peaker;;;;;;;;;;;x
+d_plumas;Plumas;Plumas;Plumas;;Plumas;;;;;;;;;x
+d_plumas_adj;Plumasian;;plumaser;;;;;;;;;;;x
+d_posession;Posession;Posession;Posession;;Posession;;;;;;;;;x
+d_posession_adj;Posessionian;;posessioner;;;;;;;;;;;x
+d_pozo_canyon;Pozo Canyon;Pozo Canyon;Pozo Canyon;;Pozo Canyon;;;;;;;;;x
+d_pozo_canyon_adj;Pozo Canyonian;;Pozo Canyoner;;;;;;;;;;;x
+d_prince_of_wales;Prince of Wales;Prince of Wales;Prince of Wales;;Prince of Wales;;;;;;;;;x
+d_prince_of_wales_adj;Prince of Walesian;;Prince of Waleser;;;;;;;;;;;x
+d_pueblo;Pueblo;Pueblo;Pueblo;;Pueblo;;;;;;;;;x
+d_pueblo_adj;Pueblian;;puebler;;;;;;;;;;;x
+d_purcells;Purcells;Purcells;Purcells;;Purcells;;;;;;;;;x
+d_purcells_adj;Purcellsian;;purcellser;;;;;;;;;;;x
+d_quinault;Quinault;Quinault;Quinault;;Quinault;;;;;;;;;x
+d_quinault_adj;Quinaultian;;quinaulter;;;;;;;;;;;x
+d_red_rock;Red Rock;Red Rock;Red Rock;;Red Rock;;;;;;;;;x
+d_red_rock_adj;Red Rockian;;Red Rocker;;;;;;;;;;;x
+d_redding;Redding;Redding;Redding;;Redding;;;;;;;;;x
+d_redding_adj;Reddingian;;reddinger;;;;;;;;;;;x
+d_riverside;Riverside;Riverside;Riverside;;Riverside;;;;;;;;;x
+d_riverside_adj;Riversidean;;riversider;;;;;;;;;;;x
+d_rodman;Rodman;Rodman;Rodman;;Rodman;;;;;;;;;x
+d_rodman_adj;Rodmanian;;rodmaner;;;;;;;;;;;x
+d_rogue_valley;Rogue Valley;Rogue Valley;Rogue Valley;;Rogue Valley;;;;;;;;;x
+d_rogue_valley_adj;Rogue Valleian;;Rogue Valleer;;;;;;;;;;;x
+d_roseburg;Roseburg;Roseburg;Roseburg;;Roseburg;;;;;;;;;x
+d_roseburg_adj;Roseburgian;;roseburger;;;;;;;;;;;x
+d_sacramento;Sacramento;Sacramento;Sacramento;;Sacramento;;;;;;;;;x
+d_sacramento_adj;Sacramentian;;sacramenter;;;;;;;;;;;x
+d_salmon_river;Salmon River;Salmon River;Salmon River;;Salmon River;;;;;;;;;x
+d_salmon_river_adj;Salmon Riverian;;Salmon Riverer;;;;;;;;;;;x
+d_salt_lake;Salt Lake;Salt Lake;Salt Lake;;Salt Lake;;;;;;;;;x
+d_salt_lake_adj;Salt Lakean;;Salt Laker;;;;;;;;;;;x
+d_salton;Salton;Salton;Salton;;Salton;;;;;;;;;x
+d_salton_adj;Saltonian;;saltoner;;;;;;;;;;;x
+d_san_benito;San Benito;San Benito;San Benito;;San Benito;;;;;;;;;x
+d_san_benito_adj;San Benitian;;San Beniter;;;;;;;;;;;x
 d_san_diego;San Diego;San Diego;San Diego;;San Diego;;;;;;;;;x
 d_san_diego_adj;San Diegian;;San Dieger;;;;;;;;;;;x
+d_san_francisco;San Francisco;San Francisco;San Francisco;;San Francisco;;;;;;;;;x
+d_san_francisco_adj;San Franciscian;;San Franciscer;;;;;;;;;;;x
+d_san_joaquin;San Joaquin;San Joaquin;San Joaquin;;San Joaquin;;;;;;;;;x
+d_san_joaquin_adj;San Joaquinian;;San Joaquiner;;;;;;;;;;;x
+d_san_jose;San Jose;San Jose;San Jose;;San Jose;;;;;;;;;x
+d_san_jose_adj;San Josean;;San Joser;;;;;;;;;;;x
+d_san_juan;San Juan;San Juan;San Juan;;San Juan;;;;;;;;;x
+d_san_juan_adj;San Juanian;;San Juaner;;;;;;;;;;;x
+d_san_luis;San Luis;San Luis;San Luis;;San Luis;;;;;;;;;x
+d_san_luis_adj;San Luisian;;San Luiser;;;;;;;;;;;x
+d_san_luis_obispo;San Luis Obispo;San Luis Obispo;San Luis Obispo;;San Luis Obispo;;;;;;;;;x
+d_san_luis_obispo_adj;San Luis Obispian;;San Luis Obisper;;;;;;;;;;;x
+d_sandia;Sandia;Sandia;Sandia;;Sandia;;;;;;;;;x
+d_sandia_adj;Sandian;;sander;;;;;;;;;;;x
+d_sandoval;Sandoval;Sandoval;Sandoval;;Sandoval;;;;;;;;;x
+d_sandoval_adj;Sandovalian;;sandovaler;;;;;;;;;;;x
+d_santa_barbara;Santa Barbara;Santa Barbara;Santa Barbara;;Santa Barbara;;;;;;;;;x
+d_santa_barbara_adj;Santa Barbaran;;Santa Barbarer;;;;;;;;;;;x
+d_santa_clara;Santa Clara;Santa Clara;Santa Clara;;Santa Clara;;;;;;;;;x
+d_santa_clara_adj;Santa Claran;;Santa Clarer;;;;;;;;;;;x
+d_santa_cruz;Santa Cruz;Santa Cruz;Santa Cruz;;Santa Cruz;;;;;;;;;x
+d_santa_cruz_adj;Santa Cruzian;;Santa Cruzer;;;;;;;;;;;x
+d_santa_fe;Santa Fe;Santa Fe;Santa Fe;;Santa Fe;;;;;;;;;x
+d_santa_fe_adj;Santa Fean;;Santa Fer;;;;;;;;;;;x
+d_santiam;Santiam;Santiam;Santiam;;Santiam;;;;;;;;;x
+d_santiam_adj;Santiamian;;santiamer;;;;;;;;;;;x
+d_searose;Searose;Searose;Searose;;Searose;;;;;;;;;x
+d_searose_adj;Searosean;;searoser;;;;;;;;;;;x
+d_seiad_valley;Seiad Valley;Seiad Valley;Seiad Valley;;Seiad Valley;;;;;;;;;x
+d_seiad_valley_adj;Seiad Valleian;;Seiad Valleer;;;;;;;;;;;x
+d_selkirk;Selkirk;Selkirk;Selkirk;;Selkirk;;;;;;;;;x
+d_selkirk_adj;Selkirkian;;selkirker;;;;;;;;;;;x
+d_sequoia;Sequoia;Sequoia;Sequoia;;Sequoia;;;;;;;;;x
+d_sequoia_adj;Sequoian;;seqer;;;;;;;;;;;x
+d_shiprock;Shiprock;Shiprock;Shiprock;;Shiprock;;;;;;;;;x
+d_shiprock_adj;Shiprockian;;shiprocker;;;;;;;;;;;x
+d_shoshone;Shoshone;Shoshone;Shoshone;;Shoshone;;;;;;;;;x
+d_shoshone_adj;Shoshonean;;shoshoner;;;;;;;;;;;x
+d_sierra_madre_norte;Sierra Madre Norte;Sierra Madre Norte;Sierra Madre Norte;;Sierra Madre Norte;;;;;;;;;x
+d_sierra_madre_norte_adj;Sierra Madre Nortean;;Sierra Madre Norter;;;;;;;;;;;x
+d_similkameen;Similkameen;Similkameen;Similkameen;;Similkameen;;;;;;;;;x
+d_similkameen_adj;Similkameenian;;similkameener;;;;;;;;;;;x
+d_skagit;Skagit;Skagit;Skagit;;Skagit;;;;;;;;;x
+d_skagit_adj;Skagitian;;skagiter;;;;;;;;;;;x
+d_snohomish;Snohomish;Snohomish;Snohomish;;Snohomish;;;;;;;;;x
+d_snohomish_adj;Snohomishian;;snohomisher;;;;;;;;;;;x
+d_snoqualmie;Snoqualmie;Snoqualmie;Snoqualmie;;Snoqualmie;;;;;;;;;x
+d_snoqualmie_adj;Snoqualmiean;;snoqualmer;;;;;;;;;;;x
+d_socorro;Socorro;Socorro;Socorro;;Socorro;;;;;;;;;x
+d_socorro_adj;Socorrian;;socorrer;;;;;;;;;;;x
+d_solano;Solano;Solano;Solano;;Solano;;;;;;;;;x
+d_solano_adj;Solanian;;solaner;;;;;;;;;;;x
+d_sonoma;Sonoma;Sonoma;Sonoma;;Sonoma;;;;;;;;;x
+d_sonoma_adj;Sonoman;;sonomer;;;;;;;;;;;x
+d_sophia;Sophia;Sophia;Sophia;;Sophia;;;;;;;;;x
+d_sophia_adj;Sophian;;sopher;;;;;;;;;;;x
+d_spring_valley;Spring Valley;Spring Valley;Spring Valley;;Spring Valley;;;;;;;;;x
+d_spring_valley_adj;Spring Valleian;;Spring Valleer;;;;;;;;;;;x
+d_standley;Standley;Standley;Standley;;Standley;;;;;;;;;x
+d_standley_adj;Standleian;;standleer;;;;;;;;;;;x
+d_steven;Steven;Steven;Steven;;Steven;;;;;;;;;x
+d_steven_adj;Stevenian;;stevener;;;;;;;;;;;x
+d_stillwater;Stillwater;Stillwater;Stillwater;;Stillwater;;;;;;;;;x
+d_stillwater_adj;Stillwaterian;;stillwaterer;;;;;;;;;;;x
+d_sugarloaf;Sugarloaf;Sugarloaf;Sugarloaf;;Sugarloaf;;;;;;;;;x
+d_sugarloaf_adj;Sugarloafian;;sugarloafer;;;;;;;;;;;x
+d_summit;Summit;Summit;Summit;;Summit;;;;;;;;;x
+d_summit_adj;Summitian;;summiter;;;;;;;;;;;x
+d_sunshine_coast;Sunshine Coast;Sunshine Coast;Sunshine Coast;;Sunshine Coast;;;;;;;;;x
+d_sunshine_coast_adj;Sunshine Coastian;;Sunshine Coaster;;;;;;;;;;;x
+d_suquash;Suquash;Suquash;Suquash;;Suquash;;;;;;;;;x
+d_suquash_adj;Suquashian;;suquasher;;;;;;;;;;;x
+d_surprise;Surprise;Surprise;Surprise;;Surprise;;;;;;;;;x
+d_surprise_adj;Surprisean;;surpriser;;;;;;;;;;;x
+d_sutter_valley;Sutter Valley;Sutter Valley;Sutter Valley;;Sutter Valley;;;;;;;;;x
+d_sutter_valley_adj;Sutter Valleian;;Sutter Valleer;;;;;;;;;;;x
+d_swan_valley;Swan Valley;Swan Valley;Swan Valley;;Swan Valley;;;;;;;;;x
+d_swan_valley_adj;Swan Valleian;;Swan Valleer;;;;;;;;;;;x
+d_tahoe;Tahoe;Tahoe;Tahoe;;Tahoe;;;;;;;;;x
+d_tahoe_adj;Tahoean;;taher;;;;;;;;;;;x
+d_taos;Taos;Taos;Taos;;Taos;;;;;;;;;x
+d_taos_adj;Taosian;;taoser;;;;;;;;;;;x
+d_targhee;Targhee;Targhee;Targhee;;Targhee;;;;;;;;;x
+d_targhee_adj;Targheean;;targher;;;;;;;;;;;x
+d_tehama;Tehama;Tehama;Tehama;;Tehama;;;;;;;;;x
+d_tehama_adj;Tehaman;;tehamer;;;;;;;;;;;x
+d_the_empire;The Empire;The Empire;The Empire;;The Empire;;;;;;;;;x
+d_the_empire_adj;The Empirean;;The Empirer;;;;;;;;;;;x
+d_the_lake;The Lake;The Lake;The Lake;;The Lake;;;;;;;;;x
+d_the_lake_adj;The Lakean;;The Laker;;;;;;;;;;;x
+d_thompson;Thompson;Thompson;Thompson;;Thompson;;;;;;;;;x
+d_thompson_adj;Thompsonian;;thompsoner;;;;;;;;;;;x
+d_thurston;Thurston;Thurston;Thurston;;Thurston;;;;;;;;;x
+d_thurston_adj;Thurstonian;;thurstoner;;;;;;;;;;;x
+d_tijuana;Tijuana;Tijuana;Tijuana;;Tijuana;;;;;;;;;x
+d_tijuana_adj;Tijuanan;;tijuaner;;;;;;;;;;;x
+d_tillamook;Tillamook;Tillamook;Tillamook;;Tillamook;;;;;;;;;x
+d_tillamook_adj;Tillamookian;;tillamooker;;;;;;;;;;;x
+d_trinity;Trinity;Trinity;Trinity;;Trinity;;;;;;;;;x
+d_trinity_adj;Trinitian;;triniter;;;;;;;;;;;x
+d_truckee_meadows;Truckee Meadows;Truckee Meadows;Truckee Meadows;;Truckee Meadows;;;;;;;;;x
+d_truckee_meadows_adj;Truckee Meadowsian;;Truckee Meadowser;;;;;;;;;;;x
+d_tuba;Tuba;Tuba;Tuba;;Tuba;;;;;;;;;x
+d_tuba_adj;Tuban;;tuber;;;;;;;;;;;x
+d_two_sun;Two Sun;Two Sun;Two Sun;;Two Sun;;;;;;;;;x
+d_two_sun_adj;Two Sunian;;Two Suner;;;;;;;;;;;x
+d_uinta;Uinta;Uinta;Uinta;;Uinta;;;;;;;;;x
+d_uinta_adj;Uintan;;uinter;;;;;;;;;;;x
+d_ukiah;Ukiah;Ukiah;Ukiah;;Ukiah;;;;;;;;;x
+d_ukiah_adj;Ukiahian;;ukiaher;;;;;;;;;;;x
+d_umatilla;Umatilla;Umatilla;Umatilla;;Umatilla;;;;;;;;;x
+d_umatilla_adj;Umatillan;;umatiller;;;;;;;;;;;x
+d_utah;Utah;Utah;Utah;;Utah;;;;;;;;;x
+d_utah_adj;Utahian;;utaher;;;;;;;;;;;x
+d_valhalla;Valhalla;Valhalla;Valhalla;;Valhalla;;;;;;;;;x
+d_valhalla_adj;Valhallan;;valhaller;;;;;;;;;;;x
+d_ventura;Ventura;Ventura;Ventura;;Ventura;;;;;;;;;x
+d_ventura_adj;Venturan;;venturer;;;;;;;;;;;x
+d_wallowa;Wallowa;Wallowa;Wallowa;;Wallowa;;;;;;;;;x
+d_wallowa_adj;Wallowan;;wallower;;;;;;;;;;;x
+d_warner;Warner;Warner;Warner;;Warner;;;;;;;;;x
+d_warner_adj;Warnerian;;warnerer;;;;;;;;;;;x
+d_wasatch;Wasatch;Wasatch;Wasatch;;Wasatch;;;;;;;;;x
+d_wasatch_adj;Wasatchian;;wasatcher;;;;;;;;;;;x
+d_wasco;Wasco;Wasco;Wasco;;Wasco;;;;;;;;;x
+d_wasco_adj;Wascian;;wascer;;;;;;;;;;;x
+d_washington;Washington;Washington;Washington;;Washington;;;;;;;;;x
+d_washington_adj;Washingtonian;;washingtoner;;;;;;;;;;;x
+d_washoe;Washoe;Washoe;Washoe;;Washoe;;;;;;;;;x
+d_washoe_adj;Washoean;;washer;;;;;;;;;;;x
+d_waucoba;Waucoba;Waucoba;Waucoba;;Waucoba;;;;;;;;;x
+d_waucoba_adj;Waucoban;;waucober;;;;;;;;;;;x
+d_whatcom;Whatcom;Whatcom;Whatcom;;Whatcom;;;;;;;;;x
+d_whatcom_adj;Whatcomian;;whatcomer;;;;;;;;;;;x
+d_wheatland;Wheatland;Wheatland;Wheatland;;Wheatland;;;;;;;;;x
+d_wheatland_adj;Wheatlandian;;wheatlander;;;;;;;;;;;x
+d_whipple;Whipple;Whipple;Whipple;;Whipple;;;;;;;;;x
+d_whipple_adj;Whipplean;;whippler;;;;;;;;;;;x
+d_white_cloud;White Cloud;White Cloud;White Cloud;;White Cloud;;;;;;;;;x
+d_white_cloud_adj;White Cloudian;;White Clouder;;;;;;;;;;;x
+d_white_pine;White Pine;White Pine;White Pine;;White Pine;;;;;;;;;x
+d_white_pine_adj;White Pinean;;White Piner;;;;;;;;;;;x
+d_white_sands;White Sands;White Sands;White Sands;;White Sands;;;;;;;;;x
+d_white_sands_adj;White Sandsian;;White Sandser;;;;;;;;;;;x
+d_yampa;Yampa;Yampa;Yampa;;Yampa;;;;;;;;;x
+d_yampa_adj;Yampan;;yamper;;;;;;;;;;;x
+d_yavapai;Yavapai;Yavapai;Yavapai;;Yavapai;;;;;;;;;x
+d_yavapai_adj;Yavapian;;yavaper;;;;;;;;;;;x
+d_yolo;Yolo;Yolo;Yolo;;Yolo;;;;;;;;;x
+d_yolo_adj;Yolian;;yoler;;;;;;;;;;;x
+d_yreka;Yreka;Yreka;Yreka;;Yreka;;;;;;;;;x
+d_yreka_adj;Yrekan;;yreker;;;;;;;;;;;x
+d_yuma;Yuma;Yuma;Yuma;;Yuma;;;;;;;;;x
+d_yuma_adj;Yuman;;yumer;;;;;;;;;;;x
+d_zabriskie;Zabriskie;Zabriskie;Zabriskie;;Zabriskie;;;;;;;;;x
+d_zabriskie_adj;Zabriskiean;;zabrisker;;;;;;;;;;;x
+d_zion;Zion;Zion;Zion;;Zion;;;;;;;;;x
+d_zion_adj;Zionian;;zioner;;;;;;;;;;;x
+d_zuni;Zuni;Zuni;Zuni;;Zuni;;;;;;;;;x
+d_zuni_adj;Zunian;;zuner;;;;;;;;;;;x

@@ -1,0 +1,21 @@
+# c_mountain_view
+
+# County Title
+title = c_mountain_view
+
+# Settlements
+max_settlements = 6
+
+b_mountain_view = castle
+b_hensley = city
+b_mckinley = temple
+b_hyde_park = castle
+b_little_portugal = city
+#b_rosemary_garden = temple
+#b_olinder = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

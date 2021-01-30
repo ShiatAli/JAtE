@@ -1,0 +1,21 @@
+# c_ilwaco
+
+# County Title
+title = c_ilwaco
+
+# Settlements
+max_settlements = 3
+
+b_ilwaco = castle
+b_long_beach_2 = city
+#b_oysterville = temple
+#b_naselle = castle
+#b_nemah = city
+#b_bay_center = temple
+#b_bruceport = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

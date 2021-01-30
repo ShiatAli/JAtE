@@ -1,0 +1,21 @@
+# c_el_paso
+
+# County Title
+title = c_el_paso
+
+# Settlements
+max_settlements = 5
+
+b_el_paso = castle
+#b_socorro_2 = city
+#b_canutillo = temple
+#b_fort_bliss = castle
+#b_anthony = city
+#b_sparks = temple
+#b_westway = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

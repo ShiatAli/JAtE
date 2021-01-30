@@ -1,0 +1,21 @@
+# c_placerville
+
+# County Title
+title = c_placerville
+
+# Settlements
+max_settlements = 4
+
+b_placerville = castle
+b_coloma = city
+#b_somerset = temple
+#b_cameron_park = castle
+#b_rescue = city
+#b_latrobe = temple
+#b_garden_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

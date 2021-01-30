@@ -1,0 +1,21 @@
+# c_indian_springs
+
+# County Title
+title = c_indian_springs
+
+# Settlements
+max_settlements = 3
+
+b_indian_springs_3 = castle
+#b_cold_creek = city
+#b_mercury = temple
+#b_corn_creek = castle
+#b_desert_rock = city
+#b_cactus_spring = temple
+#b_mt_charleston = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

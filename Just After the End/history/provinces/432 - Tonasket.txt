@@ -1,0 +1,21 @@
+# c_tonasket
+
+# County Title
+title = c_tonasket
+
+# Settlements
+max_settlements = 2
+
+b_tonasket = castle
+#b_ellisforde = city
+#b_loomis = temple
+#b_palmer = castle
+#b_chopaka = city
+#b_nighthawk = temple
+#b_ellemeham = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

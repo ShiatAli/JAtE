@@ -1,0 +1,21 @@
+# c_roseville
+
+# County Title
+title = c_roseville
+
+# Settlements
+max_settlements = 4
+
+b_roseville = castle
+b_rocklin = city
+#b_virginiatown = temple
+#b_newcastle = castle
+#b_penryn = city
+#b_meadow_vista = temple
+#b_auburn = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

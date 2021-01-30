@@ -1,0 +1,21 @@
+# c_pittsburg
+
+# County Title
+title = c_pittsburg
+
+# Settlements
+max_settlements = 4
+
+b_pittsburg = castle
+b_vernonia = city
+#b_clear_creek_2 = temple
+#b_mist = castle
+#b_birkinfield = city
+#b_neverstill = temple
+#b_cedar_ridge = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_timbabichi
+
+# County Title
+title = c_timbabichi
+
+# Settlements
+max_settlements = 2
+
+b_san_jose_de_la_noria = castle
+#b_el_caretel = city
+#b_rodado = temple
+#b_santa_martha = castle
+#b_isla_santa_cruz = city
+#b_las_palmitas = temple
+#b_tambobiche = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

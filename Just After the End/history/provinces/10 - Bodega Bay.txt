@@ -1,0 +1,21 @@
+# c_bodega_bay
+
+# County Title
+title = c_bodega_bay
+
+# Settlements
+max_settlements = 6
+
+b_bodega_bay = castle
+b_guerneville = city
+b_jenner = temple
+b_sea_ranch = castle
+b_carmen = city
+#b_bodega = temple
+#b_occidental = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

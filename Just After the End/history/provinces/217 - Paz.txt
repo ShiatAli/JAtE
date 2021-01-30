@@ -1,0 +1,21 @@
+# c_paz
+
+# County Title
+title = c_paz
+
+# Settlements
+max_settlements = 6
+
+b_paz = castle
+b_playa_balandra = city
+b_isla_san_juan = temple
+b_la_calavera = castle
+b_el_mogote = city
+#b_el_dorado = temple
+#b_roma = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = farmland
+#History

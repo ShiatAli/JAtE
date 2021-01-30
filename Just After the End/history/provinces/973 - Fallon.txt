@@ -1,0 +1,21 @@
+# c_fallon
+
+# County Title
+title = c_fallon
+
+# Settlements
+max_settlements = 3
+
+b_fallon = castle
+#b_churchill = city
+#b_fallon_station = temple
+#b_stllwater = castle
+#b_salt_wells = city
+#b_bunejug = temple
+#b_dead_camel = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

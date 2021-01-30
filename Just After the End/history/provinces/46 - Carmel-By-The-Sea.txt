@@ -1,0 +1,21 @@
+# c_carmel_by_the_sea
+
+# County Title
+title = c_carmel_by_the_sea
+
+# Settlements
+max_settlements = 3
+
+b_carmel_by_the_sea = castle
+b_del_monte_forest = city
+#b_hacienda_carmel = temple
+#b_carmel_highland = castle
+#b_notley_landing = city
+#b_tierra_grande = temple
+#b_carmel_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

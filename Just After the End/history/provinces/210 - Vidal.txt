@@ -1,0 +1,21 @@
+# c_vidal
+
+# County Title
+title = c_vidal
+
+# Settlements
+max_settlements = 3
+
+b_vidal = castle
+b_big_river = city
+#b_calzona = temple
+#b_bluewater = castle
+#b_earp = city
+#b_parker_dam = temple
+#b_havasu_palms = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

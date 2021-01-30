@@ -1,0 +1,21 @@
+# c_mars
+
+# County Title
+title = c_mars
+
+# Settlements
+max_settlements = 2
+
+b_mars_2 = castle
+#b_mojave_base = city
+#b_fort_irwin = temple
+#b_eagle_crags = castle
+#b_granite_mountain_2 = city
+#b_tiefort = temple
+#b_venus = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

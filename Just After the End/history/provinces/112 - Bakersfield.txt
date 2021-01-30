@@ -1,0 +1,21 @@
+# c_bakersfield
+
+# County Title
+title = c_bakersfield
+
+# Settlements
+max_settlements = 5
+
+b_bakersfield = castle
+b_venola = city
+b_gosford = temple
+b_oildale = castle
+#b_old_river = city
+#b_panama = temple
+#b_edison = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

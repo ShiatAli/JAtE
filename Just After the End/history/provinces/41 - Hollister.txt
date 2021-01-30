@@ -1,0 +1,21 @@
+# c_hollister
+
+# County Title
+title = c_hollister
+
+# Settlements
+max_settlements = 4
+
+b_hollister = castle
+b_ridgemark = city
+b_san_juan_bautista = temple
+#b_dunneville = castle
+#b_cottage_corner = city
+#b_river_oaks = temple
+#b_logan = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

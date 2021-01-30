@@ -1,0 +1,21 @@
+# c_fortuna
+
+# County Title
+title = c_fortuna
+
+# Settlements
+max_settlements = 3
+
+b_fortuna = castle
+b_loletta = city
+#b_port_kenyon = temple
+#b_ferndale = castle
+#b_capetown = city
+#b_pertolia = temple
+#b_shelter_cove = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_tillamook
+
+# County Title
+title = c_tillamook
+
+# Settlements
+max_settlements = 4
+
+b_tillamook = castle
+b_garibaldi = city
+b_cape_meares = temple
+#b_oceanside_2 = castle
+#b_netarts = city
+#b_jordan_creek = temple
+#b_idaville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_slates_hot_spring
+
+# County Title
+title = c_slates_hot_spring
+
+# Settlements
+max_settlements = 3
+
+b_slates_hot_springs = castle
+b_tassajara_hot_springs = city
+#b_millers_ranch = temple
+#b_millers_ranch_2 = castle
+#b_upper_higgins = city
+#b_julia_pfeiffer = temple
+#b_jamesburg = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

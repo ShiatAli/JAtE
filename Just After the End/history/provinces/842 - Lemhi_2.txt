@@ -1,0 +1,21 @@
+# c_lemhi_2
+
+# County Title
+title = c_lemhi_2
+
+# Settlements
+max_settlements = 3
+
+b_west_yellowstone = castle
+#b_island_park = city
+#b_graylings = temple
+#b_big_springs = castle
+#b_kilgore = city
+#b_idmon = temple
+#b_madison_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

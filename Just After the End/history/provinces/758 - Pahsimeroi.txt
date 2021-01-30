@@ -1,0 +1,21 @@
+# c_pahsimeroi
+
+# County Title
+title = c_pahsimeroi
+
+# Settlements
+max_settlements = 2
+
+b_may = castle
+#b_howe = city
+#b_patterson_2 = temple
+#b_ellis = castle
+#b_hawley = city
+#b_spring_hill = temple
+#b_massacre = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

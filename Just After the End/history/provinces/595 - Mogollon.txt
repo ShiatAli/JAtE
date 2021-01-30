@@ -1,0 +1,21 @@
+# c_mogollon
+
+# County Title
+title = c_mogollon
+
+# Settlements
+max_settlements = 2
+
+b_reserve = castle
+#b_glenwood_2 = city
+#b_pleasenton = temple
+#b_aragon = castle
+#b_alma = city
+#b_cruzville = temple
+#b_apache_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

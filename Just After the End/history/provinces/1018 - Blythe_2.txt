@@ -1,0 +1,21 @@
+# c_blythe_2
+
+# County Title
+title = c_blythe_2
+
+# Settlements
+max_settlements = 3
+
+b_blythe_2 = castle
+b_mesa_verde_2 = city
+#b_midland_3 = temple
+#b_cox_2 = castle
+#b_mesaville_2 = city
+#b_inca_2 = temple
+#b_big_maria_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

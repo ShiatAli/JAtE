@@ -1,0 +1,21 @@
+# c_steven
+
+# County Title
+title = c_steven
+
+# Settlements
+max_settlements = 3
+
+b_coleville = castle
+b_addy = city
+#b_cozy_nook = temple
+#b_chewelah = castle
+#b_valley = city
+#b_sprindale = temple
+#b_bluecreek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

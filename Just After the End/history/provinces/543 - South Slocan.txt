@@ -1,0 +1,21 @@
+# c_south_slocan
+
+# County Title
+title = c_south_slocan
+
+# Settlements
+max_settlements = 3
+
+b_south_slocan = castle
+#b_bonnington = city
+#b_crescent_valley = temple
+#b_krestova = castle
+#b_slocan_park = city
+#b_vallican = temple
+#b_tarrys = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

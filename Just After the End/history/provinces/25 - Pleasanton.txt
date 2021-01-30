@@ -1,0 +1,21 @@
+# c_pleasanton
+
+# County Title
+title = c_pleasanton
+
+# Settlements
+max_settlements = 6
+
+b_pleasanton = castle
+b_livermore = city
+b_verona = temple
+b_sunol = castle
+b_dublin = city
+#b_almor = temple
+#b_altamont = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

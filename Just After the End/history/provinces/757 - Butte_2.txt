@@ -1,0 +1,21 @@
+# c_butte_2
+
+# County Title
+title = c_butte_2
+
+# Settlements
+max_settlements = 3
+
+b_arco = castle
+#b_mackay = city
+#b_moore = temple
+#b_butte_city_2 = castle
+#b_lost_river = city
+#b_chilly = temple
+#b_borah = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

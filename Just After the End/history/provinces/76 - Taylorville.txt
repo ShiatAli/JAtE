@@ -1,0 +1,21 @@
+# c_taylorville
+
+# County Title
+title = c_taylorville
+
+# Settlements
+max_settlements = 4
+
+b_taylorville = castle
+b_berden = city
+#b_almanor = temple
+#b_prattville = castle
+#b_canyondam = city
+#b_longville = temple
+#b_tobin = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

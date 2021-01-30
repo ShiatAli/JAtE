@@ -1,0 +1,21 @@
+# c_bonneville
+
+# County Title
+title = c_bonneville
+
+# Settlements
+max_settlements = 5
+
+b_ammon = castle
+b_idaho_falls = city
+#b_rigby = temple
+#b_iona = castle
+#b_ucon = city
+#b_menan = temple
+#b_ririe = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

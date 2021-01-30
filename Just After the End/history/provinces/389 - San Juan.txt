@@ -1,0 +1,21 @@
+# c_san_juan
+
+# County Title
+title = c_san_juan
+
+# Settlements
+max_settlements = 3
+
+b_friday_harbor = castle
+#b_lakedale = city
+#b_roche_harbor = temple
+#b_henry_island = castle
+#b_lime_kiln = city
+#b_yacht_haven = temple
+#b_spieden = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

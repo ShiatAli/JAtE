@@ -1,0 +1,21 @@
+# c_merced
+
+# County Title
+title = c_merced
+
+# Settlements
+max_settlements = 4
+
+b_merced = castle
+b_livington = city
+b_atwater = temple
+#b_planada = castle
+#b_le_grand = city
+#b_el_nido = temple
+#b_athlone = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

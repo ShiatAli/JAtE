@@ -1,0 +1,21 @@
+# c_west_valley
+
+# County Title
+title = c_west_valley
+
+# Settlements
+max_settlements = 4
+
+b_granger_2 = castle
+b_taylorsville = city
+b_kearns = temple
+#b_magna = castle
+#b_redwood = city
+#b_oquirrh = temple
+#b_hunter = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

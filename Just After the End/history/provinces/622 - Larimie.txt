@@ -1,0 +1,21 @@
+# c_larimie
+
+# County Title
+title = c_larimie
+
+# Settlements
+max_settlements = 3
+
+b_cheyenne = castle
+#b_ranchettes = city
+#b_south_greeley = temple
+#b_farm_fox = castle
+#b_warren_2 = city
+#b_pine_bluffs = temple
+#b_burns = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

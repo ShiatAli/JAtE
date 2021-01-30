@@ -1,0 +1,21 @@
+# c_san_benito
+
+# County Title
+title = c_san_benito
+
+# Settlements
+max_settlements = 4
+
+b_san_benito = castle
+b_topo_canyon = city
+b_pinnacle = temple
+#b_bitterwater = castle
+#b_mccabe_canyon = city
+#b_bear_valley = temple
+#b_stone_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_granby
+
+# County Title
+title = c_granby
+
+# Settlements
+max_settlements = 3
+
+b_hot_sulphur_springs = castle
+#b_kremmling = city
+#b_granby = temple
+#b_fraser = castle
+#b_winter_park = city
+#b_grand_lake = temple
+#b_tabernash = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

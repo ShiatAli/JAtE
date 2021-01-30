@@ -1,0 +1,21 @@
+# c_palm_desert
+
+# County Title
+title = c_palm_desert
+
+# Settlements
+max_settlements = 4
+
+b_palm_springs = castle
+b_palm_desert = city
+b_coachella = temple
+#b_valerie = castle
+#b_thermal = city
+#b_indo = temple
+#b_mecca = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

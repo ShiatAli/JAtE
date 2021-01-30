@@ -1,0 +1,21 @@
+# c_salmon
+
+# County Title
+title = c_salmon
+
+# Settlements
+max_settlements = 3
+
+b_salmon = castle
+#b_north_fork_2 = city
+#b_elk_bend = temple
+#b_carmen_2 = castle
+#b_goldbug = city
+#b_sheephorn = temple
+#b_copperhead = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_diamond_valley
+
+# County Title
+title = c_diamond_valley
+
+# Settlements
+max_settlements = 3
+
+b_diamond_valley = castle
+b_winchester = city
+#b_homeland = temple
+#b_hemet = castle
+#b_egan = city
+#b_san_jacinto = temple
+#b_south_park = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

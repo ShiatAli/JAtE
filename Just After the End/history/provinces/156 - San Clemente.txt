@@ -1,0 +1,21 @@
+# c_san_clemente
+
+# County Title
+title = c_san_clemente
+
+# Settlements
+max_settlements = 4
+
+b_san_clemente = castle
+b_san_onofre = city
+b_saddleback = temple
+#b_laguna_nigel = castle
+#b_aliso_viejo = city
+#b_lake_forest = temple
+#b_dana_point = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_washtucna
+
+# County Title
+title = c_washtucna
+
+# Settlements
+max_settlements = 2
+
+b_washtucna = castle
+#b_kahlotus = city
+#b_perry = temple
+#b_hooper = castle
+#b_peyton = city
+#b_hay = temple
+#b_dusty = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

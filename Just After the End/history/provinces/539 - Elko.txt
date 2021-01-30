@@ -1,0 +1,21 @@
+# c_elko
+
+# County Title
+title = c_elko
+
+# Settlements
+max_settlements = 3
+
+b_elko = castle
+#b_fernie = city
+#b_sparwood = temple
+#b_hosmer = castle
+#b_elkwood = city
+#b_kragmont = temple
+#b_grasmere = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_ramah
+
+# County Title
+title = c_ramah
+
+# Settlements
+max_settlements = 2
+
+b_pinehill = castle
+#b_ramah = city
+#b_mountain_view_3 = temple
+#b_el_morro = castle
+#b_obe_worthen = city
+#b_togeye = temple
+#b_carrizozo = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

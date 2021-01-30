@@ -1,0 +1,21 @@
+# c_eagle
+
+# County Title
+title = c_eagle
+
+# Settlements
+max_settlements = 5
+
+b_eagle = castle
+#b_gypsum = city
+#b_edwards = temple
+#b_avon = castle
+#b_vail = city
+#b_minturn_2 = temple
+#b_dotsero = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

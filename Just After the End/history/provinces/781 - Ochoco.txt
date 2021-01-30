@@ -1,0 +1,21 @@
+# c_ochoco
+
+# County Title
+title = c_ochoco
+
+# Settlements
+max_settlements = 1
+
+b_paulina_2 = castle
+#b_suplee = city
+#b_izee = temple
+#b_allen_creek = castle
+#b_black_canyon_2 = city
+#b_grindstone = temple
+#b_snow_mountain = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

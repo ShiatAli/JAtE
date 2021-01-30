@@ -1,0 +1,21 @@
+# c_port_orchard
+
+# County Title
+title = c_port_orchard
+
+# Settlements
+max_settlements = 3
+
+b_port_orchard = castle
+b_parkwood = city
+#b_ollala = temple
+#b_purdy = castle
+#b_gig_harbor = city
+#b_artondale = temple
+#b_lakebay = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

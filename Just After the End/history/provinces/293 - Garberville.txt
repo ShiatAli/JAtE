@@ -1,0 +1,21 @@
+# c_garberville
+
+# County Title
+title = c_garberville
+
+# Settlements
+max_settlements = 3
+
+b_garberville = castle
+b_benbow = city
+#b_redway = temple
+#b_miranda = castle
+#b_weott = city
+#b_hydesville = temple
+#b_scotia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

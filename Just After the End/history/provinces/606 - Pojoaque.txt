@@ -1,0 +1,21 @@
+# c_pojoaque
+
+# County Title
+title = c_pojoaque
+
+# Settlements
+max_settlements = 3
+
+b_nambe = castle
+#b_pojoaque = city
+#b_tesuque = temple
+#b_cuyamungue  = castle
+#b_chupadero  = city
+#b_sierra_mosca = temple
+#b_lake_peak = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

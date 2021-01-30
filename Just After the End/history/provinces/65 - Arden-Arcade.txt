@@ -1,0 +1,21 @@
+# c_arden_arcade
+
+# County Title
+title = c_arden_arcade
+
+# Settlements
+max_settlements = 4
+
+b_arden_arcade = castle
+b_carmichael = city
+b_north_highlands = temple
+#b_foothill_farms = castle
+#b_mcclellan_park = city
+#b_del_paso_manor = temple
+#b_antelope = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

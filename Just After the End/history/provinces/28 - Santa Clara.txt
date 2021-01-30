@@ -1,0 +1,21 @@
+# c_santa_clara
+
+# County Title
+title = c_santa_clara
+
+# Settlements
+max_settlements = 6
+
+b_santa_clara = castle
+b_los_gatos = city
+b_milpitas = temple
+b_commodore = castle
+b_cupertino = city
+#b_ponderosa_park = temple
+#b_gavello_glen = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_caborca_occidental
+
+# County Title
+title = c_caborca_occidental
+
+# Settlements
+max_settlements = 4
+
+b_la_y_griega = castle
+#b_puerto_libertad = city
+#b_el_diamente = temple
+#b_poblado_san_felipe = castle
+#b_ultimo_esfuerzo = city
+#b_puerto_lobos = temple
+#b_decemboque = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

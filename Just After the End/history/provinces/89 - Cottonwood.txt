@@ -1,0 +1,21 @@
+# c_cottonwood
+
+# County Title
+title = c_cottonwood
+
+# Settlements
+max_settlements = 4
+
+b_cottonwood = castle
+b_madison = city
+#b_zamora = temple
+#b_dunningan = castle
+#b_hershey = city
+#b_norton = temple
+#b_winters = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

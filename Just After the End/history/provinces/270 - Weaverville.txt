@@ -1,0 +1,21 @@
+# c_weaverville
+
+# County Title
+title = c_weaverville
+
+# Settlements
+max_settlements = 3
+
+b_weaverville = castle
+b_douglas_city = city
+#b_lewiston = temple
+#b_junction_city = castle
+#b_big_bar = city
+#b_de_loma = temple
+#b_salyer = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

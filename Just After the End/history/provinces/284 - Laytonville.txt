@@ -1,0 +1,21 @@
+# c_laytonville
+
+# County Title
+title = c_laytonville
+
+# Settlements
+max_settlements = 3
+
+b_laytonville = castle
+b_longvale = city
+#b_brooktrails = temple
+#b_cherry_creek = castle
+#b_red_fox = city
+#b_camp_winnarainbow = temple
+#b_decamp = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

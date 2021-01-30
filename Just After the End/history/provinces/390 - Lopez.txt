@@ -1,0 +1,21 @@
+# c_lopez
+
+# County Title
+title = c_lopez
+
+# Settlements
+max_settlements = 3
+
+b_port_stanley = castle
+#b_lopez = city
+#b_decatur_island = temple
+#b_thatcher = castle
+#b_obstruction_island = city
+#b_islandale = temple
+#b_iceberg = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_novato
+
+# County Title
+title = c_novato
+
+# Settlements
+max_settlements = 5
+
+b_novato = castle
+b_fairfax = city
+b_woodacre = temple
+b_san_marin = castle
+#b_ignacio = city
+#b_rafael_village = temple
+#b_dewitt = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

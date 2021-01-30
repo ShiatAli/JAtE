@@ -1,0 +1,21 @@
+# c_san_pedro
+
+# County Title
+title = c_san_pedro
+
+# Settlements
+max_settlements = 3
+
+b_san_pedro_2 = castle
+#b_los_inocentes = city
+#b_el_carrizal = temple
+#b_el_triunfo = castle
+#b_san_blas = city
+#b_la_canoa = temple
+#b_miramar_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

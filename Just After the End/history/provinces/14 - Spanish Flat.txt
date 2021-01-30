@@ -1,0 +1,21 @@
+# c_spanish_flat
+
+# County Title
+title = c_spanish_flat
+
+# Settlements
+max_settlements = 3
+
+b_spanish_flat = castle
+b_angwin = city
+#b_aetna_spring = temple
+#b_knoxville = castle
+#b_walter_springs = city
+#b_howell_mountain = temple
+#b_veteran_height = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

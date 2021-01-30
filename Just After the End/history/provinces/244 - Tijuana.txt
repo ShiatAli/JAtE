@@ -1,0 +1,21 @@
+# c_tijuana
+
+# County Title
+title = c_tijuana
+
+# Settlements
+max_settlements = 6
+
+b_tijuana = castle
+b_camino_verde = city
+b_rosarito = temple
+b_isla_coronado = castle
+b_buenos_aires_sur = city
+#b_el_rubi = temple
+#b_punta_bandera = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = farmland
+#History

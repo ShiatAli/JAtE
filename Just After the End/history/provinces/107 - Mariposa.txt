@@ -1,0 +1,21 @@
+# c_mariposa
+
+# County Title
+title = c_mariposa
+
+# Settlements
+max_settlements = 2
+
+b_mariposa = castle
+#b_catheys_valley = city
+#b_hornitos = temple
+#b_bear_valley_2 = castle
+#b_bagby = city
+#b_midpines = temple
+#b_ben_hur = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

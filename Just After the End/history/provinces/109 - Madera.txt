@@ -1,0 +1,21 @@
+# c_madera
+
+# County Title
+title = c_madera
+
+# Settlements
+max_settlements = 4
+
+b_madera = castle
+b_parksdale = city
+b_bonadelle_ranchos = temple
+#b_gregg = castle
+#b_la_vina = city
+#b_ripperdan = temple
+#b_rolling_hills = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_vancouver
+
+# County Title
+title = c_vancouver
+
+# Settlements
+max_settlements = 5
+
+b_vancouver_2 = castle
+b_new_westminister = city
+b_burnaby = temple
+#b_port_moody = castle
+#b_kerrisdale = city
+#b_annacis_island = temple
+#b_metrotown = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

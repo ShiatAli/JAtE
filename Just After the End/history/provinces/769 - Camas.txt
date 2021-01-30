@@ -1,0 +1,21 @@
+# c_camas
+
+# County Title
+title = c_camas
+
+# Settlements
+max_settlements = 2
+
+b_fairfield_3 = castle
+#b_hill_city = city
+#b_soldier = temple
+#b_paradise_springs = castle
+#b_blaine_2 = city
+#b_featherville = temple
+#b_castle_rocks = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_washakie
+
+# County Title
+title = c_washakie
+
+# Settlements
+max_settlements = 3
+
+b_worland = castle
+#b_basin_2 = city
+#b_greybull = temple
+#b_shell = castle
+#b_ten_sleep = city
+#b_manderson = temple
+#b_hyattville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

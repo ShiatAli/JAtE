@@ -1,0 +1,21 @@
+# c_riverdale
+
+# County Title
+title = c_riverdale
+
+# Settlements
+max_settlements = 3
+
+b_riverdale = castle
+b_camden = city
+#b_lanare = temple
+#b_hub = castle
+#b_hardwick = city
+#b_halls = temple
+#b_wildflower = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

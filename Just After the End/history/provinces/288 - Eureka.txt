@@ -1,0 +1,21 @@
+# c_eureka
+
+# County Title
+title = c_eureka
+
+# Settlements
+max_settlements = 3
+
+b_eureka = castle
+b_arcata = city
+#b_myrtletown = temple
+#b_samoa = castle
+#b_mckinleyville = city
+#b_cutten = temple
+#b_blue_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

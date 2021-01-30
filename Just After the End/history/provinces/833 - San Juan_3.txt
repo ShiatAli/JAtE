@@ -1,0 +1,21 @@
+# c_san_juan_3
+
+# County Title
+title = c_san_juan_3
+
+# Settlements
+max_settlements = 4
+
+b_san_juan_2 = castle
+#b_espanola = city
+#b_santa_clara_5 = temple
+#b_san_ildefonso = castle
+#b_chamita = city
+#b_san_jose_2 = temple
+#b_santa_cruz_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

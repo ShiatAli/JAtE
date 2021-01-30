@@ -1,0 +1,21 @@
+# c_pullman
+
+# County Title
+title = c_pullman
+
+# Settlements
+max_settlements = 3
+
+b_pullman = castle
+b_colfax = city
+#b_palouse = temple
+#b_garfield = castle
+#b_oaksdale = city
+#b_st_john_2 = temple
+#b_rosalia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

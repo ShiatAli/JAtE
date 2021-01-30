@@ -1,0 +1,21 @@
+# c_bear_valley
+
+# County Title
+title = c_bear_valley
+
+# Settlements
+max_settlements = 3
+
+b_bear_valley_3 = castle
+b_arvin = city
+#b_stallion_springs = temple
+#b_tehachapi = castle
+#b_keene = city
+#b_walong = temple
+#b_ilmon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_verde
+
+# County Title
+title = c_verde
+
+# Settlements
+max_settlements = 4
+
+b_cottonwood_5 = castle
+#b_sedona = city
+#b_camp_verde = temple
+#b_oak_creek = castle
+#b_clarkdale = city
+#b_lake_montezuma = temple
+#b_cornville = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

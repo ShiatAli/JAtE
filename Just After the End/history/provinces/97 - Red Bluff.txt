@@ -1,0 +1,21 @@
+# c_red_bluff
+
+# County Title
+title = c_red_bluff
+
+# Settlements
+max_settlements = 3
+
+b_red_bluff = castle
+b_gerber_las_flores = city
+#b_probeta = temple
+#b_las_flores = castle
+#b_crain_orchards = city
+#b_lindauer_river_ranch = temple
+#b_luther = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

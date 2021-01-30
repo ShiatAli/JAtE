@@ -1,0 +1,21 @@
+# c_shelton
+
+# County Title
+title = c_shelton
+
+# Settlements
+max_settlements = 3
+
+b_shelton = castle
+b_agate = city
+#b_belfair = temple
+#b_skokomish = castle
+#b_potlatch = city
+#b_lilliwaup = temple
+#b_hamma_hamma = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

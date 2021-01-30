@@ -1,0 +1,21 @@
+# c_renton
+
+# County Title
+title = c_renton
+
+# Settlements
+max_settlements = 4
+
+b_renton = castle
+b_orillia = city
+b_tukwila = temple
+#b_seatac = castle
+#b_coalfield = city
+#b_fairwood = temple
+#b_kent = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

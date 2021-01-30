@@ -1,0 +1,21 @@
+# c_wilsonville
+
+# County Title
+title = c_wilsonville
+
+# Settlements
+max_settlements = 4
+
+b_wilsonville = castle
+b_stafford = city
+b_west_linn = temple
+#b_shadowood = castle
+#b_rivergrove = city
+#b_lake_oswego = temple
+#b_blue_heron = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

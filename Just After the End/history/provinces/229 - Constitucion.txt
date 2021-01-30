@@ -1,0 +1,21 @@
+# c_constitucion
+
+# County Title
+title = c_constitucion
+
+# Settlements
+max_settlements = 4
+
+b_ciudad_constitucion = castle
+b_tepentu = city
+b_san_isidro_labrador = temple
+#b_militar = castle
+#b_longoria = city
+#b_ciudad_insurgentes = temple
+#b_vargas = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

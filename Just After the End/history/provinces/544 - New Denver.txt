@@ -1,0 +1,21 @@
+# c_new_denver
+
+# County Title
+title = c_new_denver
+
+# Settlements
+max_settlements = 3
+
+b_new_denver = castle
+#b_slocan = city
+#b_silverton = temple
+#b_roseberry = castle
+#b_lemon_creek = city
+#b_zincton = temple
+#b_winlaw = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

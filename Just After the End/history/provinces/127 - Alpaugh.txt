@@ -1,0 +1,21 @@
+# c_alpaugh
+
+# County Title
+title = c_alpaugh
+
+# Settlements
+max_settlements = 4
+
+b_alpaugh = castle
+b_angiola = city
+b_allensworth = temple
+#b_kernell = castle
+#b_pond = city
+#b_earlimart = temple
+#b_corcoran = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_searchlight
+
+# County Title
+title = c_searchlight
+
+# Settlements
+max_settlements = 2
+
+b_searchlight = castle
+#b_juan = city
+#b_cal_nev_ari = temple
+#b_spirit_mountain = castle
+#b_crescent_peak = city
+#b_whister_spring = temple
+#b_cottonwood_3 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

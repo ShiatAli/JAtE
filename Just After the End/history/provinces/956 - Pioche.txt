@@ -1,0 +1,21 @@
+# c_pioche
+
+# County Title
+title = c_pioche
+
+# Settlements
+max_settlements = 2
+
+b_pioche = castle
+#b_panaca = city
+#b_hamlight = temple
+#b_manogant = castle
+#b_parsnip_peak = city
+#b_upper_meloy = temple
+#b_kixmiller = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

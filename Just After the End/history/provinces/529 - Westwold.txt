@@ -1,0 +1,21 @@
+# c_westwold
+
+# County Title
+title = c_westwold
+
+# Settlements
+max_settlements = 3
+
+b_westwold = castle
+#b_douglas_lake = city
+#b_monte_lake = temple
+#b_falkland = castle
+#b_roche_lake = city
+#b_tahaetkun = temple
+#b_pillar_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

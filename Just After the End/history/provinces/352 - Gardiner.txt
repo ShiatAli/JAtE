@@ -1,0 +1,21 @@
+# c_gardiner
+
+# County Title
+title = c_gardiner
+
+# Settlements
+max_settlements = 3
+
+b_gardiner = castle
+#b_reedsport = city
+#b_dunes_city = temple
+#b_winchester_bay = castle
+#b_templeton_2 = city
+#b_scottburg = temple
+#b_siltcoos = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

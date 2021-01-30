@@ -1,0 +1,21 @@
+# c_sacramento
+
+# County Title
+title = c_sacramento
+
+# Settlements
+max_settlements = 4
+
+b_sacramento = castle
+b_rosemont = city
+b_florin = temple
+#b_richmond_grove = castle
+#b_dio_rio_triangle = city
+#b_alhambra_triangle = temple
+#b_tahoe_park = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_oceanshore
+
+# County Title
+title = c_oceanshore
+
+# Settlements
+max_settlements = 3
+
+b_oceanshore = castle
+b_ocean_city = city
+#b_copalis_beach = temple
+#b_newton = castle
+#b_new_london = city
+#b_carlisle = temple
+#b_tulips = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

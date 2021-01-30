@@ -1,0 +1,21 @@
+# c_ashford_meadows
+
+# County Title
+title = c_ashford_meadows
+
+# Settlements
+max_settlements = 2
+
+b_ashford_meadows = castle
+#b_renoville_2 = city
+#b_avawatz = temple
+#b_dumont = castle
+#b_ibex_hills = city
+#b_needle_peak = temple
+#b_barker_ranch = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

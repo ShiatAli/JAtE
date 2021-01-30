@@ -1,0 +1,21 @@
+# c_elk_creek
+
+# County Title
+title = c_elk_creek
+
+# Settlements
+max_settlements = 3
+
+b_elk_creek = castle
+#b_stony_gorge = city
+#b_dry_creek = temple
+#b_stonyford = castle
+#b_lodoga = city
+#b_leesville = temple
+#b_wilbur_springs = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

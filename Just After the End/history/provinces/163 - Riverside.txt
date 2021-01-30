@@ -1,0 +1,21 @@
+# c_riverside
+
+# County Title
+title = c_riverside
+
+# Settlements
+max_settlements = 4
+
+b_riverside = castle
+b_jurupa = city
+b_norco = temple
+#b_eastvale = castle
+#b_casa_blanca = city
+#b_sixdee = temple
+#b_magnolia = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

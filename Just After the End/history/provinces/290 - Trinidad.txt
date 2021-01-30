@@ -1,0 +1,21 @@
+# c_trinidad
+
+# County Title
+title = c_trinidad
+
+# Settlements
+max_settlements = 3
+
+b_trinidad_2 = castle
+b_clam_beach = city
+#b_crannell = temple
+#b_patricks_point = castle
+#b_big_lagoon = city
+#b_orick = temple
+#b_berry_glenn = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_el_centro
+
+# County Title
+title = c_el_centro
+
+# Settlements
+max_settlements = 3
+
+b_el_centro = castle
+b_calexico = city
+#b_imperial_county = temple
+#b_ocotillo_2 = castle
+#b_palm_grove = city
+#b_seeley = temple
+#b_meloland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

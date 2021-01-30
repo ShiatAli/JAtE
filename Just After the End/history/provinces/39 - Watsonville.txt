@@ -1,0 +1,21 @@
+# c_watsonville
+
+# County Title
+title = c_watsonville
+
+# Settlements
+max_settlements = 6
+
+b_watsonville = castle
+b_rio_del_mar = city
+b_la_selva_beach = temple
+b_freedom = castle
+b_interlaken = city
+#b_johnston_corner = temple
+#b_amesti = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

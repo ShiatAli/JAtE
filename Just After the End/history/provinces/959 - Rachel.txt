@@ -1,0 +1,21 @@
+# c_rachel
+
+# County Title
+title = c_rachel
+
+# Settlements
+max_settlements = 1
+
+b_rachel_2 = castle
+#b_tempiute = city
+#b_timpahute = temple
+#b_worthington = castle
+#b_belted_range = city
+#b_sand_spring = temple
+#b_nellis = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

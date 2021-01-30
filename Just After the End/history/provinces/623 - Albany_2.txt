@@ -1,0 +1,21 @@
+# c_albany_2
+
+# County Title
+title = c_albany_2
+
+# Settlements
+max_settlements = 2
+
+b_laramie = castle
+#b_centennial_2 = city
+#b_woods_landing_jelm = temple
+#b_albany_3 = castle
+#b_the_buttes = city
+#b_fox_park = temple
+#b_tie_siding = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

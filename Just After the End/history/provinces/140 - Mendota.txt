@@ -1,0 +1,21 @@
+# c_mendota
+
+# County Title
+title = c_mendota
+
+# Settlements
+max_settlements = 4
+
+b_mendota = castle
+b_arbios = city
+b_cromir = temple
+#b_benito = castle
+#b_firebaugh = city
+#b_broadview = temple
+#b_maldonado = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

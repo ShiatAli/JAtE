@@ -1,0 +1,21 @@
+# c_petaluma
+
+# County Title
+title = c_petaluma
+
+# Settlements
+max_settlements = 6
+
+b_petaluma = castle
+b_rohnert_park = city
+b_sonoma = temple
+b_penngrove = castle
+b_cotati = city
+#b_boyes_hot_springs = temple
+#b_orchard = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_ganado
+
+# County Title
+title = c_ganado
+
+# Settlements
+max_settlements = 4
+
+b_ganado = castle
+#b_kinlichee = city
+#b_greasewood = temple
+#b_burnside = castle
+#b_steamboat_2 = city
+#b_klagetoh = temple
+#b_wide_ruins = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

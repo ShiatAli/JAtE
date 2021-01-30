@@ -1,0 +1,21 @@
+# c_lost_hills
+
+# County Title
+title = c_lost_hills
+
+# Settlements
+max_settlements = 3
+
+b_lost_hills = castle
+b_blackwells = city
+#b_north_belridge = temple
+#b_spicer_city = castle
+#b_missouri_triangle = city
+#b_wonderful_park = temple
+#b_kern_refuge = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_balboa
+
+# County Title
+title = c_balboa
+
+# Settlements
+max_settlements = 6
+
+b_san_diego = castle
+b_balboa = city
+b_la_jolla = temple
+b_mission_valley = castle
+b_kearney = city
+#b_point_loma = temple
+#b_pacific_beach = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

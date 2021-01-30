@@ -1,0 +1,21 @@
+# c_ventura
+
+# County Title
+title = c_ventura
+
+# Settlements
+max_settlements = 4
+
+b_ventura = castle
+b_dulah = city
+b_faria = temple
+#b_la_conchita = castle
+#b_casitas_springs = city
+#b_oak_view = temple
+#b_ojai = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

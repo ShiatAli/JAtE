@@ -1,0 +1,21 @@
+# c_mt_shasta
+
+# County Title
+title = c_mt_shasta
+
+# Settlements
+max_settlements = 3
+
+b_mt_shasta = castle
+#b_black_butte = city
+#b_azalea = temple
+#b_mccloud = castle
+#b_volcanic_legacy = city
+#b_pioneer = temple
+#b_abram_lake = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

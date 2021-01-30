@@ -1,0 +1,21 @@
+# c_odessa
+
+# County Title
+title = c_odessa
+
+# Settlements
+max_settlements = 3
+
+b_odessa = castle
+b_ritzville = city
+#b_lind = temple
+#b_cunningham = castle
+#b_hatton = city
+#b_lamona = temple
+#b_schrag = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

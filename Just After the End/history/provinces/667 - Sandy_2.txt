@@ -1,0 +1,21 @@
+# c_sandy_2
+
+# County Title
+title = c_sandy_2
+
+# Settlements
+max_settlements = 5
+
+b_sandy_2 = castle
+b_draper = city
+b_riverton_2 = temple
+#b_bluffdale = castle
+#b_white_city_2 = city
+#b_granite_2 = temple
+#b_willow_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

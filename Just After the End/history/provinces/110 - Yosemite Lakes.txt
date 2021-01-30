@@ -1,0 +1,21 @@
+# c_yosemite_lakes
+
+# County Title
+title = c_yosemite_lakes
+
+# Settlements
+max_settlements = 2
+
+b_yosemite_lakes = castle
+#b_oneals = city
+#b_indian_springs = temple
+#b_coarsegold = castle
+#b_knowles = city
+#b_raymond = temple
+#b_fine_gold = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,31 @@
+#COLORADO
+technology = {
+	titles = {
+		d_boulder
+		d_denver
+		d_grand
+		d_grand_mesa
+		d_gunnison
+		d_huerfano
+		d_larimer
+		d_mesa_verde
+		d_mineral_belt
+		d_park
+		d_pikes_peak
+		d_pueblo
+		d_san_luis
+		d_taos
+		d_wheatland
+		d_yampa
+	}
+	2055 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

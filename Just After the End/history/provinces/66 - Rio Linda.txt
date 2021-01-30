@@ -1,0 +1,21 @@
+# c_rio_linda
+
+# County Title
+title = c_rio_linda
+
+# Settlements
+max_settlements = 4
+
+b_rio_linda = castle
+b_del_paso_heights = city
+#b_gardenland = temple
+#b_willow_creek = castle
+#b_elverta = city
+#b_sundance_lake = temple
+#b_regency_park = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

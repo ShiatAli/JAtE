@@ -1,0 +1,21 @@
+# c_centerville
+
+# County Title
+title = c_centerville
+
+# Settlements
+max_settlements = 3
+
+b_centerville = castle
+b_sanger = city
+#b_minkler = temple
+#b_wahtoke = castle
+#b_navelencia = city
+#b_miley = temple
+#b_big_bunch = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

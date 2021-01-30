@@ -1,0 +1,21 @@
+# c_multnomah
+
+# County Title
+title = c_multnomah
+
+# Settlements
+max_settlements = 4
+
+b_multnomah = castle
+b_collins_view = city
+b_riverwood = temple
+#b_homestead = castle
+#b_bridlemile = city
+#b_burlingame_2 = temple
+#b_markham = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

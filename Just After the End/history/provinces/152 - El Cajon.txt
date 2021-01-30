@@ -1,0 +1,21 @@
+# c_el_cajon
+
+# County Title
+title = c_el_cajon
+
+# Settlements
+max_settlements = 3
+
+b_el_cajon = castle
+b_santee = city
+#b_la_mesa = temple
+#b_hillsdale = castle
+#b_barona = city
+#b_gillespie = temple
+#b_lakeside = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_columbia
+
+# County Title
+title = c_columbia
+
+# Settlements
+max_settlements = 3
+
+b_vancouver = castle
+b_minnehaha = city
+#b_mill_plain = temple
+#b_five_corners = castle
+#b_felida = city
+#b_camas = temple
+#b_washougal = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

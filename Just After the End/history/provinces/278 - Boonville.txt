@@ -1,0 +1,21 @@
+# c_boonville
+
+# County Title
+title = c_boonville
+
+# Settlements
+max_settlements = 3
+
+b_boonville = castle
+b_philos = city
+#b_hendy_grove = temple
+#b_navarro = castle
+#b_phillips_hill = city
+#b_reilly_heights = temple
+#b_anderson_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

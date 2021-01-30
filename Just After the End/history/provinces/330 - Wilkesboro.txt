@@ -1,0 +1,21 @@
+# c_wilkesboro
+
+# County Title
+title = c_wilkesboro
+
+# Settlements
+max_settlements = 4
+
+b_banks = castle
+b_wilkesboro = city
+#b_manning = temple
+#b_buxton = castle
+#b_glenwood = city
+#b_gales_creek = temple
+#b_hillside = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

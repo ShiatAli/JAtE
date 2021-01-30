@@ -1,0 +1,21 @@
+# c_bahia_kino
+
+# County Title
+title = c_bahia_kino
+
+# Settlements
+max_settlements = 3
+
+b_bahia_kino = castle
+#b_miguel_aleman = city
+#b_kino_nuevo = temple
+#b_el_choyudo = castle
+#b_punta_chueca = city
+#b_la_yuta = temple
+#b_campo_dulce = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

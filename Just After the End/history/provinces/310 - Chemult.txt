@@ -1,0 +1,21 @@
+# c_chemult
+
+# County Title
+title = c_chemult
+
+# Settlements
+max_settlements = 3
+
+b_chemult = castle
+#b_kirk = city
+#b_diamond_lake = temple
+#b_crescent = castle
+#b_gilchrist = city
+#b_odell = temple
+#b_sand_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

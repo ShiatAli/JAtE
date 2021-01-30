@@ -1,0 +1,21 @@
+# c_arlington
+
+# County Title
+title = c_arlington
+
+# Settlements
+max_settlements = 4
+
+b_arlington = castle
+b_stanwood = city
+b_granite_falls = temple
+#b_trafton = castle
+#b_bryant = city
+#b_plichuck = temple
+#b_silvana = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

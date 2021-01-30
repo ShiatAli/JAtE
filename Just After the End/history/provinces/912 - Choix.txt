@@ -1,0 +1,21 @@
+# c_choix
+
+# County Title
+title = c_choix
+
+# Settlements
+max_settlements = 2
+
+b_choix = castle
+#b_agua_caliente_grande = city
+#b_san_javier_3 = temple
+#b_bajosori = castle
+#b_santa_ana_3 = city
+#b_guadalupe_2 = temple
+#b_tasajeras = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

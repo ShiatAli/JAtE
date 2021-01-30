@@ -1,0 +1,21 @@
+# c_old_dale_2
+
+# County Title
+title = c_old_dale_2
+
+# Settlements
+max_settlements = 3
+
+b_old_dale_2 = castle
+b_sunfair_2 = city
+#b_cleghorn_2 = temple
+#b_bush_2 = castle
+#b_desert_heights_2 = city
+#b_twentynine_palms_2 = temple
+#b_hidden_river_2 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

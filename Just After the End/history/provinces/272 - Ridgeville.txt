@@ -1,0 +1,21 @@
+# c_ridgeville
+
+# County Title
+title = c_ridgeville
+
+# Settlements
+max_settlements = 3
+
+b_ridgeville = castle
+#b_cedar_stock = city
+#b_trinity_alps = temple
+#b_trinity_center = castle
+#b_coffee = city
+#b_coffee_creek = temple
+#b_dedrick = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

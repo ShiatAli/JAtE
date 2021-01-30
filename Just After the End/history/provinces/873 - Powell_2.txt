@@ -1,0 +1,21 @@
+# c_powell_2
+
+# County Title
+title = c_powell_2
+
+# Settlements
+max_settlements = 3
+
+b_deer_lodge = castle
+#b_anaconda_2 = city
+#b_racetrack = temple
+#b_garrison = castle
+#b_avon_2 = city
+#b_elliston = temple
+#b_frontier_town = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

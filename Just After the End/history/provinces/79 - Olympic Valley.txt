@@ -1,0 +1,21 @@
+# c_olympic_valley
+
+# County Title
+title = c_olympic_valley
+
+# Settlements
+max_settlements = 4
+
+b_tahoe_city = castle
+b_tahoma = city
+#b_ridgewood = temple
+#b_rampart = castle
+#b_truckee = city
+#b_polaris = temple
+#b_donner = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

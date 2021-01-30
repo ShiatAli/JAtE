@@ -1,0 +1,21 @@
+# c_missoula
+
+# County Title
+title = c_missoula
+
+# Settlements
+max_settlements = 2
+
+b_missoula = castle
+#b_westview_park = city
+#b_wye = temple
+#b_bonner_west_riverside = castle
+#b_lolo = city
+#b_frenchtown = temple
+#b_huson = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

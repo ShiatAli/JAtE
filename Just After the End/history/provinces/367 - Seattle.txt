@@ -1,0 +1,21 @@
+# c_seattle
+
+# County Title
+title = c_seattle
+
+# Settlements
+max_settlements = 5
+
+b_seattle = castle
+b_fremont_2 = city
+b_ballard = temple
+#b_shoreline_2 = castle
+#b_georgetown = city
+#b_alki = temple
+#b_burien = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

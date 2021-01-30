@@ -1,0 +1,21 @@
+# c_carson
+
+# County Title
+title = c_carson
+
+# Settlements
+max_settlements = 4
+
+b_carson_city = castle
+b_south_lake = city
+b_glenbrook_2 = temple
+#b_gardnerville = castle
+#b_genoa = city
+#b_meyers_2 = temple
+#b_fredericksburg = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

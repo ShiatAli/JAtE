@@ -1,0 +1,21 @@
+# c_el_mirage
+
+# County Title
+title = c_el_mirage
+
+# Settlements
+max_settlements = 3
+
+b_lake_los_angeles = castle
+#b_el_mirage_2 = city
+#b_wilsona_gardens = temple
+#b_hi_vista = castle
+#b_gray_butte = city
+#b_saddleback_2 = temple
+#b_butte_valley = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

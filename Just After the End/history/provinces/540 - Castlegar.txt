@@ -1,0 +1,21 @@
+# c_castlegar
+
+# County Title
+title = c_castlegar
+
+# Settlements
+max_settlements = 3
+
+b_castlegar = castle
+#b_ootischenia = city
+#b_raspberry = temple
+#b_robson = castle
+#b_thrums = city
+#b_blueberry_creek = temple
+#b_genelle = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

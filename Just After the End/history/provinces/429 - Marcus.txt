@@ -1,0 +1,21 @@
+# c_marcus
+
+# County Title
+title = c_marcus
+
+# Settlements
+max_settlements = 3
+
+b_marcus = castle
+b_kettle_falls = city
+#b_bossburg = temple
+#b_evans = castle
+#b_boyds = city
+#b_goldstake = temple
+#b_northport = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_garfield
+
+# County Title
+title = c_garfield
+
+# Settlements
+max_settlements = 4
+
+b_glenwood_springs = castle
+#b_battlement_mesa = city
+#b_rifle = temple
+#b_new_castle = castle
+#b_silt = city
+#b_parachute = temple
+#b_cattle_creek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

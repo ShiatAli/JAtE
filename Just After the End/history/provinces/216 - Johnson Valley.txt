@@ -1,0 +1,21 @@
+# c_johnson_valley
+
+# County Title
+title = c_johnson_valley
+
+# Settlements
+max_settlements = 3
+
+b_johnson_valley = castle
+b_landers = city
+#b_flamingo_heights = temple
+#b_rimrock = castle
+#b_pioneertown = city
+#b_lucerne_valley = temple
+#b_cushenbury = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

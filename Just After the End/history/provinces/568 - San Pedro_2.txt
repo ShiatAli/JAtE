@@ -1,0 +1,21 @@
+# c_san_pedro_2
+
+# County Title
+title = c_san_pedro_2
+
+# Settlements
+max_settlements = 3
+
+b_san_manuel = castle
+#b_kearny = city
+#b_mammoth_2 = temple
+#b_dudleyville = castle
+#b_hayden_2 = city
+#b_winkleman = temple
+#b_ray = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_willow_creek
+
+# County Title
+title = c_willow_creek
+
+# Settlements
+max_settlements = 2
+
+b_willow_creek_2 = castle
+#b_hoopa = city
+#b_wietchpec = temple
+#b_orleans = castle
+#b_martins_ferry = city
+#b_mettah = temple
+#b_johnsons = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

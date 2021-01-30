@@ -1,0 +1,21 @@
+# c_gallup
+
+# County Title
+title = c_gallup
+
+# Settlements
+max_settlements = 5
+
+b_gallup = castle
+#b_gamerco = city
+#b_thoreau = temple
+#b_church_rock = castle
+#b_ya_ta_hey = city
+#b_rock_springs_2 = temple
+#b_chi_chil_tah = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_hidden_valley
+
+# County Title
+title = c_hidden_valley
+
+# Settlements
+max_settlements = 4
+
+b_parkfield = castle
+b_jack_ranch = city
+#b_cottonwood_creek = temple
+#b_nelson_creek = castle
+#b_slack_canyon = city
+#b_stone_canyon_2 = temple
+#b_lonoak = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

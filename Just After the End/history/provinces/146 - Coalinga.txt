@@ -1,0 +1,21 @@
+# c_coalinga
+
+# County Title
+title = c_coalinga
+
+# Settlements
+max_settlements = 2
+
+b_coalina = castle
+#b_parkfield_2 = city
+#b_ora = temple
+#b_turk = castle
+#b_coalmine_canyon = city
+#b_kolingo = temple
+#b_oil_canyon = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

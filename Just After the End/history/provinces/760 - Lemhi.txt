@@ -1,0 +1,21 @@
+# c_lemhi
+
+# County Title
+title = c_lemhi
+
+# Settlements
+max_settlements = 3
+
+b_leadore = castle
+#b_lemhi = city
+#b_tendoy = temple
+#b_baker_2 = castle
+#b_mogg = city
+#b_lem = temple
+#b_sal_mountain = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

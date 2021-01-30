@@ -1,0 +1,21 @@
+# c_round_mountain
+
+# County Title
+title = c_round_mountain
+
+# Settlements
+max_settlements = 3
+
+b_round_mountain = castle
+b_oakrun = city
+#b_whitmore = temple
+#b_millville = castle
+#b_sugar_pine = city
+#b_inwood = temple
+#b_little_cow = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

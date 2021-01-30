@@ -1,0 +1,21 @@
+# c_newport
+
+# County Title
+title = c_newport
+
+# Settlements
+max_settlements = 4
+
+b_newport_3 = castle
+b_seal_rock = city
+#b_waldport = temple
+#b_san_marine = castle
+#b_yachats = city
+#b_tidewater = temple
+#b_toledo = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_helena
+
+# County Title
+title = c_helena
+
+# Settlements
+max_settlements = 3
+
+b_helena = castle
+#b_montana_city = city
+#b_louisville_2 = temple
+#b_canyon_ferry = castle
+#b_marysville_4 = city
+#b_york = temple
+#b_silver_city_5 = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_los_molinos
+
+# County Title
+title = c_los_molinos
+
+# Settlements
+max_settlements = 4
+
+b_los_molinos = castle
+b_nord = city
+#b_anita = temple
+#b_cana = castle
+#b_merrills_landing = city
+#b_vina = temple
+#b_copeland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

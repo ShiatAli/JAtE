@@ -1,0 +1,21 @@
+# c_slab_city
+
+# County Title
+title = c_slab_city
+
+# Settlements
+max_settlements = 3
+
+b_slab_city = castle
+b_niland = city
+#b_mundo = temple
+#b_calipatria = castle
+#b_brawley = city
+#b_westmorland = temple
+#b_rockland = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_capitol_reef
+
+# County Title
+title = c_capitol_reef
+
+# Settlements
+max_settlements = 3
+
+b_hanksville = castle
+#b_teasdale = city
+#b_torrey = temple
+#b_fruita_2 = castle
+#b_caineville = city
+#b_carcass_creek = temple
+#b_mars_desert = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

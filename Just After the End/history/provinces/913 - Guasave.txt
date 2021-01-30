@@ -1,0 +1,21 @@
+# c_guasave
+
+# County Title
+title = c_guasave
+
+# Settlements
+max_settlements = 5
+
+b_guasave = castle
+#b_gabriel_leyva_solano = city
+#b_juan_jose_rios = temple
+#b_adolfo_ruiz_cortines = castle
+#b_estacion_bamoa = city
+#b_la_trinidad = temple
+#b_el_burrion = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

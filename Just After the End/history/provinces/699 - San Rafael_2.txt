@@ -1,0 +1,21 @@
+# c_san_rafael_2
+
+# County Title
+title = c_san_rafael_2
+
+# Settlements
+max_settlements = 4
+
+b_huntington_2 = castle
+#b_castle_dale = city
+#b_ferron = temple
+#b_orangeville = castle
+#b_clawson = city
+#b_cleveland = temple
+#b_elmo = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

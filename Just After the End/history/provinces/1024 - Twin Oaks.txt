@@ -1,0 +1,21 @@
+# c_twin_oaks
+
+# County Title
+title = c_twin_oaks
+
+# Settlements
+max_settlements = 2
+
+b_twin_oaks = castle
+#b_claraville = city
+#b_burton_mill = temple
+#b_sageland = castle
+#b_havilah = city
+#b_bodfish_2 = temple
+#b_onyx = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

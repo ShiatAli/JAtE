@@ -1,0 +1,21 @@
+# c_jackson
+
+# County Title
+title = c_jackson
+
+# Settlements
+max_settlements = 3
+
+b_medford = castle
+#b_jacksonville = city
+#b_ashland = temple
+#b_pinehurst_2 = castle
+#b_buckhorn_springs = city
+#b_colestin = temple
+#b_talent = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_polks
+
+# County Title
+title = c_polks
+
+# Settlements
+max_settlements = 4
+
+b_dallas = castle
+b_rickreall = city
+#b_monmouth = temple
+#b_hopsville = castle
+#b_lewisville = city
+#b_suver = temple
+#b_eola = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

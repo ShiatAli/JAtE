@@ -1,0 +1,21 @@
+# c_bagdad
+
+# County Title
+title = c_bagdad
+
+# Settlements
+max_settlements = 3
+
+b_bagdad = castle
+b_amboy = city
+#b_chambless = temple
+#b_cadiz = castle
+#b_saltus = city
+#b_danby = temple
+#b_chubbuck = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

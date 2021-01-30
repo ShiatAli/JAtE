@@ -1,0 +1,21 @@
+# c_chiloquin
+
+# County Title
+title = c_chiloquin
+
+# Settlements
+max_settlements = 3
+
+b_chiloquin = castle
+#b_fort_klamath = city
+#b_modoc_point = temple
+#b_sprague_river = castle
+#b_beatty = city
+#b_bly = temple
+#b_agency = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

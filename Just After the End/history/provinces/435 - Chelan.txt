@@ -1,0 +1,21 @@
+# c_chelan
+
+# County Title
+title = c_chelan
+
+# Settlements
+max_settlements = 3
+
+b_chelan = castle
+b_chelan_falls = city
+#b_manson = temple
+#b_entiat = castle
+#b_ardenvoir = city
+#b_shrine_beach = temple
+#b_maplecreek = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

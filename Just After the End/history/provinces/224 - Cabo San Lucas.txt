@@ -1,0 +1,21 @@
+# c_cabo_san_lucas
+
+# County Title
+title = c_cabo_san_lucas
+
+# Settlements
+max_settlements = 3
+
+b_cabo_san_lucas = castle
+b_migrino = city
+#b_el_arco = temple
+#b_el_tezal = castle
+#b_el_manglito = city
+#b_azteca = temple
+#b_cabo_bello = castle
+
+# Misc
+culture = english
+religion = pagan
+terrain = desert
+#History

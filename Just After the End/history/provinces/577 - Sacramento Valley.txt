@@ -1,0 +1,21 @@
+# c_sacramento_valley
+
+# County Title
+title = c_sacramento_valley
+
+# Settlements
+max_settlements = 2
+
+b_golden_valley = castle
+#b_dolan_springs = city
+#b_chloride = temple
+#b_yucca = castle
+#b_santa_claus = city
+#b_mcconnico = temple
+#b_grasshopper_junction = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_selma
+
+# County Title
+title = c_selma
+
+# Settlements
+max_settlements = 4
+
+b_selma = castle
+b_kingsburg = city
+b_traver = temple
+#b_reedley = castle
+#b_dinuba = city
+#b_wineland = temple
+#b_london = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History

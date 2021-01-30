@@ -1,0 +1,21 @@
+# c_cascadia
+
+# County Title
+title = c_cascadia
+
+# Settlements
+max_settlements = 4
+
+b_cascadia = castle
+b_upper_soda = city
+#b_marion_fork = temple
+#b_detroit = castle
+#b_gates = city
+#b_lyons = temple
+#b_mill_city = castle
+
+# Misc
+culture = english
+religion = pagan
+
+#History
