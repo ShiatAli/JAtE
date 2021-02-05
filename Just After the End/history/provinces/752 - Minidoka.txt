@@ -15,7 +15,7 @@ b_rupert = castle
 #b_h_main = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

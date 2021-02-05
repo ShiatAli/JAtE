@@ -15,7 +15,7 @@ b_chemult = castle
 #b_sand_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

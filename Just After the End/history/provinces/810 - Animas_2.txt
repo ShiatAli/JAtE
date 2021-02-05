@@ -15,7 +15,7 @@ b_aztec_2 = castle
 #b_cedar_hill = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = navajo
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_shiprock = castle
 #b_hogback = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = navajo
+religion = mormon
 
 #History

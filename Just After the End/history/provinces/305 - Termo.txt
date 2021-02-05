@@ -15,7 +15,7 @@ b_termo = castle
 #b_madeline = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

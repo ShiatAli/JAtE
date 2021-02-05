@@ -15,7 +15,7 @@ b_sells = castle
 #b_kohatk = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

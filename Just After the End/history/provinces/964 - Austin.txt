@@ -15,7 +15,7 @@ b_austin_2 = castle
 #b_simpson_park = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

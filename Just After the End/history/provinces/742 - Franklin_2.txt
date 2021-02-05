@@ -15,7 +15,7 @@ b_preston_3 = castle
 #b_whitney = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

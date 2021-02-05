@@ -15,7 +15,7 @@ b_keizer = city
 #b_sublimity = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

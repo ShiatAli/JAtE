@@ -15,7 +15,7 @@ b_eagle = castle
 #b_dotsero = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

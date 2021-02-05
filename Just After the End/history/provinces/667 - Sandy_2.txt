@@ -15,7 +15,7 @@ b_riverton_2 = temple
 #b_willow_canyon = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

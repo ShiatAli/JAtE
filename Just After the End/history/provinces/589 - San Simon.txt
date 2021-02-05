@@ -15,7 +15,7 @@ b_bowie = castle
 #b_chiricahua = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

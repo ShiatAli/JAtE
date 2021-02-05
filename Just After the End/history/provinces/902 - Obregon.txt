@@ -15,7 +15,7 @@ b_ciudad_obregon = castle
 #b_francisco_javier_mina = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

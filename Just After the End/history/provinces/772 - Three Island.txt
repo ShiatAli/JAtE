@@ -15,7 +15,7 @@ b_glenns_ferry = castle
 #b_sparlin = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

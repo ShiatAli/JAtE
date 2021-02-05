@@ -15,7 +15,7 @@ b_coloma = city
 #b_garden_valley = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

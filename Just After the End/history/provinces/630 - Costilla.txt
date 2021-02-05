@@ -15,7 +15,7 @@ b_san_luis_4 = castle
 #b_mesita = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

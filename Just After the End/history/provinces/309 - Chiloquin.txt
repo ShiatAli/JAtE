@@ -15,7 +15,7 @@ b_chiloquin = castle
 #b_agency = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

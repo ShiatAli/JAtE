@@ -15,7 +15,7 @@ b_highland_valley = city
 #b_warnock = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

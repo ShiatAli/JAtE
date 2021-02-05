@@ -15,7 +15,7 @@ b_boulder_4 = castle
 #b_comet = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = prairielander
+religion = trailwalker
 
 #History

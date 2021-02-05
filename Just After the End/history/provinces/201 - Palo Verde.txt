@@ -15,7 +15,7 @@ b_palo_verde = castle
 #b_raumington = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_scappoose = city
 #b_prescott = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

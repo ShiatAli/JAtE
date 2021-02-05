@@ -15,7 +15,7 @@ b_santa_fe = castle
 #b_mcclure = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = texan
+religion = trailwalker
 
 #History

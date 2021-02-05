@@ -15,7 +15,7 @@ b_el_paso = castle
 #b_westway = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = texan
+religion = trailwalker
 
 #History

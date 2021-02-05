@@ -15,7 +15,7 @@ b_winchester = city
 #b_south_park = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

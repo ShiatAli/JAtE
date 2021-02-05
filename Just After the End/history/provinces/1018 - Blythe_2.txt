@@ -15,7 +15,7 @@ b_mesa_verde_2 = city
 #b_big_maria_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

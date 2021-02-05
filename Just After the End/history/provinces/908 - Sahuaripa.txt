@@ -15,7 +15,7 @@ b_sahuaripa = castle
 #b_bamori = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

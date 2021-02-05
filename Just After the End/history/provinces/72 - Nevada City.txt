@@ -15,7 +15,7 @@ b_grass_valley = city
 #b_birchville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

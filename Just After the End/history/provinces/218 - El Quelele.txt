@@ -15,7 +15,7 @@ b_centenario = city
 #b_jesus_maria = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = grassland
 #History

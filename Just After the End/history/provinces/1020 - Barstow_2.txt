@@ -15,7 +15,7 @@ b_lenwood_2 = city
 #b_daggett_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

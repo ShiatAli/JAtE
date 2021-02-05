@@ -15,7 +15,7 @@ b_emerald_cove_2 = temple
 #b_hemenway_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_shoshone_2 = castle
 #b_deadeye = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

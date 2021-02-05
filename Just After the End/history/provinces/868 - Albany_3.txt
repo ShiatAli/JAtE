@@ -15,7 +15,7 @@ b_medicine_bow = castle
 #b_garrett = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = grangelander
+religion = trailwalker
 
 #History

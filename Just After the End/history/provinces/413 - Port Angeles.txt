@@ -15,7 +15,7 @@ b_elwha = city
 #b_twin = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

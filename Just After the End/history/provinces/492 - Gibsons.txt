@@ -15,7 +15,7 @@ b_hopkins_landing = city
 #b_the_poplar = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

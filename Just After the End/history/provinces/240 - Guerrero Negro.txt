@@ -15,7 +15,7 @@ b_las_bombas = city
 #b_loma_bonita = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

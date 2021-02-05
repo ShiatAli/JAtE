@@ -15,7 +15,7 @@ b_williams_2 = city
 #b_holden_lake = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

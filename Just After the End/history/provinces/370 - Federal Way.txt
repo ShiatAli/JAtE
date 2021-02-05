@@ -15,7 +15,7 @@ b_auburn_2 = city
 #b_meredith = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

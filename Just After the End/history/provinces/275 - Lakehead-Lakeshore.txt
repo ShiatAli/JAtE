@@ -15,7 +15,7 @@ b_lakehead_lakeshore = castle
 #b_sims = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

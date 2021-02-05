@@ -15,7 +15,7 @@ b_rexburg = castle
 #b_burton = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

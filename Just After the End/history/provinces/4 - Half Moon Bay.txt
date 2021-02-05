@@ -15,7 +15,7 @@ b_el_granada = temple
 #b_san_gregorio = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

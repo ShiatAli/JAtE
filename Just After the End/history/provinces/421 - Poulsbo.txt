@@ -15,7 +15,7 @@ b_keyport = city
 #b_hansville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_lake_isabella = castle
 #b_keyesville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

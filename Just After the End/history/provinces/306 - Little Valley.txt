@@ -15,7 +15,7 @@ b_little_valley = castle
 #b_lookout = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

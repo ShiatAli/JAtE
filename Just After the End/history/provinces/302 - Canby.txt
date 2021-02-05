@@ -15,7 +15,7 @@ b_canby = castle
 #b_crowder = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_san_luis_2 = castle
 #b_la_joya = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

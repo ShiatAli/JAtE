@@ -15,7 +15,7 @@ b_san_joaquin_2 = castle
 #b_costa_mesa = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

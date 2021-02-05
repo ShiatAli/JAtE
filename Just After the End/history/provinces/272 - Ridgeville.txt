@@ -15,7 +15,7 @@ b_ridgeville = castle
 #b_dedrick = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

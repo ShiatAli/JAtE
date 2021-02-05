@@ -15,7 +15,7 @@ b_eagle_point = castle
 #b_beagle = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

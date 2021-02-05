@@ -15,7 +15,7 @@ b_carmen = city
 #b_occidental = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

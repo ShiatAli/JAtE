@@ -15,7 +15,7 @@ b_la_grande_2 = castle
 #b_summerville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

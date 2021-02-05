@@ -15,7 +15,7 @@ b_dillard_2 = temple
 #b_olalla = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

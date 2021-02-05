@@ -15,7 +15,7 @@ b_marina_del_rey = temple
 #b_venice_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

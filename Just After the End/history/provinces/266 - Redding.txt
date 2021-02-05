@@ -15,7 +15,7 @@ b_portal_inn = temple
 #b_palo_cedro = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

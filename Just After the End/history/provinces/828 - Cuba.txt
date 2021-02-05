@@ -15,7 +15,7 @@ b_cuba = castle
 #b_prieta = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = apache
+religion = mormon
 
 #History

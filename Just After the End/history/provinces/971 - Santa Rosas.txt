@@ -15,7 +15,7 @@ b_paradise_valley = castle
 #b_daveytown = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

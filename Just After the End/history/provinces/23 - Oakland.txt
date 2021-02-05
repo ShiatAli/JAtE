@@ -15,7 +15,7 @@ b_san_antonio = city
 #b_montclair = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

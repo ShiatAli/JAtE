@@ -15,7 +15,7 @@ b_riggins = castle
 #b_he_devil = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

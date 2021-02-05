@@ -15,7 +15,7 @@ b_bishop = castle
 #b_scheelite = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 terrain = desert
 #History

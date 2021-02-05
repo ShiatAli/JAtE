@@ -15,7 +15,7 @@ b_colfax = city
 #b_rosalia = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

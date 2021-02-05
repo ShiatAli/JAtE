@@ -15,7 +15,7 @@ b_marysville_3 = city
 #b_drummond = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

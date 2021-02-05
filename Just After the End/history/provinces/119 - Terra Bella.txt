@@ -15,7 +15,7 @@ b_ducor = city
 #b_jasmin = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

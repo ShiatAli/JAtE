@@ -15,7 +15,7 @@ b_cornelius = temple
 #b_laurelwood = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

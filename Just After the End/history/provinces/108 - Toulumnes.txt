@@ -15,7 +15,7 @@ b_toulumnes = castle
 #b_twain_harte = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

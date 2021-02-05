@@ -15,7 +15,7 @@ b_sunfair_2 = city
 #b_hidden_river_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

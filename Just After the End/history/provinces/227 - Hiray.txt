@@ -15,7 +15,7 @@ b_villa_morelos = castle
 #b_el_quemado = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

@@ -15,7 +15,7 @@ b_cayucos = city
 #b_harmony = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

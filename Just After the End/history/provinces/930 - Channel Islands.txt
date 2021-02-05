@@ -15,7 +15,7 @@ b_scorpion_ranch = castle
 #b_cavern_point = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = brethren
 
 #History

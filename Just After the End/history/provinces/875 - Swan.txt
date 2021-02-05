@@ -15,7 +15,7 @@ b_swan_lake_2 = castle
 #b_potomac = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = prairielander
+religion = trailwalker
 
 #History

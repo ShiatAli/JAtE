@@ -15,7 +15,7 @@ b_lordsburg = castle
 #b_roadforks = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

@@ -15,7 +15,7 @@ b_hot_sulphur_springs = castle
 #b_tabernash = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

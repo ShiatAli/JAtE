@@ -15,7 +15,7 @@ b_pondosa = castle
 #b_cayton = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

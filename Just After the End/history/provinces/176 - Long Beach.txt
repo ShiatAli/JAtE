@@ -15,7 +15,7 @@ b_san_pedro = temple
 #b_the_iowa = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_finley_2 = city
 #b_longview_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

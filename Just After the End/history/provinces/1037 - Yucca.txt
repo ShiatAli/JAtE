@@ -15,7 +15,7 @@ b_joshua_tree = city
 #b_landers_3 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

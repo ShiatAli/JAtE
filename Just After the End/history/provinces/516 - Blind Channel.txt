@@ -15,7 +15,7 @@ b_blind_channel = castle
 #b_phillips_arm = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_houck = castle
 #b_allentown = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = navajo
+religion = mormon
 
 #History

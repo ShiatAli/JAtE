@@ -15,7 +15,7 @@ b_redman = temple
 #b_apollo = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

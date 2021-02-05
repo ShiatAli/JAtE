@@ -15,7 +15,7 @@ b_port_neville = castle
 #b_lagoon_cove = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_isleta = castle
 #b_wind_mesa = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = apache
+religion = mormon
 
 #History

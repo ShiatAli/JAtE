@@ -15,7 +15,7 @@ b_madrone = temple
 #b_san_felipe = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

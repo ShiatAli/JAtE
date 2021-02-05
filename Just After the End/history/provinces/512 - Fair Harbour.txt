@@ -15,7 +15,7 @@ b_fair_harbour = castle
 #b_whiteley = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

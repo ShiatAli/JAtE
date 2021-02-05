@@ -15,7 +15,7 @@ b_edgemont = city
 #b_arnold_heights = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

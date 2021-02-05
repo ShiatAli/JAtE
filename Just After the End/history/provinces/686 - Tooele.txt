@@ -15,7 +15,7 @@ b_tooele = castle
 #b_rush_valley = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

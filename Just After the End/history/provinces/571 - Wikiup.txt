@@ -15,7 +15,7 @@ b_wikiup = castle
 #b_dripping_springs = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

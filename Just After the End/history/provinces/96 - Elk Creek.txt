@@ -15,7 +15,7 @@ b_elk_creek = castle
 #b_wilbur_springs = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

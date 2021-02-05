@@ -15,7 +15,7 @@ b_vernonia = city
 #b_cedar_ridge = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

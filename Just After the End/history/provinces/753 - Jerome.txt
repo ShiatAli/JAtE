@@ -15,7 +15,7 @@ b_jerome = castle
 #b_clover_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

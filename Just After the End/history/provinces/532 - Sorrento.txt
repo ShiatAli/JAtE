@@ -15,7 +15,7 @@ b_chase_2 = city
 #b_anglemont = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

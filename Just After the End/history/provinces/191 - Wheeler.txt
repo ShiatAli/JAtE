@@ -15,7 +15,7 @@ b_wheeler = castle
 #b_maricopa_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

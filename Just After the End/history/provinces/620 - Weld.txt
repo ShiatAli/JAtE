@@ -15,7 +15,7 @@ b_greeley = castle
 #b_severence = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

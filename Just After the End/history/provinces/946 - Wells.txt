@@ -15,7 +15,7 @@ b_wells = castle
 #b_windmere = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

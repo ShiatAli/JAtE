@@ -15,7 +15,7 @@ b_san_jose_de_la_noria = castle
 #b_tambobiche = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

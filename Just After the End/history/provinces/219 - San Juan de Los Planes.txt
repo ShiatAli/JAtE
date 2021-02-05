@@ -15,7 +15,7 @@ b_la_ventana = temple
 #b_las_cruces = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

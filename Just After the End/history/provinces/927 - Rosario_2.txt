@@ -15,7 +15,7 @@ b_el_rosario_2 = castle
 #b_cacalotan = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

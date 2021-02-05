@@ -15,7 +15,7 @@ b_tuscon = castle
 #b_tanque_verde = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

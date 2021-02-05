@@ -15,7 +15,7 @@ b_traver = temple
 #b_london = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

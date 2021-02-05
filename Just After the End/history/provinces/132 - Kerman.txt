@@ -15,7 +15,7 @@ b_rolinda = temple
 #b_pratton = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

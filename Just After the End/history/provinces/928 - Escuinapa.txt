@@ -15,7 +15,7 @@ b_escuinapa_de_hidalgo = castle
 #b_la_concha = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

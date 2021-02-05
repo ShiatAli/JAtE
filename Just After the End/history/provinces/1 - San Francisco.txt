@@ -15,7 +15,7 @@ b_mission_district = castle
 #b_the_castro = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

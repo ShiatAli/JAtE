@@ -15,7 +15,7 @@ b_derby_acres = city
 #b_sulphur_spring = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

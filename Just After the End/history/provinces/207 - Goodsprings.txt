@@ -15,7 +15,7 @@ b_goodsprings = castle
 #b_shenandoah = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

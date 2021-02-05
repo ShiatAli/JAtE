@@ -15,7 +15,7 @@ b_condensadora = castle
 #b_la_ventana_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = marsh
 #History

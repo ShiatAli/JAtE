@@ -15,7 +15,7 @@ b_glenbrook_2 = temple
 #b_fredericksburg = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = cetic
 terrain = desert
 #History

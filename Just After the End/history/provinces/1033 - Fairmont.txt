@@ -15,7 +15,7 @@ b_fairmont = castle
 #b_naylor = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_crestone = temple
 #b_mineral_hot_springs = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

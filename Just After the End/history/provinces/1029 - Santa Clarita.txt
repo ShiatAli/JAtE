@@ -15,7 +15,7 @@ b_agua_dulce = temple
 #b_stevenson_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

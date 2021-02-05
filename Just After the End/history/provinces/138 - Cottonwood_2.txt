@@ -15,7 +15,7 @@ b_bell_station = city
 #b_hidden_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

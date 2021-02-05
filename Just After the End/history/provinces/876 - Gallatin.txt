@@ -15,7 +15,7 @@ b_belgrade = city
 #b_logan_4 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = prairielander
+religion = trailwalker
 
 #History

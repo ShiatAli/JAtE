@@ -15,7 +15,7 @@ b_navajoa = castle
 #b_paredon_colorado = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

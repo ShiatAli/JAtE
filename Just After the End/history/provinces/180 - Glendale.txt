@@ -15,7 +15,7 @@ b_north_hollywood = castle
 #b_northridge = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

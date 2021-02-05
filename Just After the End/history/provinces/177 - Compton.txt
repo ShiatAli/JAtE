@@ -15,7 +15,7 @@ b_inglewood = city
 #b_lakewood = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

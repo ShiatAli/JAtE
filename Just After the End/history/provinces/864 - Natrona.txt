@@ -15,7 +15,7 @@ b_shoshoni = castle
 #b_alcova = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = grangelander
+religion = trailwalker
 
 #History

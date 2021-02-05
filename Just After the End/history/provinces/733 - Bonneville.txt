@@ -15,7 +15,7 @@ b_idaho_falls = city
 #b_ririe = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

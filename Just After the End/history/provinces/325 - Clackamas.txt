@@ -15,7 +15,7 @@ b_happy_valley = temple
 #b_sunnyside_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

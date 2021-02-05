@@ -15,7 +15,7 @@ b_nixon = castle
 #b_dead_ox = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = cetic
 
 #History

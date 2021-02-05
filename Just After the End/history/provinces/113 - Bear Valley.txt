@@ -15,7 +15,7 @@ b_arvin = city
 #b_ilmon = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

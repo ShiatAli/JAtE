@@ -15,7 +15,7 @@ b_yosemite_lakes = castle
 #b_fine_gold = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

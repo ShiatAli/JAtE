@@ -15,7 +15,7 @@ b_malibu = city
 #b_agoura = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

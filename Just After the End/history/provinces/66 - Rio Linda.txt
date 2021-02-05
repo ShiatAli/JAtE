@@ -15,7 +15,7 @@ b_del_paso_heights = city
 #b_regency_park = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

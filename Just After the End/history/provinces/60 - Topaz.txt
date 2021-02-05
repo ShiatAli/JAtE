@@ -15,7 +15,7 @@ b_topaz = castle
 #b_abbott_canyon = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

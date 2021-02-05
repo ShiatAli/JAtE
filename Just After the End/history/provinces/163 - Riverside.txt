@@ -15,7 +15,7 @@ b_norco = temple
 #b_magnolia = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

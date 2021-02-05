@@ -15,7 +15,7 @@ b_carizozo = castle
 #b_patos = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = texan
+religion = trailwalker
 
 #History

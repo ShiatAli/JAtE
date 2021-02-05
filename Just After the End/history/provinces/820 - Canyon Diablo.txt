@@ -15,7 +15,7 @@ b_winslow = castle
 #b_meteor_crater = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = hopi
+religion = mormon
 
 #History

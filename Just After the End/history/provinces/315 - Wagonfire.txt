@@ -15,7 +15,7 @@ b_wagonfire = castle
 #b_diamond = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

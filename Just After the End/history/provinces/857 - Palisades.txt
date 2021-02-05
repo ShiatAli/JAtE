@@ -15,7 +15,7 @@ b_star_valley_ranch = city
 #b_turnerville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

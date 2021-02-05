@@ -15,7 +15,7 @@ b_pericos = castle
 #b_potrero_de_los_sanchez = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

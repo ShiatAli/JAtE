@@ -15,7 +15,7 @@ b_commerce = city
 #b_skids_row = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

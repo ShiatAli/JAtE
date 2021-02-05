@@ -15,7 +15,7 @@ b_tanasbourne = temple
 #b_bethany = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

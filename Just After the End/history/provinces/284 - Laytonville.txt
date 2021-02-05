@@ -15,7 +15,7 @@ b_longvale = city
 #b_decamp = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

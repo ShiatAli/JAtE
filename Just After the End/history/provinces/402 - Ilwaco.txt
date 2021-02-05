@@ -15,7 +15,7 @@ b_long_beach_2 = city
 #b_bruceport = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_allensworth = temple
 #b_corcoran = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_southarm = temple
 #b_thompson_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

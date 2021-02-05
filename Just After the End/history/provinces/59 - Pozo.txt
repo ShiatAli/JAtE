@@ -15,7 +15,7 @@ b_lozo = castle
 #b_alamo_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

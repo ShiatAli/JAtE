@@ -15,7 +15,7 @@ b_moss_landing = castle
 #b_oak_hills = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

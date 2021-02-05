@@ -15,7 +15,7 @@ b_buenos_aires_sur = city
 #b_punta_bandera = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = farmland
 #History

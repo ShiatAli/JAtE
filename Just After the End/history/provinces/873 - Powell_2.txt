@@ -15,7 +15,7 @@ b_deer_lodge = castle
 #b_frontier_town = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = prairielander
+religion = trailwalker
 
 #History

@@ -15,7 +15,7 @@ b_bonadelle_ranchos = temple
 #b_rolling_hills = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

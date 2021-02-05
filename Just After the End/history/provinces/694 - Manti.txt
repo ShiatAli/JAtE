@@ -15,7 +15,7 @@ b_manti = city
 #b_fayette = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

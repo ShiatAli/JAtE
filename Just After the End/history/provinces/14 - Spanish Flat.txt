@@ -15,7 +15,7 @@ b_angwin = city
 #b_veteran_height = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

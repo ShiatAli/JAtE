@@ -15,7 +15,7 @@ b_deep_springs = city
 #b_magruder = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 terrain = desert
 #History

@@ -15,7 +15,7 @@ b_suaqui_grande = castle
 #b_agua_caliente = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

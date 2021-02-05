@@ -15,7 +15,7 @@ b_upper_moenkopi = castle
 #b_adeii_eichii = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = hopi
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_madison = city
 #b_winters = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

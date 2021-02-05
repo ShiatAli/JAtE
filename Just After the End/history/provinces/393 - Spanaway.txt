@@ -15,7 +15,7 @@ b_elk_plain = temple
 #b_graham_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_baker = city
 #b_chase = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_kirkville = city
 #b_marchant = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

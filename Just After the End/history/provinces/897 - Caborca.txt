@@ -15,7 +15,7 @@ b_caborca = castle
 #b_el_soni = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

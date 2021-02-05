@@ -15,7 +15,7 @@ b_santa_lucia = castle
 #b_el_gavilan = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = hills
 #History

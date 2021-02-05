@@ -15,7 +15,7 @@ b_deming_2 = castle
 #b_hachita = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

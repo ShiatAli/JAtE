@@ -15,7 +15,7 @@ b_mt_pleasant = castle
 #b_chester_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

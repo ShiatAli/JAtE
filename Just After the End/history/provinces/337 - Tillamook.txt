@@ -15,7 +15,7 @@ b_cape_meares = temple
 #b_idaville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

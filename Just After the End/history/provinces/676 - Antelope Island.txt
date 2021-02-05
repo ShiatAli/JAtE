@@ -15,7 +15,7 @@ b_fielding_garr = castle
 #b_antelope_marina = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_camden = city
 #b_wildflower = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

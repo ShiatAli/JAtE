@@ -15,7 +15,7 @@ b_leona = temple
 #b_ricehill = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

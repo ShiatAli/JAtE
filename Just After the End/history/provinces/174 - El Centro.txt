@@ -15,7 +15,7 @@ b_calexico = city
 #b_meloland = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

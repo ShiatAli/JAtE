@@ -15,7 +15,7 @@ b_picacho = castle
 #b_ruthven = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

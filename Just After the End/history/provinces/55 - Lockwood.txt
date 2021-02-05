@@ -15,7 +15,7 @@ b_jolon = city
 #b_country_lake = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

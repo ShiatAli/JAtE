@@ -7,14 +7,14 @@ e_arixo = {
 	color2={ 255 255 20 }
 	
 	capital = 550 # c_phoenix
-	culture = english
+	culture = arixan
 	
 	k_arizona = {
 		color={ 36 7 111 }
 		color2={ 255 255 255 }
 		
 		capital = 550 # c_phoenix
-		culture = english
+		culture = arixan
 		
 		d_phoenix = {
 			color={ 56 243 121 }
@@ -435,7 +435,7 @@ e_arixo = {
 		color2={ 255 255 255 }
 		
 		capital = 569 # c_kingman
-		culture = english
+		culture = arixan
 		
 		d_mohave = {
 			color={ 121 182 75 }
@@ -691,7 +691,7 @@ e_arixo = {
 		color2={ 255 255 255 }
 		
 		capital = 580 # c_yuma
-		culture = english
+		culture = arixan
 		
 		d_yuma = {
 			color={ 137 211 69 }
@@ -928,7 +928,7 @@ e_arixo = {
 		color2={ 255 255 255 }
 		
 		capital = 590 # c_animas
-		culture = english
+		culture = arixan
 		
 		d_hidalgo = {
 			color={ 209 93 52 }
@@ -1128,14 +1128,14 @@ e_baja = {
 	color2={ 255 255 20 }
 	
 	capital = 217 # c_paz
-	culture = english
+	culture = californio
 	
 	k_south_baja = {
 		color={ 176 149 113 }
 		color2={ 255 255 255 }
 		
 		capital = 217 # c_paz
-		culture = english
+		culture = californio
 		
 		d_gran_paz = {
 			color={ 196 129 123 }
@@ -1747,7 +1747,7 @@ e_baja = {
 		color2={ 255 255 255 }
 		
 		capital = 244 # c_tijuana
-		culture = english
+		culture = californio
 		
 		d_tijuana = {
 			color={ 235 201 22 }
@@ -2252,14 +2252,14 @@ e_caledonia = {
 	color2={ 255 255 20 }
 	
 	capital = 521 # c_kelowna
-	culture = english
+	culture = inlander
 	
 	k_great_okanagan = {
 		color={ 201 218 173 }
 		color2={ 255 255 255 }
 		
 		capital = 521 # c_kelowna
-		culture = english
+		culture = inlander
 		
 		d_okanagan = {
 			color={ 221 198 183 }
@@ -2547,7 +2547,7 @@ e_caledonia = {
 		color2={ 255 255 255 }
 		
 		capital = 533 # c_nelson
-		culture = english
+		culture = inlander
 		
 		d_kokanee = {
 			color={ 238 113 98 }
@@ -2957,14 +2957,14 @@ e_colorado = {
 	color2={ 255 255 20 }
 	
 	capital = 613 # c_denver
-	culture = english
+	culture = coloradan
 	
 	k_frontrange = {
 		color={ 175 27 190 }
 		color2={ 255 255 255 }
 		
 		capital = 613 # c_denver
-		culture = english
+		culture = coloradan
 		
 		d_denver = {
 			color={ 195 7 200 }
@@ -3354,7 +3354,7 @@ e_colorado = {
 		color2={ 255 255 255 }
 		
 		capital = 629 # c_alamosa
-		culture = english
+		culture = coloradan
 		
 		d_san_luis = {
 			color={ 193 110 20 }
@@ -3661,7 +3661,7 @@ e_colorado = {
 		color2={ 255 255 255 }
 		
 		capital = 642 # c_mesa_2
-		culture = english
+		culture = coloradan
 		
 		d_grand_mesa = {
 			color={ 245 155 7 }
@@ -4128,14 +4128,14 @@ e_deseret = {
 	color2={ 255 255 20 }
 	
 	capital = 662 # c_salt_lake_city
-	culture = english
+	culture = utahn
 	
 	k_wasatch = {
 		color={ 61 178 46 }
 		color2={ 255 255 255 }
 		
 		capital = 662 # c_salt_lake_city
-		culture = english
+		culture = utahn
 		
 		d_salt_lake = {
 			color={ 41 198 36 }
@@ -4607,7 +4607,7 @@ e_deseret = {
 		color2={ 255 255 255 }
 		
 		capital = 699 # c_san_rafael_2
-		culture = english
+		culture = utahn
 		
 		d_emery = {
 			color={ 202 34 141 }
@@ -4844,7 +4844,7 @@ e_deseret = {
 		color2={ 255 255 255 }
 		
 		capital = 683 # c_millard
-		culture = english
+		culture = utahn
 		
 		d_fishlake = {
 			color={ 215 82 59 }
@@ -5209,14 +5209,14 @@ e_gran_francisco = {
 	color2={ 255 255 20 }
 	
 	capital = 1 # c_san_francisco
-	culture = english
+	culture = bayfolk
 	
 	k_goldengate = {
 		color={ 29 231 20 }
 		color2={ 255 255 255 }
 		
 		capital = 1 # c_san_francisco
-		culture = english
+		culture = bayfolk
 		
 		d_san_francisco = {
 			color={ 9 251 10 }
@@ -5383,7 +5383,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 18 # c_richmond
-		culture = english
+		culture = bayfolk
 		
 		d_contra_costa = {
 			color={ 246 9 235 }
@@ -5569,7 +5569,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 38 # c_santa_cruz
-		culture = english
+		culture = bayfolk
 		
 		d_santa_cruz = {
 			color={ 236 10 250 }
@@ -6118,7 +6118,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 26 # c_san_jose
-		culture = english
+		culture = bayfolk
 		
 		d_san_jose = {
 			color={ 53 182 143 }
@@ -6336,7 +6336,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 35 # c_south_lake
-		culture = english
+		culture = bayfolk
 		
 		d_the_lake = {
 			color={ 134 9 251 }
@@ -6414,7 +6414,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 8 # c_santa_rosa
-		culture = english
+		culture = bayfolk
 		
 		d_sonoma = {
 			color={ 200 167 59 }
@@ -6652,14 +6652,14 @@ e_grand_vancouver = {
 	color2={ 255 255 20 }
 	
 	capital = 482 # c_vancouver
-	culture = english
+	culture = canuck
 	
 	k_vancouver = {
 		color={ 178 240 24 }
 		color2={ 255 255 255 }
 		
 		capital = 482 # c_vancouver
-		culture = english
+		culture = canuck
 		
 		d_lotusland = {
 			color={ 198 220 34 }
@@ -6947,7 +6947,7 @@ e_grand_vancouver = {
 		color2={ 255 255 255 }
 		
 		capital = 513 # c_powell
-		culture = english
+		culture = canuck
 		
 		d_georgia_strait = {
 			color={ 112 123 120 }
@@ -7146,7 +7146,7 @@ e_grand_vancouver = {
 		color2={ 255 255 255 }
 		
 		capital = 505 # c_port_hardy
-		culture = english
+		culture = canuck
 		
 		d_suquash = {
 			color={ 129 53 68 }
@@ -7345,7 +7345,7 @@ e_grand_vancouver = {
 		color2={ 255 255 255 }
 		
 		capital = 494 # c_victoria
-		culture = english
+		culture = canuck
 		
 		d_chicktoria = {
 			color={ 154 164 111 }
@@ -7615,14 +7615,14 @@ e_idaho = {
 	color2={ 255 255 20 }
 	
 	capital = 709 # c_ada
-	culture = english
+	culture = mountainer
 	
 	k_west_snake = {
 		color={ 34 61 201 }
 		color2={ 255 255 255 }
 		
 		capital = 709 # c_ada
-		culture = english
+		culture = mountainer
 		
 		d_boise_canyon = {
 			color={ 14 81 191 }
@@ -8164,7 +8164,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 733 # c_bonneville
-		culture = english
+		culture = mountainer
 		
 		d_idaho_falls = {
 			color={ 77 203 226 }
@@ -8674,7 +8674,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 779 # c_bend
-		culture = english
+		culture = inlander
 		
 		d_deschutes = {
 			color={ 230 239 8 }
@@ -9038,7 +9038,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 771 # c_mountain_home
-		culture = english
+		culture = mountainer
 		
 		d_elmore = {
 			color={ 71 192 177 }
@@ -9224,7 +9224,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 756 # c_challis
-		culture = english
+		culture = mountainer
 		
 		d_custer = {
 			color={ 138 227 61 }
@@ -9570,14 +9570,14 @@ e_jefferson = {
 	color2={ 255 255 20 }
 	
 	capital = 266 # c_redding
-	culture = english
+	culture = siskiyouan
 	
 	k_shasta = {
 		color={ 153 143 143 }
 		color2={ 255 255 255 }
 		
 		capital = 266 # c_redding
-		culture = english
+		culture = siskiyouan
 		
 		d_redding = {
 			color={ 173 123 153 }
@@ -9814,7 +9814,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 288 # c_eureka
-		culture = english
+		culture = siskiyouan
 		
 		d_arcata = {
 			color={ 186 65 143 }
@@ -9981,7 +9981,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 276 # c_ukiah
-		culture = english
+		culture = siskiyouan
 		
 		d_ukiah = {
 			color={ 162 26 41 }
@@ -10256,7 +10256,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 301 # c_alturas
-		culture = english
+		culture = siskiyouan
 		
 		d_goose = {
 			color={ 150 137 122 }
@@ -10404,7 +10404,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 307 # c_klamath_falls
-		culture = english
+		culture = siskiyouan
 		
 		d_klamath = {
 			color={ 80 63 181 }
@@ -10641,7 +10641,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 295 # c_yreka
-		culture = english
+		culture = siskiyouan
 		
 		d_yreka = {
 			color={ 170 130 153 }
@@ -10790,14 +10790,14 @@ e_lincoln = {
 	color2={ 255 255 20 }
 	
 	capital = 422 # c_spokane
-	culture = english
+	culture = inlander
 	
 	k_spokane = {
 		color={ 129 239 28 }
 		color2={ 255 255 255 }
 		
 		capital = 422 # c_spokane
-		culture = english
+		culture = inlander
 		
 		d_lilac = {
 			color={ 109 3 18 }
@@ -11155,7 +11155,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 473 # c_walla_walla
-		culture = english
+		culture = inlander
 		
 		d_bluewood = {
 			color={ 67 39 217 }
@@ -11373,7 +11373,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 437 # c_coeur_dalene
-		culture = english
+		culture = inlander
 		
 		d_pend_oreille = {
 			color={ 150 27 42 }
@@ -11750,7 +11750,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 453 # c_franklin
-		culture = english
+		culture = inlander
 		
 		d_franklin = {
 			color={ 150 251 10 }
@@ -12038,7 +12038,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 465 # c_yakima
-		culture = english
+		culture = inlander
 		
 		d_kittitas = {
 			color={ 214 119 104 }
@@ -12238,14 +12238,14 @@ e_lone_star = {
 	color2={ 255 255 20 }
 	
 	capital = 598 # c_bernalillo
-	culture = english
+	culture = texan
 	
 	k_new_mexico = {
 		color={ 107 163 240 }
 		color2={ 255 255 255 }
 		
 		capital = 598 # c_bernalillo
-		culture = english
+		culture = texan
 		
 		d_sandia = {
 			color={ 127 143 250 }
@@ -12482,7 +12482,7 @@ e_lone_star = {
 		color2={ 255 255 255 }
 		
 		capital = 608 # c_el_paso
-		culture = english
+		culture = texan
 		
 		d_el_paso = {
 			color={ 106 26 29 }
@@ -12612,14 +12612,14 @@ e_navajoland = {
 	color2={ 255 255 20 }
 	
 	capital = 795 # c_window_rock
-	culture = english
+	culture = navajo
 	
 	k_navajoland = {
 		color={ 82 89 209 }
 		color2={ 255 255 255 }
 		
 		capital = 795 # c_window_rock
-		culture = english
+		culture = navajo
 		
 		d_fort_defiance = {
 			color={ 62 109 199 }
@@ -13072,7 +13072,7 @@ e_navajoland = {
 		color2={ 255 255 255 }
 		
 		capital = 815 # c_third_mesa
-		culture = english
+		culture = hopi
 		
 		d_hopituskwa = {
 			color={ 199 87 64 }
@@ -13258,7 +13258,7 @@ e_navajoland = {
 		color2={ 255 255 255 }
 		
 		capital = 823 # c_zuni
-		culture = english
+		culture = apache
 		
 		d_zuni = {
 			color={ 184 246 63 }
@@ -13636,14 +13636,14 @@ e_nevada = {
 	color2={ 255 255 20 }
 	
 	capital = 76 # c_taylorville
-	culture = english
+	culture = valleyan
 	
 	k_nevada = {
 		color={ 70 230 185 }
 		color2={ 255 255 255 }
 		
 		capital = 76 # c_taylorville
-		culture = english
+		culture = valleyan
 		
 		d_plumas = {
 			color={ 90 210 195 }
@@ -14096,7 +14096,7 @@ e_nevada = {
 		color2={ 255 255 255 }
 		
 		capital = 975 # c_paoha
-		culture = english
+		culture = battleborn
 		
 		d_mono = {
 			color={ 245 127 114 }
@@ -14689,7 +14689,7 @@ e_nevada = {
 		color2={ 255 255 255 }
 		
 		capital = 945 # c_elko_2
-		culture = english
+		culture = battleborn
 		
 		d_elko = {
 			color={ 127 204 60 }
@@ -15359,14 +15359,14 @@ e_oregon = {
 	color2={ 255 255 20 }
 	
 	capital = 317 # c_portland
-	culture = english
+	culture = cascadian
 	
 	k_portlandia = {
 		color={ 210 30 240 }
 		color2={ 255 255 255 }
 		
 		capital = 317 # c_portland
-		culture = english
+		culture = cascadian
 		
 		d_multnomah = {
 			color={ 230 10 250 }
@@ -15902,7 +15902,7 @@ e_oregon = {
 		color2={ 255 255 255 }
 		
 		capital = 354 # c_springfield
-		culture = english
+		culture = cascadian
 		
 		d_lane = {
 			color={ 122 50 5 }
@@ -16209,7 +16209,7 @@ e_oregon = {
 		color2={ 255 255 255 }
 		
 		capital = 340 # c_salem
-		culture = english
+		culture = cascadian
 		
 		d_santiam = {
 			color={ 199 165 219 }
@@ -16536,14 +16536,14 @@ e_sacramento = {
 	color2={ 255 255 20 }
 	
 	capital = 61 # c_sacramento
-	culture = english
+	culture = valleyan
 	
 	k_sacramento = {
 		color={ 196 10 55 }
 		color2={ 255 255 255 }
 		
 		capital = 61 # c_sacramento
-		culture = english
+		culture = valleyan
 		
 		d_sacramento = {
 			color={ 176 30 45 }
@@ -16761,7 +16761,7 @@ e_sacramento = {
 		color2={ 255 255 255 }
 		
 		capital = 82 # c_yuba
-		culture = english
+		culture = valleyan
 		
 		d_sutter_valley = {
 			color={ 106 171 84 }
@@ -16909,7 +16909,7 @@ e_sacramento = {
 		color2={ 255 255 255 }
 		
 		capital = 88 # c_davis
-		culture = english
+		culture = valleyan
 		
 		d_yolo = {
 			color={ 210 89 170 }
@@ -17197,7 +17197,7 @@ e_sacramento = {
 		color2={ 255 255 255 }
 		
 		capital = 70 # c_placerville
-		culture = english
+		culture = valleyan
 		
 		d_dorado_slopes = {
 			color={ 75 180 165 }
@@ -17346,14 +17346,14 @@ e_san_joaquin = {
 	color2={ 255 255 20 }
 	
 	capital = 100 # c_stockton
-	culture = english
+	culture = valleyan
 	
 	k_san_joaquin = {
 		color={ 30 225 111 }
 		color2={ 255 255 255 }
 		
 		capital = 100 # c_stockton
-		culture = english
+		culture = valleyan
 		
 		d_san_joaquin = {
 			color={ 10 245 101 }
@@ -17641,7 +17641,7 @@ e_san_joaquin = {
 		color2={ 255 255 255 }
 		
 		capital = 130 # c_fresno
-		culture = english
+		culture = valleyan
 		
 		d_grand_fresno = {
 			color={ 104 188 195 }
@@ -18043,7 +18043,7 @@ e_san_joaquin = {
 		color2={ 255 255 255 }
 		
 		capital = 112 # c_bakersfield
-		culture = english
+		culture = valleyan
 		
 		d_kern = {
 			color={ 19 178 145 }
@@ -18465,14 +18465,14 @@ e_socal = {
 	color2={ 255 255 20 }
 	
 	capital = 148 # c_balboa
-	culture = english
+	culture = angeleno
 	
 	k_south_socal = {
 		color={ 116 122 69 }
 		color2={ 255 255 255 }
 		
 		capital = 148 # c_balboa
-		culture = english
+		culture = angeleno
 		
 		d_san_diego = {
 			color={ 96 142 59 }
@@ -19237,7 +19237,7 @@ e_socal = {
 		color2={ 255 255 255 }
 		
 		capital = 194 # c_las_vegas
-		culture = english
+		culture = angeleno
 		
 		d_grand_vegas = {
 			color={ 231 246 123 }
@@ -20197,7 +20197,7 @@ e_socal = {
 		color2={ 255 255 255 }
 		
 		capital = 175 # c_los_angeles
-		culture = english
+		culture = angeleno
 		
 		d_los_angeles = {
 			color={ 124 165 198 }
@@ -20619,14 +20619,14 @@ e_socal = {
 	color2={ 255 255 20 }
 	
 	capital = 1029 # c_santa_clarita
-	culture = english
+	culture = angeleno
 	
 	k_north_socal = {
 		color={ 50 31 35 }
 		color2={ 255 255 255 }
 		
 		capital = 1029 # c_santa_clarita
-		culture = english
+		culture = angeleno
 		
 		d_santa_clara = {
 			color={ 30 51 25 }
@@ -20877,14 +20877,14 @@ e_sonora = {
 	color2={ 255 255 20 }
 	
 	capital = 881 # c_pitic
-	culture = english
+	culture = sonorense
 	
 	k_sonora = {
 		color={ 118 251 89 }
 		color2={ 255 255 255 }
 		
 		capital = 881 # c_pitic
-		culture = english
+		culture = sonorense
 		
 		d_gran_hermosillo = {
 			color={ 138 231 99 }
@@ -21248,7 +21248,7 @@ e_sonora = {
 		color2={ 255 255 255 }
 		
 		capital = 897 # c_caborca
-		culture = english
+		culture = sonorense
 		
 		d_heroica_caborca = {
 			color={ 147 6 21 }
@@ -21377,7 +21377,7 @@ e_sonora = {
 		color2={ 255 255 255 }
 		
 		capital = 923 # c_mazatlan
-		culture = english
+		culture = sonorense
 		
 		d_mazatlan = {
 			color={ 133 62 144 }
@@ -21525,7 +21525,7 @@ e_sonora = {
 		color2={ 255 255 255 }
 		
 		capital = 910 # c_ahome
-		culture = english
+		culture = sonorense
 		
 		d_los_mochis = {
 			color={ 117 73 200 }
@@ -21832,7 +21832,7 @@ e_sonora = {
 		color2={ 255 255 255 }
 		
 		capital = 902 # c_obregon
-		culture = english
+		culture = sonorense
 		
 		d_cajeme = {
 			color={ 36 40 212 }
@@ -22032,14 +22032,14 @@ e_washington = {
 	color2={ 255 255 20 }
 	
 	capital = 367 # c_seattle
-	culture = english
+	culture = cascadian
 	
 	k_the_puget = {
 		color={ 225 140 95 }
 		color2={ 255 255 255 }
 		
 		capital = 367 # c_seattle
-		culture = english
+		culture = cascadian
 		
 		d_grand_seattle = {
 			color={ 245 120 105 }
@@ -22696,7 +22696,7 @@ e_washington = {
 		color2={ 255 255 255 }
 		
 		capital = 395 # c_columbia
-		culture = english
+		culture = cascadian
 		
 		d_clark = {
 			color={ 94 194 122 }
@@ -22914,7 +22914,7 @@ e_washington = {
 		color2={ 255 255 255 }
 		
 		capital = 404 # c_olympia
-		culture = english
+		culture = cascadian
 		
 		d_thurston = {
 			color={ 69 86 140 }
@@ -23343,14 +23343,14 @@ e_yellowstone = {
 	color2={ 255 255 20 }
 	
 	capital = 839 # c_yellowstone
-	culture = english
+	culture = mountainer
 	
 	k_wonderland = {
 		color={ 124 164 119 }
 		color2={ 255 255 255 }
 		
 		capital = 839 # c_yellowstone
-		culture = english
+		culture = mountainer
 		
 		d_old_faithful = {
 			color={ 144 144 129 }
@@ -23638,7 +23638,7 @@ e_yellowstone = {
 		color2={ 255 255 255 }
 		
 		capital = 870 # c_helena
-		culture = english
+		culture = prairielander
 		
 		d_broadwater = {
 			color={ 176 133 118 }
@@ -23907,7 +23907,7 @@ e_yellowstone = {
 		color2={ 255 255 255 }
 		
 		capital = 851 # c_montpelier
-		culture = english
+		culture = mountainer
 		
 		d_bridger = {
 			color={ 128 34 49 }
@@ -24176,7 +24176,7 @@ e_yellowstone = {
 		color2={ 255 255 255 }
 		
 		capital = 862 # c_wind_river
-		culture = english
+		culture = grangelander
 		
 		d_shoshone = {
 			color={ 198 162 147 }

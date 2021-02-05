@@ -15,7 +15,7 @@ b_riverwood = temple
 #b_markham = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

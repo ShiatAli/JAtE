@@ -15,7 +15,7 @@ b_platina = castle
 #b_whiskeytown = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

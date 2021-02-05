@@ -15,7 +15,7 @@ b_grant_pass = castle
 #b_wonder = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

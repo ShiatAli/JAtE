@@ -15,7 +15,7 @@ b_rickreall = city
 #b_eola = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_needles = castle
 #b_fenner = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

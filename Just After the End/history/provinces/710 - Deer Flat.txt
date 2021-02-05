@@ -15,7 +15,7 @@ b_nampa = castle
 #b_stradley = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

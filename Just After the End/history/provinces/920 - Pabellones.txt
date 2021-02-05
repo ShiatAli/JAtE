@@ -15,7 +15,7 @@ b_eldorado_2 = castle
 #b_guadalupe_victoria = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

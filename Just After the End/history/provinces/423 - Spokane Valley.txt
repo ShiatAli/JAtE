@@ -15,7 +15,7 @@ b_miliwood = city
 #b_hutton = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

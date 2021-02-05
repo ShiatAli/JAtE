@@ -15,7 +15,7 @@ b_searchlight = castle
 #b_cottonwood_3 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_levis = city
 #b_san_benito_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

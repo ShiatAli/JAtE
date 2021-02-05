@@ -15,7 +15,7 @@ b_blackfoot = castle
 #b_basalt_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_willow_springs_3 = city
 #b_jimmy = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

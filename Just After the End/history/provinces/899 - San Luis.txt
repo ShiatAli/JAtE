@@ -15,7 +15,7 @@ b_san_luis_rio_colorado_2 = castle
 #b_el_welton = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

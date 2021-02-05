@@ -15,7 +15,7 @@ b_zinfadel = castle
 #b_rutherford = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

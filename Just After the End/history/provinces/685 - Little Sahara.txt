@@ -15,7 +15,7 @@ b_leamington = castle
 #b_silver_city_3 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_big_timber = castle
 #b_nye = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = prairielander
+religion = trailwalker
 
 #History

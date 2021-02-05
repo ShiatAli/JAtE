@@ -15,7 +15,7 @@ b_chinle = castle
 #b_cottonwood_6 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = navajo
+religion = mormon
 
 #History

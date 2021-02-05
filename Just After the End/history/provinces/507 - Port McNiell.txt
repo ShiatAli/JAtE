@@ -15,7 +15,7 @@ b_port_mcniell = castle
 #b_comorant = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

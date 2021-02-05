@@ -15,7 +15,7 @@ b_little_river = city
 #b_point_cabrillo = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

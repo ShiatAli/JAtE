@@ -15,7 +15,7 @@ b_jemez_pueblo = castle
 #b_cucho_mesa = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = apache
+religion = mormon
 
 #History

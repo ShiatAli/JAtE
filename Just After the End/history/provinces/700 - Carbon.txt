@@ -15,7 +15,7 @@ b_price = castle
 #b_west_wood = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

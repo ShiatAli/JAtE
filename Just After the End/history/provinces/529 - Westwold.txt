@@ -15,7 +15,7 @@ b_westwold = castle
 #b_pillar_lake = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_el_indiviso = castle
 #b_los_amigos = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = marsh
 #History

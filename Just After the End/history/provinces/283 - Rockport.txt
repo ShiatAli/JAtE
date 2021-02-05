@@ -15,7 +15,7 @@ b_hardy = city
 #b_usal = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

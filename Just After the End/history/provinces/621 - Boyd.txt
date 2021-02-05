@@ -15,7 +15,7 @@ b_loveland = castle
 #b_kinikinik = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

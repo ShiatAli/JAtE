@@ -15,7 +15,7 @@ b_tierra_amarilla = castle
 #b_rutheron = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = apache
+religion = mormon
 
 #History

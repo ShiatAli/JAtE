@@ -15,7 +15,7 @@ b_denio_2 = castle
 #b_alvord = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

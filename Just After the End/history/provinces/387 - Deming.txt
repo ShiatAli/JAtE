@@ -15,7 +15,7 @@ b_nugents_corner = city
 #b_kendall = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

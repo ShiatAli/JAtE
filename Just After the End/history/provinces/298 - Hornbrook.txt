@@ -15,7 +15,7 @@ b_hornbrook = castle
 #b_collier = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

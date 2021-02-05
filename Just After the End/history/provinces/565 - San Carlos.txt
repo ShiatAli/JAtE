@@ -15,7 +15,7 @@ b_san_carlos_3 = castle
 #b_tripoli = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

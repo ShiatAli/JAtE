@@ -15,7 +15,7 @@ b_exeter = temple
 #b_swall = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

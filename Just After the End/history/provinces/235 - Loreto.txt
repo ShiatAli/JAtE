@@ -15,7 +15,7 @@ b_concepcion_2 = temple
 #b_las_parras = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = grassland
 #History

@@ -15,7 +15,7 @@ b_elk_city = castle
 #b_pilot_knob = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

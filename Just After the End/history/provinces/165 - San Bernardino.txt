@@ -15,7 +15,7 @@ b_loma_linda = temple
 #b_arrowhead = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

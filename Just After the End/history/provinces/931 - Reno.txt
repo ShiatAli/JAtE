@@ -15,7 +15,7 @@ b_reno = castle
 #b_verdi = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = cetic
 
 #History

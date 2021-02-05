@@ -15,7 +15,7 @@ b_clam_beach = city
 #b_berry_glenn = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

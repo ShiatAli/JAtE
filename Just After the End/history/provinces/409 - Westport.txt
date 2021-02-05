@@ -15,7 +15,7 @@ b_ocosta = city
 #b_tokeland = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

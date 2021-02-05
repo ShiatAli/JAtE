@@ -15,7 +15,7 @@ b_niland = city
 #b_rockland = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

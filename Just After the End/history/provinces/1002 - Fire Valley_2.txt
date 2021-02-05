@@ -15,7 +15,7 @@ b_crystal_3 = city
 #b_moapa_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = cetic
 
 #History

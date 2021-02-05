@@ -15,7 +15,7 @@ b_brownsville = temple
 #b_millersburg = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

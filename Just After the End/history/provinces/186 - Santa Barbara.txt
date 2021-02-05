@@ -15,7 +15,7 @@ b_elings = temple
 #b_montecito = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

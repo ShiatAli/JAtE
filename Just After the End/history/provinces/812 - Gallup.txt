@@ -15,7 +15,7 @@ b_gallup = castle
 #b_chi_chil_tah = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = navajo
+religion = mormon
 
 #History

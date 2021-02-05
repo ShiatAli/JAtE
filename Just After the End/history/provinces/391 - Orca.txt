@@ -15,7 +15,7 @@ b_west_sound = castle
 #b_shaw = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_jack_ranch = city
 #b_lonoak = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

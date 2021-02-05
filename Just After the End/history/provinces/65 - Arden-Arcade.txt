@@ -15,7 +15,7 @@ b_north_highlands = temple
 #b_antelope = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

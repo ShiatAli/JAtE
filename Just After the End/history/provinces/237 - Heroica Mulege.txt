@@ -15,7 +15,7 @@ b_punta_chivato = city
 #b_san_jose_de_magdalena = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

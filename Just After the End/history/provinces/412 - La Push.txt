@@ -15,7 +15,7 @@ b_la_push = castle
 #b_clearwater = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

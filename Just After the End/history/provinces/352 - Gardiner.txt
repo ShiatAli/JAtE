@@ -15,7 +15,7 @@ b_gardiner = castle
 #b_siltcoos = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

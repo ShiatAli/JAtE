@@ -15,7 +15,7 @@ b_hidalgo = castle
 #b_ejido_el_choropo = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = farmland
 #History

@@ -15,7 +15,7 @@ b_afton_2 = castle
 #b_harvard = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

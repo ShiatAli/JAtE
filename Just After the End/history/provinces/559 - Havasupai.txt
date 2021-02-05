@@ -15,7 +15,7 @@ b_supai = castle
 #b_mogui_trail = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

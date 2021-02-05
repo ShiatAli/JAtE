@@ -15,7 +15,7 @@ b_victor_4 = city
 #b_clementsville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

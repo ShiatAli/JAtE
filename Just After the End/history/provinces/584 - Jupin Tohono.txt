@@ -15,7 +15,7 @@ b_santa_rosa_2 = castle
 #b_ventana = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

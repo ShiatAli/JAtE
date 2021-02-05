@@ -15,7 +15,7 @@ b_torreon = castle
 #b_pinon_3 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = navajo
+religion = mormon
 
 #History

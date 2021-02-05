@@ -15,7 +15,7 @@ b_cedar_grove = city
 #b_short_place = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

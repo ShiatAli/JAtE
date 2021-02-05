@@ -15,7 +15,7 @@ b_isla_danzante = temple
 #b_isla_pardo = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = grassland
 #History

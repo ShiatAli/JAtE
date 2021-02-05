@@ -15,7 +15,7 @@ b_chowchilla = castle
 #b_kismet = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

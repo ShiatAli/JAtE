@@ -15,7 +15,7 @@ b_big_river = city
 #b_havasu_palms = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

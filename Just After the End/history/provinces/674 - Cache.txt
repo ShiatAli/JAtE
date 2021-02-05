@@ -15,7 +15,7 @@ b_logan_3 = city
 #b_wellsville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_lynn_valley = city
 #b_deep_grove = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

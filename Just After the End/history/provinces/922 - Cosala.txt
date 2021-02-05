@@ -15,7 +15,7 @@ b_cosala = castle
 #b_las_higueras_de_padilla = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

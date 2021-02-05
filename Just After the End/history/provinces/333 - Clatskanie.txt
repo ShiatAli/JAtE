@@ -15,7 +15,7 @@ b_clatskanie = city
 #b_woodson = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

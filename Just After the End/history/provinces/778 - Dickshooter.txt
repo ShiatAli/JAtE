@@ -15,7 +15,7 @@ b_dickshooter = castle
 #b_deep_creek_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

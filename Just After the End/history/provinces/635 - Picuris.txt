@@ -15,7 +15,7 @@ b_penasco = castle
 #b_la_madera = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

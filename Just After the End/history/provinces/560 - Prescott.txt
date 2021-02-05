@@ -15,7 +15,7 @@ b_prescott_3 = castle
 #b_mayer = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

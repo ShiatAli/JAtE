@@ -15,7 +15,7 @@ b_collinville = city
 #b_birds_landing = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

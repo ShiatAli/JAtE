@@ -15,7 +15,7 @@ b_saric = castle
 #b_la_reforma = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

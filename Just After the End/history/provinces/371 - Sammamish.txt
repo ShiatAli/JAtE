@@ -15,7 +15,7 @@ b_klahanie = city
 #b_duthie = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

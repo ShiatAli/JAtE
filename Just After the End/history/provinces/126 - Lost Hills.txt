@@ -15,7 +15,7 @@ b_blackwells = city
 #b_kern_refuge = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

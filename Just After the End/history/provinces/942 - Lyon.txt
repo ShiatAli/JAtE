@@ -15,7 +15,7 @@ b_mason = city
 #b_seigel = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = cetic
 terrain = desert
 #History

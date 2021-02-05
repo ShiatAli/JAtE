@@ -15,7 +15,7 @@ b_beaver_2 = castle
 #b_sulphurdale = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

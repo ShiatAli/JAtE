@@ -15,7 +15,7 @@ b_battle_mountain = castle
 #b_stony_point = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

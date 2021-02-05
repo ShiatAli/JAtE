@@ -15,7 +15,7 @@ b_huntsville = castle
 #b_willard_peak = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

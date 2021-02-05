@@ -15,7 +15,7 @@ b_soldier_summit = castle
 #b_how_the_fuck_did_you_get_seven_baronies = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_dublin = city
 #b_altamont = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

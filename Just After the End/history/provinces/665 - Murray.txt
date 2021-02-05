@@ -15,7 +15,7 @@ b_millcreek = city
 #b_cottenwood = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

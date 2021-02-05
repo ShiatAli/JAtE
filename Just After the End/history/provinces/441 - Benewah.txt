@@ -15,7 +15,7 @@ b_emida = city
 #b_fernwood = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

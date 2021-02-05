@@ -15,7 +15,7 @@ b_newport_4 = castle
 #b_blueslide = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

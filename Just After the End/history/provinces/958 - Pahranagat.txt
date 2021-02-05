@@ -15,7 +15,7 @@ b_alamo_3 = castle
 #b_big_rocks = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

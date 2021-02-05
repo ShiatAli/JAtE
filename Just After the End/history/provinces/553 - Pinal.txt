@@ -15,7 +15,7 @@ b_florence_3 = castle
 #b_arizona_city = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

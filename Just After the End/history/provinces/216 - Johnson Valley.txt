@@ -15,7 +15,7 @@ b_landers = city
 #b_cushenbury = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

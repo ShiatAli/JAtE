@@ -15,7 +15,7 @@ b_beckworth = castle
 #b_hawley_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = cetic
 
 #History

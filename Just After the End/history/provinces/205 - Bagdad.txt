@@ -15,7 +15,7 @@ b_amboy = city
 #b_chubbuck = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

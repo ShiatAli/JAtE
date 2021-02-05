@@ -15,7 +15,7 @@ b_meadview = castle
 #b_petroglyph_bay = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

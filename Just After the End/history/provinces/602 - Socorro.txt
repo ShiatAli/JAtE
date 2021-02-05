@@ -15,7 +15,7 @@ b_socorro = castle
 #b_san_acadia = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = texan
+religion = trailwalker
 
 #History

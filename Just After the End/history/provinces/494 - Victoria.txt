@@ -15,7 +15,7 @@ b_oak_bay = temple
 #b_oakland_3 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

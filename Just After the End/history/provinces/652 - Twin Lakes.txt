@@ -15,7 +15,7 @@ b_leadville = castle
 #b_clear_creek_3 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

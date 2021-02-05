@@ -15,7 +15,7 @@ b_prather = temple
 #b_alder_springs = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

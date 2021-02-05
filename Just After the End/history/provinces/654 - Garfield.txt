@@ -15,7 +15,7 @@ b_glenwood_springs = castle
 #b_cattle_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

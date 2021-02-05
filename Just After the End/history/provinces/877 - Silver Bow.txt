@@ -15,7 +15,7 @@ b_butte = castle
 #b_nissler = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = prairielander
+religion = trailwalker
 
 #History

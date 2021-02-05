@@ -15,7 +15,7 @@ b_avenal = city
 #b_kettleman_city = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

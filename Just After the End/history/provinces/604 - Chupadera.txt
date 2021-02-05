@@ -15,7 +15,7 @@ b_corona_2 = castle
 #b_salinas_pueblo = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = texan
+religion = trailwalker
 
 #History

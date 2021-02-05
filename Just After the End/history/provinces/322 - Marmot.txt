@@ -15,7 +15,7 @@ b_alder_creek = temple
 #b_welches = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

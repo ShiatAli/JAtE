@@ -15,7 +15,7 @@ b_montello = castle
 #b_rhyolite = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

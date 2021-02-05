@@ -15,7 +15,7 @@ b_morada = temple
 #b_farmington = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

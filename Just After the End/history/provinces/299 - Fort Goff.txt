@@ -15,7 +15,7 @@ b_fort_goff = castle
 #b_red_butte = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

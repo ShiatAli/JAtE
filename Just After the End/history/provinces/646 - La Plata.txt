@@ -15,7 +15,7 @@ b_telluride = castle
 #b_sawpit = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

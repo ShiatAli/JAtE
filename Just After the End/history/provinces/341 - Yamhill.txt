@@ -15,7 +15,7 @@ b_lafayette_2 = city
 #b_carlton = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

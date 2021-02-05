@@ -15,7 +15,7 @@ b_diablo_grande = castle
 #b_second_lift = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

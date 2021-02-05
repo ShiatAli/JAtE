@@ -15,7 +15,7 @@ b_ellenburg = castle
 #b_ceader_cove = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

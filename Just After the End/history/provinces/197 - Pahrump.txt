@@ -15,7 +15,7 @@ b_pahrump = castle
 #b_charleston = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

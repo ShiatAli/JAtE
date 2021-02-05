@@ -15,7 +15,7 @@ b_echo_bay = castle
 #b_eden = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

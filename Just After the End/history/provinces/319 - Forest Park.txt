@@ -15,7 +15,7 @@ b_kenton = city
 #b_portsmouth = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_kearns = temple
 #b_hunter = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

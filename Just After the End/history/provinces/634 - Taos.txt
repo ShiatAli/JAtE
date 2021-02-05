@@ -15,7 +15,7 @@ b_taos = castle
 #b_arroyo_hondo = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

@@ -15,7 +15,7 @@ b_lindon = temple
 #b_fort_utah = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

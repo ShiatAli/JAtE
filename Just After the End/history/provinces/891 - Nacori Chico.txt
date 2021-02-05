@@ -15,7 +15,7 @@ b_nacori_chico = castle
 #b_ejido_san_juan = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

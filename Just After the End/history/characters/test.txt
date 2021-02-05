@@ -1,8 +1,8 @@
 1={
-	name="Jasper"
+	name="Dalton"
 	dynasty=9000
-	culture=english
-	religion=catholic
+	culture=bayfolk
+	religion=cetic
 	martial=3
 	diplomacy=3
 	stewardship=4

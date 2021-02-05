@@ -15,7 +15,7 @@ b_cupertino = city
 #b_gavello_glen = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = bayfolk
+religion = cetic
 
 #History

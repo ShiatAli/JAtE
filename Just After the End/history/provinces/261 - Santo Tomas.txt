@@ -15,7 +15,7 @@ b_rancho_san_jacinto = city
 #b_ejido_el_ajusco = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = hills
 #History

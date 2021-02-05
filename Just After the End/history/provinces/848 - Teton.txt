@@ -15,7 +15,7 @@ b_wilson_2 = city
 #b_moose = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

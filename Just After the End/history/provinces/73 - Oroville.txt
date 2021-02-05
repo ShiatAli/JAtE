@@ -15,7 +15,7 @@ b_palermo = city
 #b_concow = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

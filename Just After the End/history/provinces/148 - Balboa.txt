@@ -15,7 +15,7 @@ b_kearney = city
 #b_pacific_beach = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

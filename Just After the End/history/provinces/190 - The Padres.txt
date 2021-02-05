@@ -15,7 +15,7 @@ b_cuyama = city
 #b_knapps_castle = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

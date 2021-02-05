@@ -15,7 +15,7 @@ b_faria = temple
 #b_ojai = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

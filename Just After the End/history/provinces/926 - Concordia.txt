@@ -15,7 +15,7 @@ b_concordia = castle
 #b_la_petaca = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = sonorense
+religion = sacred_heart
 
 #History

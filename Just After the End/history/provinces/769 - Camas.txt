@@ -15,7 +15,7 @@ b_fairfield_3 = castle
 #b_castle_rocks = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

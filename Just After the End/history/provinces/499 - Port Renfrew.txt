@@ -15,7 +15,7 @@ b_port_renfrew = castle
 #b_jordan_river = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

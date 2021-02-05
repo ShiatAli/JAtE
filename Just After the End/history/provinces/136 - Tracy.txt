@@ -15,7 +15,7 @@ b_carbona = castle
 #b_mountain_house = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

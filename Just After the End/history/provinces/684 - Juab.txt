@@ -15,7 +15,7 @@ b_nephi = castle
 #b_yuba_lake = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = utahn
+religion = mormon
 
 #History

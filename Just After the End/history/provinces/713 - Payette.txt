@@ -15,7 +15,7 @@ b_payette = castle
 #b_sweet = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History

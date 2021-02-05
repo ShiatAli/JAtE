@@ -15,7 +15,7 @@ b_mt_hebron = castle
 #b_red_rock = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

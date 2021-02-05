@@ -15,7 +15,7 @@ b_gerber_las_flores = city
 #b_luther = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

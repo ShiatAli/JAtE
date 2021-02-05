@@ -15,7 +15,7 @@ b_sardis = city
 #b_popkum = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

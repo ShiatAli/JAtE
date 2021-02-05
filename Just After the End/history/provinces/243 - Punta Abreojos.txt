@@ -15,7 +15,7 @@ b_los_castros = city
 #b_isla_delgadito = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = californio
+religion = cetic
 terrain = desert
 #History

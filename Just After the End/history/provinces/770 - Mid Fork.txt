@@ -15,7 +15,7 @@ b_prairie = castle
 #b_rattlesnake_2 = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = mormon
 
 #History

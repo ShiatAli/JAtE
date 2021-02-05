@@ -15,7 +15,7 @@ b_sunnyside = temple
 #b_argay = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

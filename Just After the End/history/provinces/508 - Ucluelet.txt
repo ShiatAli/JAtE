@@ -15,7 +15,7 @@ b_ucluelet = castle
 #b_laylee = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

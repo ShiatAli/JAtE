@@ -15,7 +15,7 @@ b_le_grange = castle
 #b_eugene = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

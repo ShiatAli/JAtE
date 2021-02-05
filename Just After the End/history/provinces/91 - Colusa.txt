@@ -15,7 +15,7 @@ b_williams = city
 #b_stegeman = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

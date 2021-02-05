@@ -15,7 +15,7 @@ b_cassel = city
 #b_hat_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = siskiyouan
+religion = cetic
 
 #History

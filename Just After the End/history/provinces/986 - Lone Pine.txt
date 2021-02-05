@@ -15,7 +15,7 @@ b_reward_2 = temple
 #b_seven_pines = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 terrain = desert
 #History

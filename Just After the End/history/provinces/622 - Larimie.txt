@@ -15,7 +15,7 @@ b_cheyenne = castle
 #b_burns = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

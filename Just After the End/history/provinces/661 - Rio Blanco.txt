@@ -15,7 +15,7 @@ b_meeker = castle
 #b_hey_flat = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

@@ -15,7 +15,7 @@ b_national_city = city
 #b_silver_strand = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

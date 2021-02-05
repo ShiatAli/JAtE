@@ -15,7 +15,7 @@ b_globe = castle
 #b_gisela = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = arixan
+religion = atomicist
 
 #History

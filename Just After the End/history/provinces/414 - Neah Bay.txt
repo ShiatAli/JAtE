@@ -15,7 +15,7 @@ b_neah_bay = castle
 #b_old_royal = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = cascadian
+religion = gaian
 
 #History

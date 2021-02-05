@@ -15,7 +15,7 @@ b_ruby_valley = castle
 #b_shanty = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = battleborn
+religion = atomicist
 
 #History

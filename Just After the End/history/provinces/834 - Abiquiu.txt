@@ -15,7 +15,7 @@ b_el_rancho = castle
 #b_arroyo_del_agua = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = apache
+religion = mormon
 
 #History

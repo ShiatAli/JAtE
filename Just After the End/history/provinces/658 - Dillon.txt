@@ -15,7 +15,7 @@ b_breckenridge = castle
 #b_montezuma = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = coloradan
+religion = neognostic
 
 #History

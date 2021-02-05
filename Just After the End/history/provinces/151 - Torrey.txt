@@ -15,7 +15,7 @@ b_torrey_pines = temple
 #b_miramar = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = angeleno
+religion = cetic
 
 #History

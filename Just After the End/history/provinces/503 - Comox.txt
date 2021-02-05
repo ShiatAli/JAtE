@@ -15,7 +15,7 @@ b_courtenay = city
 #b_merville = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = canuck
+religion = gaian
 
 #History

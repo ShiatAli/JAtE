@@ -15,7 +15,7 @@ b_ponderay = castle
 #b_samuel = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = inlander
+religion = gaian
 
 #History

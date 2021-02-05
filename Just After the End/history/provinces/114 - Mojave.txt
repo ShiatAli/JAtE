@@ -15,7 +15,7 @@ b_mojave = castle
 #b_reefer_city = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = valleyan
+religion = cetic
 
 #History

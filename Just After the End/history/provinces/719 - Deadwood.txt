@@ -15,7 +15,7 @@ b_deadwood = castle
 #b_lodgepole_creek = castle
 
 # Misc
-culture = english
-religion = pagan
+culture = mountainer
+religion = gaian
 
 #History
