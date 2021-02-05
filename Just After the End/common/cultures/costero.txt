@@ -1,0 +1,308 @@
+###ÄNSI
+costero = {
+	graphical_cultures = { southerngfx mexicangfx muslimgfx }
+	
+	costeno = {
+		graphical_cultures = { southerngfx occitangfx }
+		unit_graphical_cultures = { southerngfx occitangfx }
+		#Fancy names #Classical Carthaginian names #Common local names
+		color = { 0.1 0.5 0.9 }
+		
+		male_names = {
+			"Andrés Felipe"
+			"Carlos Andrés" "Carlos Mario" 
+			"John Jairo" "Jorge Eliécer" "Jorge Luís" "José Antonio" "José Arcadio" "José Luís" "Juan Camilo" "Juan Carlos" "Juan David" "Juan Diego" "Juan Esteban" "Juan José" "Juan Manuel" "Juan Pablo" "Juan Sebastián" "Julian Andres" "Julio César" 
+			"Luís Alberto" "Luís Carlos" "Luís Eduardo" "Luís Felipe" "Luís Fernando" 
+			"Miguel Ángel" "Marco Antonio"
+			"Rubén Dario" 
+
+			Alberto_Albert Alejandro_Alexander Alonso Álvaro_Alvaro Amílcar_Hamilcar Andrés_Andrew Aníbal_Hannibal Antonio_Anthony Aquiles Arturo_Arthur Asdrúbal Augusto_Augustus Aureliano_Aurelian
+			Baltazar_Balthazar Benkos Bernardo_Bernard Bomílcar Bostar
+			Camilo_Camille Carlos_Charles Cesar_Caesar Cristo_Christian Clitómaco Cristiano_Christian
+			Daniel David_David Diego Diógenes Diomedes
+			Édgar_Edgar Eduardo_Edward Elías_Elijah Emanuel Enrique_Henry Epícides Esteban_Stephen
+			Fabio Felipe_Philip Fernando_Ferdinand Florentino_Florent Francisco_Francis 
+			Gaspar_Casper Gerineldo Giovanni Giscón Gokú Gregorio_Gregory Guillermo_William Gustavo_Gustav
+			Hannón Hector Hernán Himilcón Hipócrates Humberto_Humbert
+			Ignacio_Ignatius Israel
+			Jacobo_Jacob Jaime_James Jairo Jesús_Jesus Joaquín_Joachim Johann_John Jorge_George José_Josheph Julián_Julian Julio_Julius Juvenal 
+			Lucas_Luke Luciano_Lucian Lucián_Lucian
+			Magnífico Magón Manuel_Emmanuel Mario_Marius Marcos_Mark Mateo_Matthew Mauricio Melchor Miguel_Michael Melquíades Moisés_Moses 
+			Neider Nicanor Nicolás_Nicholas Noé_Noah 
+			Octavio Omar Óscar_Oscar Osvaldo_Oswald 
+			Pablo_Paul Pedro_Peter Prudencio
+			Rafael_Raphael Ramiro Ramón_Raymond Ricardo_Richard Rodrigo_Roderick Rodolfo Rómulo_Romulus Rubén_Ruben 
+			Samuél_Samuel Santiago_Jacob Sebastián_Sebastian Sergio Silvestre_Silvester
+			Teófilo_Theophilus Tomás_Thomas
+			Ulises_Ulysses Unai
+			Valentino_Valentine Victorio_Victor
+			Walter Wolfgang
+			Zacarías_Zachary
+		}
+			
+		female_names = {
+			"Ana Lucia" "Ana María" "Angela María" "Angélica María"
+			"Diana Carolina" "Diana Marcela" 
+			"Laura Sofia" "Lina Marcela" "Luisa Fernanda" "Luz Elena" "Luz Marina" 
+			"María Jose" "María Alejandra" "María Angelica" "María Camila" "María Concepción" "María del Carmen" "María Elena" "María Eugenia" "María Fernanda" "María Isabel" "María José" "María Juliana" "María Paula" "María Teresa" "Martha Cecilia" "Martha Lucia" 
+			"Sandra Milena" "Sandra Patricia" "Santa Sofía de la Piedad"
+ 
+			Adriana Adoración Adela_Adele Alejandra_Alexandra Amaranta Ana_Anna Andrea Ángela_Angela Angélica_Angela
+			Beatríz_Beatrice Bendición Blanca 
+			Camila_Camilla Carmen Carolina Catalina_Katherine Claudia Clemencia_Clementine Cristina_Christina 
+			Daniela_Danielle Daviana Diana_Diana Dido Diosa Dolores
+			Eliana Elisa Eréndira Estefanía_Stephanie Ester_Esther
+			Felicidad Fermina Florentina
+			Gabriela_Gabriele Ginebra Gloria 
+			Íngrid_Ingrid Irene Isabel_Isabelle
+			Josefina_Josephine Jéssica_Jessica Julieta Johana_Joana Juanita Juliana
+			Katerin_Catherine
+			Laura Leandra Leona Leonor Leticia Liliana_Lillian Lina Lorena_Lauren Lucía_Lucy Luisa_Louisa Luz_Lucy 
+			Mafe Maira_Mary Manuela Marcela Margarita Mariana_Mary Marisol Marta_Martha Maritza Mauren Matilde Melisa_Melissa Mercedes Milagros Mónica_Monica
+			Natalia_Natalia Nina 
+			Olga Oriana Orietta 
+			Paola_Paula Patricia Paloma Perpetua Pilar 
+			Rebeca Remedios Renata Rosa_Rose Rosalva
+			Sandra Sara_Sarah Shakira Salomé Silvana Sofía_Sofia Sofonisba Susana_Susan 
+			Tania Tatiana Teresa
+			Úrsula
+			Valentina_Valentina Valeria Vanesa_Vanessa Verónica_Veronica Viviana Violeta
+			Yamilé Yeni_Jennifer Yessica_Jessica Yolanda
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "hijo de "
+		female_patronym = "hija de "
+		prefix = yes
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+	
+	chocoano = {
+		graphical_cultures = { tuskegeangfx africangfx occitangfx }
+		unit_graphical_cultures = { southerngfx occitangfx }
+
+		#Common local names
+		color = { 0.2 0.57 0.63 }
+		
+		male_names = {
+			Adrián_Adrian Alejandro_Alexander Alexis Alfonso_Alphonse Aluino Amoldo Ángel_Angel Antonio_Anthony Arturo_Arthur Aquivaldo
+			Bonner Breyner
+			Camilo Carlomagno Carlos_Charles Carmelo Casimiro_Casimir César_Caesar Cristián_Christian 
+			Daley Danilo_Daniel Danny_Daniel Dario_Darius Darkin Darwin Dorlan Duvier 
+			Éder Édgar_Edgar Edier Edison Edixon Edwino_Edwin Efraín_Ephraim Elíseo Elkin Emiliano Erik_Eric Evaristo 
+			Fabián Faustino Felipe_Phillip Fernando Fidel Francisco Franco Freddo Frederico 
+			Gonzalo Grupo 
+			Hamilto_Hamilton Hanyer Hugo_Hugh 
+			Ilia 
+			Jackson Jair Jarol Javier_Xavier Jésus_Jesus Jherson José_Joseph Joselito Josimar Juan_John 
+			Léider Leiton Leonardo_Leonard Luis_Luis Manuel_Emmanuel
+			Marco_Mark Martín_Martin Maximiliano_Maximilian Mauricio_Maurice Nataniel_Nathaniel 
+			Neco Nele Nelson 
+			Óliver_Oliver Óscar_Oscar 
+			Pablo_Paul Palben Pedro_Peter
+			Rubén_Ruben 
+			Samuel Sebastián_Sebastian 
+			Tito_Titus
+			Tressor 
+			Víctor_Victor 
+			Wilberto_Wilbert 
+			Yimmi 
+			Yuber 
+		}
+			
+		female_names = {
+			 Adoración Adela_Adele Adriana Alejandra_Alexandra Ana_Anna Andrea Ángela_Angela Angélica_Angela Antonella 
+			 Carmen Carolina Cassandra Catalina_Katherine Caterine_Katherine Chrisanne 
+			 Daniela_Danielle Diana Dulcinea 
+			 Estefanía_Stephanie 
+			 Felipa_Philippa 
+			 Gaitana Garabine Gaspara Gloria Guillermina_Wilhelmina 
+			 Indira Ingrid Irene Isabella_Isabelle 
+			 Jackeline_Jacqueline Jennifer Jerrely Kristina_Christina
+			 Lady Lalla Landrada Leicy Lina Luciana Luiza_Louise
+			 Mabel Maira_Mary Mariana_Marianne Melisa Mildrey Muriel 
+			 Natalia_Natalie Nataly_Natalie Nicol_Nicole
+			 Oriánica Osana 
+			 Patricia 
+			 Rosibel 
+			 Sandra Stefany 
+			 Tatiana_Antonia Teresa_Theresa
+			 Ubaldina 
+			 Vanesa 
+			 Victoria 
+			 Jimena 
+			 Yineth Yisela Yomara Yoreli Yosdalkis Yosiri 
+			 Zuleima 
+		}
+		
+
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "hijo de "
+		female_patronym = "hija de "
+		prefix = yes
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+
+	caraqueno = {
+		graphical_cultures = { southerngfx occitangfx }
+		unit_graphical_cultures = { southerngfx occitangfx }
+		#Silly modern names #Common local names
+		color = { 0.2 0.7 1.0 }
+		
+		male_names = {
+			Abraham_Abraham Adán Adolfo Adonys Adrián Alberto_Albert Albi Aldo Alejandro_Alexander Aleksandr_Alexander Alexander_Alexander Alfredo_Alfred Alí Altair Amador Amilton Andre_Andrew Andrés_Andrew Antonio_Anthony Armando_Herman Arturo_Arthur Avellon 
+			Benjamín_Benjamin Betulio 
+			Calogero Carlos_Charles Carmelo Castro Cesar_Caesar Chabi Chema Christian_Christian Chusy Cipriano Cleef Clint Crisóstomo Cyrus
+			Daniel Dantes_Dante Darwin Dassler David_David Diego_James Diosdado Douglas Dwight
+			Édgar Edixon Edson Eduardo_Edward Edwin Eleazar Elik Elvis Emerson Emilio Engels Enmanuel Enrique_Henry Enyilber Erick Espartaco
+			Fabien Fabricio Falcón Felipe_Phillip Félix Ferdinando_Ferdinand Florentino Francisco_Francis Franco_Francis
+			Gabriel_Gabriel George_George Gerardo_Gerard Germán_Germanus Giancarlo Gilberto_Gilbert Gregorio Greivis Guillermo_William Gustavo
+			Hans Héctor_Hector Hengelberth Henri_Henry Henrique_Henry Henry_Henry Herwis Hochiminhs Huáscar Hugo Humberto
+			Ilich Isaías Isilio Ivan Ivork
+			Javier Jean_John Jefferson Jerome Jerónimo Jesus_Jesus Jhonny_John Joisber Jorge_George José_Joseph Joselo Jóvito Juan_John Jugo Julien_Julius Julio_Julius
+			Kelvim Kennedy Kerbert
+			Lenin Leon Leonard Leopoldo_Leopold Liborio Lincoln Lino Lisander London Louis_Louis Luis_Louis Luisito_Louis
+			Magglio Manuel_Emmanuel Maolenin Marcelo_Marcellus Marco_Mark Marcos_Mark Mario_Marius Marx Mauricio_Maurice Melvin Michael_Michael Miguel_Michael Modesto Moisés_Moses Muha
+			Nacho Nagasakio Napoleón_Napoleon Nelsón_Nelson Nerón_Nero Nicolás_Nicholas Nikito_Nicholas Nixon
+			Octavio_Octavius Oliver Omar Orlando_Roland Óscar_Oscar Osmer Oswaldo_Oswald Otto_Otto Ozzi
+			Pablo_Paul Pastor Pavel_Paul Pedro_Peter Pinto Pompeyo_Pompey
+			Rafael_Raphael Ramón_Raymond Reagan Regulo_Regulus Reinaldo_Ronald Renato Renzo Reyes Ricardo_Richard Rich_Richard Roberto_Robert Rockefeller Rodolfo_Rudolph Rodrígo_Roderick Roger Rojas Román_Roman Rómulo_Romulus Roque
+			Salvador_Salvador Sandro Santiago Sathya Saúl Sebastián_Sebastian Sergio Sevy Shariff Sherman Simón_Simon Stalin
+			Tajmahal Tarek Temístocles Temutchin Teodoro_Theodore Teofilo Tokio Tomás_Thomas Trotsky Tutankamen
+			Ugueth Ulysses Venacio Venezuela Vicencio Vicente Víctor_Victor Vidal Vladimiro_Vladimir
+			Waldo Walter Washington Williams_William Willian_William Winston Wolfgang Yanis Yaz York 
+		}
+			
+		female_names = {
+			Abigail Abril Adina Adriana Aida Aileen Alba Alejandra_Alexandra Alexandra_Alexandra Alicia_Alice Ámbar Ana_Anna Anabel Analie Andrea Andreina Anel Ángela_Angela Angola Annerys Antoinette Arlette Astrid Aurismar Aury
+			Barbarita Beatriz Belkis Bella Björk Blanca Bulma
+			Caitlin Caridad Carla Carmen Carmencita Carolina Catherine_Catherine Chantal Chiquinquirá Cilia Clara Claudia Coraima
+			Daniela Dayana Deisy Denise Dessideria Diana_Diana Diane_Diana Dominga Dominika Doris
+			Elaiza Electra Elena Elianeth_Elizabeth Elise Elizabeth_Elizabeth Elluz Eowyn Erika Estefanía Euclarissa Eva Evelin Exis
+			Fabiana Fabiola Fina Fiora Flávia Flor
+			Gabriela_Gabriela Gabrielle_Gabriela Génesis Gigi Grace Gracia Grecia Greik
+			Hannelly Héléna_Helen Hermione Hester Hilda Hillary
+			Ileanna Ira Irene Irianis Iroshima Isabell_Elizabeth Isabella_Elizabeth Ismalba Ismenia
+			Jacinta Jacqueline Jailyn Jalymar Jeanette Jennipher_Jennifer Jessica_Jessica Joyce Juliana_Julia Julianni_Julia Jullye_Julia Junca
+			Karelys Karen Karina Karla Katerine_Catherine Kattye Katya Keidy Keybell Keysha Kharelys Kira
+			Laura Ligia Lilian Liliana Lilibeth Lina Linda Lis Lisbeth_Elizabeth Lola Loredana Lucena Lucero Lupita Lyra 
+			Mafer Majandra Mara Marcela María_Mary Marian Mariana Mariángela Maricarmen Marieh Mariela Marilyn Marisa Marisabel Marjorie Martha Mayra Mayré Milka Mimí Molina Mónica Mulán
+			Nagarith Nana Natasha Nathaly Nicel Ninibeth Noely
+			Orii Patricia_Patricia Paula_Paula 
+			Rebeca_Rebecca Rita Rosa_Rose Rosita Rossybell Roxana 
+			Sage Shannon Sharai Sofía_Sofia Sonia Steffany_Stephanie
+			Taina Teresa_Theresa Tey Tyanny
+			Valeria Vanesa_Vanessa Vera Vero Verónica_Veronia Veruska Victoria_Victoria Viviana
+			Xena 
+			Yaneth Yasmin Yaxeni Yeniffer_Jennifer Yorgelys Yormery Yuzmary Yvonne
+			Zenahir Zhandra Zuleibis 
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "hijo de "
+		female_patronym = "hija de "
+		prefix = yes
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+	
+	truenonato = {
+		graphical_cultures = { southerngfx occitangfx }
+		unit_graphical_cultures = { southerngfx occitangfx }
+
+		#Common local names
+		color = { 0.3 0.4 0.6 }
+		
+		male_names = {
+			Aarón_Aaron Abel Alberto_Albert Alejandro_Alexander Alejo_Alex Alan Alonso Andrés_Andrew Ángel_Angel Anténor Antonio_Anthony Argemiro Arles Armando_Herman Arsenio_Arsenius Astolfo Augusto_Augustus
+			Betulio Bobby_Robert
+			Cristoval_Christopher Camilo_Camille Carl_Charles Carlos_Charles César_Caesar Cipriano 
+			Dalmiro Daniel Danilo_Daniel Darwin David Didier_Dieter Diego_James Donaldo_Donald
+			Edgar Edmundo_Edmund Eduardo_Edward Edwin Efraín_Ephraim Eider Elkin Emilio_Aemilius Ender Enrique_Henry Ernesto_Ernest Esteban_Stephen Eugenio_Eugene Evert
+			Felipe_Philip Félix Fernando Francisco_Francis
+			Gerardo_Gerard Geremi_Jeremiah Gian Gilberto Giovanny Gonzalo Guillermo_William Gustavo_Gustav
+			Héctor_Hector Henry Heráclito Hernán Huáscar Hugo_Hugh Humberto_Humbert
+			Isaac Israel Iván
+			Jackson Jaime_James Jair Jairo Jan Javier_Xavier Jesús_Jesus Jhonny_John Jhoulys Joaquim_Joachim Johnny_John Jonathan José_Joseph Julián_Julian Julio_Julius
+			Lalo Laureano_Lawrence Leonardo_Leonard Leopoldo_Leopold Lorenzo_Lawrence Luis_Louis 
+			Manuel_Emmanuel Mario_Marius Martin Máximo_Maximus Nicolás_Nicholas 
+			Nino 
+			Omar Orlando_Roland Óscar_Oscar Oswaldo_Oswald
+			Patricio_Patrick Pablo_Paul Pedro_Peter Rafael_Raphael 
+			Ramón_Raymond Raúl_Ralph Reinaldo_Ronald Renato René_Rene Ricardo_Richard Roberto_Robert Robinson Rodolfo_Rudolph Rodrigo_Roderick Rougned Rubén_Ruben Rudy_Rudolph 
+			Samuel Santiago 
+			Teolindo Tony Tulio 
+			Vicente_Vincent Víctor_Victor 
+			Wifredo_Wilfred Willie_William Wilmer Wilson Wuillians_William
+			Yusmeiro 
+		}
+			
+		female_names = {
+			Adriana Ana_Anne Andrea Andreina Andreína Ángela_Angela Astrid Aymar
+			Bárbara_Barbara Blanca 
+			Camila_Camilla Carla_Charlotte Carmen Carolina_Caroline Caroline Catalina Chiquinquirá Clara_Claire Claudia Consuelo Cristina_Christina Cynthia 
+			Daniela_Danielle Dayana Denyse Diana Dominica 
+			Edymar Eleidy Elián Emma Erika_Erica 
+			Fabiola Federica_Frederica Flor Florencia 
+			Gabriela_Gabriele Gladys 
+			Hanna Hannelly 
+			Ivana_Yvonne Jannie 
+			Jasmín_Jasmine Jennifer Jessenia Jéssica_Jessica Jossie_Josephine Juliana Julieta_Juliet
+			Karen Karielys 
+			Laura Levys Lila Liliana_Lillian Lorena_Lauren Luciana Luisa_Louise Lupita 
+			Marelisa Margareth_Margaret Mariam Mariana_Marianne Maritza Marta_Martha Michelle Migbelis Mónica_Monica
+			Natasha Nicole Nina Ninibeth Norkys
+			Patricia Paula Pilar Pilín
+			Rocio Rosa_Rose Rut_Ruth 
+			Salomé_Salome Sandra_Alexandra Sara_Sarah Sérika Sharon Socorro Sofía_Sophia Stefania_Stephanie Susan Susana_Susan
+			Teresa Tiffany Tina
+			Valentina Valeria Vanesa Verónica_Veronica Veruska Victoria Vivian_Vivien
+			Yajaira Yuliana_Juliana 
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "hijo de "
+		female_patronym = "hija de "
+		prefix = yes
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}	
+}

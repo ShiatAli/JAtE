@@ -1,0 +1,430 @@
+###ÄNSI
+
+caribbanglo = {
+	graphical_cultures = { tuskegeangfx africangfx southindiangfx westerngfx }
+
+	west_indian = {
+		graphical_cultures = { africangfx }
+		unit_graphical_cultures = { westafricangfx africangfx }
+
+
+		color = { 0 0.85 0.16 }	
+
+		male_names = {
+			Alexander_Alexander Arthur_Arthur Ansell Anthony_Anthony Archibald Arnhim Arnold_Arnold Aston Audley Augustine_Augustus
+			Baldwin Barrington Ben_Benjamin Bernard_Bernard Brendan Brian
+			Canute Carl_Charles Carlton Cecil Christopher_Christopher Clancy Clarence Claudius_Claudius Clayton Clement_Clement Cleon Clifford Clifton Clive Clyde Crispin Colin_Nicholas Conroy Cornwall Curtly Cuthbert
+			Damian Darrel_Daryl Delroy Derrick_Theoderic Desbert Desmond Donald Donovan Duncan Dwight
+			Earl Edmund Edward_Edward Errald Ernest_Ernest Errol Erskine Everton
+			Fenton Finley Forbes Francis_Francis Frederick_Frederick
+			Garfield Garnet George_George Gerald_Gerard Gladstone Glenroy Glenville Gordon Grantley
+			Hasely Herbert_Herbert Hilary_Hilarius Horace Hubert Hugh_Hugh
+			Jack_John Jeffrey_Geoffrey Jerome Jerren Joseph_Joseph Judah_Judah Julian_Julius Justin_Justin
+			Keith Kemar Kenneth Kevin Knowlson
+			Ledley Lee Lennox Leonard_Leonard Leroy Lester Lincoln Linton Lloyd Louis_Louis Lynford Lynden
+			Manley Mark_Mark Maurice_Maurice Merle Mervyn Michael_Michael Milton
+			Nathan_Nathan Neville Nicholas_Nicholas Nigel Noel Norman_Norman
+			Obadele_Obadiah Oliver_Oliver Omar Oswald_Oswald
+			Patrick_Patrick Pearnel Percival Peter_Peter
+			Rainford Raymond_Raymond Richard_Richard Ripton Robert_Robert Roger_Roger Ronald Rudyard Rupert
+			Stafford Stephen_Stephen Stern Stokely Sydney
+			Thomas_Thomas Trevor Tubal Tyrone
+			Vere Vernon Victor_Victor Vincent_Vincent Vivian
+			Walter_Walter Wilfred William_William Winston Wendell Wynton
+		}
+		
+		female_names = {
+			Alicia_Alice Alison Althea Angela_Angela Annette_Anna Amber Andrea_Andrea Anita_Anna Anne_Anna Audrey
+			Barbara_Barbara Beryl Beverly Billie
+			Calliopa Carla_Carol Carole_Carol Cedella Claudia Cynthia
+			Deborah Denise Diana Donna
+			Edna Elena_Helen Esther Eugenia
+			Fay
+			Grace
+			Inga Iris Ivy
+			Jackie Jamaica Janice Jean_Joana Jennifer_Jennifer Joanne_Joana Judith
+			Karin Kelly
+			Leigh Letitia Lisa Lorna Lorraine Louise_Louisa
+			Marcia Margaret_Margaret Marie_Mary Marion Marlene May_May Melanie Melissa Michelle Millicent
+			Nancy Naomi Natalie Nicole
+			Olivia
+			Pamela Patricia_Patricia Paula Pearlette Phyllis Portia
+			Rachel Rita Rosa_Rose Ruth
+			Sharon Sheila Sheryl Shirley Simone Sonia Sophia Susan_Susan Sylvia
+			Theresa_Theresa
+			Veronica
+			Yvonne
+		}
+
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+
+
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+
+	calypsonian = {
+		graphical_cultures = { africangfx }
+		unit_graphical_cultures = { westafricangfx africangfx }
+
+		color = { 0.1 0.9 0.4 }
+		
+		#Added more Danish and Irish names to reflect colonial history of the Virgin Islands and Montserrat
+		
+		male_names = {
+			Aaron Ade Aldwyn Alexander Alfonso Ali Alvin Anders_Andrew Anthonio_Anthony Anthony Arthur Ato Austin_Augustine
+			Basdeo Basil Ben Bravo Brent Brian Bunji
+			Carl Charles Christian_Christian Christoffer_Christopher Clarke Claus Clifton Colm Cowin Cyril
+			Damion_Damian Darcus Darrel_Daryl Davis Denmark Denzel Deon Doughtry Duncan Dwayne Dwight
+			Edmund Edwin Ellis Emmanuel Ephraim Erik_Eric Errol Euric
+			Fergus Francis Franklin Frederick_Frederick
+			Gary Geddes Geoffrey George_George Gerald Gordon Guy Haddaway
+			Hasely Henry Herbert Hibbert
+			Isaac
+			Jacob_Jacob Jabari James Jarrin Jeffrey_Geoffrey Jehue Joachim Jones Joseph Jovon Julieon_Julian
+			Keith Ken_Kenneth Kent Kenwyne Keshorn Keston Kirt Kitch Knowlson
+			Lalonde Lewis_Louis Lionel London
+			Machel Makandal Malik Manny_Manfred Marc_Mark Martin Maxwell Michael_Michael
+			Napoleon Niall_Neil Nestor Nicconnor Njisane Noor
+			Patrick Paul Phife Phillip_Philip
+			Rafer Ralph Ramjohn Raymond_Raymond Reece Renny Ribeiro Richard Robert Ronald Rondell Ronnie_Ronald Roy
+			Sabian Sancho Sean_John Selwyn Shaka Sherridan_Sheridan Simon Sonny Stann Stern Steve_Stephen Stokely Sullivan Sylvester
+			Taylor Theophilus Thomas Trevor Trinidad
+			Wayne Wendell Wilfred William Winston
+			Yasin Yorke
+		}
+		
+		female_names = {
+			Afiyah Agnes Ahkeela Aleesha Angela Ann Arin Audrey Avanell Aveann Avionne Ayanna
+			Barbara Beverly Brianna
+			Calypso Candance Candice Caroline Catherine Chanté Cheryl Charlotte Chevonne Christina Cindy Cleopatra Clotil Corinne
+			Dana Danielle Denise Dernelle Destra
+			Eintou Eleanor Elma Emelda Estrid
+			Fana Fay Fay-Ann Florence Fox
+			Gabrielle Geronne Gisele
+			Hazel Hazelle Heather
+			Inga
+			Jane Janeil Janelle Janice Janine Jasmine Jean Jeanette Jenelle Josanne Joyce
+			Kai Kamla Karyn Kathleen Katrina Kelly Kelly-Ann Kenisha Kennya Keri Keshia Khadidra Khadisha Kimika
+			Lara Lauryn Liana Linda Louise
+			Mairoon Mariah Marina Marissa Marlene Mary Maureen Maylee Menota Merlyn Michele Michelle Michelle-Lee Monique
+			Nadia Nia Niasha Nicki Nicole Nora
+			Ocean Olga Onika
+			Patrice Pearl
+			Raziah Reema Rhea Rhonda Rose_Rose
+			Sarah Sasha Semoy Shanelle
+			Talita Tamar Tanya Tasha Tenesha Teyana
+			Vahni Valene Vernetta
+			Wanda Wendy
+		}
+
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+
+
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+
+	bermudian = {
+		graphical_cultures = { africangfx }
+		unit_graphical_cultures = { westafricangfx africangfx }
+
+		color = { 0.1 0.7 0.4 }
+
+		male_names = {
+			Alan Albert_Albert Alex_Alexander Aljame Allan_Alan Angelo_Angel Antonio_Anthony Antwan_Anthony Arnold_Arnold Arthur_Arthur
+			Bill_William Blenn Brian Bruce
+			Charles_Charles Chris_Christopher Christian Christopher_Christopher Clarence Clay Clayton Clevie Curtis Cuthbert
+			Dale Damico Damon Daren Darius David Dean Delano Delyone Dennico Dennis_Dionysus Desbert Desmond Devaun Dexter Dwayne Dwight
+			Earl Edmund Edward_Edward Eldon Elliott_Elliot Emmanuel_Emmanuel Ernest_Ernest Ewart Finley Forbes Francis Fred_Frederick Freddy_Frederick Frederick_Frederick
+			Garfield Garnet Gary George_George Gerren Gladstone Glenn Graham Guy
+			Henry Herbert_Herbert Hezekiah Hubert
+			Ian Irving
+			Jacobi_Jacob Jahni James_James Jamie_James Janeiro Jared Jason Jekon Jemeiko Jerome Jerren John_John Johnny_John Jon_John Jonathan_Jonathan Jonte Joseph_Joseph Joshua_Joshua Judah_Judah
+			Kamau Keishen Keith Kemar Kenneth Kentoine Kevin Khano Kijuan Knowlson Kofi Kwame Kyle
+			Lance Laren Lashun Ledley Lee Lejuan Lennox Leroy Lionel_Lionel Lius Lloyd Logan Louis_Louis Lyndon
+			Malachi_Malachai Malcolm Marcelle_Marcellus Marcus_Mark Mark_Mark Marquel Matt_Matthew Maurice Mel Meshach Michael Mykal_Michael
+			Nahki Nathan Nathaniel Neville Nicholas_Nicholas Noel Nori
+			Oliver Omar Oronde Ottis_Otis
+			Pacome Patrick Pauulu_Paul Percival Peter_Peter
+			Quadir
+			Rainford Ralph Randy_Randall Reggie_Reginald Reginald Richard_Richard Robert_Robert Rocky Rodi Rodney Roger Ronald Ross Roy Rupert Ryan
+			Sam Scott Seion Shakir Shaun Shayne Sheridan Shiraz Silva Stefan_Stephen Stefano_Stephen Stephen_Stephen Steven_Stephen
+			Tahj Talbot Tamauri Taurean Terryn Thomas_Thomas Tim_Timothy Timothy_Timothy Tokia Tom_Thomas Treadwell Troy Tucker Tyler Tyrell
+			Vere Vernon
+			Will_William William_William Winston
+			Yeu
+			Zico
+		}
+		
+		female_names = {
+			Adella Alice_Alice Alicia_Alice Alison Alma Angela_Angela Anita_Anna Anne_Anna Annette_Anna Ashia Ashley Audrey
+			Belle Bermuda
+			Carla Carole Caroline Casey Chefanices Chelsea Clara Cynthia
+			Diana Donna
+			Elena Erica Esther
+			Fay Flora
+			Gina Gloriana Grace
+			Hannah Heather Hesta Holly
+			Inga Isabella_Elizabeth Ivy
+			Jane Janice Jenaya Jenna Jennifer Jesse Jessica_Jessica Joan_Joana Joanne_Joana Jodie Judith Juliet_Julia
+			Katura Keazjah Keotshepile Kiera Kim Krystle
+			Lana Leigh Lena Lenore Lisa Lois Lucinda Lucy
+			Marcia Marian Marion Mary May Melyssa Michelle Miranda Mishka
+			Nicole Nora
+			Olive Olivia Oona
+			Patricia Phoebe
+			Queenie
+			Rachel Rosa_Rose Rowena Ruth
+			Sally Samantha Sara_Sarah Sheryl Shirley Sonia Stephanie_Stephanie Sue_Susan Summer
+			Teresa
+			Valentine_Valentina Veronica Victoria_Victoria Viviana
+			Zona
+		}
+
+		from_dynasty_prefix = ""
+		bastard_dynasty_prefix = "Fitz"
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+
+	sheban = { #Black Hebrews/Jamaican Marranos
+		
+		#Note: Following recent events, I feel the need to clarify the intent behind this culture.
+		#Although anti-semitic Black Israelites are very vocal and notorious, they do not by any means represent the totality of Black Judaism.
+		#This culture is intended to represent more moderate groups that are closer to and in some cases overlap with mainstream Judaism.
+		#Additionally, this culture is also influenced by the history of Judaism in the Caribbean.
+		
+		graphical_cultures = { africangfx muslimgfx }
+		unit_graphical_cultures = { westafricangfx africangfx }
+
+		color = { 0.15 0.6 0.44 }
+		
+		male_names = {
+			Aaron_Aaron Abaddon Abel Abraham_Abraham Ahab Asher
+			Barak Barnabas Benaiah Benjamin_Benjamin Boaz
+			Chilion
+			Dan David_David
+			Ebenezer Eilon Enoch Eliezer Elijah Ephraim
+			Gabriel_Gabriel Gad Gershon Gideon Gilead
+			Hezekiah Hiram
+			Ichabod Immanuel Isaac_Issac Ishmael Israel Issachar
+			Jacob_Jacob Jericho Jesse Jethro John_John Joseph_Joseph Joshua_Joshua Josiah Judah
+			Kaleb
+			Levi Linus
+			Mahlon Manasseh Matthew_Matthew Menelik Micah Mordecai Moses_Moses
+			Naphtali Nehemiah Noah
+			Obadiah
+			Phineas
+			Reuben
+			Samson Samuel Saul Seth Shem Simeon Sinan Solomon
+			Uriel
+			Zacharias Zebediah Zebulun
+		}
+		
+		female_names = {
+			Abra Adina Apphia Ariel Asenath Atarah
+			Bathsheba Beulah Bilhah
+			Deborah Delilah Dinah
+			Elisheba_Elizabeth Esther Eve
+			Galilee
+			Hadassah Hagar Hephzibah Hosanna Huldah
+			Jedidah Jezebel Judith
+			Keturah
+			Leah
+			Makeda Milcah Miriam
+			Naomi
+			Orpah
+			Rachel Rahab Rebecca Ruth
+			Sarai_Sarah Shalom
+			Tabitha Tamar
+			Vashti
+			Zilpah
+		}
+		
+		from_dynasty_prefix = ""
+		
+		male_patronym = "ben "
+		female_patronym = "bat "
+		prefix = yes
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	guyanese = {
+		graphical_cultures = { southindiangfx }
+
+		color = { 0.1 0.5 0.2 }
+
+		male_names = {
+			Abdool_Abdul Abdur Aftab Aked Alex_Alexander Alexander_Alexander Alfred_Alfred Alvin Andre_Andrew Andrew_Andrew Anthony_Anthony Assad Aubrey 
+			Barrington Basil Beni Berkeley Bernard_Bernard Bharrat Billy_William Birchmore Brandon Bruce Burnham
+			Carl_Charles Charles_Charles Charlie_Charles Christopher_Christopher Claude_Claudius Clayton Clem Cliff_Clifford Clive Clyde Colin_Nicholas Courtney Cy Cyril
+			Dale Danny_Daniel David_David Denis_Dionysus Derek_Theoderic Derwin Desmond Devendra 
+			Egbert Eion Emerson Errol Esuan
+			Faoud Faris Fitz Forbes Frank_Francis Fred_Frederick
+			Gajanand George_George Glendon Gordon
+			Harischandra Harold Henry_Henry
+			Ian Imran Ivan Ivor_Ivar
+			Jack_John Jagdish Jaison_Jason James_James Jan Jeff Jeremy_Jeremiah Joe_Joseph John_John Jonathan_Jonathan
+			Kampta Kamroze Keemo Keith Kennard Kenneth Kenny_Kenneth Kevin Krish
+			Laddie Lance Latchman Len_Leonard Lennox Leon Leslie Linden Llewellyn Lloyd
+			Mahendra Malcolm_Malcolm Marc_Mark Mark_Mark Martin_Martin Maurice Michael_Michael Milton Monte_Montgomery Moses 
+			Narsingh Neil_Neil Neville Nezam
+			Oscar
+			Patrick_Patrick Paul_Paul Peter_Peter Philbert Pierre_Peter Ptolemy
+			Ramnaresh Ramnarine Randolph Ranuel Ray_Raymond Rayon Reon Robert_Robert Roger_Roger Rohan Rondell Ronsford Roy Royston Ruel Rupert Russell Ryan
+			Saheed Sergio_Sergius Sew Sewnarine Shimron Shivnarine Stanley Stephon Steve Steven_Stephen Sudesh Sunil
+			Tagenarine Timur Travis Trevon Troy Tyrique
+			Veerasammy Vibart Vishaul
+			Walter Wilfred William Wilson Wordsworth
+			Yannick
+		}
+		
+		female_names = {
+			Alana Aliann Alison Amanda Andrea_Andrea Ann_Anne Anneasa Arti Ashana Ashley
+			Beryl Brittany
+			Candace Candacy Carolyn_Caroline Christa Claire Crystal
+			Daphne Deolatchmee Doreen
+			Elly
+			Grace
+			Indranie
+			Jan Janet Joyce
+			Kara Karen Katherina_Catherine Kayla
+			Lakshmi Laura Laxmi Lisa
+			Mahadai Maria_Mary Mariam_Mary Marian Marlia Maya Meiling Mona Murleen
+			Narmala Natalya Niketa
+			Odessa Olivia Oonya
+			Pauline Pretty
+			Rajkumari Ruqayyah Ryhaan
+			Sandra Shakira Shari Sharon Shauna Sheleza Shemaine Subrina
+			Taniasha Tremayne
+			Varshni Viola
+			Yvette Yvonne
+		}
+
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+
+
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+	}
+	
+	sranan = {
+		graphical_cultures = { southindiangfx }
+
+		color = { 0.3 0.6 0.4 }
+
+		male_names = {
+			Abraham Achille_Achilles Adriaan_Adrian Adolf Alvin Amaktie André_Andrew Anduele Andwélé Anil Anthony Anton_Anthony Archibald Armand_Herman Aron_Aaron Ashwin
+			Barryl Bart_Bartholomew Bas Basten_Sebastian Benito_Benedict Brian
+			Carlos_Charles Cendrino Cerezo Charlon Claidel Clarence Clark Cleven Clifton Clyde
+			Darl Desiré Diguan Dion Dwight
+			Edgar Edson Edu Elfried Enrico Ernst_Ernest Ernst-Paul Errol Erwin Etienne_Stephen Evert-Jan
+			Fabian Felipe_Philip Florens_Florent François_Francis Frits_Frederick
+			Galgyto Geert-Jan Gerrit_Gerard Ginty Giorgio_George Giovanni Glenn Gordon Grafton Graman Gerard Gregory Guillano Guno Gustaaf_Gustav
+			Hans Harold Hein Henck_Henry Hendrick_Henry Henri-Frans Hermen_Herman Hugo_Hugh Humberto_Humbert Humphrey
+			Ifenildo Ivan Ivenzo
+			Jacques_James Jahfarr Jahri Jan_John Jason Jerry_Gerald Johan_John Johan-Adolf Josef_Joseph Jules_Julius Julius-Caesar Jurgen_George Jurrien
+			Karin Kelvin Kurt
+			Leo_Leon Leroy Lesley_Leslie Levi Lieve Lloyd Lodewijk_Louis Lorenzo_Laurence Lucien_Lucius
+			Maarten_Martin Machiel Maikel_Michael Marc_Marcus Marciano Marco Marinus Mark_Marcus Marvin Maurits_Maurice Melvin Murthel Mitchel
+			Nicandro
+			Orpheo_Orpheus Ortwin
+			Paul Pim Preetap Prem Purrel 
+			Ramdat Ramsewak Raoul Ravindu Ray Rayen Regi Regilio_Regilius Reinier Remon Remy Robert Roché Rodney Romano_Roman Romeo Ronald Roy Rudy Ruqayyah
+			Samuel Sergio_Sergius Severinus Sigi Sijmen Soren Stanley Stijn Stuart_Stewart Sugrim
+			Thomas Tyrone
+			Ulrich
+			Vangelino Virgil
+			Wendel Wensley Willem_William Wim Winston Worthy 
+		}
+		female_names = {
+			Aafke Alicia_Alice Ana_Anne Angela Angelic_Angelica Ankie Annemieke Annemijn Astrid Augusta
+			Bea
+			Charisse Charlotta_Charlotte Chinyere Conchita Cornelia Cynthia
+			Danick Debbie_Deborah Denise Diane_Diana Dienke Dora
+			Elsa Estavana_Stephanie Esther Evita
+			Fabienne Fareisa Fien Fleur Fransien
+			Grace Griet Grietje
+			Ilonka Ingeborg Iris Isuri
+			Jasmina Jennifer Jessy Jette Johanna Joke Jooske Jorieke Joyce Jurswailly
+			Kamryn Karin Karlien Katrien Kelly Kirsten_Christine
+			Laetitia Laura Liene Lies Lois Lynn
+			Mandy_Amanda Marieke Martine Maura Michelle
+			Neele Nelli Niermala Nisa
+			Pearl Philomena
+			Riet Rochelle Roxanne Ruth
+			Sabrina Sade Sandra_Alexandra Sanne Sharina Sigourney Sophie_Sophia Susanna_Susan Sylvana
+			Tess
+			Urta
+			Varina Veerle
+			Willemijn_Wilhelmina Willy_Wilhelmina
+			Xiomara
+			Yldiz Yvette
+			Zoureena 
+		}
+
+		from_dynasty_prefix = "van "
+		
+		male_patronym = "szoon"
+		female_patronym = "sdochter"
+		prefix = no
+		
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+	}
+}

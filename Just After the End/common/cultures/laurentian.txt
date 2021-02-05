@@ -1,0 +1,430 @@
+###ÄNSI
+
+laurentian = {
+	graphical_cultures = { canadiangfx westerngfx }
+
+	lacustrine = {
+		graphical_cultures = { greatlakesgfx }
+
+		color = { 0.1 0.6 0.15 }
+
+		dukes_called_kings = yes
+
+		male_names = {
+			Alexander_Alexander Alvin Anders_Andrew Abel Ahab Abram_Abraham
+			Burbot Benson Bollard
+			Clark Carl_Charles Cyrus Christian_Christian Cable Cyril
+			Dexter Davit_David Dodge Dromond Dale
+			Elmhart Edmund Elisha_Elijah Edsel Eric_Eric
+			Fitzgerald Fardage Frederick_Frederick Franklin_Franklin
+			Glenlyon Griffon George_George Gudgeon Gideon_Gideon Gybe Gordon Gregory_Gregory Guy_Guy
+			Hamilton Henry_Henry Hyac Hydrus Hackett Halyard Hannibal Hugh_Hugh
+			Isaac_Isaac Irvin Ishmail_Ishmael
+			Jeffrey_Geoffrey Jack_John James_James
+			Kedge
+			Lawrence_Lawrence Lewis_Louis Lazaret_Lazarus Lorne
+			Madison Martin_Martin Mather Michael_Michael Mark_Mark Marin Mammut
+			Ned_Edward
+			Owen Oakum Oliver_Oliver Odocoil
+			Pike Paul_Paul Peter_Peter Picton Pinus
+			Robert_Robert Richard_Richard Rogday Rubin_Ruben Roband Reeve Robin Roger_Roger
+			Sculpin Steffan_Stephen Scotiadoc Sullivan Stemson Stevedore_Stephen Seymour Spencer Salvelin
+			Tim_Timothy Theodore_Theodore Thaddeus Townsend
+			Will_William Walleye Wyandot Wyatt
+			Zachary_Zachary
+		}
+
+		female_names = {
+			Ann_Anna Arbora Alma Algoma Alyssa Acacia Aurora
+			Bee Barbara_Barbara Brook Blossom
+			Chelsea Chippewa Charlotte_Charlotte Columbia Cobia Casey Clair Crystal Cecilia
+			Doloma Dawn
+			Edna Edith
+			Gladys Georgia Genoa
+			Haida Hagar
+			Iris Isabelle_Elizabeth
+			Josephine
+			Marjorie Margaret_Margaret Marie_Mary Moira Marielle Melissa
+			Nancy Norgoma
+			Perch Petra
+			Rose_Rose Rachel
+			Sylph Stephanie_Stephanie Sprite Sarnia Shanty
+			Vienna Vanessa Veronica
+		}
+		from_dynasty_prefix = ""
+
+		#male_patronym = ""
+		#female_patronym = ""
+		prefix = no # The patronym is added as a suffix
+
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+
+
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 10
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+
+	ontarian = {
+		graphical_cultures = { canadiangfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+		
+		#Mostly Victorian-era names from the UK, with a few references to Scott Pilgrim thrown in for taste.
+		
+		color = { 0.25 0.50 0.1 }
+
+		male_names = {
+			Abbott Aberhart Acer Acheson Addington Addison Adrian_Adrian Aeneas Alan_Alan Albert_Albert Alexander Alfred_Alfred Alistair Ambrose Anson Anthony_Anthony Antrobus Archibald Argyll Arthur_Arthur Ashwin Augustus_Augustus Aurelius Aykroyd Aylesworth
+			Baldwin Banastre Banting Barclay Bellenden Bennett Bernard_Bernard Bertram Bessarion Borden Boscawen Braddock Bramwell Brant Brock Broxton Bryce Buell Burnhamthorpe Burton Butler By
+			Calder Carleton Carlow Carrey Casimir Castor Cecil Cedric Charles_Charles Chen Chester Churchill Clarence Claude_Claudius Clifford Clive Colborne Cornwallis Cortlandt Corvus Crawford Crerar Crowell Cuthbert
+			Dallaire Dalton Darcy David Davis Deforest Demetrius Denzel Derby Derwyn Desmond Dominick_Dominic Donovan Durham
+			Ebenezer Edgar_Edgar Edmund_Edmund Edward Edwin Egmond Ellis Erebus Ernest Ethelbert Eulas Evan Ezra
+			Farley Fergus Fidelis_Fidel Flavius Fleming Foster Franklin Frederick_Frederick Freeman Fulvius
+			Garrett Gath George_George Gerald Gerard Gideon_Gideon Gilbert Gray Goddard Godfrey Gordian Gordon Gosford Gosling Graves Grewal Grierson Griffith Gwillym
+			Hadfield Haldimand Hampden Harcus Harland Harold_Harold Harris Harvey Hassan Havelock Henry_Henry Herbert Herchmer Herman Herodias Hewitt Hirsch Hirundo Hobart Holcroft Horatio_Horace Horton Howard Hudson Humphrey Hussein
+			Ibrahim_Abraham Isaac Isembard Ishwar Islington Ivar
+			Jackson James_James Jason_Jason Jasper Jarvis Jehoshaphat Jerome John_John Johnston Jordan Joseph_Joseph Julius_Julius
+			Kane Keiller Kelsey Kevin Kilroy Kirk Kyle
+			Lancelot Lawrence_Lawrence Lawson Layton Leacock Leaford Lennox Leofric Leonard_Leonard Leopold Leslie Lester Levius Lewis_Louis Lincoln Lionel Llewellyn Lloyd Lomer Lorne Lucas_Luke Lucian Luthor_Luther Lyman Lyon_Leon
+			Macauley Macdonald Mackay Mackenzie Maclean Maddox Malcolm Mallard Manfrey Marlborough Marshall Massey Matheson Matthew_Matthew Maxwell Mercer Merritt Michael_Michael Milos Mitchell Molson Monck Montague Mordecai Morgan Morrison Mortimer Moses Mowat Munro Murad
+			Naismith Napier Navson Neil_Neil Nelligan Nelson Norman Northrop Norton Norval
+			Octockwig Oliver Orlo Orme Orville Osborne Oscar Osgoode Osler Otus_Otis Owen
+			Patrick_Patrick Pearce Pearson Percy_Percival Peregrine Phineas Prescott Prideaux
+			Quercus Quetton Quinlan
+			Ralph Ralston Ramesh Ramsay Randall Ransford Rayfield Redgrave Reeves Reginald Regulus Rhuland Richard_Richard Riley Robert Robertson Rodney Rollo Ronald_Ronald Ross Rourke Rowland_Roland Rubrum_Red Rupert Russell Rutherford Rykert
+			Samir Sampson Samuel Sandford Scott Selwyn Seymour Shahid Shaw Sheridan Sherwood Shuster Sidney Silas Simeon_Simon Skeffington Sleeman Spencer Stanislaus Stanley Stephen_Stephen Stephenson Stockwell Strickland Stuart_Stewart Sturgis
+			Talbot Taxus Terence Theodore_Theodore Thomas Thompson Thorburn Thursby Timothy Todd Trafalgar Trevor Tsuga Tyson Tyto
+			Ulwin Ulysses Ursus
+			Valens Vance Varley Vernon Vickram Vickrey Victor Vincent Virgil Vivian Vreque
+			Wallace Walter Wanton Wayne Wellwood Wendell Westerfield Whitney Wilder Wilfred Wilkin William Willoughby Wilmot Wilson Winslow Winston Wolfe_Wolf Wolseley
+			Yelverton Youle
+			Zacheus_Zachary Zane Zephaniah
+		}
+
+		female_names = {
+			Abigail Ada Adelaide Afrella Agnes Alanis Alberta Alexandra Alice Alison Almeda Alyssa Angelina Anne_Anne Amanda Amelia Andrea Apollonia Augusta Avril_April
+			Beatrice Bernice Bertha Blanche Bonnie Breaca Brooke
+			Cagintria Camilla Candice Canna Caroline Cassandra Catherine_Catherine Cecilia Charlotte_Charlotte Cheryl Christabel Christina Clare Claudia Constance Cynthia
+			Daisy Deborah Denice Diane_Diana Dinah Dominia Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elizabeth Elsie Emily Emma Endelienta Esther Ethel Eva_Eve Eveline Everwella
+			Faith Florence Frances
+			Gavia Georgia Gertrude Gladys Gloria Grace Gwendolyn
+			Hannah Harriet Helen_Helen Henrietta Hephzibah Hillary Hope
+			Irene Isabella_Isabelle
+			Jacqueline Jane Janet Jennifer Jessie Joanne_Joan Josephine Judith Julia June Juthwara
+			Karen Kathleen Kay Kelly Kimberly Kira Kristin
+			Laura Leonora Lillian Linda Lisa Lorna Louise Lucy Lydia Lynette
+			Mabel Madge Madrun Margaret_Margaret Martha Marwenna Mary Maud Maureen May Meghan Menefreda Mercy Michelle Mildred Millicent Molly Morwen Muriel
+			Nancy Naomi Natalie_Natalia Nicole Nina Norah
+			Olivia Ouine
+			Paula Permanence Priscilla
+			Quenne
+			Ramona Rebecca Riemmelth Rose_Rose Ruby Ruth 
+			Sally Samantha Sarah Selina Shania Shannon Sheila Shelley Sherry Simone Sophia Stacey Susan Sybil Sylvia
+			Tabitha Tamara Thaney Theresa
+			Ursula
+			Victoria Violet
+			Weluela Wenbruia Windsor
+		}
+
+		from_dynasty_prefix = "de "
+		bastard_dynasty_prefix = "Fitz"
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+
+	chicagoan = {
+		graphical_cultures = { chicagoangfx greatlakesgfx }
+		unit_graphical_cultures = { normangfx westernslavicgfx }
+
+		color = { 0.25 0.4 0.25 }
+		
+		#Polish-Irish-Anglo mishmash
+		#take the diminuitive forms of most names and make them pronounceable to an English-speaker
+		#don't use diminuitives for names with no direct English translation
+		#added names from the novel The Jungle for Lithuanian flavor
+		
+		male_names = {
+			Adolfas_Adolf Aldo Ashburn Austin_Augustine Albin Anatol_Anatole Aron_Aaron Alecksey_Alexander Artur_Arthur Alfonse_Alphonse Aiden_Aidan Angus
+			Boris Belmont Brian Bernard_Bernard Bartosh Boleck Bruno_Bruno
+			Cragin Chatham Clarendon Cyrus Cormick_Cormac Connor Casper Constantine Colin
+			Damen_Damian Daley Donald Douglas Dearborn Deering Dede Dagmar Dunning Dean David_David
+			Elwood Elsdon Emil_Aemilius Eustace Edward_Edward
+			Frank_Francis Fergus Fionnslav Fuller Fulton Felick_Felix
+			Gobnet Goban Gallmil Garfield Gresham Gormdan Grannuslav Jersey_George
+			Homan Hymie Harrison
+			Ian_John Irving Izaack_Isaac
+			Jokubas_Jacob Jonas_Jonah Jozef_Joseph Jim_James Juleck_Julius Jurgis_George
+			Kenneth Koz Krak
+			Leary Lincoln Liam_William Logan Lester Loreck_Laurence Lech Leonard_Leonard Ludeck_Louis
+			Marshall Morgan Muiropolk Mickey_Michael Markas_Mark Maty_Matthew Marion_Marianus
+			Natan_Nathan Niko_Nicholas
+			Oleck_Helge
+			Piast Popiel Pulaski Pullman Pete_Peter Paul_Paul
+			Roscoe Ryan Roger_Roger Rudeck Ralph Roman
+			Stanislaus Stefan_Stephen Scott Sheridan Serge_Sergius Shelley
+			Tralley Thaddeus Tony_Anthony Tomas_Thomas
+			Vladgen Viktor_Victor Vincent_Vincent
+			Wentworth Wilhelm_William
+		}
+
+		female_names = {
+			Ada Agneis_Agnes Aisling Albina Alberta Anka Apolonia_Apollonia
+			Boguala Beverly Bedelia Barbara Blanca Bianca
+			Catherine_Catherine Claire Caitlin Cecylia_Cecilia Camilla Cassandra Chevonne
+			Daria Dominika Daniela
+			Emilia_Emily Esther Eugenia Eva Edit_Edith 
+			Fiona Franciska_Frances Fabia
+			Gale Grace Gabriela_Gabriele Gertrude Gloria
+			Helena_Helen Hanna
+			Irene Isabella_Isabelle
+			Josephine Justina Janet
+			Karin Kristina
+			Laima Lily Lucia
+			Marcelina Maria_Mary Moira Mandy Magdalena Monica
+			Natalia_Natalie Nola Nicole
+			Olga Ona
+			Petra Patricia
+			Riona Ruta_Ruth
+			Stacy
+			Tania Teta Theresa_Theresa
+			Ursula
+			Veronica Valeria Violetta_Violet
+			Wilhelmina
+			Zita
+		}
+
+		from_dynasty_prefix = ""
+
+		male_patronym = "owski"
+		female_patronym = "owska"
+		prefix = no
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	motowner = { #
+		graphical_cultures = { motownergfx africangfx muslimgfx }
+		unit_graphical_cultures = { saxongfx germangfx }
+
+		color = { 0.3 0.15 0.5 }
+
+		dukes_called_kings = yes
+
+		male_names = {
+			Andre_Andrew Ali Amos Aristo Autry Abraham_Abraham Amir
+			Barry Bayard Byron
+			Carl_Charles Coleman Clarence Crathman Cholly_Charles Cleveland Columbus Cornell_Cornelius Council Clay Curtis Cassius
+			Dixon Donovan Darell_Daryl Deangelo Desmond Denzel Derek_Theoderic Dewitt Dorsey Duane Dubois
+			Earl Edwin Eldra Esham Elbridge Emerson Ernest_Ernest
+			Franklin_Franklin Frederick_Frederick Freman Ford
+			Gordy_Gordon Gil Griffin Gino Gerald_Gerald George_George
+			Hardaway Hank_Henry Harvey Herschel Hubert Huey_Hugh
+			Jackson James_James Jay_Jacob Jerry Johnny_John Joseph_Joseph Jermaine Jamal
+			Kelly Kirk Kendrick Kunta Kwame Khalid
+			Lamont Lawrence_Lawrence LeBron Lee Leroy Levi Lincoln Lionel
+			Martin_Martin Maurice_Maurice Mack Marshal Marv Marvin Merald Morris_Maurice Mixon Melvin Morgan Marlon Malik Malcolm Mohomet_Muhammad
+			Ossian Oddis Odell Omar
+			Paul_Paul Plato Preston Pervis
+			Quincy
+			Ruffin Rich_Richard Remus Ronald Reuben_Ruben Ray_Raymond
+			Sidney Sweet Stevland Spencer Stokely Sylvester Stubbs Shaft Shakil
+			Taylor Tee Ty Tito_Titus Tariq
+			Uriel
+			Vernon Vinnie_Vincent
+			Walter_Walter Washington Whitfield Wade Wayne Wilson
+			Zayn
+		}
+		
+		female_names = {
+			Anita Annette Aisha Aliyah
+			Barbara_Barbara Betty_Elizabeth Brenda Bertha
+			Carla_Carol Caroline Claudette Cindy Carolyn_Caroline Cleopatra
+			Debbie_Deborah Diana Dorinda
+			Esther
+			Florence Fatima
+			Georgeanna Gladys Gloria Greer
+			Hagar
+			Isobel_Isabelle
+			Jeanette Jobete Joyce Jasmine
+			Katherine_Catherine
+			Leah Loretta LaBrenda Louvain Lawanda Lois Lynda Lilith
+			Mary Mable Martha Maxine Marlene Marcella Mildred Michelle Malika
+			Norma Naomi
+			Pamela Paula
+			Reba Rosalind Roschelle Rita Rihanna
+			Sandra_Alexandra Scherrie Saundra Sondra Susaye Syreeta Sariyah_Sarah Salome
+			Teena Tammi_Tamara Thelma
+			Uhura
+			Victory Valerie_Valeria Velvelette Vernessa
+			Wanda
+			Yvonne
+		}
+
+		from_dynasty_prefix = ""
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	
+	chiraqi = {
+		graphical_cultures = { chiraqigfx muslimgfx }
+		unit_graphical_cultures = { muslimgfx }
+
+		color = { 0.3 0.95 0.3 }
+
+		male_names = {
+			Adam_Adam Abdulaziz "Abdul-Lateef" Abdurrahman Abu-Bakr Abdullah_Abdullah Ali_Ali Ali Adil Amine Ayman
+			Bashir Bashar Bilal Binyamin Bakr Basim Badr Badraddine Barack Basel_Basil 
+			Casim_Qasim Chihab 
+			Dawood Daniyal Dahus Deen
+			Ehsaan Elias 
+			Faakih Faaris Faarooq Fakhruddin Farajullah Farid
+			Ghasaan Ghazi Ghiyasaddine
+			Habeel Harris Hadi Hafiz Hakim Haidar_Haider Habib Hajj Haji Hamza Hamid Hani Haroun Hassan Hussayn_Hussein Hashim Haytham Humayun
+			"Isma'il" Idris Ibrahim Ihsan Ilyas Imad Imran Ishaaq Issam Isa 
+			Jabir Jafar Jalil_Jaleel Jamal Jawad Jibran 
+			Kamil Kabir_Kabeer Kamal Khadim Khalid_Khaled Khaleed_Khalid Karl_Charles Kenneth Kourosh
+			Layth Luqman Lut Lateef 
+			Malik Mahmoud_Mahmud Mirza "Ma'mun" Mahdi Malcom Mansur_Mansour Marwan Mika'il_Michael Muhammad_Mohammed Musa Muhsin Mustafa Murad Mickey_Michael 
+			Nabil Nadir_Nader Nazim Nazeer Nasser Nuraddine Nuh_Noah
+			Obaid Oways
+			Qadir Qasim Qabil Qais
+			Ra'id Rashid
+			Sa'ad Sa'id Sabur Salman Sadiq Sajjad Samir Sameer_Samir Siraj Shihab Sultan 
+			Taha Tahir Talhah Talib Tariq Taymur 
+			Ubayd Ubaydallah Usama Umar Utbah
+			Wisam Walid Ward Wayne Wahhab William_William 
+			Yahya Yaqub Yasin Yassir Yunus Yusuf
+			Zakariyya Zafir Zahir Zain_Zane Zayd Zakir Zakar Ziyad Zulfiqar
+		}
+
+		female_names = {
+			"A'idah" "A'isha" Adila Aala Aaliyah Amal Amina Ajwa Aliza Amalia Ana_Anna Asma
+			Badia Balqis Bahar Barakah 
+			Camila 
+			Dalila Daliyah Daria Diyanah_Diana Deena Dua Durrah Dunya
+			Eman Eliza
+			Fadila Fairuza Farah "Fari'ah" Fatima Farideh 
+			Gazala Ghania Ghayda Ghazal
+			Habiba Haboos Hadiya Hafsa Haifa Halima Hala Hamida Hana_Hannah Huda Hazel Hedy 
+			Ilhan Ilham Iman Inan Izma 
+			Jamila Jahan Jalila Jana Jasmin Jenna Jazira 
+			Kalima Kulthoom Kalsoom_Kulthoom Karima Khadija Khatira Khalisa Kamila_Camila
+			Lana Laila Lina Leia Luna "Lu'lu" "La'iba" Layla Lena
+			Madiha Maha Maya Majida Malika Maria Maryam "Masum'ah" Mona Munawwar Muneerah 
+			Nahid Nadira Nadine Nafeesa Narjis Nasra
+			Rabiya Ruqayya Rafia Rafiqah Raina Rahma Rania Rima Rayhan Rayhanna
+			Sara_Sarah Sadiya Sabah Safira Safia Safiyya Safwah Samiyah Sammar Shireen_Shirin Suad 
+			Talia Tahira Taliba Tamara Tariqah Tharya Tufaylah 
+			Wafaa Wajida Wahida Wasila 
+			Yasmine_Jasmin Yamina 
+			Zahra Zuleykha_Zulaykha Zafirah Zaida Zaynab Zaynah Zubaydah 
+		}
+
+		from_dynasty_prefix = "mn "
+
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	prodnanici = {
+		graphical_cultures = { croatsouthslavicgfx }
+		
+		color = { 0.3 0.1 0.1 }
+		
+		male_names = {
+	 		Andrija_Andrew
+			Batalo Batic Bogisa Bogut Boric Brailo Brajko
+  			Dabisa Danis Dragonja
+			Grgur
+			Hran Hrana Hrvoje Hval
+			Ivanis
+			Juraj_George
+			Krsmir Kulin
+			Matej_Matthew Mihajlo_Michael Milovan Miroslav
+			Nikola_Nicholas Ninoslav
+			Ostoja
+			Pavle Petar_Peter Priboje Prijezda
+			Radic Radislav Radivoj Radogost
+			Sandalj Sanko Sibislav Stjepan
+			Tisemir Tomas Tvrtko
+			Vladislav Vlatko Vuk Vukac Vukasin Vukmir
+		}
+		
+		female_names = {
+			Andrijana_Andrea
+			Doroteja
+			Elizabeta_Elisabeth
+			Gojslava Gruba
+			Jelena_Helena
+			Katarina_Catherine Kujava
+			Mara_Mary Marija_Mary Mateja Miroslava Milisa
+			Nika Nikolena_Nicola
+			Pavica Petra
+			Radislava Resa
+			Stana
+			Teodora_Theodora
+			Vitaca Vojaca Vojislava
+		}
+
+		from_dynasty_prefix = "od "
+		male_patronym = "ic"
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+}

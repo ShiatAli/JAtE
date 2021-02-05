@@ -1,0 +1,241 @@
+###ÄNSI
+
+subarctic = {
+	graphical_cultures = { northernnativegfx muslimgfx }
+	
+	mikmaq = {
+		graphical_cultures = { northernnativegfx }
+
+		color = { 0.2 0.5 0.8 }
+
+		male_names = {
+			Alexander_Alexander Alvery Augustine Allan Barnaby_Barnabas Benjamin Bernard Bernie_Bernard Charles_Charles Cope
+			Daniel Donald
+			Étienne_Stephen Everett Emerson
+			Francis Frank_Francis Frye
+			Gabriel Glen
+			Henri_Henry
+			Jacob_Jacob Jacques-Pierre Jean-Baptiste_John-Baptist Jerrard_Gerard Joe_Joseph John_John Joseph_Joseph Jaime_James
+			Kopit_Cope
+			Lawrence Lee Leonard Lynwood
+			Marshall Michael Moses_Moses Mattie_Matthew Mi'sel
+			Noel Nigola_Nicholas
+			Paul_Paul Peter_Peter Peter-Paul
+			Rand Robert_Robert
+			Sam_Samuel Sandy_Alexander Silas Sylvester
+			Tertius Toney_Anthony
+			Wilfred We'jitu Wallace
+		}
+
+		female_names = {
+			Alice Annie_Anne Annie-Mae Azure Amanda
+			Dorothy
+			Elsie
+			Gail 
+			Hazel
+			Ivy
+			Katherine_Catherine Kris_Christina
+			Mae Marie_Mary Murdena
+			Natasha Nora
+			Pamela Phoebe
+			Rachel Rachel-Mary Rita
+			Sarah
+			Trina
+			Ursula
+			Viola
+			Yvonne
+		}
+		
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		allow_looting = yes
+		seafarer = yes
+		
+		modifier = default_culture_modifier
+	}
+
+	inuit = {
+		graphical_cultures = { haidagfx }
+
+		color = { 0.65 0.75 0.9 }
+
+		male_names = {
+			Aariak Aassanaaq Aglakti Agloolik Aipalovik Aippaq Akkikiktok Akkituyok Aklaq Akluitok Akna Akrittok Amaguq Amak Amaqjuaq Amaruq Ammagaruqnik Anernerk Anik Annakpok Anuniaq Anuun Apaata Aput Aputi Aqakuktuq Aqillutaq Aqpalibaaqtuq Aquutaq Aquyittuq Arjalinerk Arnauyq Arrluk Asuilaak Ataciara Atanarjuat Atiqtalaaq Atuqtuaq Aujaq Aviqming
+			Chugiak Cikuq Corazon
+			Desna
+			Ek Eska
+			Hanta_Hunter Hey 
+			Idlout Ikiaq Ila Ilannaq Iluak Iluq Innugati Inuksuk Inungoark Iqniq Irniq Issorartuyok Itigaituk
+			Kakortok Kanguq Kanosak Kapik Kappianartok Karpok Kaskae Kassuq Kataktuaq Kattituyok Kayuqtuq Keedtapeck Kesuk Kilaun Kinalik Kissarviarsuk Koko Kumaglak Kunik Kunikpaa Kunikpok Kunwaktok Kussuyok Kuvageegai
+			Maguyuk Malik Mangokpok Maniitok Manirak Massak Mequssuk
+			Nannuraluk Nanouk Nanuq Nasak Nasamiituuq Natsiq Nauja Nerromiktok Nini Nippikortuyok Nirliq Noatak Nukilik Nukka Nuniq Nuvuk
+			Ohotaq Oki Olayuk Oomailiq Osiutok Oudlanak Ortu_Otto 
+			Pakak Pamiuq Pattangayok Patterk_Patrick Patuktuq Pauloosie_Paul Pekartok Petuwaq Piaktok Pikatti Piktaungitok Pimniq Piqqaluyungmik Pittiulak Pukajaak Pukak Pukiq Putyuk
+			Qajak Qammutiq Qamut Qannik Qaumaniq Qausiqtuk Qeorvik Qimmiabruk Qimmiq Quamaniq Qulitalik Quvianuq
+			Saghani Sauri Shesh Shila Shtiya Sialuk Sighna Siku Silaluk Siluk Sirmiq Sivoy Sivuugun Suluk
+			Takiyok Taktuq Takubvik Taliriktug Tanaraq Tapeesa Tikaani Tingenek Tipvigut Tiqriganiannig Tiquana Tootega Tukkuyummavungga Tuktu Tulimak Tulimaq Tulugaq Tunerk Tungajuaq Tupilek Tupiq Tuuq Tsarlis_Charles
+			Ugalik Uglu Uiritsaktak Ujurak Ukiuk Ukluk Ulva Umik Unalaq Unnuk Uriash Usuiituk
+			Yuralria 
+			Rumbolt Mortensen Netser Wray Bernhardt_Bernard Hezakiah Rasmus_Erasmus Lars_Lawrence
+		}
+
+		female_names = {
+			Aariak Aguta Ahnah Aippaq Akkikiktok Akkilokipok Aklaq Akluitok Alasie Aluki Amaguq Amak Amaruq Ammagaruqnik Anaaya Anernerk Aningan Annakpok Anniagruk Apaay Aput Aputi Aqakuktuq Aqillutaq Aqpalibaaqtuq Aquutaq Aquyittuq Arnaq Arrluk Asuilaak Ataciara Atanarjuat Ataneq Atiqtalaaq Atiqtalik Atka Atkonartok Atuat Atuqtuaq Aujaq Aukaneck Aumanil Availuk Aviqming
+			Chugach Chugiak Cupun
+			Deniigi
+			Ek Elisapie_Elizabeth Eska Estuuya
+			Higalik
+			Ikiaq Ikniqpalagaq Ila Ilannaq Innugati Iqaluk Iqniq Irdlirvirisissong Itigaituk Itigiaq
+			K'eyush Kakortok Kamik Kanguq Kannoyak Kapik Kappiataitok Karpok Kassuq Kataktuaq Kattituyok Kayuqtuq Keedtapeck Keelut Kesuk Kinalik Kinapak Kingudlerk Kissarviarsuk Kunik Kunikpaa Kunikpok Kuvageegai
+			Luava
+			Makittuq Malina Maniitok Manirak Miki
+			Naaqtuuq Nagojut Nanouk Nanuq Nasak Natsiq Nauja Nertornartok Nigaq Nilak Ningakpok Nirliq Noahtakmiut Nukilik Nuliajuk Nunataq Nuniq Nutaaq Nutaralak Nuvuk
+			Okauyak Olikpok Opik
+			Palluqtuq Pamiuq Panikpak Pattangayok Patuktuq Piaktok Pimniq Piqqaluyungmik Piqqluyungmik Piquuraq Pitsiark Poallu Puja Pukajaak Pukiq Pungwashaloo
+			Qaaynak Qaiyaan Qajak Qamaniq Qammutiq Qamut Qaniit Qannik Qaumaniq Qausiqtuk Qigiq Qimmiabruk Qimmiq
+			Saghani Sakari Salaksartok Sesi Shtiya Siarut Sikuaq Silaluk Sitiyok Sos Suka Suluk Suqi Sura
+			Takiyok Taktuq Takubvik Taliriktug Tapeesa Taqukaq Tartok Tatkret Tiguaq Tikaani Tingenek Tingiyok Tiqriganiannig Tlate Tobanga Tomkin Tonraq Tonrar Tootega Torngasak Tukkuttok Tukkuyummavungga Tulimak Tulugaq Tunerk Tupiq Tuuq
+			Ugalik Uki Ukiuk Uluriaq Umiaktorvik Unnuk Uputsi Usuiituk
+			Yakone 
+			Alacie_Alice Kingmeata Ulrike Levinia
+		}
+		
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		allow_looting = yes
+		seafarer = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	innu = {
+		graphical_cultures = { northernnativegfx }
+
+		color = { 0.4 0.7 0.5 }
+
+		male_names = {
+			Acimus Ahapi Amiskut Anik Apun Aski Askikw Assin Atim Atuan
+			Beechil Bill_William
+			Charlie_Charles Chiiwetin Cipay Ciseaskikw Ciseatim Cisemahikan Ciseufwan Cisewapaskw Cisewen Clifford
+			David_David
+			Emmett Élie-Jacques Emish_Amos
+			Florent
+			George_George Gilbert Gilles_Giles
+			Hugh
+			Ifmit Ishpashtien_Sebastian
+			Jim_James John 
+			Lobit
+			Mahikan Mahtn Maikan Marc_Marcus Masinahicen Maskisin Maskw Matiu_Matthew Maxw Mike_Michael Miskinakw Mistamahtn Mistamiskut Mistanimu Mistapun Mistaski Mistayehyew Mistuk Mitihcin Mukuman
+			Nascew Neku Nikamu Nimu
+			Paskisikan Prote_Proteus
+			Real
+			Shapatish Stanley Sunny Shauit Shimun_Simon Shushep
+			Takun Tobias Troy
+			Uciskw Ufwan Unakan Unawiw Utukey
+			Wapaskw Wen Weyasi Wucu
+			Yakaw Yehyew 
+		}
+
+		female_names = {
+			Ahawesis Akup Amiskw Apikusis Asiniy Atikw Atim
+			Becky
+			Ciseakup Ciseatim Cisehipu Cisemeli Chenille
+			Danielle
+			Hipu
+			Isimit Iskutew Iskwew
+			Jade Josephine
+			Kathleen
+			Legend
+			Mani Manikanet Meli Melinda Mispun Mistaisimit Mistamiskw Mistasiniy Mistasipi Mit Marcelline
+			Naomi Nekaw Nipi Nisk Nympha
+			Pinehis Puti Ruby
+			Shanut_Charlotte Sipi Sipis
+			Taniana Tuan
+			Uhu
+			Wapaw Wiskacan
+		}
+		
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		allow_looting = yes
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	iyyu = {
+		graphical_cultures = { northernnativegfx }
+		
+		color = { 0.45 0.6 0.75 }
+		
+		male_names = {
+			Aisik_Isaac Akaskwh Alikis Ankas_Angus Antwaniywau_Anthony Apetniku_Abednego
+			Chaahchaahchii Chiipehesh Chinushaw Chirart_Gerald Chisheyaakush Chiyin_John Chwarch_George 
+			Eiparaham_Abraham Eitiyen_Stephen Eksefiyir_Xavier Entuhushu 
+			Iiwaapuweu Ifantar_Evander Ikwamit Irasimis_Erasmus Ishkwaashcheu Iyaapeu
+			Latpiruk Lennart_Leonard Luwis_Louis Lwait_Lloyd Lwukash_Luke
+			Kalifirt_Clifford Kalwaut_Claudius Kastwan_Gaston Keitan_Cajetan Kiyum_William Kuikuhaachew Kuukamesh Kuwentin_Quentin Kwanrat_Conrad
+			Mahiihkan Maikil_Michael Michisuu Mihtaamin Miyahkatu Mwanrwau_Monroe
+			Naapetihkw Naweyaakamui Nikutimis_Nicodemus Nimaw Nimistchou Nuutashcheu 
+			Papeupiyesweu 
+			Rwapirt_Robert Rwaumiyu_Romeo
+			Saahteyaapisuu Saimin_Simon Setrik_Cedric Shatrak_Shadrach Sipaschin_Sebastian Sipulwan_Zebulon Stifin_Stephen 
+			Tahkahchikan Tailirtan Tairwaun_Tyrone Tehtaapisch Teifit_David Teimin_Damian Thiyitwar_Theodore Tieikwau Twanilt_Donald
+			Uashkut Ukaw Uhuumisuu Ulifir_Oliver Upatayuu_Obadiah Usaauhcheshuu Usheyaapiskaham 
+			Waapaskw Waawaashtepayuu Wechawapanu Wiihtepayuu Wshanithin 
+			Yaayaapisch Yuchin_Eugene Yuutinipayuu Ywashtin
+		}
+		
+		female_names = {
+			Aahaaweshiish Achahkush Ahchemuus Airin_Irene Aitariana_Adriana Alikwatshas Auusuu 
+			Chihkaashtew Chiishikaashteu Chimuunishuu Chinifiyef_Genevieve 
+			Eimpir_Amber
+			Firwanik_Veronica
+			Ifanchilin_Evangeline Ifwan_Yvonne Ilisipath_Elizabeth 
+			Kareis_Grace Kerulain_Caroline Kilatis_Gladys Kisha Kuunuu Kwanstins_Constance
+			Lwarin_Lauren
+			Markarit_Margaret Matilin_Magdalene Mistaapush Miyawapin 
+			Naatischeu Neitin_Nadine Niipiish Nuushetihkw 
+			Piihtuweyaaskuham Pimiskun Piyeret_Pierrette Pwalet_Paulette 
+			Shaapuminach Shiishiip Shirliyan Sigouneebeesh Sitni_Sydney Swaui_Zoe
+			Taunilin Tayan_Diana Tiyanchil 
+			Waapikon Waayipeyaau Wiikupesaakan 
+			Yulanta_Yolanda
+		}
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		modifier = default_culture_modifier
+	}
+}

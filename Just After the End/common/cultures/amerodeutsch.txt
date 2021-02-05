@@ -1,0 +1,344 @@
+###ÄNSI
+
+amerodeutsch = {
+	graphical_cultures = { westerngfx }
+
+	deitsch = {
+		graphical_cultures = { germangfx }
+
+		color = { 0.4 0.4 0.3 }
+
+		male_names = {
+			Abelard Absalom Abner Adalfrid Adalhelm Adalrich Aldous Adalfuns_Alphonse Adalbert_Albert Abram_Abraham Arnuld_Arnold Amalrich_Amalric Andreas_Andrew Amos Anaklet_Anacletus Agatho Albright Arnwald Aaron_Aaron Abraham_Abraham Adam_Adam Andrew_Andrew Asher Allen_Alan
+			Bertrand Berchtold Botger Benjamin_Benjamin Benedikt_Benedict Bruno Burkhard Bodomar Bernhard_Bernard Bartel_Bartholomew Bartholomeus_Bartholomew Bastian_Sebastian
+			Christian_Christian Clemens_Clement Calixt_Calixtus Cajus Coelestin_Celestine Conrad_Conrad
+			David_David Dietrich_Theoderic Derek_Theoderic Daniel_Daniel
+			Elijah Elias_Elijah Ezekiel Eberhart_Eberhard Emmanuel_Emmanuel Ernst_Ernest Eckert_Eckart Egilbright Eugen_Eugene Elmer
+			Frederich_Frederick Friedrich_Frederick Fredegar Ferdinand_Ferdinand Felix_Felix Franziskus_Francis Fredegisel Flory_Florent
+			Georg_George Gisalhart Garman Gerhard_Gerard Gideon_Gideon Gregor_Gregory Gebhard Gottschalk Gotfrid_Godfrey Gundobert Gabriel_Gabriel
+			Heinrich_Henry Hartman Hesso Hermann_Herman Helmuth_Helmut Hippolyt_Hippolyte Hubert Hugbert Hildebrand Hagenbert Hrodebert_Robert Hensel
+			Innozenz_Innocent Isaiah_Isaiah Isaac_Isaac Immanuel_Emmanuel
+			Johannes_John Joshua_Joshua Joseph_Joseph Jakob_Jacob Jeremiah_Jeremiah Julius_Julius James_James Jared Jesse Jethro Jokim_Joachim
+			Karl_Charles Klause_Nicholas Kunrat_Conrad Konstantin_Constantine Kephart Kasimir_Casimir
+			Lorenz_Lawrence Lothar Luithart Ludwig_Louis Lucas_Luke Linus Lühr Ludger Leonardt_Leonard Levi
+			Markus_Mark Markwald Mark_Mark Maganhard Menno Moses_Moses Marius_Marius Maginulf Matthias_Matthew Martin_Martin Micah
+			Nicolaus_Nicholas Nagalrich Noah
+			Otto_Otto Obediah_Obadiah Otacher Octavius_Octavius Oskar_Oscar
+			Petrus_Peter Peter_Peter Paulus_Paul Philip_Philip Philibert Pius_Pius Paschalis_Pascal Paul_Paul
+			Robrecht_Robert Robert_Robert Rollant_Roland Reinhard_Reynard Reinhold_Ronald Ricohard_Richard Richard_Richard Reuchlin Rufus
+			Stephan_Stephen Simon_Simon Samuel_Samuel Silvester_Sylvester Sebastian_Sebastian Samson Seth Solomon_Solomon Stephen_Stephen
+			Theodor_Theodore Thomas_Thomas Trautman Theiss Terri_Terence Thaddeus_Thaddeus
+			Urban_Urban Ursus
+			Valentin_Valentine Viktor_Victor
+			Wilhelm_William Walther_Walter Wibert_Wilbert
+			Zachariah_Zachary Zephaniah Zacharias_Zachary
+		}
+		
+		female_names = {
+			Adelgiese Adelina Adela_Adele Alessa_Alyssa Agathe Amelia Anna_Anne Annegret Astrid
+			Bethany Benigna Beatrix_Beatrice Brunhilde Brigitte_Bridget
+			Charlotte_Charlotte Claudia Constanze_Constance
+			Deborah Delilah Doris Dorothea_Dorothy Dietlinde
+			Erdmuthe Esther Edith Elizabet_Elizabeth Eleonore_Eleanor Ebba Emilie_Emily Emma Erika_Erica Ermentrude Eva
+			Fannie Flora Franziska_Frances Frauke Freja Frida Friederike_Frederica
+			Gertrude Gabriela_Gabriele Gerda Gerhilde Gerlinde Gisela_Giselle Gretchen Gretel Gundhilde Grimtrude
+			Hannah Helga Hilda Hannelore Hedwig Helene_Helen Heinrike Heilwig Hertha Hiltraud
+			Ilsa_Elsa Inga Ingeburg Ingrid Irene Irmentrude Irmgard Isolde Isabel_Isabelle
+			Johanna Jessika_Jessica Josephine Judith Justine
+			Katrin_Catherine Kristina_Christina Karen Karoline_Caroline Klara_Claire Kora Krimhild
+			Lauren Linda Liselotte Luise_Louise Luitgard
+			Mildburg Mildred Magdalene Margarethe_Margaret Marianne Marlene Melanie Miriam_Mary Monika_Monica Martha
+			Natalie Nicole
+			Otrum Ottilie Olivia Oda
+			Petra Pauline Patricia Philomena Phyllis Pia
+			Rachel Rebecca_Rebecca Regine_Regina Renate_Renata Rosemarie_Rosemary Ruth
+			Sophie_Sophia Sarah_Sarah Severina Sibylle_Sibyl Sieghild Sieglinde Sonja_Sonia Stefanie_Stephanie Susanne_Susan Swanhilde Sadie
+			Theodora_Theodora Tabitha Thekla Theresa_Theresa
+			Ulrike
+			Valerie Verena Veronika_Veronica Viktoria_Victoria
+			Wilhelmine Walburga Waltrude Wanda Wiebke
+		}
+
+		from_dynasty_prefix = "vun "
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	rostmann = {
+		graphical_cultures = { greatlakesgfx }
+		unit_graphical_cultures = { saxongfx germangfx }
+
+		color = { 0.6 0.55 0.45 }
+
+		dukes_called_kings = yes
+
+		male_names = {
+			Abraham_Abraham Adalbert_Albert Armstrong Alfraed_Alfred Amalrick_Amalric Adalfuns_Alphonse Adam_Adam Aripert Anthony_Anthony Adalrost Aleksandar_Alexander
+			Berick Benjamin_Benjamin Burrill Bentley Benzene Bessemer Boris
+			Christian_Christian Christoph_Christohper Casimir
+			Daniel_Daniel David_David Dean Dodge Dexter Durant Dorrich Dominik_Dominic
+			Erik_Eric Etzel Eurich Edward_Edward Edmund Eugene_Eugene Erwin Elwood Edgar_Edgar Eisenwulf Eisenrich Eisenslaus
+			Frederich_Frederick Filadelph Florent Ferdinand_Ferdinand Franjo_Francis Filip_Philip
+			Gilberht_Gilbert Georg_George Gottfrid_Godfrey Gerolt_Gerald Gordon Gelbin
+			Hugo_Hugh Hammo Henrich_Henry Hudson Harley
+			Isaac_Isaac
+			Johannes_John Jakob_Jacob Justin_Justin Julian Jerome Jagiel
+			Karles_Charles Keifer Kasimir_Casimir
+			Lawrenz_Lawrence Ludewis_Louis Lumen Leonard_Leonard Ladislaus
+			Michael_Michael Morits_Maurice Martin_Martin Marklin Miles Maynard Marshall Marko_Mark
+			Nicholaus_Nicholas Nathan_Nathan
+			Otto_Otto Oliver_Oliver Orvil_Orville
+			Paul_Paul Peter_Peter Preston Payton
+			Rostwin Rohardt Roger Raymund Richardt_Richard Rainalt_Ronald Rustin
+			Steppen_Stephen Sidmund Stahlrich Stahlgar Stanislaus
+			Thomm_Thomas Theodor_Theodore Todrich
+			Vincentz_Vincent Viktor_Victor Virgil Velibor
+			Willelm_William Weyland Wayne Walther_Walter Woodward Wilbur Wernher_Werner Woitke
+			Zachary_Zachary Zwentibold
+		}
+
+		female_names = {
+			Adela_Adele Annelise Angelica Ann_Anne Amanda Antonia_Antonia Aurora_Aurora Alyssa Adina Aleksandra_Alexandra
+			Brunhilde Belaire
+			Corvette Courtney Chelsea Celia_Cecilia Cheryl
+			Daniela_Danielle Dawn Diane_Diana Deborah Dominika
+			Eleanor Erica Emma Ellen Eisenhilda Eisentrude Ester_Esther
+			Grimhilt Gladys Gabriella_Gabriele Georgeanna Gertrude
+			Hailey Helene_Helen Heather Hedwig
+			Isebella_Isabelle Idebelle Ivanna
+			Kathryn_Catherine Kristina_Christina Katerina_Catherine
+			Jennifer Julia_Julia Josefina_Josephine Jessa Janette
+			Lorelei Lenore
+			Mary_Mary Martha Margaret_Margaret Melissa Michelle Maxine
+			Nichole_Nicole Nannis Natalie
+			Paula
+			Rosa_Rose Rachel Rebecca_Rebecca Rita Regina Roxy_Roxanne
+			Sara_Sarah Susan_Susan Steffi_Stephanie Stahlhilda Sofia_Sophia
+			Todhilda Tamara
+			Violet Virginia Viktoria_Victoria
+			Willa
+			Yvette
+		}
+
+		from_dynasty_prefix = "von "
+
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	yiddish = {
+		graphical_cultures = { westernslavicgfx easternslavicgfx canadiangfx }
+		unit_graphical_cultures = { easternslavicgfx westernslavicgfx }
+		
+		color = { 0.5 0.05 0.05 }
+
+		male_names = {
+			Abba Adam_Adam Aharon_Aaron Akiva Alexander_Alexander Alter Amram Andy_Andrew Anton_Anthony Ariel Asher Avomai Avraham_Abraham
+			Baruch_Benedict Benesh_Benedict Ber Ben-Tzion Bill_William Binyamin_Benjamin Bunem
+			Calev Chananel Chaninai Chanoch Chatzkel Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
+			Dan_Daniel Daniel_Daniel David_David Dodai
+			Efrayim_Ephraim Ehud Eina Elchanan Eldad Eli Eliezer Eliyahu_Elijah Elyakim Ethan
+			Faivish Feivel Fishel Fishke Frederik_Frederick
+			Gavriel_Gabriel Gad Gedalyah Gershom Gideon_Gideon Gilead
+			Harold Henry_Henry Hersh Hershel Hillel
+			Ivomai Israel Issac_Isaac Issur Immanuel_Emmanuel
+			Kafnai Kahana Kalmen Khlavne Koppel_Jacob
+			James_James Jason Jonah Josh_Joshua Joseph_Joseph Jonathan_Jonathan
+			Lazar_Lazarus Leonard_Leonard Levi
+			Maximilian Maxwell Machir Malcha Matiyahu_Matthew Meir Mendel Menechem Menashe Mesharsheya Meshulam Mevasser Michael_Michael Mordechai Motel Moshe_Moses
+			Naftali Nosson_Nathan Natroi Natronai Nechemiah_Nehamiah Nehilai Nesanel Nissim Noah
+			Otto_Otto
+			Paltoi Pirkoi
+			Ram Rav Reuven_Ruben
+			Saul_Paul Sam_Samuel Selig Scott Sechok Sender_Alexander Seth Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon_Simon Shlomo_Solomon Shmuel_Samuel Steven_Stephen
+			Tamar Tevye Todres_Theodore Tzadok Tzemach
+			Uri Uzziyahu
+			Velvel_William
+			Yaakov_Jacob Yachya Yechiel Yehudah_Judah Yeshua_Joshua Yeshayahu Yissachar Yitzchak Yochanan_John Yonatan_Jonathan Yoel Yosef_Joseph
+			Zachary_Zachary Zevulun_Zebulon Zlate Zusman
+		}
+		
+		female_names = {
+			Adina Alte Alisa_Alice Ariela Avigayil Ashley
+			Batsheva Baila Batzion Baylah Belet Beth Beylke Bilhah Bluma Breindel Bridget Bielke
+			Chana Chava Catherine_Catherine Carmen Charna Courtney
+			Dalia Daniela Doltza Dorothy_Dorothea Doris Devorah Dinah
+			Eidel Elisheva_Elizabeth Emma Erin Esther
+			Faigel Feige Fran Freyde Fruma
+			Gavriela_Gabriele Gittel Golda Gladys Gluke Glukel Guta Guthela
+			Hagit Hannah_Anne Henye_Anne Hila Hodel Hudes
+			Isabel_Isabelle Ingrid
+			Jessica_Jessica Jennifer Julia_Julia
+			Kaila Karen Kreindel Kreine
+			Laura Lauren Leah Leeba Lisa_Elizabeth
+			Mary_Mary Matrona Michal Michelle Milcah Minna Mirele_Mary Miriam_Mary
+			Naomi Natalie Nikki_Nicole Noa
+			Perle Puah Pultzelina
+			Rachel Raisa Rebecca_Rebecca Reina Rivkah_Rebecca Ruth
+			Sara_Sarah Scolaster Scarlett Shayna Sheine Shifrah Shonlin Shluida Shoshana_Susan Shprintza Sisel Sophia_Sofia
+			Tziporah Tzieitel
+			Velvela
+			Yehudit Yente Yentl
+			Zelda Zilpa Zisel Zoe Zusa
+		}
+
+		from_dynasty_prefix = "fun "
+
+		male_patronym = "ben "
+		female_patronym = "bat "
+		prefix = yes
+
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	plautdietsch = {
+		graphical_cultures = { germangfx }
+
+		color = { 0.6 0.6 0.4 }
+
+		male_names = {
+			Abe_Abraham Alan Alfred Andreas_Andrew Anson Armin Arnold Art_Arthur
+			Bart_Bartholomew Benno Bernhard_Bernard Brad Bert_Albert Bryan_Brian Byron
+			Carl Chris_Christopher Clifford Colter Cornelius Curwin
+			Dale Dan_Daniel David Delbert Diedrich_Theoderic Dirk_Theoderic Don_Donald
+			Ed_Edward Elam Elias_Elijah Elmer Erdman Erhart Erich_Eric Ernie_Ernest
+			Floyd Franz_Francis Fred_Frederick
+			Gerhard_Gerard Graham Gregor_Gregory
+			Harold Harvey Howard Heinrich_Henry Helmut Homer
+			Isaac
+			Jakob_Jacob Jeff_Geoffrey Johann_John Jonathan Joe_Joseph
+			Kelvin
+			Leonard Levi
+			Mark Maurice Menno Matt_Matthew
+			Patrick Paul Peter
+			Ray_Raymond Reuben_Ruben Rick_Richard Rob_Robert Royden Russ_Russell
+			Sam_Samuel Siegfried_Sigfried Simon Steven_Stephen
+			Ted_Theodore Thom_Thomas
+			Vic_Victor Vincent
+			Werner
+			Zac_Zachary Zeke_Ezekiel
+		}
+		
+		female_names = {
+			Abby_Abigail Aganetha Allison_Alison Anna_Anne
+			Barbara Becky_Beatrice Betty_Elizabeth
+			Candice Carrie Cindy
+			Dora Doris Dotty_Dorothy
+			Edna Elizabeth Emma Erna Esther
+			Gertrude Greta
+			Hannah Harriet Helena_Helen Henrietta
+			Ingrid
+			Jane Janice Judith Judy_Judith Julia
+			Katherina_Catherine
+			Lilly_Lillian Lisa Lois Lynette
+			Magdalena_magdalene Maggy_Margaret Marge Maria_Mary Martha Michelle Miriam
+			Nancy
+			Rachel Rebecca Robyn_Robin
+			Sarah Sophie_Sophia Suzy_Susan
+			Trudy_Gertrude
+			Wanda
+		}
+
+		from_dynasty_prefix = "von "
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	adelsverer = {
+		graphical_cultures = { germangfx }
+
+		color = { 0.6 0.3 0.3 }
+
+		male_names = {
+			Alexander_Alexander Antonie_Anthony Armand_Herman August_Augustus
+			Bob_Robert Burchard_Burkhard
+			Chester Clark
+			David Dewey Dwight
+			Earl Edgar Edward_Edward Engelbert Ernest Ernst_Ernest
+			Ferdinand_Ferdinand Francis_Francis Franklin Friedrich_Frederick Fritz_Frederick
+			Georg_George Gus_Gustav Gustav
+			Hans Harry_Harold Heinrich_Henry Henry_Henry Hermann_Herman Homer
+			Jacob_Jacob Johann_John Julius_Julius Justin Justus
+			Karl_Charles Kel
+			Louis_Louis Ludwig_Louis
+			Milton Newton
+			Nikolaus_Nicholas
+			Ottfried Otto_Otto Ovie
+			Paul_Paul Phil_Philip
+			Ralph Randy_Randall Raymond Richard Robert Rudolph
+			Stover
+			Tom_Thomas
+			Viktor_Victor
+			William_William
+			Zachary_Zachary
+		}
+		
+		female_names = {
+			Abby_Abigail Aganetha Allison_Alison Anna_Anne
+			Barbara Becky_Beatrice Betty_Elizabeth
+			Candice Carrie Cindy
+			Dora Doris Dotty_Dorothy
+			Edna Elizabeth_Elizabeth Emma Erna Esther
+			Gertrude Greta
+			Hannah Harriet Helena_Helen Henrietta
+			Ingrid
+			Jane Janice Judith Judy_Judith Julia
+			Katherina_Catherine
+			Lilly_Lillian Lisa Lois Lynette
+			Magdalena_Magdalene Maggy_Margaret Marge Maria_Mary Martha Michelle
+			Nancy
+			Rachel Rebecca_Rebecca Robyn_Robin
+			Sarah_Sarah Sophie_Sophia Suzy_Susan
+			Trudy_Gertrude
+			Wanda
+		}
+
+		from_dynasty_prefix = "von "
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+	}
+}

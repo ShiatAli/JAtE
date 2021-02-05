@@ -1,0 +1,140 @@
+###ÄNSI
+
+portunhol = {
+	graphical_cultures = { mexicangfx andalusiangfx muslimgfx mesoamericangfx }
+	
+	amazonense = { #aka Mongols
+		graphical_cultures = { mesoamericangfx southerngfx mexicangfx }
+
+		color = { 0.75 0.8 0.05 }
+
+		male_names = {
+			Adriano_Adrian Alberto_Albert Altamir Ângelo_Angel Aníbal_Hannibal Antonio_Anthony Arah Arnaldo_Arnold Artur_Arthur Augusto_Augustus
+			Batista Benício Benildo Bernardo_Bernard Bento_Benedict
+			Caiubi Carlos_Charles Cauã Chico Costa
+			Danilo_Daniel Diego_James
+			Edmundo_Edmund Eduardo_Edward Émerson_Emerson Estevão_Stephen
+			Flamarion Francisco_Francis
+			Geraldo_Gerald
+			Heitor_Hector
+			Iradilson Italo Ivo
+			Jaci João_John Juan_John Jorge_George José_Joseph Josué_Joshua Julio_Julius Jurandir
+			Leonardo_Leonard Lopes Luciano_Lucian Luiz_Louis
+			Márcio Marcos_Mark Mário_Marius Maurício_Maurice Miguel_Michael Milton Moacir
+			Neudo
+			Óscar_Oscar Ottomar
+			Paulo_Paul Pirijá Piquerobi 
+			Ramalho Raul_Ralph Ribeiro Ricardo_Richard Rogério_Roger Romero Rui
+			Samuel Sandro_Alexander Saulo_Saul
+			Telmário Thiago_James Tiago_James Tomás_Thomas Tibiriçá
+			Ubirajara Ubiratã
+			Valdomiro_Vladimir Vinícius
+			Zeferino
+			Arata Toruí Mbicy Áhari Ebedimu Gunfuli Kaigouchi Ilumani
+		}
+		female_names = {
+			Adriana Aline Ana_Anne Araci Ariane Azelene
+			Bartira Beatriz_Beatrice Berenice Bianca
+			Carina Cíntia
+			Eliana Elisandra Eloá Ester_Esther Evelyn
+			Fátima_Fatima Florany
+			Gabriela_Gabriele
+			Hayá
+			Iara Inês_Agnes Isadora Isani
+			Jaci Janaína Joênia Jougousa Júlia_Julia
+			Kelly Luana
+			Luciana Lucielle Luísa_Louise Luíza_Louise
+			Manuela Maria_Mary Marília Marina Matilde_Matilda Michele_Michelle
+			Natália Neusa Nina
+			Olga
+			Paloma Paula Porasy Poliana Potira
+			Regina Rita
+			Silva Simone Sofia_Sophia Suely
+			Tânia Teresa_Theresa Valéria_Valeria
+			Vanda Virgínia_Virginia
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "filho de "
+		female_patronym = "filha de "
+		prefix = yes
+	
+		allow_looting = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+	}
+	
+	gaucho = { #Inhabitants of Rio Grande Do Sul/Cisplatina. Highly German and Italian influenced, some Suebi and Lombard names (aka Jurchens)
+		graphical_cultures = { italiangfx germangfx southerngfx occitangfx }
+		unit_graphical_cultures = { andalusiangfx southerngfx }
+
+		color = { 0.84 1.00 0.34 }
+		
+		male_names = {
+			Adão Alfonso_Alphonse Adalberto_Albert Andrés_Andrew António_Anthony Alessandro_Alexander
+			Balduíno_Baldwin Bartolomé_Bartholomew Benedito_Benedict Benjamim_Benjamin
+			Carlos_Charles Cesare_Caesar Claudio_Claudius Cristoforo_Christopher
+			Dinis_Dionysus Donato_Donatus
+			Edmundo_Edmund Estêvão_Stephen Eustaquio
+			Fausto_Faustus Fernão_Ferdinand Filipe_Philip Francisco_Francis Frederico_Frederick
+			Gregorio_Gregory Guilherme_William
+			Heitor_Hector Henrique_Henry Herberto_Herbert
+			Juan_John Jorge_George José_Joseph
+			Luigi_Louis Lorenzo_Lawrence Lando
+			Marcos_Mark Martino_Martin Mateo_Matthew Mirón
+			Napoleone_Napoleon Nicolau_Nicholas
+			Patricio_Patrick Pablo_Paul Pedro_Peter
+			Rafael_Raphael Roberto_Robert Rodrigo_Roderick Ronaldo_Ronald
+			Salvatore_Salvador Sergio_Sergius Simone_Simon
+			Teobaldo_Theobald Teodósio_Theodosius Timoteo_Timothy Tristão_Tristan
+			Ulisses_Ulysses
+			Vermudo Vittorio_Victor
+			Xabier_Xavier
+		}
+		
+		female_names = {
+			Alessandra_Alexandra Alisia_Alice Amélia_Amelia Antonia Andréa_Andrea
+			Bárbara_Barbara Benedita_Benedicta Brunhilda_Brunhilde
+			Carla_Charlotte Catarina_Catherine Cecília_Cecilia Constancia_Constance
+			Debora_Deborah Dores Dorotéia_Dorothy
+			Eleonora_Eleanor
+			Isabella_Isabelle
+			Francesca_Frances
+			Glória_Gloria Gisele_Giselle
+			Joana_Joan Joaquima Josefa_Josephine Judite_Judith
+			Lílian_Lillian
+			Margherita_Margaret Matilde_Matilda Maria_Mary
+			Ofélia_Ophelia
+			Priscila
+			Raquel_Rachel Rebeca_Rebecca Renata Roberta Rute
+			Sara_Sarah Sofia_Sophia Susana_Susan
+			Tatiana Telma
+			Úrsula_Ursula
+			Valentina Verônica_Veronica Vitória_Victoria
+			Zanina
+		}
+		from_dynasty_prefix = "di "
+		
+		male_patronym = "piá de "
+		female_patronym = "fiá de "
+		prefix = yes
+		
+		allow_looting = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}

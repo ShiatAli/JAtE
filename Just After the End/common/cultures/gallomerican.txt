@@ -1,0 +1,435 @@
+###ÄNSI
+
+gallomerican = {
+	graphical_cultures = { westerngfx }
+
+	quebecois = {
+		graphical_cultures = { quebecoisgfx canadiangfx }
+		color = { 0.2 0.3 0.6 }
+
+		male_names = {
+			Adam_Adam Adélard Adolphe_Adolf Adrien_Adrian Aimé Alain_Alan Albert_Albert Alexandre_Alexander Alfred Alphonse_Alphonse Amable Amaury_Amalric Ambrose_Ambrose André_Andrew Andronic_Andronicus Aristide Armand_Herman Athanase_Athanasius Augustin_Augustine Aurèle_Aurelius Azaire_Azariah
+			Baptiste_Baptist Barthélémy_Bartholomew Basile_Basil Baudouin_Baldwin Bernard Blaise Bohémond_Bohemond Bonaventure 
+			Calixte_Callistus Camille_Camille Camillien Cartier Cécil_Cecil Célestin_Celestine Césaire_Caesar Charles_Charles Chomedey Christophe_Christopher Claude_Claudius Claude-Henri Cléophas Cyrille_Cyril 
+			Damase Daniel_Daniel David_David Denis_Dionysus Dieudonné Dollard Dosithé Dowina-Évariste Dustin 
+			Édouard_Edward Elphège Elzéar_Lazarus Émery_Amalric Éphrem_Ephraim Éric_Eric Esioff Étienne_Stephen Étienne-Paschal Eustache_Eustace 
+			Fabien_Fabian Félix_Felix Ferréol Foulques_Fulk François_Francis Frédéric_Frederick
+			Gabriel_Gabriel Gaétan_Cajetan Gaspard_Casper Gaston Gautier_Walter Gédéon_Gideon Geoffroy_Geoffrey Georges_George Georges-Étienne Georges-Henri_George-Henry Georges-Marie_George-Mary Ghislain Gilles_Giles Gratien_Gratian Guillaume_William Gustave_Gustav Guy
+			Hector_Hector Hector-Louis Henri_Henry Henri-Edgar Hilaire_Hilarius Hippolyte Honoré_Honorius Horace Hormisdas Hubert Hughes_Hugh Hyacinthe_Hyacinth
+			Isidore Ignace_Ignatius Israël_Israel
+			Jacques_James Jacques-Désiré Jean_John Jean-Baptiste_John-Baptist Jean-Docile Jean-François_John-Francis Jean-Georges_John-George Jean-Jacques_John-James Jean-Louis_John-Louis Jean-Luc_John-Luke Jean-Marie_John-Mary Jean-Paul_John-Paul Jean-Philippe Jean-René Jeannot Jérome_Jerome Joseph_Joseph Joseph-Octave Josselin_Jocelyn Josue_Joshua Julien_Julian Justin Juvenal
+			Laurent_Lawrence Léon_Leon Léotale-Guichart Léotale-Humbert Lionel Lotaire_Lothar Louis_Louis Louis-Alexandre Louis-Alphonse Louis-Amable Louis-Arsène Louis-Edmond Louis-Étienne Louis-François Louis-Hippolyte Louis-Joseph Louis-Philippe Louis-Siméon Luc_Luke Lucien_Lucian Ludger 
+			Marc_Mark Marc-Olivier Marcel_Marcellus Mario_Marius Martial Mathieu_Matthew Maurice Maximilien_Maximilian Médéric Michel_Michael Michel-Louis Michel-Sidrac Moncef Moustaphe_Mustafa 
+			Napoléon_Napoleon Nérée Normand_Norman 
+			Octave_Octavius Odon_Otto Olaüs Olivier_Oliver Onésime_Onesimus Onfroy Ovide Ozias
+			Pacifique Pantaléon Pascal Paul_Paul Paul-Antoine Paul-Émile Paul-Timothée Payson Philémon_Philemon Philippe_Philip Philippe-August Pierre_Peter Pierre-Évariste Pierre-Marie_Peter-Mary Praxède
+			Raymond_Raymond Réal Régis_Regis Réjean Renaud_Reynard René_Rene Robert_Robert Rodolphe_Rudolph Roger_Roger Rohard Roland_Roland Roméo_Romeo Roupen
+			Samuel_Samuel Sarto Sébastien_Sebastian Serge_Sergius Séverin_Severin Simon Stanislas_Stanislaus Stéphane_Stephen Sulpice 
+			Tancrède_Tancred Télesphore_Telesphorus Théogène_Theogenes Théophile_Theophilus Thomas Thomas-Étienne
+			Uldéric Urbain_Urban 
+			Valpy Victor-Lévy Victor-Marie Vincent_Vincent
+			Wenceslas_Wenceslaus Wilfrid_Wilfred
+			Xavier
+			Yann_Yannick Yves 
+			Zachaire_Zachary Zénon_Zeno Zéphyrin_Zephyrinus Zotique 
+		}
+		
+		female_names = {
+			Adèle_Adele Adéline Adrianne_Adriana Agnès_Agnes Agrippine Alexandra Alexandrine Alix_Alice Anabelle Andréanne Andrée_Andrea Anique Anne_Anna Anne-Marie Antoinette Apolline_Apollonia Arianne Aude Aurore_Aurora Axelle
+			Béatrice_Beatrice Bernadette Berth Brigitte Blanche
+			Carole_Caroline Caroline Catherine_Catherine Céline_Celine Charlotte_Charlotte Chantal Charmaine Chloé_Chloe Christianne Christine_Christina Claire Claudine Concordie Constance 
+			Danielle Denise Diane Dominique
+			Élaine_Elaine Éléonore_Eleanor Élisabeth_Elizabeth Élise Émilie_Emily Ève_Eve Évelyne_Evelyn
+			Fatima Félicia Flore Florence Francine Françoise Frédérique_Frederica 
+			Gabrielle_Gabriele Geneviève_Genevieve Gertrude Ginette Gisèle_Giselle Guylaine 
+			Hélène_Helen Henriette_Henrietta
+			Irène_Irene Isabelle Isadora 
+			Jacinthe Jacqueline Jeanette Jeanne_Joan Jeannine Jocelyne Joelle Josée Joséphine Josianne Juanita Judith Julie_Julia Justine
+			Laura Laurence Léa_Leah Léopoldine Lise_Lisa Lorraine Louise Lucienne Lucine 
+			Macha Manon Marcelle Marcelline Marie_Mary Marie-Catherine Marie-Claire Marie-Eve Marie-Hélène Marie-Josée Marilène Marguerite Martine Maxine Maryse Mathilde Maude Mélanie_Melanie Mélissa Michèle Micheline Milaine Mona Monique_Monica Mylène
+			Nadine Nancy Nathalie_Natalie Nicole Noëlle Noémie
+			Odette Olympe Orélie
+			Pauline Pénélope_Penelope Pierrette 
+			Rachelle Régine_Regina Robertine Rosalie
+			Safia Sarah_Sarah Sharon Sibylle_Sibyl Simone Sonia Sofie_Sophia Stéphanie_Stephanie Suzanne_Susan
+			Théodora_Theodora Thérèse_Theresa
+			Valérie_Valeria Vanessa Véronique_Veronica Virginie_Virginia Vivian_Vivien 
+			Ursule_Ursula
+			Yasmeen_Jasmine Yolande_Yolanda Yvon_Yvonne Yvette 
+			Zoé_Zoe
+		}
+
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	acadien = {
+		graphical_cultures = { quebecoisgfx canadiangfx }
+		color = { 0.4 0.5 0.8 }
+
+		male_names = {
+			Adélard Adhémar Alden Alexandre_Alexander Amédée_Amadeus Annibal_Hannibal Anselm Alphonsus_Alphonse Aubin Augustule_Augustus Azor
+			Balian Balthazard_Balthazar Baptiste_Baptist Baudouin_Baldwin Beausejour Benoît_Benedict Benoni Bernard Bohémond_Bohemond Boishebert Bourbon Bruin 
+			Calixte_Callistus Camille Cassidy Castin Charles_Charles Chenard Chomedey Cédrick_Cedric Claude_Claudius Claude-Sébastien Clovis Cornelius Cyprien_Cyprian Cyril
+			Dagobert Daniel_Daniel David_David Diescau Docithe Dupont
+			Edmond_Edmund Elvy Émile_Aemilius Éric_Eric Étienne_Stephen Eymard
+			Félix_Felix Fernand_Ferdinand Firmin
+			Gaël Gagnon Gaspard_Casper Gaurhept Gédéon_Gideon Georges_George Gérald_Gerald Germain_Germanus Godefroi_Godfrey Gontran Gozlin Grégoire_Gregory
+			Hazard Hector Henri_Henry Heribert_Herbert Herménégilde Hidulphe Hippolyte Honoré_Honorius Hugues_Hugh
+			Ildebrand Isaie_Isaiah Isidore
+			Jacques_James Jean_John Jean-Baptiste_John-Baptist Jean-Louis_John-Louis Jean-Paul_John-Paul Jean-Pierre_John-Peter Jeffery_Geoffrey Joseph_Joseph Joseph-Antoine Joseph-Nicolas
+			Leonce Lévite Lienard_Leonard Lorens_Lawrence Louis_Louis Louis-Hippolyte Louis-Joseph Louis-Philippe
+			Macaire_Macarius Marcel_Marcellus Marien_Marianus Martin_Martin Mathieu_Matthew Mathurin Maximin Médard Mervin Michael_Michael Michel-Ange
+			Neil_Neil Nicolas_Nicholas Noël_Noel Norbert
+			Octave_Octavius Odo_Otto Olivier_Oliver Omer_Homer Ozias
+			Paris Paul_Paul Pépin_Pepin Perceval_Percival Philias Pier_Peter Pierre-Esprit Pierrick Pius Pons_Ponce
+			Raimbaud Rémy_Remy Renart_Reynard René_Rene Réginald_Reginald Rhéal Richard_Richard Richelieu Robert_Robert Roberval Rodrigue_Roderick Roger Roland_Roland Roméo_Romeo Romuald Rorgon Rous
+			Samuel_Samuel Sidoine Silvanus Simon-Pierre 
+			Tancrède_Tancred Télésphore_Telesphorus Testard Thaddée_Thaddeus Théophile_Theophilus Thomas_Thomas Thury_Theoderic Toussaint Tranquille Troilus Tybalt
+			Ubald
+			Valentin_Valentine Valois Vernon Vézian
+			Waylon Wilifred_Wilfred William 
+			Yannick Yvon
+			Zenobius
+		}
+		female_names = {
+			Acadie Adèle_Adele Alison Aldéa Anabelle Andrea Angèle_Angela Anne_Anne Anne-Marie Anne-Sophie Antoinette Antonine 
+			Béatrix_Beatrice Bernadette Berth Bilechilde Blanche Brigitte_Bridget
+			Catherine_Catherine Céline Cheryl Christianne Christine_Christina Chrodoare Clare_Claire Claudette Claudine Clotilde Corinne
+			Denise Dominique
+			Edesse Edith Elaine Éléonore_Eleanor Elise_Elizabeth Émilie_Emily Émilienne Emma Ermengunde Eschive Esther Eulalie Euphrosie Evangeline 
+			Félicia Flore Florence France Françoise
+			Gabrielle_Gabriele Geneviève_Genevieve Gertrude Ginette Gisèle_Giselle Gracia
+			Hedwige_Hedwig Héloise_Eloise
+			Irène_Irene
+			Jeanne_Joan Joséphine_Josephine Josianne Judit_Judith Julie_Julia Justine
+			Léopoldine Lorène_Lauren Louise Lyse_Lisa
+			Madeleine Manon Maude Moire Marguerite Marie_Mary Martine Mathilde_Matilda Millicent
+			Natasha
+			Obeline Odette Olympe Orélie Osithe
+			Patricia Pauline Phoebe Pierrette
+			Rosaline_Rosalind Rotrude
+			Scolastique Sonia Stéphanie_Stephanie Suzanne_Susan Syagria
+			Tharzile Thérèse_Theresa
+			Ursule_Ursula
+			Vanessa Viola Virginie_Virginia
+			Zoé_Zoe
+		}
+
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		seafarer = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+	metis = {
+		graphical_cultures = { haidagfx canadiangfx }
+
+		color = { 0.85 0.5 0.7 }
+
+		modifier = default_culture_modifier
+
+		male_names = {
+			Adélard Albert_Albert Alec_Alexander Alexander_Alexander Alexandre-Antonin Alexis Alexis-André Ambroise-Dydime Ambrose Andrew_Andrew Andy_Andrew Angus Antoine_Anthony Antonine Arron_Aaron Arthur Asham August_Augustus Augustin_Augustine Axel
+			Baptiste_Baptist Bernard Bob_Robert Brian Bronson Bryan_Brian Buckley
+			Calvin Capote-Blank Charles Charles-Michel Clément_Clement Clyde Conroy Cuthbert Cuthbert-Louis Cyril Chomedey
+			David_David Denis_Dionysus Derrick_Theoderic Diom_Diomedes Don_Donald Douglas Doyle Duane Dwight Dydim Dylan
+			Eldon Elmer Elzéar Esprit-Errant Eugène_Eugene
+			Félix_Felix Floyd François_Francis François-Xavier
+			Gabriel_Gabriel Gallant Garvin Gaspard_Casper George_George Gerald Germaine_Germanus Gil Gregory Guillaume_William Gédéon_Gideon 
+			Hamelin Harley Henri_Henry Hippolyte Honoré_Honorius Honoré-Jacques Howard 
+			Ian
+			Jacco Jaco Jacques_James Jacques-Raphael James_James Jaxon_Jackson Jean_John Jean-Baptiste_John-Baptist Jess Joe_Joseph John_John John-Bruce John-Lazarus Jonas_Jonah Jonathan_Jonathan Jules_Julius
+			Kalib_Caleb Kornai Keith Kevin
+			Laird Laurent-Salomon Lawrence Leroy Louis_Louis Louis-Hippolyte Louis-Philippe Louis-Riel 
+			Malcolm Maxime Michel_Michael
+			Norbert 
+			Ours-Fou Ovide Ozias
+			Pascal Paul_Paul Peter_Peter Pierre_Peter Pierre-Narcisse Prosper
+			Ralph Ranald Raoul_Ralph Ray_Raymond Raymond_Raymond René_Rene René-Léonidas Rhéaume Rick_Richard Robert_Robert Robert-Falcon Rocky Rod_Roderick
+			Salomon_Solomon Shane Sheldon Solomon_Solomon
+			Théophile_Theophilus Theoren Thomas_Thomas Todd Tom_Thomas Tony_Anthony Tyrone Ti-Jean 
+			Vernon Vic_Victor Vital-Justin 
+			Wade Wayne William_William
+			Xavier
+			Yvon
+			Zetwel 
+		}
+		female_names = {
+			Andrea Audrey Adèle_Adele Anabelle Angélique_Angelica
+			Blanche Bernadette Berth Bethsy_Elizabeth Brigitte_Bridget
+			Carole_Caroline Catharine_Catherine Chanta Chantell Charlotte Christi_Christina Christine_Christina Colleen Claire Claudine Christianne
+			Dominique
+			Éléonore_Eleanor Elise Elizabeth Evelyn
+			Frechette Félicia_Felicia Françoise_Frances Florence Flore
+			Gabrielle_Gabriele Gertrude Ginette Gisèle_Giselle
+			Hélène_Helen Holly
+			Isabelle Irène_Irene
+			Janet Jani Jennifer Jo-Ann Josephine Josette Juanita Julie_Julia Justine
+			Katherena_Catherine Kinnie
+			Laurence Laura Laurette Léopoldine
+			Madame Madeline_Magdalene Magdelaine_Magdalene Marguerite Maria_Mary Marianne Marie_Mary Marie-Marguerite Marie-Thérèse_Mary-Theresa Marilyn Mary Mathilde_Matilda Manon Maude Martine
+			Nancy Norma
+			Olympe Orélie Odette
+			Pauline Pearl Phoenix 
+			Rosalie Rose-Marie_Rosemary Roseanne_Roseanne Ruzh 
+			Saley_Sally Sandra_Alexandra Sara_Sarah Sharon Signa Shelly Stella Suzanne_Susan Sonia
+			Tanto Thelma Thérèse_Theresa
+			Vanessa Virginie_Virginia Vitaline
+			Yvonne
+			Zoé_Zoe
+		}
+		
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+		
+		allow_looting = yes
+		seafarer = yes
+	}
+
+	ontarois = { #not too French
+		graphical_cultures = { quebecoisgfx canadiangfx }
+		unit_graphical_cultures = { frankishgfx occitangfx }
+
+		color = { 0.1 0.1 0.5 }
+
+		male_names = {
+			Adam_Adam Adélard Adrien_Adrian Aimé Albert_Albert Alcide Alden Alton André_Andrew Augustule_Augustus
+			Baptiste_Baptist Baxter Benoît_Benedict Bernard Brent Bruce
+			Camille Carter Charles_Charles Chomedey Christopher_Christopher Claude_Claudius Conrad Cyrille_Cyril
+			Damien_Damian Daniel_Daniel David_David Denis_Dionysus Doric
+			Edward_Edward Edwin Elliott_Elliot Érik_Eric Ernest Eugène_Eugene
+			Félix_Felix Firmin François_Francis Frédéric_Frederick
+			Gaétan_Cajetan Gagnon Gaspard_Casper Gaston Gilles_Giles Gilbert Gédéon_Gideon Geoffroy_Geoffrey Gérald_Gerald Grégoire_Gregory Guy 
+			Henri_Henry Hippolyte Honoré_Honorius Horace Hubert Hughes_Hugh
+			Isaie_Isaiah Isidore
+			Jacques_James Jean_John Jean-Louis Jean-Marc Joseph_Joseph Julien_Julian Justin_Justin
+			Kevin 
+			Léon-Calixte Leonce Lévite Lloyd Louis_Louis Louis-Hippolyte Louis-Philippe
+			Marc_Mark Marcel_Marcellus Martin_Martin Maxime Michael_Michael Mauril
+			Napoleon Neil_Neil Nicolas_Nicholas Noël_Noel Norbert Normand_Norman 
+			Octave_Octavius Odo_Otto Olivier_Oliver Omer_Homer Ozias
+			Paul_Paul Paul-Émile Pierre_Peter Philippe_Philip
+			Raymond_Raymond Réginald_Reginald Richard_Richard Robert_Robert Roch Roger_Roger Rolande_Roland Roméo_Romeo Ryan
+			Samuel_Samuel Saxton Sebastien_Sebastian Serge_Sergius Simon Stéphane_Stephen
+			Théophile_Theophilus Thomas_Thomas Tybalt 
+			Vernon Vincent_Vincent
+			Wade Wilfrid_Wilfred
+			Yvon
+		}
+
+		female_names = {
+			Adèle_Adele Anabelle Alanis Andrea Angèle_Angela Annette Antoinette Avril_April
+			Bernadette Berth Blanche Brigitte_Bridget
+			Caroline Catherine_Catherine Cécile_Cecilia Céline Chantal Charlotte_Charlotte Cheryl Christianne Christine Claire Clare_Claire Claudette Claudine 
+			Danielle Denise Diane Dominique
+			Edith Elaine Éléonore_Eleanor Émilie_Emily
+			Félicia_Felicia Florence Flore France Françoise_Frances
+			Gabrielle Gertrude Ginette Gisèle_Giselle Gracia
+			Helen_Helen
+			Irène_Irene
+			Jacqueline Jeanne_Joan Joséphine_Josephine Josianne Julie_Julia Justine 
+			Laurence Léopoldine Lola Louise_Louisa Lucie Ludivine Lyse
+			Madeleine_Magdalene Manon Marguerite Marie_Mary Mariette Martine Mathilde_Matilda Maude_Maud Moira 
+			Nancy Natasha
+			Odette Olympe Orélie
+			Patricia Pauline Phoebe
+			Rachel_Rachel Rotrude
+			Sarah_Sarah Shelley Sonia Suzanne_Susan
+			Thérèse_Theresa Trèva 
+			Ursule_Ursula
+			Vanessa Veronic_Veronica Viola Virginie_Virginia
+			Yvonne
+			Zoé_Zoe
+		}
+		
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	rouillard = {
+		graphical_cultures = { greatlakesgfx }
+		color = { 0.6 0.8 0.9 }
+
+		male_names = {
+			Abraham_Abraham Adalbert_Albert Alfred_Alfred Amalrique_Amalric Adalphons_Alphonse Adam_Adam Aripert Antoine_Anthony Adalrost Alexandre_Alexander
+			Berique_Berick Benjamin_Benjamin Burrill Bentley Benzène_Benzene Béssémère_Bessemer Boris
+			Chrétien_Christian Christophe_Christohper Casimir
+			Daniel_Daniel David_David Dodge Dexter Durant Dorique_Dorrich Dominique_Dominic
+			Erique_Eric Etzel Eurique_Eurich Edward_Edward Edmund Eugene_Eugene Erwin Elwood Edgar_Edgar Isenfolphe_Eisenwulf Isenrique_Eisenrich Isenslas_Eisenslaus
+			Frederique_Frederick Philadelphe Florant_Florent Ferdinand_Ferdinand Philipe_Philip François_Francis Foulques_Fulk Fabien_Fabian Ferreol Félix_Felix
+			Gilbert_Gilbert George_George Gerolt_Gerald Gordon Gelbin
+			Hugo_Hugh Hammo Anrique_Henry Hudson Arli_Harley
+			Isaac_Isaac
+			Johan_John Jaques_James Justin_Justin Julian_Julian Jerome Jagiel
+			Charles_Charles Quifaire_Keifer
+			Laurent_Lawrence Ludefique_Louis Lumen Leonard_Leonard Ladislas_Ladislaus
+			Michael_Michael Morris_Maurice Martin_Martin Marklin Maynard Maréchal_Marshall Marquo_Mark
+			Nicholas_Nicholas Nathaniel Napoléon_Napoleon Nérée
+			Otto_Otto Olivier_Oliver Orvil_Orville
+			Paul_Paul Pierre_Peter Payton
+			Rostain_Rostwin Roart_Rohardt Roger Rémond_Raymond Richard_Richard Rénault_Ronald Rustain_Rustin Réal Robert_Robert Roald
+			Steppan_Stephen Simond_Sidmund Stalrique_Stahlrich Stalgart_Stahlgar Stanley
+			Tom_Thomas Theo_Theodore Todrique_Todrich
+			Vince_Vincent Victor_Victor Virgil Véltibort_Velibor
+			William_William Weyland Wayne Walter_Walter Wilbur Vernaire_Werner Voit_Woitke
+			Zachary_Zachary Zventibolde_Zwentibold
+		}
+		
+		female_names = {
+			Adela_Adele Annelise Angeliqua_Angelica Anne_Anne Amanda Antoinia_Antonia Aurora_Aurora Alyssa Adina Alexandra Alice Acadia_Acadie
+			Brunhilda_Brunhilde Belleaire_Belaire
+			Corvette Courteny_Courtney Shelsea_Chelsea Cécellia_Cecilia Sheryl_Cheryl Chloé Concordie Charlotte_Charlotte Constance Carolina_Charlotte Célina Claire Claudina Christianna 
+			Daniella_Danielle Donna_Dawn Dianna_Diane Deborah Dominiqua_Dominique
+			Ellanor_Eleanor Eriqua_Erica Emma Éllen_Ellen Isenhilda_Eisenhilda Isentrude_Eisentrude Esthair_Ester
+			Grimhilt Gladys Gabriella_Gabriele Georgeanne Gertrude
+			Hailey Éllen_Helen Heather Hedwig
+			Isabella_Isebelle Idébelle_Idebelle Ivanna_Yvonne
+			Catherina_Catherine Christina Catherine_Catherine
+			Jennifer Julia_Julia Joséphina_Josephinw Jessa Janette
+			Lorelei Lenore Laurence Lucia_Lucy Laura Léa Louise Lyse_Lisa Léopoldine
+			Marie_Mary Martha_Martha Margérita_Margaret Melissa Michelle Maxine
+			Nicholetta Nannis Natalie
+			Paula
+			Rosa_Rose Rachel Rebecca_Rebecca Rita Regina Roxy_Roxanne
+			Sara_Sarah Susanna_Susan Stephania_Stephanie Stalhilda_Stahlhilda Sophia_Sophia
+			Todhilda Tamara
+			Ursule_Ursula
+			Violet Virginia Victoire_Victoria Vanessa Valérie_Valeria Véronique_Veronica Virginie_Virginia
+			Willa
+			Yvette Yvonne_Yvonne
+			Zoé_Zoe
+		}
+
+		from_dynasty_prefix = "D'"
+		grammar_transform = french
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	omedulac = {
+		graphical_cultures = { greatlakesgfx }
+		color = { 0.5 0.6 0.7 }
+		
+		dukes_called_kings = yes
+		
+		male_names = {
+			Alexandre_Alexander Alvain_Alvin Andrew_Andrew Abel Ahab Abraham_Abraham Axel Arno_Arnold André_Andrew Albert_Albert 
+			Aapo_Abraham Aimo Alvaire_Oliver Antoine_Anthony Arto Alice_Aulis Arthure_Arthur Arni_Arnold Alexanderi_Alexander
+			Burbot Bainson Bollard Balin Bjorn_Beorn Bragi Bifur Bofur Bombur Brillant_Brian
+			Clark Carl_Charles Cyrus Chrétien_Christian Cable Cyril Christaire_Christopher Conan Christophe_Christopher
+			Dexter David_David Dodge Dromond Delle_Dale Dori Dwalin Durain_Durin Dáin 
+			Élmart_Elmhart Édmond_Edmund Élisha_Elijah Édsel_Edsel Éric_Eric Airno_Ernest Éno_Eino Édvard_Edward Édvin_Edwin Émil_Aemilius Éro_Eero Élias_Elijah
+			Fitzgerald Fardage Frederique_Frederick Franklin_Franklin Fafnire_Fafnir Filip_Philip France_Ferdinand Fili_Fíli Fror_Frór Farain_Farin Fondain_Fundin Fred_Frederick
+			Glanlion_Glenlyon Griffon George_George Gudgéon_Gudgeon Gidéon_Gideon Gybe Cordon_Gordon Gregory_Gregory Guy_Guy Gorm Gloin_Glóin Groin_Gróin Gror_Grór Gimli Gavain_Gavin
+			Amilton_Hamilton Henry_Henry Iac_Hyac Idris_Hydrus Ackette_Hackett Aliard_Halyard Anibal_Hannibal
+			Ugh_Hugh Arve_Harve Aimdal_Heimdul Anrique_Henry Équi_Heikki Ary_Harri Éno_Heino Alfdant_Halfdan Orsa_Horsa Onire_Honir Arald_Harold
+			Isaac_Isaac Irfin_Irvin Ishmail_Ishmael Ifar_Ivar Ilmarain_Ilmarinen
+			Jeffrey_Geoffrey Jaquobe_Jacob Jaime_James Jimmaire_James Jowan_John Joaquain_Joachim Juho Jorma
+			Kedge Chris_Christopher Kalan Kupar Kivi Charles_Charles Coco_Kauko Kullerfo_Kullervo Kalarfo_Kalervo Keif_Keiv Kíli
+			Laurent_Lawrence Loufis_Louis Lazarette_Lazarus Lorne Lunta Ludéfique_Louis Leonis_Leon Lemminki Lampie_Lempi Leif
+			Madison Martin_Martin Matair_Mather Michael_Michael Mark_Mark Marin Mammut 
+			Ned Náin Nord_Njord Nori
+			Owain_Owen Okumé_Oakum Oliver_Oliver Odocille_Odocoil Otto_Otto Osmo Ole Óin Ori Oliviér_Oliver
+			Pique_Pike Paul_Paul Pierre_Peter Picton Pinus Pasi Petro_Peter 
+			Robert_Robert Richard_Richard Rogday Rubain_Ruben Roband Rife_Reeve Robin Roger_Roger Remnar Ransom Ragnar Rieti_Frederick
+			Sculpain_Sculpin Stephan_Stephen Scotiadoc Soulivain_Sullivan Stemson Stevedore_Stephen Seymour Spencer Salvelin Samuel_Samuel Seppo Sigurd 
+			Tim_Timothy Theodore_Theodore Thaddeus Townsend Tommo_Thomas Tohmas_Thomas Torvald Toivo Tiera Tomar Thorin Thráin Thrór Tristan
+			Untamo
+			Vainamoinen Velikulta
+			Will_William Wally_Walleye Wyandot Wyatt Wolf Wulfhere
+			Emir_Ymir 
+			Zachary_Zachary
+		}
+		
+		female_names = {
+			Anné_Anne Arboré_Arbora Alme_Alma Algomé_Algoma Alycé_Alyssa Acacie_Acacia Auroré_Aurora Auni_Agnes Adé_Ada Amélie_Amalia Amandé_Amanda Annalise_Annaliisa Atali Alané_Alana
+			Bé_Bee Barbaré_Barbara Brook Blossomé_Blossom Beth Brité_Brita Briané_Breanna
+			Chelsé_Chelsea Chippé_Chippewa Charlotte_Charlotte Colombé_Columbia Cobé_Cobia Casey Clair_Claire Crystal Camilleé_Camilla
+			Dolomé_Doloma Donné_Dawn Dagmé_Dagmar Doroté_Dorotea Disé_Dís
+			Edna Edith Elisabet_Elizabeth Ariqué_Erika Elysé_Elisa Eliné_Helen Ester_Esther Eveliné_Evelyn
+			Francoise_Frances
+			Gladys Georgie_Georgia Genoé_Genoa
+			Édda_Haida Agaré_Hagar
+			Iris Isabelle Ilmatar Irené_Irene Iloné_Helen Imogen
+			José_Josephine Jaana Jonna_Joan Julie_Julia
+			Kivutar Kathryn_Catherine Karin_Karen Karolina_Caronline Kylie_Kyllikki Kristina_Christina Keira Kerté_Gertrude
+			Élen_Helen Lauré_Laura Léné_Leena Lagertha Louise_Louhi Lokka
+			Marjorie Margarite_Margaret Maré_Mary Moré_Moira Marielle Mélissé_Melissa Médé_Maida Marjétté_Marjatta Morgan
+			Nancy Norgomé_Norgoma
+			Ozé_Oza
+			Perch Petra
+			Rosé_Rose Rachel
+			Sylvé_Sylph Stephanie_Stephanie Sprite Sarné_Sarnia Shanty Sohfi_Sophia Salmé_Salme Songé_Sonia 
+			Taré_Tara Tité_Tytti
+			Ursulé_Ursula
+			Vienné_Vienna Vanéssé_Vanessa Veronique_Veronica 
+
+		}
+
+		from_dynasty_prefix = "D'"
+		grammar_transform = french
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+		
+		allow_looting = yes
+		seafarer = yes
+	}
+}

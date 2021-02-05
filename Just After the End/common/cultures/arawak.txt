@@ -1,0 +1,101 @@
+###ÄNSI
+
+arawak = {
+	graphical_cultures = { mesoamericangfx mexicangfx muslimgfx }
+	
+	wayuu = {
+		graphical_cultures = { mesoamericangfx }
+		color = { 0.5 0.25 0.15 }
+		
+		male_names = {
+			Alanzo Alejandro_Alexander Alfredo_Alfred Ambrosio_Ambrose Antülikan Anuwana Ashneish Amorotahe Arah Arata
+			Chay Cotiz
+			Emilio_Aemilius
+			Fabio_Fabian Felipe_Philip
+			Gerardo_Gerard Gervaso_Gervase
+			Haubariria Horado
+			Josue_Joshua Junuunay
+			Kalaira Katsüinwaa Kaigouchi
+			Laliwa Leonides_Leonidas Luis_Louis
+			Manolo Mayeesai Mbicy Miguel_Michael Mile Moises_Moses
+			Paco Paipai Pirijá
+			Rafael_Raphael Ramon_Raymond Rapayet Rico Roderigo_Roderick
+			Sarrakana Shoko
+			Tanko Tomas_Thomas Toratora Toruí Turizo
+			Waluuseechi Wattawai Wiwakaleme
+		}
+		
+		female_names = {
+			Astrid
+			Beatriz_Beatrice Bernicia Brandye Buena
+			Calida Cari Castorila Cecilia
+			Deris
+			Elena Elizabeth_Elizabeth Elodia_Elodie Elsa Elvia Enriqueta Estercilia
+			Florinia Florita
+			Griselda
+			Iiwa Isabel_Isabelle Izarre
+			Javiera
+			Karmen
+			Leonor_Eleanor Lera Luella
+			Maria_Mary Milagrosa Mireya Monita
+			Orisinia
+			Pili Puebla Pulowi
+			Takuiba Twengga
+			Worunka 
+		}
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	lokono = {
+		graphical_cultures = { mesoamericangfx }
+		color = { 0.65 0.3 0.25 }
+		
+		male_names = {
+			Adaheli Amorotahe Arah Arata Arnold
+			Cecil Charles_Charles Clifford Cuthbert
+			Damon David_David Diego_James
+			Emmanuel Ernest
+			Fodi Foster
+			George_George
+			Halaso Hatuey Haubariria Henry_Henry Hilton
+			Ivan
+			Jacob Jesus Joshua_Joshua John_John Joseph_Joseph Julian
+			Kabadaro Kaigouchi Keith Koyaha
+			Laliwa Lennox Leyland Lynus_Linus
+			Maurice Mbicy
+			Ori Orlando_Roland Oswald
+			Patrick Peero Peter_Peter Philip_Philip Pirijá
+			Robert_Robert Roland Richard_Richard
+			Shoko Sidney Stephen
+			Telford Thomas_Thomas Tiburtio Toratora Toruí
+			Vivian
+			Warner William_William Wiwakaleme 
+		}
+		
+		female_names = {
+			Aderi Alison
+			Della Doreen
+			Cecilia Charlotte Clara_Claire
+			Elizabeth_Elizabeth Elsie Etheldreda
+			Hannah Hayá Hime
+			Isabella_Isabelle Isani
+			Jean_Joan
+			Kodibio Koiara Koriuaka
+			Laliwa
+			Mariah_Mary Marian Martha
+			Olive_Olivia
+			Rebecca_Rebecca Ruth_Ruth
+			Sabantho Shirling Shivanie Shoko
+			Takuiba Tituba Twengga
+		}
+	}
+}

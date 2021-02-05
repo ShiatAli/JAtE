@@ -1,0 +1,216 @@
+###ÄNSI
+
+portuguese = {
+	graphical_cultures = { southerngfx andalusiangfx muslimgfx mesoamericangfx }
+	
+	brazilian = { #Added names of Portuguese, Galician, and Brazilian nobles
+		graphical_cultures = { southerngfx trueoccitangfx occitangfx }
+		
+		color = { 0.2 0.8 0.07 }
+
+		male_names = {
+			Abílio_Abel Abrão_Abraham Adão_Adam Afonso_Alphonse Agostinho_Augustine Alberte_Albert Aleixo_Alexander Aloisio_Alois Andrézin_Andrew Anibal_Hannibal Antônio_Anthony Anxo Atíla_Attila
+			Balduíno_Baldwin Bartolomeu_Bartholomew Batista Benedito_Benedict Benjamim_Benjamin Bento_Benedict Berengár_Berengar Bebeto Bonifácio_Boniface Brais Breixo Breno
+			Caetano_Cajetan Carlos_Charles Casimiro_Casimir Cecilio Chico Claudio_Claudius Clemente_Clement Cornélio_Cornelius Cristiano_Christian Cristóvão_Christopher
+			Damiãno_Damian Davi Demetrio_Demetrius Desidério_Desiderius Dimas Dinis_Dionysus Diogo_James Dionisio_Dionysus Domingos_Dominic Donato_Donatus Duarte_Edward
+			Edmundo_Edmund Élder Eleuterio Eloi Emerico Emilio_Aemilius Enéas_Aeneas Enzo Érico_Eric Ermenegildo Estêvão_Stephen Eugênio_Eugene Eulálio Eusebio_Eusebius Eustaquio Ezequiel_Ezekiel
+			Fabião_Fabian Fabricio Faustino_Faustin Fausto_Faustus Feliciano Felipe_Philip Ferrão_Ferdinand Flávio_Flavius Florencio Francisco_Francis Frascuelo_Francis Frederico_Frederick
+			Gabriel_Gabriel Gaspar_Casper Gervasio_Gervase Gil Glaucio Godofredo_Godfrey Gonçalvo_Gonzalo Graciano_Gratian Gregorio_Gregory Gualter_Walter García_Garcia Guilherme_William Gustavo_Gustav
+			Heitor_Hector Hélder Heliodoro Henrique_Henry Henriques_Henry Herberto_Herbert Hermenegildo Hermínio_Herman Hilario_Hilarius Hipolito_Hippolyte Horacio_Horace
+			Inácio_Ignatius
+			Jacinto Jaime_James Jão_John Joaquim_Joachim Jorge_George José_Joseph Josué_Joseph Júlio_Julius
+			Leandro_Leander Léonardo_Leonard Léopoldo_Leopold Lourenço_Lawrence Lúcio_Lucius Luís_Louis Leozin_Louis
+			Macario_Macarius Manoel Marcelino Marcelo_Marcellus Márcio Marcos_Mark Mário_Marius Martinho_Martin Mateus_Matthew Mauricio_Maurice Maximiano_Maximian Maximiliano_Maximilian Maximino Modesto
+			Narciso Natanael_Nathaniel Netuno_Neptune Nicodemo_Nicodemus Nicolau_Nicholas Nuno
+			Olavo Osvaldo_Oswald Otávio_Octavio Ovídio_Ovid
+			Pascoal_Pascal Patricio_Patrick Paulinho_Paul Paulo_Paul Pedro_Peter Pio Plácido Plinio
+			Quim
+			Rafael_Raphael Raimundo_Raymond Raul_Ralph Reinaldo_Ronald Remigio Renato Roberto_Robert Rodolfo_Rudolph Rodrigo_Roderick Roldão Ronaldo_Ronald Roque Ruan Rufinho Rui
+			Salomão_Solomon Santos Saturninho Sergio_Sergius Severino_Severin Silvio Simão Sebastião_Sebastian
+			Tacito Tadeu Teobaldo_Theobald Teodósio_Theodore Tiago_James Tiburcio Timoteo_Timothy Tristão_Tristan
+			Ulisses_Ulysses Uxío
+			Valentim_Valentine Valeriano_Valerian Valerio_Valerius Veríssimo Vítor_Victor Vinícius Virgilio_Virgil
+			Xavier
+			Zeferino
+		}
+		female_names = {
+			Amélia_Amelia Ana_Anne Andréa_Andrea Antônia_Antonia Amanda Assunção 
+			Bárbara_Barbara Benedita_Benedicta Branca Bianca Betina
+			Candelária Carmen Carmo Catarina Cecília_Cecilia Célia_Cecilia Chica Cíntia Constancia_Constance Carlota_Charlotte
+			Débora_Deborah Desidéria Diamantina Domitila Dores Dorotéia_Dorothy Dulce
+			Edite Eduarda Efigênia Elisabete_Elizabeth Elleanora Eufémia Eugênia Eulália 
+			Fatimá_Fatima Feliciana Felicidade Flávia Francisca_Frances Frederica
+			Gabriela_Gabriele Gertrudes_Gertrude Glaucia Glória_Gloria Graça_Grace Giovanna
+			Henriqueta Hermínia Helena_Helen
+			Imaculada Inês_Agnes Isabel_Isabelle
+			Jacinta Joana_Joan Joaquima Josefa_Josephine Januária Judite_Judith
+			Leocádia Leonor_Eleanor Leticia Lía Lídia Lílian_Lillian Lúcia_Lucy Luisa_Louise Lurdes Leopoldina 
+			Madalena_magdalene Márcia Margarida_Margaret María_Mary Matilde_Matilda Micaela Mônica_Monica
+			Nathália_Natalie Neves Noela
+			Ofélia_Ophelia Olalla Olívia_Olivia 
+			Priscila Paula
+			Rafaela Raquel_Rachel Rebeca_Rebecca Renata Roberta Rute 
+			Sabela Sara_Sarah Sofia_Sophia Sonia Susana_Susan 
+			Tatiana Telma Teresa_Theresa Thaís
+			Úrsula_Ursula
+			Verônica_Veronica Vitória_Victoria
+			Zélia
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "filho de "
+		female_patronym = "filha de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+	
+	baiano = { #Afro-Brazilians from the Northeast of Brazil, some names based on Orixas 
+		graphical_cultures = { africangfx southerngfx mexicangfx }
+		unit_graphical_cultures = { westafricangfx muslimgfx }
+
+		color = { 0.1 0.45 0.17 }
+		
+		male_names = {
+			Abílio_Abel Adão_Adam Agostinho_Augustine Aleixo_Alexis Andrés_Andrew Anibal_Hannibal Antón_Anthony Ângelo_Angel
+			Batista Benjamim_Benjamin Bento_Benedict Beto_Robert Bieito Biel_Gabriel Bonifácio_Boniface Brais Breixo Breno
+			Caetano_Cajetan Carlos_Charles Cecilio Chico Cibrán Claudio_Claudius Clemente_Clement Cornélio_Cornelius
+			Damiãno_Damian Davi Demetrio_Demetrius Dimas Dinis_Dionysus Diogo_James Domingos_Dominic Donato_Donatus Duarte
+			Élder Emilio_Aemilius Érico_Eric Estêvão_Stephen Erazmique Emanuel_Emmanuel Enzo Eugênio_Eugene Eusebio_Eusebius Eustaquio
+			Fabião_Fabian Faustino_Faustin Feliciano Fernão_Ferdinand Flávio_Flavius Francisco_Francis
+			Gervasio_Gervase Gil Glaucio Gonçalo_Gonzalo Graciano_Gratian Gualter_Walter Guga
+			Hélder Henrique_Henry Hermínio Hilario Humberto
+			Inácio_Ignatius Ibualamo
+			Jacinto Jaime_James Joãozinho_John Joaquim_Joachim Josué_Joshua Júlinho_Julius
+			Leandro_Leander Léo_Leon Lipe_Philip Lois Lúcio_Lucius Lula_Louis Luiz_Louis
+			Macario_Macarius Manoel_Emmanuel Marcelino Marcelo_Marcellus Márcio Marcos_Mark Mário_Marius Mateus_Matthew Mauricio_Maurice Maximino Modesto
+			Narciso Natanael_Nathaniel Netuno Nicolau_Nicholas Nuno
+			Olavo Ovídio_Ovid
+			Pascoal_Pascal Patricio_Patrick Paulinho_Paul Pedro_Peter Pio Plácido Plinio
+			Quim
+			Rafael_Raphael Raimundo_Raymond Raul_Ralph Reinaldo_Ronald Remigio Renato Rodolfo_Rudolph Rodrigo_Roderick Roldão Roque Rufino Ruizinho
+			Santos Saturnino Sergio_Sergius Severino_Severin Silvio_Silvius Simão_Simon
+			Tacito Tadeu_Thaddeus Thiago_James Tião_Sebastian Tiburcio Timoteo_Timothy Tristão_Tristan
+			Ulisses_Ulysses
+			Valentim_Valentine Valeriano_Valerian Valerio_Valerius Veríssimo Victorino_Victor Vinícius Virgilio_Virgil Vitor_Victor
+			Xabier_Xavier
+			Zé_Joseph Zeferino Zeca
+		}
+		
+		female_names = {
+			Amélia_Amelia Ana_Anne Andréa_Andrea Antía Assunção 
+			Bárbara_Barbara Bia Brenda
+			Candelária Carme Carmo Catarina_Catherine Catina Cecília_Cecilia Celi Chica Cíntia 
+			Débi_Deborah Desidéria Diamantina Domitila
+			Efigênia Elisabete_Elizabeth Eufémia_Euphemia Eugênia_Eugenia Eulália 
+			Fatimá_Fatima Feliciana Felicidade Flávia_Flavia 
+			Gabriela_Gabriele Glaucia Glória_Gloria Graça_Grace
+			Hermínia Helena_Helen
+			Imaculada Ingrid Isabela_Isabelle
+			Jacinta Joana_Joan Joaquima Josefa_Josephine Jovita
+			Leocádia Leonor_Eleanor Leticia Lía Lídia Lígia Lílian_Lillian Lúcia_Lucy Luisa_Louise Lurdes Luzia Lygia 
+			Madalena_magdalene Márcia Margarida_margaret Marí_Mary Micaela Môca_Monica
+			Nathália_Natalie Neves Noela 
+			Ofélia_Ophelia Olalla Olívia_Olivia
+			Priscila
+			Rafaela Raquel_Rachel Rebeca_Rebecca Rê Rosa_Rose
+			Sabela Sara_Sarah Sofia_Sophia Sonia 
+			Tati Teresa_Theresa Thayana
+			Úrsula_Ursula
+			Verônica_Veronica Vi
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "filho de "
+		female_patronym = "filha de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+	}
+	
+	ribeirinho = {
+		graphical_cultures = { mesoamericangfx southerngfx mexicangfx }
+		
+		color = { 0.2 0.5 0 }
+		
+		male_names = {
+			Adriano_Adrian Alberto_Albert Alexandre_Alexander Altamir Áhari Ângelo_Angel Aníbal_Hannibal Antoine_Anthony Arata Arah Arnaldo_Arnold Artur_Arthur Auguste_Augustus
+            		Batista Benício Benildo Bernardo_Bernard Bento_Benedict Boniface
+            		Caiubi Carlos_Charles Cauã Chico Christophe_Christopher Costa
+            		Danilo_Daniel Denys_Dionysus Duval
+            		Ebedimu Edmond_Edmund Eduardo_Edward Émerson_Emerson Étienne_Stephen
+            		Flamarion Francisco_Francis
+            		Geraldo_Gerald Gunfuli
+            		Heitor_Hector
+            		Iradilson Italo Ivo Ilumani
+            		Jacques_James João_John Juan_John Jorge_George José_Joseph Josué_Joshua Julio_Julius Jurandir
+            		Kaigouchi
+            		Leonardo_Leonard Lopes Luciano_Lucian Luiz_Louis
+            		Márcio Marcos_Mark Mário_Marius Maurício_Maurice Mbicy Miguel_Michael Milton Moacir
+            		Neudo Nicolas_Nicholas
+            		Óscar_Oscar Ottomar
+            		Paulo_Paul Pierre_Peter Pirijá Piquerobi
+            		Ramalho Raul_Ralph Ribeiro Ricardo_Richard Rogério_Roger Romero Rui
+            		Samuel Sandro Saulo
+            		Tancrède_Tancred Telmário Thiago_James Tiago_James Tomás_Thomas Toruí Tibiriçá
+            		Ubirajara Ubiratã
+            		Valdomiro_Vladimir Vinícius
+            		Zeferino
+		}
+		
+		female_names = {
+			Adriana Aline Anne_Anne Araci Ariane Azelene
+            		Bartira Beatriz_Beatrice Berenice Bianca
+            		Carina Cíntia Claudette
+            		Eliana Elisabeth_Elizabeth Eloá Ester_Esther Evelyn
+            		Fátima_Fatima Florany
+            		Gabriela_Gabriele
+            		Hayá
+            		Iara Inês_Agnes Isadora Isani
+            		Jaci Janaína Joênia Jougousa Júlia_Julia
+            		Kelly Luana
+            		Luciana Lucielle Luísa_Louise Luíza_Louise
+            		Manuela Marie_Mary Marília Marina Matilde_Matilda Michele_Michelle
+            		Natália_Natalie Neusa Nina
+            		Olga
+            		Paloma Paula Porasy Poliana Potira
+            		Regina Rita
+            		Silva Simone Sofia_Sofia Suely
+            		Tânia Teresa_Theresa Valéria_Valeria
+            		Vanda Victoire_Victoria Virgínia_Virginia
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "filho de "
+		female_patronym = "filha de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+	}
+}
