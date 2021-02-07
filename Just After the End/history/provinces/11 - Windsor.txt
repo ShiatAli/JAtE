@@ -15,7 +15,7 @@ b_cloverdale = castle
 #b_asti = castle
 
 # Misc
-culture = bayfolk
+culture = winelander
 religion = cetic
 
 #History

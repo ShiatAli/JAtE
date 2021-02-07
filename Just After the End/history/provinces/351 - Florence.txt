@@ -15,7 +15,7 @@ b_glenada = city
 #b_acme = castle
 
 # Misc
-culture = cascadian
+culture = saltwater
 religion = gaian
 
 #History

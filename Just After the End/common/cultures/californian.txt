@@ -135,6 +135,454 @@ californian = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
+	winelander = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 111 45 168 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	headlander = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 0.7 0.6 0.3 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	carquinero = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 0.7 0.8 0.6 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	eastshore = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 0 53 107 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	diableno = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 134 1 17 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	sanjo = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 0 128 128 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	stanforder = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 140 21 21 }
+
+		male_names = {
+			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay
+			Barney Bayer Belli Ben_Benjamin Beniamino_Benjamin Benjamin_Benjamin Bertram Bill_William Bixby Blaise Blanken Brad Bradley Bruce
+			Carlos_Charles Charles_Charles Chris_Chrsitopher Clark Clay Cliff_Clifford Clint Corbett Cornell_Cornelius Craig Cullen
+			Daman Dane Daniel_Daniel Danny_Daniel Darren Darryl_Daryl Dashiell David_David Deke Dekker Delmer Dimitri_Demetrius Dinesh Dolph Donald Dorman Doug_Douglas
+			Elon Emer Eric_Eric Erik_Eric Erlich Errico_Eric Eugene_Eugene
+			Fee Fillmoe Fisher Ford Forte Francis_Francis Frederick_Frederick Fritz_Frederick
+			Ganesh Gary Gavin George_George Getty Glen Glenark Glenecho Goldin Gordon Greg_Gregory Gregory_Gregory Gus
+			Hal Hammett Hank_Henry Harry_Harold Herb_Herbert Herron Hosain_Hussein Huey_Hugh
+			James_James Jared Jay_Jacob Jeremy_Jeremiah Jerry
+			Kamm Kantner Keith Kevin Kirk
+			Laird Larry_Lawrence Lars Lathrop Laurel Laurence_Lawrence Lawrence_Lawrence Lee Leet Leiber Leonard_Leonard Levitin Lewin Lewis_Louis Liev Lloyd London Losby Lucas_Luke
+			Mann Marc_Mark Mark_Mark Mathis_Matthew Max Mel Melvin Mervyn Michael_Michael Mike_Michael Moore Morris_Maurice Naveen Nortman
+			Orenthal Otis
+			Paul_Paul Percy_Percival Pete_Peter Peter_Peter Phil_Philip Phillip_Philip Plate Potrero
+			Rajesh Rayburn Reid Reuter Ric_Richard Richard_Richard Rob_Robert Robert_Robert Ross Rupak
+			Sameer_Samir Scott Shiloh Shum Somisspo Stanley Stanyan Steve_Stephen Stuart_Stewart
+			Taro Taymour Terry_Terence Tevis Theobald Thyme Tim_Timothy Tobin Todd Tom_Thomas Tony_Anthony Tucker Tupac Tyler
+			Urbano_Urban
+			Valor Victor_Victor Vince_Vincent
+			Walter_Walter Ware Warren Wash Wayne William_William Willie_William Wood
+		}
+		
+		female_names = {
+			Aarthi Abby_Abigail Abigail Aditi Aileen_Eileen Aisha Ali Alicia Alma Aly Amy Angela Angelou Anne Arabella Ashlie_Ashley Asriela Audrey Aunjanue Aya
+			Barbara Beatrice Bernicia Bonnie Bridgit_Bridget Brigid_Bridget Brooke
+			Carol Carrie Cassandra Chandra Chante Charlotte Cheryl China Cindy Claire Clarissa Colleen Courtney Cressida Cynthia
+			Daisy Daria Devi Dianna_Diana Divine Donna Dorothea_Dorothy
+			Edith Edna Eleanor Elle Ellen Emerald Erin Erinn Ester
+			Fay Francine
+			Genevieve Gina Gracie_Grace
+			Hannah Heather Helen
+			Irene Isadora Isis
+			Jaya Jamie Jessica Jill Joan Joanna_Joan Jocelyn Julie_Julia
+			Kamala Karen Kari Kathy_Catherine Kayla Kelly Kimberly Kristina_Christina Krystal
+			Larisa Leah Leila Lenore Leslie Linda Lisa Lorelei Love
+			Mala Mandy Margaret Marie_Mary Marjorie Marla Martha Maude May Maya Megan Melissa Mia Michelena Mimi Monica_Monica Moraga
+			Nancy Naomi Nicole Nina
+			Octavia Orizaba
+			Padma Patricia Paula Portola
+			Rachel Ravera Reena Remy Rilee Rona Ruby Ruth
+			Samantha Sapphire Sasha Sequoia Shirley Sidney Sofia_Sophia Sophie_Sophia Susan
+			Tara Terri Theresa Tiffany Tracy
+			Vanessa Vera Vicki Victoria Vonetta
+			Zia
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
 
 	valleyan = {
 		graphical_cultures = { whitepacificgfx }

@@ -15,7 +15,7 @@ b_rainrock = city
 #b_noti = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_orient = temple
 #b_wood_village = castle
 
 # Misc
-culture = cascadian
+culture = portlandian
 religion = gaian
 
 #History

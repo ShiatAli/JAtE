@@ -15,7 +15,7 @@ b_leona = temple
 #b_ricehill = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

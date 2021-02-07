@@ -12,7 +12,7 @@ b_sunnyslope = city
 #b_cashmere = castle
 #b_dryden = city
 #b_peshastin = temple
-#b_leavenworth = castle
+#b_gunn = castle
 
 # Misc
 culture = inlander

@@ -15,7 +15,7 @@ b_madrone = temple
 #b_san_felipe = castle
 
 # Misc
-culture = bayfolk
+culture = stanforder
 religion = cetic
 
 #History

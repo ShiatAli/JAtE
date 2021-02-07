@@ -15,7 +15,7 @@ b_millbrae = city
 #b_brisbane = castle
 
 # Misc
-culture = bayfolk
+culture = stanforder
 religion = cetic
 
 #History

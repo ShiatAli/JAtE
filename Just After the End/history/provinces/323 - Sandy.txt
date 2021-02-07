@@ -15,7 +15,7 @@ b_boring = city
 #b_estacada = castle
 
 # Misc
-culture = cascadian
+culture = gorgeon
 religion = gaian
 
 #History

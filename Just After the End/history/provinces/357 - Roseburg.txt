@@ -15,7 +15,7 @@ b_wilbur = temple
 #b_old_town = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

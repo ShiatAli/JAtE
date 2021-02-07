@@ -15,7 +15,7 @@ b_riverwood = temple
 #b_markham = castle
 
 # Misc
-culture = cascadian
+culture = portlandian
 religion = gaian
 
 #History

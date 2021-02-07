@@ -15,7 +15,7 @@ b_king_city_2 = temple
 #b_raliegh_hills = castle
 
 # Misc
-culture = cascadian
+culture = portlandian
 religion = gaian
 
 #History

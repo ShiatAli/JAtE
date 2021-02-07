@@ -15,7 +15,7 @@ b_san_ramon = city
 #b_clayton = castle
 
 # Misc
-culture = bayfolk
+culture = diableno
 religion = cetic
 
 #History

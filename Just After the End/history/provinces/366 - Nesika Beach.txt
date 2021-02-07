@@ -15,7 +15,7 @@ b_nesika_beach = castle
 #b_ophir = castle
 
 # Misc
-culture = cascadian
+culture = saltwater
 religion = gaian
 
 #History

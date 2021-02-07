@@ -15,7 +15,7 @@ b_grand_rapids = city
 #b_sunset = castle
 
 # Misc
-culture = cascadian
+culture = willapan
 religion = gaian
 
 #History

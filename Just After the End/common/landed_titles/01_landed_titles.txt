@@ -5383,7 +5383,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 18 # c_richmond
-		culture = bayfolk
+		culture = eastshore
 		
 		d_contra_costa = {
 			color={ 246 9 235 }
@@ -6118,7 +6118,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 26 # c_san_jose
-		culture = bayfolk
+		culture = sanjo
 		
 		d_san_jose = {
 			color={ 53 182 143 }
@@ -6414,7 +6414,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 8 # c_santa_rosa
-		culture = bayfolk
+		culture = winelander
 		
 		d_sonoma = {
 			color={ 200 167 59 }
@@ -10897,7 +10897,7 @@ e_lincoln = {
 				}
 				b_peshastin = {
 				}
-				b_leavenworth = {
+				b_gunn = {
 				}
 			}
 			c_chelan = { # 435
@@ -15427,14 +15427,14 @@ e_oregon = {
 	color2={ 255 255 20 }
 	
 	capital = 317 # c_portland
-	culture = cascadian
+	culture = portlandian
 	
 	k_portlandia = {
 		color={ 210 30 240 }
 		color2={ 255 255 255 }
 		
 		capital = 317 # c_portland
-		culture = cascadian
+		culture = portlandian
 		
 		d_multnomah = {
 			color={ 230 10 250 }
@@ -15970,7 +15970,7 @@ e_oregon = {
 		color2={ 255 255 255 }
 		
 		capital = 354 # c_springfield
-		culture = cascadian
+		culture = willametteian
 		
 		d_lane = {
 			color={ 122 50 5 }
@@ -16277,7 +16277,7 @@ e_oregon = {
 		color2={ 255 255 255 }
 		
 		capital = 340 # c_salem
-		culture = cascadian
+		culture = willametteian
 		
 		d_santiam = {
 			color={ 199 165 219 }
@@ -22598,10 +22598,12 @@ e_washington = {
 				b_silvana = {
 				}
 			}
-			c_halford = { # 378
+			c_leavenworth = { # 378
 				color={ 158 60 159 }
 				color2={ 255 255 255 }
 				
+				b_leavenworth = {
+				}
 				b_halford = {
 				}
 				b_startup = {
@@ -22613,8 +22615,6 @@ e_washington = {
 				b_baring = {
 				}
 				b_grotto = {
-				}
-				b_gunn = {
 				}
 			}
 		}
@@ -22764,7 +22764,7 @@ e_washington = {
 		color2={ 255 255 255 }
 		
 		capital = 395 # c_columbia
-		culture = cascadian
+		culture = portlandian
 		
 		d_clark = {
 			color={ 94 194 122 }

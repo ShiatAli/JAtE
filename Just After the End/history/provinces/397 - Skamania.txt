@@ -15,7 +15,7 @@ b_skamania = city
 #b_dodson = castle
 
 # Misc
-culture = cascadian
+culture = gorgeon
 religion = gaian
 
 #History

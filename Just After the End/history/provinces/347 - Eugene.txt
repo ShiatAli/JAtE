@@ -15,7 +15,7 @@ b_lancaster = temple
 #b_irving = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

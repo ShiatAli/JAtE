@@ -15,7 +15,7 @@ b_suisun_city = castle
 #b_cordelia = castle
 
 # Misc
-culture = bayfolk
+culture = carquinero
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_stewarts_camp = castle
 #b_stars_rest = castle
 
 # Misc
-culture = bayfolk
+culture = stanforder
 religion = cetic
 
 #History

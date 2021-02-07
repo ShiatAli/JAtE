@@ -15,7 +15,7 @@ b_upper_soda = city
 #b_mill_city = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

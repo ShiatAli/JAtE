@@ -15,7 +15,7 @@ b_elmwood = city
 #b_westbrae = castle
 
 # Misc
-culture = bayfolk
+culture = eastshore
 religion = cetic
 
 #History

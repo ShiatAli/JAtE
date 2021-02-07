@@ -15,7 +15,7 @@ b_mill_valley = city
 #b_sausalito = castle
 
 # Misc
-culture = bayfolk
+culture = headlander
 religion = cetic
 
 #History

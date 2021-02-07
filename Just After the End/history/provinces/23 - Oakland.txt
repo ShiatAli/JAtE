@@ -15,7 +15,7 @@ b_san_antonio = city
 #b_montclair = castle
 
 # Misc
-culture = bayfolk
+culture = eastshore
 religion = cetic
 
 #History

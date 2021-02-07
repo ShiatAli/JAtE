@@ -15,7 +15,7 @@ b_millerton = temple
 #b_stinson_beach = castle
 
 # Misc
-culture = bayfolk
+culture = headlander
 religion = cetic
 
 #History

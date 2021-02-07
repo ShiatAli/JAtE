@@ -15,7 +15,7 @@ b_sunnyside = temple
 #b_argay = castle
 
 # Misc
-culture = cascadian
+culture = portlandian
 religion = gaian
 
 #History

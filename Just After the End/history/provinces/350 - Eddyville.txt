@@ -15,7 +15,7 @@ b_eddyville = castle
 #b_summit = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

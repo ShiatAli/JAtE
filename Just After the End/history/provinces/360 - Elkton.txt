@@ -15,7 +15,7 @@ b_elkton = castle
 #b_umpqua = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History

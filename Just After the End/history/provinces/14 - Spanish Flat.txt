@@ -15,7 +15,7 @@ b_angwin = city
 #b_veteran_height = castle
 
 # Misc
-culture = bayfolk
+culture = winelander
 religion = cetic
 
 #History

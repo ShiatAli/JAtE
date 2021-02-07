@@ -15,7 +15,7 @@ b_menlo_park = city
 #b_east_palo_alto = castle
 
 # Misc
-culture = bayfolk
+culture = stanforder
 religion = cetic
 
 #History

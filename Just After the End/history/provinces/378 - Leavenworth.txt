@@ -1,0 +1,21 @@
+# c_leavenworth
+
+# County Title
+title = c_leavenworth
+
+# Settlements
+max_settlements = 3
+
+b_leavenworth = castle
+b_halford = city
+#b_startup = temple
+#b_gold_bar = castle
+#b_index = city
+#b_baring = temple
+#b_grotto = castle
+
+# Misc
+culture = cascadian
+religion = gaian
+
+#History

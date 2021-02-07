@@ -15,7 +15,7 @@ b_san_marin = castle
 #b_dewitt = castle
 
 # Misc
-culture = bayfolk
+culture = headlander
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_alamito = castle
 #b_summerside = castle
 
 # Misc
-culture = bayfolk
+culture = stanforder
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_alamedan = city
 #b_piedmont_2 = castle
 
 # Misc
-culture = bayfolk
+culture = sanjo
 religion = cetic
 
 #History

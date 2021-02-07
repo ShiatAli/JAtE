@@ -15,7 +15,7 @@ b_roseland = temple
 #b_granton = castle
 
 # Misc
-culture = bayfolk
+culture = winelander
 religion = cetic
 
 #History

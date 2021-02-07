@@ -15,7 +15,7 @@ b_cherry_grove = city
 #b_heisson = castle
 
 # Misc
-culture = cascadian
+culture = willapan
 religion = gaian
 
 #History

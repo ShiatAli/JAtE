@@ -15,7 +15,7 @@ b_west_linn = temple
 #b_blue_heron = castle
 
 # Misc
-culture = cascadian
+culture = portlandian
 religion = gaian
 
 #History

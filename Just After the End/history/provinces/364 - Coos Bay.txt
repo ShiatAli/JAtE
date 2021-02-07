@@ -15,7 +15,7 @@ b_lakeside_2 = city
 #b_millington = castle
 
 # Misc
-culture = cascadian
+culture = saltwater
 religion = gaian
 
 #History

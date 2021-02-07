@@ -15,7 +15,7 @@ b_medford = castle
 #b_talent = castle
 
 # Misc
-culture = siskiyouan
+culture = rogueite
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_little_portugal = city
 #b_olinder = castle
 
 # Misc
-culture = bayfolk
+culture = stanforder
 religion = cetic
 
 #History

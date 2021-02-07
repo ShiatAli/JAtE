@@ -15,7 +15,7 @@ b_alder_creek = temple
 #b_welches = castle
 
 # Misc
-culture = cascadian
+culture = gorgeon
 religion = gaian
 
 #History

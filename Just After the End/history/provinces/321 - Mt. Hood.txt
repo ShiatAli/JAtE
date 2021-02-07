@@ -15,7 +15,7 @@ b_odell_2 = temple
 #b_pine_grove = castle
 
 # Misc
-culture = cascadian
+culture = gorgeon
 religion = gaian
 
 #History

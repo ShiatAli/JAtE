@@ -15,7 +15,7 @@ b_batavia = castle
 #b_dixon = castle
 
 # Misc
-culture = bayfolk
+culture = carquinero
 religion = cetic
 
 #History

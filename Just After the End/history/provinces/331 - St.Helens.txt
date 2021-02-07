@@ -15,7 +15,7 @@ b_scappoose = city
 #b_prescott = castle
 
 # Misc
-culture = cascadian
+culture = portlandian
 religion = gaian
 
 #History

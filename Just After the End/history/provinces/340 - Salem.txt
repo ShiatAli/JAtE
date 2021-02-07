@@ -15,7 +15,7 @@ b_keizer = city
 #b_sublimity = castle
 
 # Misc
-culture = cascadian
+culture = willametteian
 religion = gaian
 
 #History
