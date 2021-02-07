@@ -1,13 +1,13 @@
-# c_gardiner
+# c_reedsport
 
 # County Title
-title = c_gardiner
+title = c_reedsport
 
 # Settlements
 max_settlements = 3
 
-b_gardiner = castle
-#b_reedsport = city
+b_reedsport = castle
+#b_gardiner = city
 #b_dunes_city = temple
 #b_winchester_bay = castle
 #b_templeton_2 = city

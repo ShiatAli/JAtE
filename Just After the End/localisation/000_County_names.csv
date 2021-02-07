@@ -627,8 +627,6 @@ c_ganado;Ganado;Ganado;Ganado;;Ganado;;;;;;;;;x
 c_ganado_adj;Ganadian;;ganader;;;;;;;;;;;x
 c_garberville;Garberville;Garberville;Garberville;;Garberville;;;;;;;;;x
 c_garberville_adj;Garbervillean;;garberviller;;;;;;;;;;;x
-c_gardiner;Gardiner;Gardiner;Gardiner;;Gardiner;;;;;;;;;x
-c_gardiner_adj;Gardinerian;;gardinerer;;;;;;;;;;;x
 c_garfield;Garfield;Garfield;Garfield;;Garfield;;;;;;;;;x
 c_garfield_adj;Garfieldian;;garfielder;;;;;;;;;;;x
 c_gateway;Gateway;Gateway;Gateway;;Gateway;;;;;;;;;x
@@ -1467,6 +1465,8 @@ c_redding;Redding;Redding;Redding;;Redding;;;;;;;;;x
 c_redding_adj;Reddingian;;reddinger;;;;;;;;;;;x
 c_redwood_city;Redwood City;Redwood City;Redwood City;;Redwood City;;;;;;;;;x
 c_redwood_city_adj;Redwood Citian;;Redwood Citer;;;;;;;;;;;x
+c_reedsport;Reedsport;Reedsport;Reedsport;;Reedsport;;;;;;;;;x
+c_reedsport_adj;Reedsportian;;reedsporter;;;;;;;;;;;x
 c_reese_river;Reese River;Reese River;Reese River;;Reese River;;;;;;;;;x
 c_reese_river_adj;Reese Riverian;;Reese Riverer;;;;;;;;;;;x
 c_reno;Reno;Reno;Reno;;Reno;;;;;;;;;x

@@ -16279,6 +16279,25 @@ e_oregon = {
 		capital = 340 # c_salem
 		culture = willametteian
 		
+		c_reedsport = { # 352
+			color={ 112 60 80 }
+			color2={ 255 255 255 }
+			
+			b_reedsport = {
+			}
+			b_gardiner = {
+			}
+			b_dunes_city = {
+			}
+			b_winchester_bay = {
+			}
+			b_templeton_2 = {
+			}
+			b_scottburg = {
+			}
+			b_siltcoos = {
+			}
+		}
 		d_santiam = {
 			color={ 199 165 219 }
 			color2={ 255 255 255 }
@@ -16558,25 +16577,6 @@ e_oregon = {
 				b_acme = {
 				}
 			}
-			c_gardiner = { # 352
-				color={ 112 60 80 }
-				color2={ 255 255 255 }
-				
-				b_gardiner = {
-				}
-				b_reedsport = {
-				}
-				b_dunes_city = {
-				}
-				b_winchester_bay = {
-				}
-				b_templeton_2 = {
-				}
-				b_scottburg = {
-				}
-				b_siltcoos = {
-				}
-			}
 			c_mapleton = { # 353
 				color={ 112 60 200 }
 				color2={ 255 255 255 }
@@ -16594,6 +16594,25 @@ e_oregon = {
 				b_elmira_2 = {
 				}
 				b_noti = {
+				}
+			}
+			c_reedsport = { # 352
+				color={ 112 60 80 }
+				color2={ 255 255 255 }
+				
+				b_reedsport = {
+				}
+				b_gardiner = {
+				}
+				b_dunes_city = {
+				}
+				b_winchester_bay = {
+				}
+				b_templeton_2 = {
+				}
+				b_scottburg = {
+				}
+				b_siltcoos = {
 				}
 			}
 		}
