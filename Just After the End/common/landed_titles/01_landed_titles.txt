@@ -2432,6 +2432,25 @@ e_caledonia = {
 				b_shackan = {
 				}
 			}
+			c_falkland = { # 529
+				color={ 191 143 143 }
+				color2={ 255 255 255 }
+				
+				b_falkland = {
+				}
+				b_douglas_lake = {
+				}
+				b_monte_lake = {
+				}
+				b_westwold = {
+				}
+				b_roche_lake = {
+				}
+				b_tahaetkun = {
+				}
+				b_pillar_lake = {
+				}
+			}
 			c_princeton = { # 528
 				color={ 152 75 75 }
 				color2={ 255 255 255 }
@@ -2449,25 +2468,6 @@ e_caledonia = {
 				b_bankier = {
 				}
 				b_allenby = {
-				}
-			}
-			c_westwold = { # 529
-				color={ 191 143 143 }
-				color2={ 255 255 255 }
-				
-				b_westwold = {
-				}
-				b_douglas_lake = {
-				}
-				b_monte_lake = {
-				}
-				b_falkland = {
-				}
-				b_roche_lake = {
-				}
-				b_tahaetkun = {
-				}
-				b_pillar_lake = {
 				}
 			}
 		}
@@ -7148,25 +7148,6 @@ e_grand_vancouver = {
 		capital = 505 # c_port_hardy
 		culture = canuck
 		
-		c_zeballos = { # 512
-			color={ 145 98 98 }
-			color2={ 255 255 255 }
-			
-			b_zeballos = {
-			}
-			b_fair_harbour = {
-			}
-			b_woss = {
-			}
-			b_union_island = {
-			}
-			b_catala = {
-			}
-			b_hohoae_island = {
-			}
-			b_whiteley = {
-			}
-		}
 		d_suquash = {
 			color={ 129 53 68 }
 			color2={ 255 255 255 }

@@ -1,15 +1,15 @@
-# c_westwold
+# c_falkland
 
 # County Title
-title = c_westwold
+title = c_falkland
 
 # Settlements
 max_settlements = 3
 
-b_westwold = castle
+b_falkland = castle
 #b_douglas_lake = city
 #b_monte_lake = temple
-#b_falkland = castle
+#b_westwold = castle
 #b_roche_lake = city
 #b_tahaetkun = temple
 #b_pillar_lake = castle

@@ -553,6 +553,8 @@ c_everett;Everett;Everett;Everett;;Everett;;;;;;;;;x
 c_everett_adj;Everettian;;everetter;;;;;;;;;;;x
 c_fairmont;Fairmont;Fairmont;Fairmont;;Fairmont;;;;;;;;;x
 c_fairmont_adj;Fairmontian;;fairmonter;;;;;;;;;;;x
+c_falkland;Falkland;Falkland;Falkland;;Falkland;;;;;;;;;x
+c_falkland_adj;Falklandian;;falklander;;;;;;;;;;;x
 c_fallon;Fallon;Fallon;Fallon;;Fallon;;;;;;;;;x
 c_fallon_adj;Fallonian;;falloner;;;;;;;;;;;x
 c_federal_way;Federal Way;Federal Way;Federal Way;;Federal Way;;;;;;;;;x
@@ -2005,8 +2007,6 @@ c_west_white_pine;West White Pine;West White Pine;West White Pine;;West White Pi
 c_west_white_pine_adj;West White Pinean;;West White Piner;;;;;;;;;;;x
 c_westport;Westport;Westport;Westport;;Westport;;;;;;;;;x
 c_westport_adj;Westportian;;westporter;;;;;;;;;;;x
-c_westwold;Westwold;Westwold;Westwold;;Westwold;;;;;;;;;x
-c_westwold_adj;Westwoldian;;westwolder;;;;;;;;;;;x
 c_wet_mountain;Wet Mountain;Wet Mountain;Wet Mountain;;Wet Mountain;;;;;;;;;x
 c_wet_mountain_adj;Wet Mountainian;;Wet Mountainer;;;;;;;;;;;x
 c_wheeler;Wheeler;Wheeler;Wheeler;;Wheeler;;;;;;;;;x
