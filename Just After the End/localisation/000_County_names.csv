@@ -139,8 +139,6 @@ c_bellingham;Bellingham;Bellingham;Bellingham;;Bellingham;;;;;;;;;x
 c_bellingham_adj;Bellinghamian;;bellinghamer;;;;;;;;;;;x
 c_bend;Bend;Bend;Bend;;Bend;;;;;;;;;x
 c_bend_adj;Bendian;;bender;;;;;;;;;;;x
-c_benewah;Benewah;Benewah;Benewah;;Benewah;;;;;;;;;x
-c_benewah_adj;Benewahian;;benewaher;;;;;;;;;;;x
 c_benton;Benton;Benton;Benton;;Benton;;;;;;;;;x
 c_benton_adj;Bentonian;;bentoner;;;;;;;;;;;x
 c_benton_2;Benton;Benton;Benton;;Benton;;;;;;;;;x
@@ -329,6 +327,8 @@ c_chuska;Chuska;Chuska;Chuska;;Chuska;;;;;;;;;x
 c_chuska_adj;Chuskan;;chusker;;;;;;;;;;;x
 c_clackamas;Clackamas;Clackamas;Clackamas;;Clackamas;;;;;;;;;x
 c_clackamas_adj;Clackamasian;;clackamaser;;;;;;;;;;;x
+c_clarkston;Clarkston;Clarkston;Clarkston;;Clarkston;;;;;;;;;x
+c_clarkston_adj;Clarkstonian;;clarkstoner;;;;;;;;;;;x
 c_clatskanie;Clatskanie;Clatskanie;Clatskanie;;Clatskanie;;;;;;;;;x
 c_clatskanie_adj;Clatskaniean;;clatskaner;;;;;;;;;;;x
 c_clover;Clover;Clover;Clover;;Clover;;;;;;;;;x
@@ -551,8 +551,6 @@ c_eureka_2;Eureka;Eureka;Eureka;;Eureka;;;;;;;;;x
 c_eureka_2_adj;Eurekan;;eureker;;;;;;;;;;;x
 c_everett;Everett;Everett;Everett;;Everett;;;;;;;;;x
 c_everett_adj;Everettian;;everetter;;;;;;;;;;;x
-c_fair_harbour;Fair Harbour;Fair Harbour;Fair Harbour;;Fair Harbour;;;;;;;;;x
-c_fair_harbour_adj;Fair Harbourian;;Fair Harbourer;;;;;;;;;;;x
 c_fairmont;Fairmont;Fairmont;Fairmont;;Fairmont;;;;;;;;;x
 c_fairmont_adj;Fairmontian;;fairmonter;;;;;;;;;;;x
 c_fallon;Fallon;Fallon;Fallon;;Fallon;;;;;;;;;x
@@ -807,6 +805,8 @@ c_imperial_2;Imperial;Imperial;Imperial;;Imperial;;;;;;;;;x
 c_imperial_2_adj;Imperialian;;imperialer;;;;;;;;;;;x
 c_indian_springs;Indian Springs;Indian Springs;Indian Springs;;Indian Springs;;;;;;;;;x
 c_indian_springs_adj;Indian Springsian;;Indian Springser;;;;;;;;;;;x
+c_indian_valley;Indian Valley;Indian Valley;Indian Valley;;Indian Valley;;;;;;;;;x
+c_indian_valley_adj;Indian Valleian;;Indian Valleer;;;;;;;;;;;x
 c_iron;Iron;Iron;Iron;;Iron;;;;;;;;;x
 c_iron_adj;Ironian;;ironer;;;;;;;;;;;x
 c_irvine;Irvine;Irvine;Irvine;;Irvine;;;;;;;;;x
@@ -1237,8 +1237,6 @@ c_oregon_city;Oregon City;Oregon City;Oregon City;;Oregon City;;;;;;;;;x
 c_oregon_city_adj;Oregon Citian;;Oregon Citer;;;;;;;;;;;x
 c_organ_pipe;Organ Pipe;Organ Pipe;Organ Pipe;;Organ Pipe;;;;;;;;;x
 c_organ_pipe_adj;Organ Pipean;;Organ Piper;;;;;;;;;;;x
-c_orofino;Orofino;Orofino;Orofino;;Orofino;;;;;;;;;x
-c_orofino_adj;Orofinian;;orofiner;;;;;;;;;;;x
 c_oroville;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
 c_oroville_adj;Orovillean;;oroviller;;;;;;;;;;;x
 c_oroville_2;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
@@ -1369,8 +1367,6 @@ c_polks;Polks;Polks;Polks;;Polks;;;;;;;;;x
 c_polks_adj;Polksian;;polkser;;;;;;;;;;;x
 c_polson;Polson;Polson;Polson;;Polson;;;;;;;;;x
 c_polson_adj;Polsonian;;polsoner;;;;;;;;;;;x
-c_pomeroy;Pomeroy;Pomeroy;Pomeroy;;Pomeroy;;;;;;;;;x
-c_pomeroy_adj;Pomeroian;;pomeroer;;;;;;;;;;;x
 c_ponderay;Ponderay;Ponderay;Ponderay;;Ponderay;;;;;;;;;x
 c_ponderay_adj;Ponderaian;;ponderaer;;;;;;;;;;;x
 c_pondosa;Pondosa;Pondosa;Pondosa;;Pondosa;;;;;;;;;x
@@ -1703,8 +1699,6 @@ c_shelton;Shelton;Shelton;Shelton;;Shelton;;;;;;;;;x
 c_shelton_adj;Sheltonian;;sheltoner;;;;;;;;;;;x
 c_shiprock;Shiprock;Shiprock;Shiprock;;Shiprock;;;;;;;;;x
 c_shiprock_adj;Shiprockian;;shiprocker;;;;;;;;;;;x
-c_shoshone;Shoshone;Shoshone;Shoshone;;Shoshone;;;;;;;;;x
-c_shoshone_adj;Shoshonean;;shoshoner;;;;;;;;;;;x
 c_shoshone_falls;Shoshone Falls;Shoshone Falls;Shoshone Falls;;Shoshone Falls;;;;;;;;;x
 c_shoshone_falls_adj;Shoshone Fallsian;;Shoshone Fallser;;;;;;;;;;;x
 c_shuswap_falls;Shuswap Falls;Shuswap Falls;Shuswap Falls;;Shuswap Falls;;;;;;;;;x
@@ -1725,6 +1719,8 @@ c_silver_eagle;Silver Eagle;Silver Eagle;Silver Eagle;;Silver Eagle;;;;;;;;;x
 c_silver_eagle_adj;Silver Eaglean;;Silver Eagler;;;;;;;;;;;x
 c_silver_lake;Silver Lake;Silver Lake;Silver Lake;;Silver Lake;;;;;;;;;x
 c_silver_lake_adj;Silver Lakean;;Silver Laker;;;;;;;;;;;x
+c_silver_valley;Silver Valley;Silver Valley;Silver Valley;;Silver Valley;;;;;;;;;x
+c_silver_valley_adj;Silver Valleian;;Silver Valleer;;;;;;;;;;;x
 c_silvies;Silvies;Silvies;Silvies;;Silvies;;;;;;;;;x
 c_silvies_adj;Silviesian;;silvieser;;;;;;;;;;;x
 c_simi;Simi;Simi;Simi;;Simi;;;;;;;;;x
@@ -1735,6 +1731,8 @@ c_skamania;Skamania;Skamania;Skamania;;Skamania;;;;;;;;;x
 c_skamania_adj;Skamanian;;skamaner;;;;;;;;;;;x
 c_skeetchestn;Skeetchestn;Skeetchestn;Skeetchestn;;Skeetchestn;;;;;;;;;x
 c_skeetchestn_adj;Skeetchestnian;;skeetchestner;;;;;;;;;;;x
+c_skitswish;Skitswish;Skitswish;Skitswish;;Skitswish;;;;;;;;;x
+c_skitswish_adj;Skitswishian;;skitswisher;;;;;;;;;;;x
 c_skytop;Skytop;Skytop;Skytop;;Skytop;;;;;;;;;x
 c_skytop_adj;Skytopian;;skytoper;;;;;;;;;;;x
 c_slab_city;Slab City;Slab City;Slab City;;Slab City;;;;;;;;;x
@@ -1829,8 +1827,6 @@ c_taft;Taft;Taft;Taft;;Taft;;;;;;;;;x
 c_taft_adj;Taftian;;tafter;;;;;;;;;;;x
 c_taos;Taos;Taos;Taos;;Taos;;;;;;;;;x
 c_taos_adj;Taosian;;taoser;;;;;;;;;;;x
-c_taylorville;Taylorville;Taylorville;Taylorville;;Taylorville;;;;;;;;;x
-c_taylorville_adj;Taylorvillean;;taylorviller;;;;;;;;;;;x
 c_tecate;Tecate;Tecate;Tecate;;Tecate;;;;;;;;;x
 c_tecate_adj;Tecatean;;tecater;;;;;;;;;;;x
 c_tejon_pass;Tejon Pass;Tejon Pass;Tejon Pass;;Tejon Pass;;;;;;;;;x
@@ -1877,6 +1873,8 @@ c_tohono_jevud;Tohono Jevud;Tohono Jevud;Tohono Jevud;;Tohono Jevud;;;;;;;;;x
 c_tohono_jevud_adj;Tohono Jevudian;;Tohono Jevuder;;;;;;;;;;;x
 c_tokop;Tokop;Tokop;Tokop;;Tokop;;;;;;;;;x
 c_tokop_adj;Tokopian;;tokoper;;;;;;;;;;;x
+c_tollgate;Tollgate;Tollgate;Tollgate;;Tollgate;;;;;;;;;x
+c_tollgate_adj;Tollgatean;;tollgater;;;;;;;;;;;x
 c_tonasket;Tonasket;Tonasket;Tonasket;;Tonasket;;;;;;;;;x
 c_tonasket_adj;Tonasketian;;tonasketer;;;;;;;;;;;x
 c_tonopah;Tonopah;Tonopah;Tonopah;;Tonopah;;;;;;;;;x
@@ -2073,5 +2071,7 @@ c_yuma;Yuma;Yuma;Yuma;;Yuma;;;;;;;;;x
 c_yuma_adj;Yuman;;yumer;;;;;;;;;;;x
 c_yuquot;Yuquot;Yuquot;Yuquot;;Yuquot;;;;;;;;;x
 c_yuquot_adj;Yuquotian;;yuquoter;;;;;;;;;;;x
+c_zeballos;Zeballos;Zeballos;Zeballos;;Zeballos;;;;;;;;;x
+c_zeballos_adj;Zeballosian;;zeballoser;;;;;;;;;;;x
 c_zuni;Zuni;Zuni;Zuni;;Zuni;;;;;;;;;x
 c_zuni_adj;Zunian;;zuner;;;;;;;;;;;x

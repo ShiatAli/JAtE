@@ -10,7 +10,7 @@ b_pendleton_2 = castle
 b_milton_freewater = city
 #b_mission = temple
 #b_tutuilla = castle
-#b_adams = city
+#b_adams_2 = city
 #b_athena = temple
 #b_weston = castle
 

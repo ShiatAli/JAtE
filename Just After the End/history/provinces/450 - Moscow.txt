@@ -1,0 +1,21 @@
+# c_moscow
+
+# County Title
+title = c_moscow
+
+# Settlements
+max_settlements = 3
+
+b_moscow = castle
+b_troy_2 = city
+#b_genesee = temple
+#b_juliaetta = castle
+#b_kendrick = city
+#b_blaine_2 = temple
+#b_joel = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

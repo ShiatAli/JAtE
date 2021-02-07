@@ -1,0 +1,21 @@
+# c_kalispell
+
+# County Title
+title = c_kalispell
+
+# Settlements
+max_settlements = 3
+
+b_kalispell = castle
+#b_evergreen = city
+#b_columbia_falls = temple
+#b_whitefish = castle
+#b_somers = city
+#b_lakeside_3 = temple
+#b_creston_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -74,7 +74,7 @@ province;red;green;blue;x;x
 73;95;200;200;Oroville;x
 74;95;220;200;Oliverhurst;x
 75;95;220;220;Pleasant Grove;x
-76;100;200;200;Taylorville;x
+76;100;200;200;Indian Valley;x
 77;105;200;200;Chester;x
 78;120;200;200;Portola;x
 79;120;180;200;Olympic Valley;x
@@ -438,19 +438,19 @@ province;red;green;blue;x;x
 437;140;37;37;Coeur dAlene;x
 438;140;60;20;Ponderay;x
 439;179;119;89;Boundary;x
-440;123;71;67;Moscow;x
-441;150;30;20;Benewah;x
-442;97;46;42;Orofino;x
-443;114;95;128;Shoshone;x
-444;167;5;5;Sanders;x
-445;219;16;16;Superior;x
-446;162;126;126;Missoula;x
-447;176;157;157;Ravalli;x
-448;255;197;197;Sellway;x
-449;13;88;99;Kalispell;x
-450;20;135;152;Glacier;x
-451;80;124;131;Polson;x
-452;29;107;119;Lincoln_2;x
+440;114;95;128;Silver Valley;x
+441;167;5;5;Sanders;x
+442;219;16;16;Superior;x
+443;162;126;126;Missoula;x
+444;176;157;157;Ravalli;x
+445;255;197;197;Sellway;x
+446;13;88;99;Kalispell;x
+447;20;135;152;Glacier;x
+448;80;124;131;Polson;x
+449;29;107;119;Lincoln_2;x
+450;123;71;67;Moscow;x
+451;35;200;155;Pullman;x
+452;78;179;152;Skitswish;x
 453;140;5;5;Franklin;x
 454;155;86;86;Washtucna;x
 455;108;193;232;Royal City;x
@@ -462,17 +462,17 @@ province;red;green;blue;x;x
 461;150;111;152;Davenport;x
 462;115;186;167;Reardan;x
 463;60;142;120;Towell;x
-464;35;200;155;Pullman;x
-465;224;109;109;Yakima;x
-466;188;50;50;Ellenburg;x
-467;188;122;122;Moxee;x
-468;179;93;93;Goldendale;x
-469;162;114;114;Toppenish;x
-470;106;60;60;Sunnyside;x
-471;59;97;174;Kennewick;x
-472;114;130;162;Grandview;x
-473;57;49;212;Walla Walla;x
-474;212;49;195;Pomeroy;x
+464;224;109;109;Yakima;x
+465;188;50;50;Ellenburg;x
+466;188;122;122;Moxee;x
+467;179;93;93;Goldendale;x
+468;162;114;114;Toppenish;x
+469;106;60;60;Sunnyside;x
+470;59;97;174;Kennewick;x
+471;114;130;162;Grandview;x
+472;57;49;212;Walla Walla;x
+473;65;49;218;Tollgate;x
+474;212;49;195;Clarkston;x
 475;164;70;154;Burbank;x
 476;119;35;110;Pendleton_2;x
 477;124;42;115;Hermiston;x
@@ -510,7 +510,7 @@ province;red;green;blue;x;x
 509;164;47;47;Tofino;x
 510;181;114;114;Ahousat;x
 511;124;53;53;Yuquot;x
-512;145;98;98;Fair Harbour;x
+512;145;98;98;Zeballos;x
 513;102;133;115;Powell;x
 514;132;164;146;Maderia Park;x
 515;69;101;183;Lund;x
@@ -718,9 +718,9 @@ province;red;green;blue;x;x
 717;105;221;114;West Salmon;x
 718;88;203;141;Riggins;x
 719;115;255;115;Deadwood;x
-720;199;182;87;Nez Perce;x
+720;199;182;87;Lewis;x
 721;163;203;141;Idaho;x
-722;163;203;87;Lewis;x
+722;163;203;87;Nez Perce;x
 723;194;177;141;Elk;x
 724;232;192;106;Selway;x
 725;221;158;49;Silver Lake;x

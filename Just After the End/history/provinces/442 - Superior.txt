@@ -1,0 +1,21 @@
+# c_superior
+
+# County Title
+title = c_superior
+
+# Settlements
+max_settlements = 2
+
+b_superior = castle
+#b_st_regis = city
+#b_de_borgia = temple
+#b_haugan = castle
+#b_lozeau = city
+#b_alberton = temple
+#b_cabin_city = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

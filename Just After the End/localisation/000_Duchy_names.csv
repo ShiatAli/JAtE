@@ -199,6 +199,8 @@ d_grand_teton;Grand Teton;Grand Teton;Grand Teton;;Grand Teton;;;;;;;;;x
 d_grand_teton_adj;Grand Tetonian;;Grand Tetoner;;;;;;;;;;;x
 d_grand_vegas;Grand Vegas;Grand Vegas;Grand Vegas;;Grand Vegas;;;;;;;;;x
 d_grand_vegas_adj;Grand Vegasian;;Grand Vegaser;;;;;;;;;;;x
+d_granite;Granite;Granite;Granite;;Granite;;;;;;;;;x
+d_granite_adj;Granitean;;graniter;;;;;;;;;;;x
 d_grant;Grant;Grant;Grant;;Grant;;;;;;;;;x
 d_grant_adj;Grantian;;granter;;;;;;;;;;;x
 d_grays_harbor;Grays Harbor;Grays Harbor;Grays Harbor;;Grays Harbor;;;;;;;;;x
@@ -279,8 +281,6 @@ d_las_estribaciones;Las Estribaciones;Las Estribaciones;Las Estribaciones;;Las E
 d_las_estribaciones_adj;Las Estribacionesian;;Las Estribacioneser;;;;;;;;;;;x
 d_lassen;Lassen;Lassen;Lassen;;Lassen;;;;;;;;;x
 d_lassen_adj;Lassenian;;lassener;;;;;;;;;;;x
-d_lateh;Lateh;Lateh;Lateh;;Lateh;;;;;;;;;x
-d_lateh_adj;Latehian;;lateher;;;;;;;;;;;x
 d_lemhi;Lemhi;Lemhi;Lemhi;;Lemhi;;;;;;;;;x
 d_lemhi_adj;Lemhian;;lemher;;;;;;;;;;;x
 d_lewis;Lewis;Lewis;Lewis;;Lewis;;;;;;;;;x

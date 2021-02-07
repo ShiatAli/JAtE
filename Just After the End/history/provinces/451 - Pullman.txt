@@ -1,0 +1,21 @@
+# c_pullman
+
+# County Title
+title = c_pullman
+
+# Settlements
+max_settlements = 3
+
+b_pullman = castle
+b_colfax = city
+#b_palouse = temple
+#b_almota = castle
+#b_albion_2 = city
+#b_uniontown = temple
+#b_colton_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_indian_valley
+
+# County Title
+title = c_indian_valley
+
+# Settlements
+max_settlements = 4
+
+b_taylorsville = castle
+b_berden = city
+#b_almanor = temple
+#b_prattville = castle
+#b_canyondam = city
+#b_longville = temple
+#b_tobin = castle
+
+# Misc
+culture = valleyan
+religion = cetic
+
+#History

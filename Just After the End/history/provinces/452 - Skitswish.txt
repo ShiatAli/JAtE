@@ -1,0 +1,21 @@
+# c_skitswish
+
+# County Title
+title = c_skitswish
+
+# Settlements
+max_settlements = 2
+
+b_plummer = castle
+#b_potlatch_2 = city
+#b_oaksdale = temple
+#b_tensed = castle
+#b_benewah = city
+#b_tekoa = temple
+#b_de_smet = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_sanders
+
+# County Title
+title = c_sanders
+
+# Settlements
+max_settlements = 3
+
+b_thompson_falls = castle
+b_plains = city
+#b_paradise_3 = temple
+#b_trout_creek = castle
+#b_belknap = city
+#b_white_pine = temple
+#b_larchwood = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

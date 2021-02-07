@@ -1,0 +1,21 @@
+# c_polson
+
+# County Title
+title = c_polson
+
+# Settlements
+max_settlements = 3
+
+b_polson = castle
+#b_pablo = city
+#b_ronan = temple
+#b_charlo = castle
+#b_st_ignatius = city
+#b_hot_springs_2 = temple
+#b_dixon_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

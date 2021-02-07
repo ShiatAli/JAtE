@@ -7,7 +7,7 @@ title = c_west_valley
 max_settlements = 4
 
 b_granger_2 = castle
-b_taylorsville = city
+b_taylorsville_2 = city
 b_kearns = temple
 #b_magna = castle
 #b_redwood = city

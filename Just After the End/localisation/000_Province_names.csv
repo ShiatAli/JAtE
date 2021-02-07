@@ -73,7 +73,7 @@ PROV72;Nevada City;Nevada City;Nevada City;;;;;;;;;x
 PROV73;Oroville;Oroville;Oroville;;;;;;;;;x
 PROV74;Oliverhurst;Oliverhurst;Oliverhurst;;;;;;;;;x
 PROV75;Pleasant Grove;Pleasant Grove;Pleasant Grove;;;;;;;;;x
-PROV76;Taylorville;Taylorville;Taylorville;;;;;;;;;x
+PROV76;Indian Valley;Indian Valley;Indian Valley;;;;;;;;;x
 PROV77;Chester;Chester;Chester;;;;;;;;;x
 PROV78;Portola;Portola;Portola;;;;;;;;;x
 PROV79;Olympic Valley;Olympic Valley;Olympic Valley;;;;;;;;;x
@@ -437,19 +437,19 @@ PROV436;Winthrop;Winthrop;Winthrop;;;;;;;;;x
 PROV437;Coeur d'Alene;Coeur d'Alene;Coeur d'Alene;;;;;;;;;x
 PROV438;Ponderay;Ponderay;Ponderay;;;;;;;;;x
 PROV439;Boundary;Boundary;Boundary;;;;;;;;;x
-PROV440;Moscow;Moscow;Moscow;;;;;;;;;x
-PROV441;Benewah;Benewah;Benewah;;;;;;;;;x
-PROV442;Orofino;Orofino;Orofino;;;;;;;;;x
-PROV443;Shoshone;Shoshone;Shoshone;;;;;;;;;x
-PROV444;Sanders;Sanders;Sanders;;;;;;;;;x
-PROV445;Superior;Superior;Superior;;;;;;;;;x
-PROV446;Missoula;Missoula;Missoula;;;;;;;;;x
-PROV447;Ravalli;Ravalli;Ravalli;;;;;;;;;x
-PROV448;Sellway;Sellway;Sellway;;;;;;;;;x
-PROV449;Kalispell;Kalispell;Kalispell;;;;;;;;;x
-PROV450;Glacier;Glacier;Glacier;;;;;;;;;x
-PROV451;Polson;Polson;Polson;;;;;;;;;x
-PROV452;Lincoln;Lincoln;Lincoln;;;;;;;;;x
+PROV440;Silver Valley;Silver Valley;Silver Valley;;;;;;;;;x
+PROV441;Sanders;Sanders;Sanders;;;;;;;;;x
+PROV442;Superior;Superior;Superior;;;;;;;;;x
+PROV443;Missoula;Missoula;Missoula;;;;;;;;;x
+PROV444;Ravalli;Ravalli;Ravalli;;;;;;;;;x
+PROV445;Sellway;Sellway;Sellway;;;;;;;;;x
+PROV446;Kalispell;Kalispell;Kalispell;;;;;;;;;x
+PROV447;Glacier;Glacier;Glacier;;;;;;;;;x
+PROV448;Polson;Polson;Polson;;;;;;;;;x
+PROV449;Lincoln;Lincoln;Lincoln;;;;;;;;;x
+PROV450;Moscow;Moscow;Moscow;;;;;;;;;x
+PROV451;Pullman;Pullman;Pullman;;;;;;;;;x
+PROV452;Skitswish;Skitswish;Skitswish;;;;;;;;;x
 PROV453;Franklin;Franklin;Franklin;;;;;;;;;x
 PROV454;Washtucna;Washtucna;Washtucna;;;;;;;;;x
 PROV455;Royal City;Royal City;Royal City;;;;;;;;;x
@@ -461,17 +461,17 @@ PROV460;Odessa;Odessa;Odessa;;;;;;;;;x
 PROV461;Davenport;Davenport;Davenport;;;;;;;;;x
 PROV462;Reardan;Reardan;Reardan;;;;;;;;;x
 PROV463;Towell;Towell;Towell;;;;;;;;;x
-PROV464;Pullman;Pullman;Pullman;;;;;;;;;x
-PROV465;Yakima;Yakima;Yakima;;;;;;;;;x
-PROV466;Ellenburg;Ellenburg;Ellenburg;;;;;;;;;x
-PROV467;Moxee;Moxee;Moxee;;;;;;;;;x
-PROV468;Goldendale;Goldendale;Goldendale;;;;;;;;;x
-PROV469;Toppenish;Toppenish;Toppenish;;;;;;;;;x
-PROV470;Sunnyside;Sunnyside;Sunnyside;;;;;;;;;x
-PROV471;Kennewick;Kennewick;Kennewick;;;;;;;;;x
-PROV472;Grandview;Grandview;Grandview;;;;;;;;;x
-PROV473;Walla Walla;Walla Walla;Walla Walla;;;;;;;;;x
-PROV474;Pomeroy;Pomeroy;Pomeroy;;;;;;;;;x
+PROV464;Yakima;Yakima;Yakima;;;;;;;;;x
+PROV465;Ellenburg;Ellenburg;Ellenburg;;;;;;;;;x
+PROV466;Moxee;Moxee;Moxee;;;;;;;;;x
+PROV467;Goldendale;Goldendale;Goldendale;;;;;;;;;x
+PROV468;Toppenish;Toppenish;Toppenish;;;;;;;;;x
+PROV469;Sunnyside;Sunnyside;Sunnyside;;;;;;;;;x
+PROV470;Kennewick;Kennewick;Kennewick;;;;;;;;;x
+PROV471;Grandview;Grandview;Grandview;;;;;;;;;x
+PROV472;Walla Walla;Walla Walla;Walla Walla;;;;;;;;;x
+PROV473;Tollgate;Tollgate;Tollgate;;;;;;;;;x
+PROV474;Clarkston;Clarkston;Clarkston;;;;;;;;;x
 PROV475;Burbank;Burbank;Burbank;;;;;;;;;x
 PROV476;Pendleton;Pendleton;Pendleton;;;;;;;;;x
 PROV477;Hermiston;Hermiston;Hermiston;;;;;;;;;x
@@ -509,7 +509,7 @@ PROV508;Ucluelet;Ucluelet;Ucluelet;;;;;;;;;x
 PROV509;Tofino;Tofino;Tofino;;;;;;;;;x
 PROV510;Ahousat;Ahousat;Ahousat;;;;;;;;;x
 PROV511;Yuquot;Yuquot;Yuquot;;;;;;;;;x
-PROV512;Fair Harbour;Fair Harbour;Fair Harbour;;;;;;;;;x
+PROV512;Zeballos;Zeballos;Zeballos;;;;;;;;;x
 PROV513;Powell;Powell;Powell;;;;;;;;;x
 PROV514;Maderia Park;Maderia Park;Maderia Park;;;;;;;;;x
 PROV515;Lund;Lund;Lund;;;;;;;;;x
@@ -717,9 +717,9 @@ PROV716;East Salmon;East Salmon;East Salmon;;;;;;;;;x
 PROV717;West Salmon;West Salmon;West Salmon;;;;;;;;;x
 PROV718;Riggins;Riggins;Riggins;;;;;;;;;x
 PROV719;Deadwood;Deadwood;Deadwood;;;;;;;;;x
-PROV720;Nez Perce;Nez Perce;Nez Perce;;;;;;;;;x
+PROV720;Lewis;Lewis;Lewis;;;;;;;;;x
 PROV721;Idaho;Idaho;Idaho;;;;;;;;;x
-PROV722;Lewis;Lewis;Lewis;;;;;;;;;x
+PROV722;Nez Perce;Nez Perce;Nez Perce;;;;;;;;;x
 PROV723;Elk;Elk;Elk;;;;;;;;;x
 PROV724;Selway;Selway;Selway;;;;;;;;;x
 PROV725;Silver Lake;Silver Lake;Silver Lake;;;;;;;;;x

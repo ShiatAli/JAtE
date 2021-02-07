@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_swan_lake_2 = castle
 #b_seeley_lake = city
-#b_lincoln_2 = temple
+#b_lincoln_4 = temple
 #b_clinton_3 = castle
 #b_turah = city
 #b_ovando = temple

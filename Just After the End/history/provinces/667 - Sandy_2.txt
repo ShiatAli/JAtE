@@ -11,7 +11,7 @@ b_draper = city
 b_riverton_2 = temple
 #b_bluffdale = castle
 #b_white_city_2 = city
-#b_granite_2 = temple
+#b_granite_3 = temple
 #b_willow_canyon = castle
 
 # Misc

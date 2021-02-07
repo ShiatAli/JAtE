@@ -1,0 +1,21 @@
+# c_clarkston
+
+# County Title
+title = c_clarkston
+
+# Settlements
+max_settlements = 2
+
+b_clarkston = castle
+#b_pomeroy = city
+#b_dayton = temple
+#b_starbuck = castle
+#b_pataha = city
+#b_dodge = temple
+#b_heights_vineland = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

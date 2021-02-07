@@ -6,7 +6,7 @@ title = c_grande_rond
 # Settlements
 max_settlements = 2
 
-b_troy_3 = castle
+b_troy_4 = castle
 #b_grouse = city
 #b_flora = temple
 #b_maxwell = castle
