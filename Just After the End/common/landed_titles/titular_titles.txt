@@ -1,0 +1,9 @@
+################TITULAR REPUBLICS#####################
+d_pikeplace = {
+	color = { 51 134 236 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	allow = { is_republic = yes }
+	culture = cascadian
+}

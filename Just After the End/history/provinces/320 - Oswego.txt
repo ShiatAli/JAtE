@@ -1,12 +1,12 @@
-# c_multnomah
+# c_oswego
 
 # County Title
-title = c_multnomah
+title = c_oswego
 
 # Settlements
 max_settlements = 4
 
-b_multnomah = castle
+b_lake_oswego = castle
 b_collins_view = city
 b_riverwood = temple
 #b_homestead = castle

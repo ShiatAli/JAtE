@@ -539,6 +539,8 @@ d_trinity;Trinity;Trinity;Trinity;;Trinity;;;;;;;;;x
 d_trinity_adj;Trinitian;;triniter;;;;;;;;;;;x
 d_truckee_meadows;Truckee Meadows;Truckee Meadows;Truckee Meadows;;Truckee Meadows;;;;;;;;;x
 d_truckee_meadows_adj;Truckee Meadowsian;;Truckee Meadowser;;;;;;;;;;;x
+d_tualatin;Tualatin;Tualatin;Tualatin;;Tualatin;;;;;;;;;x
+d_tualatin_adj;Tualatinian;;tualatiner;;;;;;;;;;;x
 d_tuba;Tuba;Tuba;Tuba;;Tuba;;;;;;;;;x
 d_tuba_adj;Tuban;;tuber;;;;;;;;;;;x
 d_two_sun;Two Sun;Two Sun;Two Sun;;Two Sun;;;;;;;;;x
@@ -563,8 +565,6 @@ d_wasatch;Wasatch;Wasatch;Wasatch;;Wasatch;;;;;;;;;x
 d_wasatch_adj;Wasatchian;;wasatcher;;;;;;;;;;;x
 d_wasco;Wasco;Wasco;Wasco;;Wasco;;;;;;;;;x
 d_wasco_adj;Wascian;;wascer;;;;;;;;;;;x
-d_washington;Washington;Washington;Washington;;Washington;;;;;;;;;x
-d_washington_adj;Washingtonian;;washingtoner;;;;;;;;;;;x
 d_washoe;Washoe;Washoe;Washoe;;Washoe;;;;;;;;;x
 d_washoe_adj;Washoean;;washer;;;;;;;;;;;x
 d_waucoba;Waucoba;Waucoba;Waucoba;;Waucoba;;;;;;;;;x

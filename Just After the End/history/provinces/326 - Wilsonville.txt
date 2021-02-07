@@ -11,7 +11,7 @@ b_stafford = city
 b_west_linn = temple
 #b_shadowood = castle
 #b_rivergrove = city
-#b_lake_oswego = temple
+#b_lake_oswego_2 = temple
 #b_blue_heron = castle
 
 # Misc

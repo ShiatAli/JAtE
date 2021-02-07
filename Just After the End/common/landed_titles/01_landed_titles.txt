@@ -15486,11 +15486,11 @@ e_oregon = {
 				b_portsmouth = {
 				}
 			}
-			c_gersham = { # 318
+			c_gresham = { # 318
 				color={ 146 75 150 }
 				color2={ 255 255 255 }
 				
-				b_gersham = {
+				b_gresham = {
 				}
 				b_springdale = {
 				}
@@ -15505,11 +15505,11 @@ e_oregon = {
 				b_wood_village = {
 				}
 			}
-			c_multnomah = { # 320
+			c_oswego = { # 320
 				color={ 184 82 161 }
 				color2={ 255 255 255 }
 				
-				b_multnomah = {
+				b_lake_oswego = {
 				}
 				b_collins_view = {
 				}
@@ -15659,7 +15659,7 @@ e_oregon = {
 				}
 				b_rivergrove = {
 				}
-				b_lake_oswego = {
+				b_lake_oswego_2 = {
 				}
 				b_blue_heron = {
 				}
@@ -15875,7 +15875,7 @@ e_oregon = {
 				}
 			}
 		}
-		d_washington = {
+		d_tualatin = {
 			color={ 170 10 166 }
 			color2={ 255 255 255 }
 			
@@ -16279,25 +16279,6 @@ e_oregon = {
 		capital = 340 # c_salem
 		culture = willametteian
 		
-		c_reedsport = { # 352
-			color={ 112 60 80 }
-			color2={ 255 255 255 }
-			
-			b_reedsport = {
-			}
-			b_gardiner = {
-			}
-			b_dunes_city = {
-			}
-			b_winchester_bay = {
-			}
-			b_templeton_2 = {
-			}
-			b_scottburg = {
-			}
-			b_siltcoos = {
-			}
-		}
 		d_santiam = {
 			color={ 199 165 219 }
 			color2={ 255 255 255 }

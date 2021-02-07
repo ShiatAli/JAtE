@@ -1,12 +1,12 @@
-# c_gersham
+# c_gresham
 
 # County Title
-title = c_gersham
+title = c_gresham
 
 # Settlements
 max_settlements = 4
 
-b_gersham = castle
+b_gresham = castle
 b_springdale = city
 b_orient = temple
 #b_troutdale = castle

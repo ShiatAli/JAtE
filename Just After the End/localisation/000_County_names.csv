@@ -633,8 +633,6 @@ c_gateway;Gateway;Gateway;Gateway;;Gateway;;;;;;;;;x
 c_gateway_adj;Gatewaian;;gatewaer;;;;;;;;;;;x
 c_gaylord;Gaylord;Gaylord;Gaylord;;Gaylord;;;;;;;;;x
 c_gaylord_adj;Gaylordian;;gaylorder;;;;;;;;;;;x
-c_gersham;Gersham;Gersham;Gersham;;Gersham;;;;;;;;;x
-c_gersham_adj;Gershamian;;gershamer;;;;;;;;;;;x
 c_gibsons;Gibsons;Gibsons;Gibsons;;Gibsons;;;;;;;;;x
 c_gibsons_adj;Gibsonsian;;gibsonser;;;;;;;;;;;x
 c_gillam;Gillam;Gillam;Gillam;;Gillam;;;;;;;;;x
@@ -697,6 +695,8 @@ c_grapevine;Grapevine;Grapevine;Grapevine;;Grapevine;;;;;;;;;x
 c_grapevine_adj;Grapevinean;;grapeviner;;;;;;;;;;;x
 c_grays_lake;Grays Lake;Grays Lake;Grays Lake;;Grays Lake;;;;;;;;;x
 c_grays_lake_adj;Grays Lakean;;Grays Laker;;;;;;;;;;;x
+c_gresham;Gresham;Gresham;Gresham;;Gresham;;;;;;;;;x
+c_gresham_adj;Greshamian;;greshamer;;;;;;;;;;;x
 c_grouse_creek;Grouse Creek;Grouse Creek;Grouse Creek;;Grouse Creek;;;;;;;;;x
 c_grouse_creek_adj;Grouse Creekian;;Grouse Creeker;;;;;;;;;;;x
 c_guadalupe;Guadalupe;Guadalupe;Guadalupe;;Guadalupe;;;;;;;;;x
@@ -1133,8 +1133,6 @@ c_mt_vernon;Mt.Vernon;Mt.Vernon;Mt.Vernon;;Mt.Vernon;;;;;;;;;x
 c_mt_vernon_adj;Mt.Vernonian;;mt.vernoner;;;;;;;;;;;x
 c_mud_lake;Mud Lake;Mud Lake;Mud Lake;;Mud Lake;;;;;;;;;x
 c_mud_lake_adj;Mud Lakean;;Mud Laker;;;;;;;;;;;x
-c_multnomah;Multnomah;Multnomah;Multnomah;;Multnomah;;;;;;;;;x
-c_multnomah_adj;Multnomahian;;multnomaher;;;;;;;;;;;x
 c_murray;Murray;Murray;Murray;;Murray;;;;;;;;;x
 c_murray_adj;Murraian;;murraer;;;;;;;;;;;x
 c_nacori_chico;Nácori Chico;Nácori Chico;Nácori Chico;;Nácori Chico;;;;;;;;;x
@@ -1243,6 +1241,8 @@ c_oroville_2;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
 c_oroville_2_adj;Orovillean;;oroviller;;;;;;;;;;;x
 c_osceloa;Osceloa;Osceloa;Osceloa;;Osceloa;;;;;;;;;x
 c_osceloa_adj;Osceloan;;osceler;;;;;;;;;;;x
+c_oswego;Oswego;Oswego;Oswego;;Oswego;;;;;;;;;x
+c_oswego_adj;Oswegian;;osweger;;;;;;;;;;;x
 c_otay_lakes;Otay Lakes;Otay Lakes;Otay Lakes;;Otay Lakes;;;;;;;;;x
 c_otay_lakes_adj;Otay Lakesian;;Otay Lakeser;;;;;;;;;;;x
 c_otero;Otero;Otero;Otero;;Otero;;;;;;;;;x

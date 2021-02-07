@@ -5063,8 +5063,6 @@ b_gerrard;Gerrard;Gerrard;Gerrard;;Gerrard;;;;;;;;;x
 b_gerrard_adj;Gerrardian;;gerrarder;;;;;;;;;;;x
 b_gerrard_2;Gerrard;Gerrard;Gerrard;;Gerrard;;;;;;;;;x
 b_gerrard_2_adj;Gerrardian;;gerrarder;;;;;;;;;;;x
-b_gersham;Gersham;Gersham;Gersham;;Gersham;;;;;;;;;x
-b_gersham_adj;Gershamian;;gershamer;;;;;;;;;;;x
 b_getta;Getta;Getta;Getta;;Getta;;;;;;;;;x
 b_getta_adj;Gettan;;getter;;;;;;;;;;;x
 b_geyserville;Geyserville;Geyserville;Geyserville;;Geyserville;;;;;;;;;x
@@ -5447,6 +5445,8 @@ b_gregg;Gregg;Gregg;Gregg;;Gregg;;;;;;;;;x
 b_gregg_adj;Greggian;;gregger;;;;;;;;;;;x
 b_grenada;Grenada;Grenada;Grenada;;Grenada;;;;;;;;;x
 b_grenada_adj;Grenadan;;grenader;;;;;;;;;;;x
+b_gresham;Gresham;Gresham;Gresham;;Gresham;;;;;;;;;x
+b_gresham_adj;Greshamian;;greshamer;;;;;;;;;;;x
 b_greybull;Greybull;Greybull;Greybull;;Greybull;;;;;;;;;x
 b_greybull_adj;Greybullian;;greybuller;;;;;;;;;;;x
 b_greycliff;Greycliff;Greycliff;Greycliff;;Greycliff;;;;;;;;;x
@@ -7093,6 +7093,8 @@ b_lake_montezuma;Lake Montezuma;Lake Montezuma;Lake Montezuma;;Lake Montezuma;;;
 b_lake_montezuma_adj;Lake Montezuman;;Lake Montezumer;;;;;;;;;;;x
 b_lake_oswego;Lake Oswego;Lake Oswego;Lake Oswego;;Lake Oswego;;;;;;;;;x
 b_lake_oswego_adj;Lake Oswegian;;Lake Osweger;;;;;;;;;;;x
+b_lake_oswego_2;Lake Oswego;Lake Oswego;Lake Oswego;;Lake Oswego;;;;;;;;;x
+b_lake_oswego_2_adj;Lake Oswegian;;Lake Osweger;;;;;;;;;;;x
 b_lake_owoods;Lake o'Woods;Lake o'Woods;Lake o'Woods;;Lake o'Woods;;;;;;;;;x
 b_lake_owoods_adj;Lake o'Woodsian;;Lake o'Woodser;;;;;;;;;;;x
 b_lake_peak;Lake Peak;Lake Peak;Lake Peak;;Lake Peak;;;;;;;;;x
@@ -8813,8 +8815,6 @@ b_mukilteo;Mukilteo;Mukilteo;Mukilteo;;Mukilteo;;;;;;;;;x
 b_mukilteo_adj;Mukiltian;;mukilter;;;;;;;;;;;x
 b_mullan;Mullan;Mullan;Mullan;;Mullan;;;;;;;;;x
 b_mullan_adj;Mullanian;;mullaner;;;;;;;;;;;x
-b_multnomah;Multnomah;Multnomah;Multnomah;;Multnomah;;;;;;;;;x
-b_multnomah_adj;Multnomahian;;multnomaher;;;;;;;;;;;x
 b_mundo;Mundo;Mundo;Mundo;;Mundo;;;;;;;;;x
 b_mundo_adj;Mundian;;munder;;;;;;;;;;;x
 b_mundo_2;Mundo;Mundo;Mundo;;Mundo;;;;;;;;;x
