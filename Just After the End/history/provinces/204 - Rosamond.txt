@@ -1,0 +1,21 @@
+# c_rosamond
+
+# County Title
+title = c_rosamond
+
+# Settlements
+max_settlements = 4
+
+b_rosamond = castle
+b_willow_springs = city
+#b_ansel = temple
+#b_edwards = castle
+#b_desert_oasis = city
+#b_manzana = temple
+#b_jimmy = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

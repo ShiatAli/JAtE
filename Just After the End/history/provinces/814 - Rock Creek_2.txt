@@ -1,0 +1,21 @@
+# c_rock_creek_2
+
+# County Title
+title = c_rock_creek_2
+
+# Settlements
+max_settlements = 1
+
+b_sumpter = castle
+#b_granite_3 = city
+#b_starkey = temple
+#b_little_alps = castle
+#b_greenhorn_2 = city
+#b_lehman_springs = temple
+#b_elkanah = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

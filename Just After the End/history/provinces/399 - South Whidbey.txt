@@ -1,0 +1,21 @@
+# c_south_whidbey
+
+# County Title
+title = c_south_whidbey
+
+# Settlements
+max_settlements = 3
+
+b_langley = castle
+b_clinton = city
+#b_freeland = temple
+#b_baby_island = castle
+#b_sunlight_beach = city
+#b_midvale_corner = temple
+#b_maxwelton = castle
+
+# Misc
+culture = skagitan
+religion = gaian
+
+#History

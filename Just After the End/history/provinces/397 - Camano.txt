@@ -1,0 +1,21 @@
+# c_camano
+
+# County Title
+title = c_camano
+
+# Settlements
+max_settlements = 3
+
+b_utsalady = castle
+b_terrys_corner = city
+#b_camaloch = temple
+#b_madrona_beach = castle
+#b_lona = city
+#b_cama = temple
+#b_camano_head = castle
+
+# Misc
+culture = skagitan
+religion = gaian
+
+#History

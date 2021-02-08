@@ -1,0 +1,21 @@
+# c_fidalgo
+
+# County Title
+title = c_fidalgo
+
+# Settlements
+max_settlements = 3
+
+b_anacortes = castle
+b_swinomish_village = city
+#b_dewey = temple
+#b_rosario_beach = castle
+#b_similk = city
+#b_cap_sante = temple
+#b_washington_park = castle
+
+# Misc
+culture = skagitan
+religion = gaian
+
+#History

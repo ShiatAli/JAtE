@@ -1,0 +1,21 @@
+# c_eugene
+
+# County Title
+title = c_eugene
+
+# Settlements
+max_settlements = 4
+
+b_eugene_2 = castle
+b_junction_city_2 = city
+b_lancaster_2 = temple
+#b_coburg = castle
+#b_alvadore = city
+#b_mohawk = temple
+#b_irving = castle
+
+# Misc
+culture = willametteian
+religion = gaian
+
+#History

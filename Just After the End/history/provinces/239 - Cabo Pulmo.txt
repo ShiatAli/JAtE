@@ -1,0 +1,21 @@
+# c_cabo_pulmo
+
+# County Title
+title = c_cabo_pulmo
+
+# Settlements
+max_settlements = 4
+
+b_cabo_pulmo = castle
+b_el_cardoncito = city
+b_villa_los_frailes = temple
+#b_capila = castle
+#b_nine_palms = city
+#b_santiago_2 = temple
+#b_castillo_de_cabo = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

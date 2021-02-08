@@ -25,6 +25,8 @@ d_artemisia;Artemisia;Artemisia;Artemisia;;Artemisia;;;;;;;;;x
 d_artemisia_adj;Artemisian;;artemiser;;;;;;;;;;;x
 d_ashford;Ashford;Ashford;Ashford;;Ashford;;;;;;;;;x
 d_ashford_adj;Ashfordian;;ashforder;;;;;;;;;;;x
+d_asotin;Asotin;Asotin;Asotin;;Asotin;;;;;;;;;x
+d_asotin_adj;Asotinian;;asotiner;;;;;;;;;;;x
 d_badiraguato;Badiraguato;Badiraguato;Badiraguato;;Badiraguato;;;;;;;;;x
 d_badiraguato_adj;Badiraguatian;;badiraguater;;;;;;;;;;;x
 d_baker;Baker;Baker;Baker;;Baker;;;;;;;;;x
@@ -67,6 +69,8 @@ d_calavera;Calavera;Calavera;Calavera;;Calavera;;;;;;;;;x
 d_calavera_adj;Calaveran;;calaverer;;;;;;;;;;;x
 d_calstop;Calstop;Calstop;Calstop;;Calstop;;;;;;;;;x
 d_calstop_adj;Calstopian;;calstoper;;;;;;;;;;;x
+d_campbell;Campbell;Campbell;Campbell;;Campbell;;;;;;;;;x
+d_campbell_adj;Campbellian;;campbeller;;;;;;;;;;;x
 d_canal;Canal;Canal;Canal;;Canal;;;;;;;;;x
 d_canal_adj;Canalian;;canaler;;;;;;;;;;;x
 d_canyonlands;Canyonlands;Canyonlands;Canyonlands;;Canyonlands;;;;;;;;;x
@@ -279,8 +283,8 @@ d_las_estribaciones;Las Estribaciones;Las Estribaciones;Las Estribaciones;;Las E
 d_las_estribaciones_adj;Las Estribacionesian;;Las Estribacioneser;;;;;;;;;;;x
 d_lassen;Lassen;Lassen;Lassen;;Lassen;;;;;;;;;x
 d_lassen_adj;Lassenian;;lassener;;;;;;;;;;;x
-d_lateh;Lateh;Lateh;Lateh;;Lateh;;;;;;;;;x
-d_lateh_adj;Latehian;;lateher;;;;;;;;;;;x
+d_latah;Latah;Latah;Latah;;Latah;;;;;;;;;x
+d_latah_adj;Latahian;;lataher;;;;;;;;;;;x
 d_lemhi;Lemhi;Lemhi;Lemhi;;Lemhi;;;;;;;;;x
 d_lemhi_adj;Lemhian;;lemher;;;;;;;;;;;x
 d_lewis;Lewis;Lewis;Lewis;;Lewis;;;;;;;;;x
@@ -407,8 +411,6 @@ d_posession;Posession;Posession;Posession;;Posession;;;;;;;;;x
 d_posession_adj;Posessionian;;posessioner;;;;;;;;;;;x
 d_pozo_canyon;Pozo Canyon;Pozo Canyon;Pozo Canyon;;Pozo Canyon;;;;;;;;;x
 d_pozo_canyon_adj;Pozo Canyonian;;Pozo Canyoner;;;;;;;;;;;x
-d_prince_of_wales;Prince of Wales;Prince of Wales;Prince of Wales;;Prince of Wales;;;;;;;;;x
-d_prince_of_wales_adj;Prince of Walesian;;Prince of Waleser;;;;;;;;;;;x
 d_pueblo;Pueblo;Pueblo;Pueblo;;Pueblo;;;;;;;;;x
 d_pueblo_adj;Pueblian;;puebler;;;;;;;;;;;x
 d_purcells;Purcells;Purcells;Purcells;;Purcells;;;;;;;;;x

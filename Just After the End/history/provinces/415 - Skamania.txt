@@ -1,0 +1,21 @@
+# c_skamania
+
+# County Title
+title = c_skamania
+
+# Settlements
+max_settlements = 3
+
+b_stevenson_2 = castle
+b_skamania = city
+#b_north_booneville = temple
+#b_carson_2 = castle
+#b_stabler = city
+#b_fort_rains = temple
+#b_dodson = castle
+
+# Misc
+culture = gorgeon
+religion = gaian
+
+#History

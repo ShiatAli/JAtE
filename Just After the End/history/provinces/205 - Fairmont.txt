@@ -1,0 +1,21 @@
+# c_fairmont
+
+# County Title
+title = c_fairmont
+
+# Settlements
+max_settlements = 4
+
+b_fairmont = castle
+#b_neenach = city
+#b_lake_hughes = temple
+#b_leona = castle
+#b_three_points = city
+#b_lincoln_crest = temple
+#b_naylor = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

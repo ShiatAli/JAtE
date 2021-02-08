@@ -1,0 +1,21 @@
+# c_clarkston
+
+# County Title
+title = c_clarkston
+
+# Settlements
+max_settlements = 2
+
+b_clarkston = castle
+#b_asotin = city
+#b_anatone = temple
+#b_vineland = castle
+#b_highland_2 = city
+#b_rogersburg = temple
+#b_clarkston_heights = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

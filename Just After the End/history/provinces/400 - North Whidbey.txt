@@ -1,0 +1,21 @@
+# c_north_whidbey
+
+# County Title
+title = c_north_whidbey
+
+# Settlements
+max_settlements = 3
+
+b_oak_harbor = castle
+b_coupeville = city
+#b_aultfield = temple
+#b_san_de_fuca = castle
+#b_swantown = city
+#b_fort_casey = temple
+#b_dugualla = castle
+
+# Misc
+culture = skagitan
+religion = gaian
+
+#History
