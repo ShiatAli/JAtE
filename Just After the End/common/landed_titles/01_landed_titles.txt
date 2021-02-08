@@ -22109,6 +22109,13 @@ e_washington = {
 		capital = 367 # c_seattle
 		culture = cascadian
 		
+		d_pikeplace = {
+			color={ 251 212 173 }
+			color2={ 255 255 255 }
+			
+			capital = 367 #c_seattle
+		}
+		
 		d_grand_seattle = {
 			color={ 245 120 105 }
 			color2={ 255 255 255 }
