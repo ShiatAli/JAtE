@@ -15,7 +15,7 @@ b_granite_falls = temple
 #b_silvana = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

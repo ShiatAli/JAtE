@@ -1,0 +1,21 @@
+# c_ures
+
+# County Title
+title = c_ures
+
+# Settlements
+max_settlements = 3
+
+b_ures = castle
+#b_villa_pesqueria = city
+#b_matazan = temple
+#b_guadalupe_de_ures = castle
+#b_el_sauz = city
+#b_pueblo_de_alamos = temple
+#b_matape = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

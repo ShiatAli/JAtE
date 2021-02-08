@@ -1,0 +1,21 @@
+# c_hinsdale
+
+# County Title
+title = c_hinsdale
+
+# Settlements
+max_settlements = 2
+
+b_lake_city = castle
+#b_creed = city
+#b_piedra = temple
+#b_cathedral = castle
+#b_spar_city = city
+#b_mesa_seco = temple
+#b_watters = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

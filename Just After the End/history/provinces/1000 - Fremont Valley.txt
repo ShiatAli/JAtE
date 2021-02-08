@@ -1,0 +1,21 @@
+# c_fremont_valley
+
+# County Title
+title = c_fremont_valley
+
+# Settlements
+max_settlements = 2
+
+b_cantil = castle
+#b_cinco = city
+#b_garlock = temple
+#b_saltdale = castle
+#b_grypsite = city
+#b_rancho_seco_2 = temple
+#b_ceneda = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

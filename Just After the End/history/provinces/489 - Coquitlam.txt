@@ -1,0 +1,21 @@
+# c_coquitlam
+
+# County Title
+title = c_coquitlam
+
+# Settlements
+max_settlements = 3
+
+b_coquitlam = castle
+b_port_conquitlam = city
+b_maple_ridge = temple
+#b_pitt_meadows = castle
+#b_silver_valley = city
+#b_webster_corner = temple
+#b_ruskin = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

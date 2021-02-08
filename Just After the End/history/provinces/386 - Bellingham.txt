@@ -15,7 +15,7 @@ b_dewey_2 = temple
 #b_chuckanut = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

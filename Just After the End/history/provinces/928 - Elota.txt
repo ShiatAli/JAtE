@@ -1,0 +1,21 @@
+# c_elota
+
+# County Title
+title = c_elota
+
+# Settlements
+max_settlements = 3
+
+b_la_cruz = castle
+#b_pueblo_nuevo = city
+#b_tanques = temple
+#b_potrerillos_del_norote = castle
+#b_cetua = city
+#b_el_saladito = temple
+#b_el_espinal = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

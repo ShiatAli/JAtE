@@ -1,0 +1,21 @@
+# c_sunnyside
+
+# County Title
+title = c_sunnyside
+
+# Settlements
+max_settlements = 3
+
+b_sunnyside_3 = castle
+b_lichty = city
+#b_outlook = temple
+#b_granger = castle
+#b_bickleton = city
+#b_sawyer = temple
+#b_flint = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_lillooet
+
+# County Title
+title = c_lillooet
+
+# Settlements
+max_settlements = 3
+
+b_lillooet = castle
+#b_pavilion = city
+#b_fountain_valley_2 = temple
+#b_cache_creek = castle
+#b_clinton_2 = city
+#b_jesmond = temple
+#b_chasm = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

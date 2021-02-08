@@ -1,0 +1,21 @@
+# c_colorado
+
+# County Title
+title = c_colorado
+
+# Settlements
+max_settlements = 4
+
+b_colorado_springs = castle
+#b_cimarron_hills = city
+#b_black_forest = temple
+#b_woodmoor = castle
+#b_stratmoor = city
+#b_usafa = temple
+#b_gleneagle = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

@@ -1,0 +1,21 @@
+# c_sierra_valley
+
+# County Title
+title = c_sierra_valley
+
+# Settlements
+max_settlements = 3
+
+b_beckworth = castle
+#b_calpine = city
+#b_loyalton = temple
+#b_sierraville = castle
+#b_sattley = city
+#b_lake_davis = temple
+#b_hawley_2 = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+
+#History

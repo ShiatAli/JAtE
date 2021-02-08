@@ -1,0 +1,21 @@
+# c_lyon
+
+# County Title
+title = c_lyon
+
+# Settlements
+max_settlements = 3
+
+b_yerington = castle
+b_mason = city
+#b_smith_valley = temple
+#b_weed_heights = castle
+#b_hoye = city
+#b_alkali_lake = temple
+#b_seigel = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+terrain = desert
+#History

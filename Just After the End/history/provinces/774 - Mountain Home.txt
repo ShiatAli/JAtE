@@ -1,0 +1,21 @@
+# c_mountain_home
+
+# County Title
+title = c_mountain_home
+
+# Settlements
+max_settlements = 3
+
+b_mountain_home = castle
+#b_muo = city
+#b_orchard_2 = temple
+#b_regina = castle
+#b_mayfield_2 = city
+#b_cleft = temple
+#b_wilkins = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

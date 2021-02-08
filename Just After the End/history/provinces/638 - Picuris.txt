@@ -1,0 +1,21 @@
+# c_picuris
+
+# County Title
+title = c_picuris
+
+# Settlements
+max_settlements = 2
+
+b_penasco = castle
+#b_dixon_3 = city
+#b_velarde = temple
+#b_rio_lucio = castle
+#b_chamisal = city
+#b_vadito = temple
+#b_la_madera = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

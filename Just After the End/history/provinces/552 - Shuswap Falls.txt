@@ -1,0 +1,21 @@
+# c_shuswap_falls
+
+# County Title
+title = c_shuswap_falls
+
+# Settlements
+max_settlements = 2
+
+b_shuswap_falls = castle
+#b_cherryville_2 = city
+#b_fauquier = temple
+#b_crieghton_valley = castle
+#b_arrow_park = city
+#b_shelter_bay = temple
+#b_arrowhead_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_afton_2
+
+# County Title
+title = c_afton_2
+
+# Settlements
+max_settlements = 2
+
+b_afton_4 = castle
+#b_crucero_2 = city
+#b_zzyzx_2 = temple
+#b_midway_4 = castle
+#b_basin_4 = city
+#b_manix_2 = temple
+#b_harvard_2 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

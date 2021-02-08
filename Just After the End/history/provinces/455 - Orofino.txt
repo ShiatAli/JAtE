@@ -1,0 +1,21 @@
+# c_orofino
+
+# County Title
+title = c_orofino
+
+# Settlements
+max_settlements = 3
+
+b_orofino = castle
+b_pierce = city
+#b_weippe = temple
+#b_woodland_3 = castle
+#b_harrisburg_2 = city
+#b_glenwood_2 = temple
+#b_east_kamiah = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

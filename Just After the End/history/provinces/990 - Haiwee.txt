@@ -1,0 +1,21 @@
+# c_haiwee
+
+# County Title
+title = c_haiwee
+
+# Settlements
+max_settlements = 3
+
+b_haiwee = castle
+b_grant_5 = city
+#b_dunmovin = temple
+#b_little_lake = castle
+#b_olancha = city
+#b_cartago = temple
+#b_linnie = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

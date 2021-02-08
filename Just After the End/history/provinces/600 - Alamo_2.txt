@@ -1,0 +1,21 @@
+# c_alamo_2
+
+# County Title
+title = c_alamo_2
+
+# Settlements
+max_settlements = 2
+
+b_alamo_2 = castle
+#b_magdalena = city
+#b_kelly = temple
+#b_red_rock_spring = castle
+#b_tres_hermanos = city
+#b_tres_montosas = temple
+#b_milligan_gulch = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

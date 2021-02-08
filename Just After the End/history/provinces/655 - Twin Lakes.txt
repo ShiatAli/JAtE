@@ -1,0 +1,21 @@
+# c_twin_lakes
+
+# County Title
+title = c_twin_lakes
+
+# Settlements
+max_settlements = 2
+
+b_leadville = castle
+#b_granite_2 = city
+#b_mt_massive_lakes = temple
+#b_leadville_north = castle
+#b_twin_lakes_2 = city
+#b_climax = temple
+#b_clear_creek_3 = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

@@ -1,0 +1,21 @@
+# c_houck
+
+# County Title
+title = c_houck
+
+# Settlements
+max_settlements = 3
+
+b_houck = castle
+#b_nahatadzil = city
+#b_sanders_2 = temple
+#b_oak_springs = castle
+#b_lupton = city
+#b_chambers = temple
+#b_allentown = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

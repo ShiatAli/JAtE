@@ -1,0 +1,21 @@
+# c_missouri
+
+# County Title
+title = c_missouri
+
+# Settlements
+max_settlements = 3
+
+b_townsend = castle
+#b_winston_3 = city
+#b_cavetown = temple
+#b_radersburg = castle
+#b_toston = city
+#b_hellgate = temple
+#b_canton = castle
+
+# Misc
+culture = prairielander
+religion = trailwalker
+
+#History

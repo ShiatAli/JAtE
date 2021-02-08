@@ -1,0 +1,21 @@
+# c_topaz_2
+
+# County Title
+title = c_topaz_2
+
+# Settlements
+max_settlements = 3
+
+b_topaz_lake = castle
+b_markleeville = city
+#b_coleville_2 = temple
+#b_walker_2 = castle
+#b_loope = city
+#b_wild_horse_2 = temple
+#b_desert_creek = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+terrain = desert
+#History

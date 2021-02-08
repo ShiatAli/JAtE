@@ -1,0 +1,21 @@
+# c_towering_village
+
+# County Title
+title = c_towering_village
+
+# Settlements
+max_settlements = 4
+
+b_government_camp = castle
+b_cherryville = city
+b_alder_creek = temple
+#b_mt_hood_village = castle
+#b_rhododendron = city
+#b_marmot = temple
+#b_welches = castle
+
+# Misc
+culture = gorgeon
+religion = gaian
+
+#History

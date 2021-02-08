@@ -1,0 +1,21 @@
+# c_hope
+
+# County Title
+title = c_hope
+
+# Settlements
+max_settlements = 2
+
+b_hope = castle
+#b_floods = city
+#b_sunshine_valley = temple
+#b_squeah = castle
+#b_boston_bar = city
+#b_north_bend_3 = temple
+#b_lytton = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

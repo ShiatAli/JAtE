@@ -1,0 +1,21 @@
+# c_skeetchestn
+
+# County Title
+title = c_skeetchestn
+
+# Settlements
+max_settlements = 3
+
+b_ashcroft = castle
+#b_walhachin = city
+#b_savona = temple
+#b_boston_flats = castle
+#b_spences_bridge = city
+#b_logan_lake = temple
+#b_tunkwa = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

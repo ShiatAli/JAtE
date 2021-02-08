@@ -1,0 +1,21 @@
+# c_twin_lakes_2
+
+# County Title
+title = c_twin_lakes_2
+
+# Settlements
+max_settlements = 4
+
+b_twin_lakes_3 = castle
+#b_tohatchi = city
+#b_nakaibito = temple
+#b_brimhall_nizhoni = castle
+#b_naschitti = city
+#b_coyote_canyon = temple
+#b_salt_springs = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

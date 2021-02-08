@@ -15,7 +15,7 @@ b_langley = city
 #b_greenback = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

@@ -1,0 +1,21 @@
+# c_abbotsford
+
+# County Title
+title = c_abbotsford
+
+# Settlements
+max_settlements = 3
+
+b_abbotsford = castle
+b_mission_2 = city
+#b_clearbrook = temple
+#b_sumas = castle
+#b_aldergrove = city
+#b_hatzic = temple
+#b_dewdney = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

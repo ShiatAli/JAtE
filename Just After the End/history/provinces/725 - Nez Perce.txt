@@ -1,0 +1,21 @@
+# c_nez_perce
+
+# County Title
+title = c_nez_perce
+
+# Settlements
+max_settlements = 3
+
+b_kamiah = castle
+#b_craigmont = city
+#b_nezperce = temple
+#b_winchester_3 = castle
+#b_peck = city
+#b_reubens = temple
+#b_greer = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

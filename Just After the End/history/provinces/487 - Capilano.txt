@@ -1,0 +1,21 @@
+# c_capilano
+
+# County Title
+title = c_capilano
+
+# Settlements
+max_settlements = 3
+
+b_lonsdale = castle
+b_lynn_valley = city
+#b_westbay = temple
+#b_caulfield = castle
+#b_horseshoe_bay = city
+#b_belcarra = temple
+#b_deep_grove = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

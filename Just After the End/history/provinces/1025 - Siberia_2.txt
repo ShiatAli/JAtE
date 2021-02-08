@@ -1,0 +1,21 @@
+# c_siberia_2
+
+# County Title
+title = c_siberia_2
+
+# Settlements
+max_settlements = 3
+
+b_siberia_2 = castle
+b_klondike_2 = city
+#b_ragtown_2 = temple
+#b_ludlow_2 = castle
+#b_hector_2 = city
+#b_pisgah_2 = temple
+#b_lavic_2 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

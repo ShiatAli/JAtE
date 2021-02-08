@@ -1,0 +1,21 @@
+# c_nakusp
+
+# County Title
+title = c_nakusp
+
+# Settlements
+max_settlements = 2
+
+b_nakusp = castle
+#b_st_leon = city
+#b_galena_bay = temple
+#b_beaton = castle
+#b_camborne = city
+#b_trout_lake_2 = temple
+#b_gerrard = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

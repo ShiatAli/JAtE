@@ -1,0 +1,21 @@
+# c_duck_valley
+
+# County Title
+title = c_duck_valley
+
+# Settlements
+max_settlements = 2
+
+b_owyhee = castle
+#b_tuscarora = city
+#b_wilson_sink = temple
+#b_rawhide = castle
+#b_cornucopia = city
+#b_goosey_lake = temple
+#b_blue_creek = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

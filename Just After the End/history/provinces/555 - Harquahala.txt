@@ -1,0 +1,21 @@
+# c_harquahala
+
+# County Title
+title = c_harquahala
+
+# Settlements
+max_settlements = 4
+
+b_buckeye_3 = castle
+#b_wickenburg = city
+#b_aguila = temple
+#b_morristown = castle
+#b_arlington_3 = city
+#b_wintersburg = temple
+#b_tonopah = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

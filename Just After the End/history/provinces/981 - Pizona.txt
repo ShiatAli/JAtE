@@ -1,0 +1,21 @@
+# c_pizona
+
+# County Title
+title = c_pizona
+
+# Settlements
+max_settlements = 2
+
+b_pizona = castle
+#b_sugarloaf = city
+#b_benton = temple
+#b_montgomery = castle
+#b_boundary_peak = city
+#b_mount_dubois = temple
+#b_trafton_2 = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

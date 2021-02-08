@@ -1,0 +1,21 @@
+# c_tokop
+
+# County Title
+title = c_tokop
+
+# Settlements
+max_settlements = 2
+
+b_tokop = castle
+#b_gold_point = city
+#b_lida = temple
+#b_old_camp = castle
+#b_bonnie_claire = city
+#b_stateline = temple
+#b_stonewall = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

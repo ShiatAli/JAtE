@@ -1,0 +1,21 @@
+# c_pabellones
+
+# County Title
+title = c_pabellones
+
+# Settlements
+max_settlements = 5
+
+b_eldorado_2 = castle
+#b_el_diez = city
+#b_costa_rica = temple
+#b_quila = castle
+#b_el_tamarindo = city
+#b_leopoldo_sanchez_celis_2 = temple
+#b_guadalupe_victoria = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

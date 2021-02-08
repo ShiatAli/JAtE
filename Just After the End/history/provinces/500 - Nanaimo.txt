@@ -1,0 +1,21 @@
+# c_nanaimo
+
+# County Title
+title = c_nanaimo
+
+# Settlements
+max_settlements = 3
+
+b_nanaimo = castle
+b_colvilletown = city
+#b_cedar = temple
+#b_south_wellington = castle
+#b_lantzville = city
+#b_cassidy = temple
+#b_gabriola = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_moenkopi
+
+# County Title
+title = c_moenkopi
+
+# Settlements
+max_settlements = 2
+
+b_upper_moenkopi = castle
+#b_lower_moenkopi = city
+#b_tohnali = temple
+#b_appaloosa = castle
+#b_coalmine = city
+#b_curley = temple
+#b_adeii_eichii = castle
+
+# Misc
+culture = hopi
+religion = mormon
+
+#History

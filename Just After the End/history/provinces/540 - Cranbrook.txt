@@ -1,0 +1,21 @@
+# c_cranbrook
+
+# County Title
+title = c_cranbrook
+
+# Settlements
+max_settlements = 3
+
+b_cranbrook = castle
+#b_movie = city
+#b_kimberley = temple
+#b_fort_steele = castle
+#b_saint_eugene_mission = city
+#b_wardner = temple
+#b_jaffray = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

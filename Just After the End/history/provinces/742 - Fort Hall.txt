@@ -1,0 +1,21 @@
+# c_fort_hall
+
+# County Title
+title = c_fort_hall
+
+# Settlements
+max_settlements = 2
+
+b_tyhee = castle
+#b_arbon_valley = city
+#b_fort_hall = temple
+#b_ross_fork = castle
+#b_gibson_2 = city
+#b_ballard_ditch = temple
+#b_kinney = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

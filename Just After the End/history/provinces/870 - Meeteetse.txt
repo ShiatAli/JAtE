@@ -1,0 +1,21 @@
+# c_meeteetse
+
+# County Title
+title = c_meeteetse
+
+# Settlements
+max_settlements = 3
+
+b_meeteetse = castle
+#b_burlington_3 = city
+#b_otto = temple
+#b_emblem = castle
+#b_dumbell = city
+#b_sunshine = temple
+#b_dry_creek_2 = castle
+
+# Misc
+culture = grangelander
+religion = trailwalker
+
+#History

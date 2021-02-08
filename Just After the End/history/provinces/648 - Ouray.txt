@@ -1,0 +1,21 @@
+# c_ouray
+
+# County Title
+title = c_ouray
+
+# Settlements
+max_settlements = 3
+
+b_ouray = castle
+#b_ridgeway = city
+#b_silverton_2 = temple
+#b_loghill_villiage = castle
+#b_portland_2 = city
+#b_colona = temple
+#b_eldredge = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

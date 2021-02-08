@@ -1,0 +1,21 @@
+# c_victorville
+
+# County Title
+title = c_victorville
+
+# Settlements
+max_settlements = 4
+
+b_victorville = castle
+b_apple_valley = city
+b_adelanto = temple
+#b_mojave_heights = castle
+#b_bell_mountain = city
+#b_oro_grande = temple
+#b_thunderbird_ranch = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

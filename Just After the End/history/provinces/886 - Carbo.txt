@@ -1,0 +1,21 @@
+# c_carbo
+
+# County Title
+title = c_carbo
+
+# Settlements
+max_settlements = 4
+
+b_carbo = castle
+#b_san_miguel_de_horcasitas = city
+#b_rayon = temple
+#b_las_canoras = castle
+#b_zanjon = city
+#b_la_poza = temple
+#b_codorachi = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

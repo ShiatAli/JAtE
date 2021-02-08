@@ -1,0 +1,21 @@
+# c_campbell_river
+
+# County Title
+title = c_campbell_river
+
+# Settlements
+max_settlements = 3
+
+b_campbell_river = castle
+b_ocean_grove = city
+#b_shelter_point = temple
+#b_stories_beach = castle
+#b_oyster_river = city
+#b_saratoga_beach = temple
+#b_yaculta = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

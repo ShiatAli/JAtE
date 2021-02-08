@@ -1,0 +1,21 @@
+# c_santa_clarita
+
+# County Title
+title = c_santa_clarita
+
+# Settlements
+max_settlements = 4
+
+b_santa_clarita = castle
+b_lang = city
+b_agua_dulce = temple
+#b_castaic = castle
+#b_humphreys = city
+#b_forest_park = temple
+#b_stevenson_2 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

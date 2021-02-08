@@ -1,0 +1,21 @@
+# c_st_joe
+
+# County Title
+title = c_st_joe
+
+# Settlements
+max_settlements = 3
+
+b_st_maries = castle
+b_harrison = city
+#b_riverdale_2 = temple
+#b_st_joe = castle
+#b_ramsdell = city
+#b_lacon = temple
+#b_renfrew = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

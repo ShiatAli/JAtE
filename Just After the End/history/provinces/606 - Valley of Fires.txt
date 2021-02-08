@@ -1,0 +1,21 @@
+# c_valley_of_fires
+
+# County Title
+title = c_valley_of_fires
+
+# Settlements
+max_settlements = 2
+
+b_carizozo = castle
+#b_nogal = city
+#b_three_rivers = temple
+#b_apache = castle
+#b_sierra_blanca = city
+#b_carrizo_2 = temple
+#b_patos = castle
+
+# Misc
+culture = texan
+religion = trailwalker
+
+#History

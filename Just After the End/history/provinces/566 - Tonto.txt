@@ -1,0 +1,21 @@
+# c_tonto
+
+# County Title
+title = c_tonto
+
+# Settlements
+max_settlements = 4
+
+b_globe = castle
+#b_star_valley = city
+#b_payson = temple
+#b_tonto_basin = castle
+#b_pine = city
+#b_strawberry_2 = temple
+#b_gisela = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

@@ -1,0 +1,21 @@
+# c_santiago
+
+# County Title
+title = c_santiago
+
+# Settlements
+max_settlements = 2
+
+b_el_cariso = castle
+#b_la_cresta = city
+#b_deluz = temple
+#b_silverado = castle
+#b_santiago_2 = city
+#b_modjeska = temple
+#b_trabuco = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

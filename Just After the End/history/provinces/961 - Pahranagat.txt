@@ -1,0 +1,21 @@
+# c_pahranagat
+
+# County Title
+title = c_pahranagat
+
+# Settlements
+max_settlements = 2
+
+b_alamo_3 = castle
+#b_hiko_2 = city
+#b_ash_springs_2 = temple
+#b_mt_irist = castle
+#b_pahroc = city
+#b_mt_sanderson = temple
+#b_big_rocks = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

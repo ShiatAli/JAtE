@@ -1,0 +1,21 @@
+# c_cumpas
+
+# County Title
+title = c_cumpas
+
+# Settlements
+max_settlements = 4
+
+b_cumpas = castle
+#b_moctezuma = city
+#b_nacozari_de_garcia = temple
+#b_jecori = castle
+#b_los_hoyos = city
+#b_ojo_de_agua = temple
+#b_el_parian = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

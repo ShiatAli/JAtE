@@ -15,7 +15,7 @@ b_kirkland = temple
 #b_factoria = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

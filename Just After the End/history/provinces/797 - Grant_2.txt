@@ -1,0 +1,21 @@
+# c_grant_2
+
+# County Title
+title = c_grant_2
+
+# Settlements
+max_settlements = 3
+
+b_long_creek = castle
+#b_ukiah_2 = city
+#b_monument = temple
+#b_ritter = castle
+#b_dale = city
+#b_fox = temple
+#b_susanville_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

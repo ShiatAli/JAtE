@@ -1,0 +1,21 @@
+# c_tepache
+
+# County Title
+title = c_tepache
+
+# Settlements
+max_settlements = 2
+
+b_tepache  = castle
+#b_san_pedro_de_la_cueva = city
+#b_divisaderos  = temple
+#b_san_jose_de_batuc = castle
+#b_tepupa = city
+#b_huepari = temple
+#b_el_novillo = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

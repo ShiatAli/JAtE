@@ -1,0 +1,21 @@
+# c_hesperia
+
+# County Title
+title = c_hesperia
+
+# Settlements
+max_settlements = 4
+
+b_hesperia = castle
+b_phelan = city
+b_wrightwood = temple
+#b_lugo = castle
+#b_oak_hills_2 = city
+#b_rancho_del_oro = temple
+#b_baldy_mesa = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

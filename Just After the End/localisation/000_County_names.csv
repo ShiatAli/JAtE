@@ -485,6 +485,8 @@ c_duck_valley;Duck Valley;Duck Valley;Duck Valley;;Duck Valley;;;;;;;;;x
 c_duck_valley_adj;Duck Valleian;;Duck Valleer;;;;;;;;;;;x
 c_duncan;Duncan;Duncan;Duncan;;Duncan;;;;;;;;;x
 c_duncan_adj;Duncanian;;duncaner;;;;;;;;;;;x
+c_dworshak;Dworshak;Dworshak;Dworshak;;Dworshak;;;;;;;;;x
+c_dworshak_adj;Dworshakian;;dworshaker;;;;;;;;;;;x
 c_eagle;Eagle;Eagle;Eagle;;Eagle;;;;;;;;;x
 c_eagle_adj;Eaglean;;eagler;;;;;;;;;;;x
 c_eagle_valley;Eagle Valley;Eagle Valley;Eagle Valley;;Eagle Valley;;;;;;;;;x
@@ -1029,8 +1031,6 @@ c_maricopa;Maricopa;Maricopa;Maricopa;;Maricopa;;;;;;;;;x
 c_maricopa_adj;Maricopan;;maricoper;;;;;;;;;;;x
 c_mariposa;Mariposa;Mariposa;Mariposa;;Mariposa;;;;;;;;;x
 c_mariposa_adj;Mariposan;;mariposer;;;;;;;;;;;x
-c_marmot;Marmot;Marmot;Marmot;;Marmot;;;;;;;;;x
-c_marmot_adj;Marmotian;;marmoter;;;;;;;;;;;x
 c_mars;Mars;Mars;Mars;;Mars;;;;;;;;;x
 c_mars_adj;Marsian;;marser;;;;;;;;;;;x
 c_matancita;Matancita;Matancita;Matancita;;Matancita;;;;;;;;;x
@@ -1235,6 +1235,8 @@ c_oregon_city;Oregon City;Oregon City;Oregon City;;Oregon City;;;;;;;;;x
 c_oregon_city_adj;Oregon Citian;;Oregon Citer;;;;;;;;;;;x
 c_organ_pipe;Organ Pipe;Organ Pipe;Organ Pipe;;Organ Pipe;;;;;;;;;x
 c_organ_pipe_adj;Organ Pipean;;Organ Piper;;;;;;;;;;;x
+c_orofino;Orofino;Orofino;Orofino;;Orofino;;;;;;;;;x
+c_orofino_adj;Orofinian;;orofiner;;;;;;;;;;;x
 c_oroville;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
 c_oroville_adj;Orovillean;;oroviller;;;;;;;;;;;x
 c_oroville_2;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
@@ -1783,6 +1785,8 @@ c_st_helena;St. Helena;St. Helena;St. Helena;;St. Helena;;;;;;;;;x
 c_st_helena_adj;St. Helenan;;St. Helener;;;;;;;;;;;x
 c_st_helens;St.Helens;St.Helens;St.Helens;;St.Helens;;;;;;;;;x
 c_st_helens_adj;St.Helensian;;st.helenser;;;;;;;;;;;x
+c_st_joe;St. Joe;St. Joe;St. Joe;;St. Joe;;;;;;;;;x
+c_st_joe_adj;St. Joean;;St. Jer;;;;;;;;;;;x
 c_star_valley;Star Valley;Star Valley;Star Valley;;Star Valley;;;;;;;;;x
 c_star_valley_adj;Star Valleian;;Star Valleer;;;;;;;;;;;x
 c_steptoe;Steptoe;Steptoe;Steptoe;;Steptoe;;;;;;;;;x
@@ -1901,6 +1905,8 @@ c_toulumnes;Toulumnes;Toulumnes;Toulumnes;;Toulumnes;;;;;;;;;x
 c_toulumnes_adj;Toulumnesian;;toulumneser;;;;;;;;;;;x
 c_towell;Towell;Towell;Towell;;Towell;;;;;;;;;x
 c_towell_adj;Towellian;;toweller;;;;;;;;;;;x
+c_towering_village;Towering Village;Towering Village;Towering Village;;Towering Village;;;;;;;;;x
+c_towering_village_adj;Towering Villagean;;Towering Villager;;;;;;;;;;;x
 c_tracy;Tracy;Tracy;Tracy;;Tracy;;;;;;;;;x
 c_tracy_adj;Tracian;;tracer;;;;;;;;;;;x
 c_tri_city;Tri-City;Tri-City;Tri-City;;Tri-City;;;;;;;;;x

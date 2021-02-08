@@ -1,0 +1,21 @@
+# c_kaibab
+
+# County Title
+title = c_kaibab
+
+# Settlements
+max_settlements = 2
+
+b_north_rim = castle
+#b_jacob_lake = city
+#b_marble_canyon = temple
+#b_kaibab_lodge = castle
+#b_vermillion_cliffs = city
+#b_paria = temple
+#b_summit_valley = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

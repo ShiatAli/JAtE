@@ -15,7 +15,7 @@ b_chehalis = city
 #b_cowlitz = castle
 
 # Misc
-culture = cascadian
+culture = willapan
 religion = gaian
 
 #History

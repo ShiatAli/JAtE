@@ -1,0 +1,21 @@
+# c_socorro
+
+# County Title
+title = c_socorro
+
+# Settlements
+max_settlements = 3
+
+b_socorro = castle
+#b_san_antonio_3 = city
+#b_polvadera = temple
+#b_lemitar = castle
+#b_escondida = city
+#b_luis_lopez = temple
+#b_san_acadia = castle
+
+# Misc
+culture = texan
+religion = trailwalker
+
+#History

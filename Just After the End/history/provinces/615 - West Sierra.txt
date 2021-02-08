@@ -1,0 +1,21 @@
+# c_west_sierra
+
+# County Title
+title = c_west_sierra
+
+# Settlements
+max_settlements = 3
+
+b_truth_or_consquences = castle
+#b_hatch = city
+#b_elephant_butte = temple
+#b_salem_2 = castle
+#b_williamsburg = city
+#b_rodey = temple
+#b_rincon_2 = castle
+
+# Misc
+culture = texan
+religion = trailwalker
+
+#History

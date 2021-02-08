@@ -1,0 +1,21 @@
+# c_comox
+
+# County Title
+title = c_comox
+
+# Settlements
+max_settlements = 3
+
+b_comox = castle
+b_courtenay = city
+#b_grantham = temple
+#b_williams_beach = castle
+#b_black_creek = city
+#b_bates_beach = temple
+#b_merville = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

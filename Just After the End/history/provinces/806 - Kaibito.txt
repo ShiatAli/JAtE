@@ -1,0 +1,21 @@
+# c_kaibito
+
+# County Title
+title = c_kaibito
+
+# Settlements
+max_settlements = 4
+
+b_kaibito = castle
+#b_lechee = city
+#b_page = temple
+#b_tonalea = castle
+#b_coppermine = city
+#b_chaol = temple
+#b_tsin_yaa_ninti = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

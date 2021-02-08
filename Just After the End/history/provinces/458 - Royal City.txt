@@ -1,0 +1,21 @@
+# c_royal_city
+
+# County Title
+title = c_royal_city
+
+# Settlements
+max_settlements = 2
+
+b_royal_city = castle
+#b_desert_aire = city
+#b_mattawa = temple
+#b_beverly = castle
+#b_othello = city
+#b_warden = temple
+#b_smyrna = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

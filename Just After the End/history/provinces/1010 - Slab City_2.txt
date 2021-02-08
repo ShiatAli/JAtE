@@ -1,0 +1,21 @@
+# c_slab_city_2
+
+# County Title
+title = c_slab_city_2
+
+# Settlements
+max_settlements = 3
+
+b_slab_city_2 = castle
+b_niland_2 = city
+#b_mundo_2 = temple
+#b_calipatria_2 = castle
+#b_brawley_2 = city
+#b_westmorland_2 = temple
+#b_rockland_3 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

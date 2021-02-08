@@ -1,0 +1,21 @@
+# c_smokey_valley
+
+# County Title
+title = c_smokey_valley
+
+# Settlements
+max_settlements = 2
+
+b_round_mountain_2 = castle
+#b_manhatten = city
+#b_carvers = temple
+#b_toiyabe = castle
+#b_wildcat_peak = city
+#b_darroughs = temple
+#b_toquima = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

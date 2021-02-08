@@ -1,0 +1,21 @@
+# c_pueblo
+
+# County Title
+title = c_pueblo
+
+# Settlements
+max_settlements = 3
+
+b_pueblo = castle
+#b_colorado_city = city
+#b_blende = temple
+#b_avondale = castle
+#b_salt_creek = city
+#b_beulah_valley = temple
+#b_boone = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

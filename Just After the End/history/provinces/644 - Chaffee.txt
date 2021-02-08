@@ -1,0 +1,21 @@
+# c_chaffee
+
+# County Title
+title = c_chaffee
+
+# Settlements
+max_settlements = 3
+
+b_salida_2 = castle
+#b_buena_vista_3 = city
+#b_poncha_springs = temple
+#b_howard = castle
+#b_coaldale = city
+#b_johnson_villiage = temple
+#b_maysville = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

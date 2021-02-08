@@ -15,7 +15,7 @@ b_port_stanley = castle
 #b_iceberg = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

@@ -1,0 +1,21 @@
+# c_murray
+
+# County Title
+title = c_murray
+
+# Settlements
+max_settlements = 4
+
+b_murray_2 = castle
+b_millcreek = city
+#b_holladay = temple
+#b_midvale = castle
+#b_south_salt_lake = city
+#b_east_millcreek = temple
+#b_cottenwood = castle
+
+# Misc
+culture = utahn
+religion = mormon
+
+#History

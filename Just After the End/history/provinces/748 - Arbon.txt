@@ -1,0 +1,21 @@
+# c_arbon
+
+# County Title
+title = c_arbon
+
+# Settlements
+max_settlements = 2
+
+b_arbon = castle
+#b_holbrook_3 = city
+#b_rattlesnake = temple
+#b_bannock_2 = castle
+#b_bradley_2 = city
+#b_deep_creek = temple
+#b_moonshine = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

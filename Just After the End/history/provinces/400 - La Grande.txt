@@ -15,7 +15,7 @@ b_la_grande = castle
 #b_glenoma = castle
 
 # Misc
-culture = cascadian
+culture = willapan
 religion = gaian
 
 #History

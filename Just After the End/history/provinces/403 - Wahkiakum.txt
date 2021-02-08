@@ -15,7 +15,7 @@ b_cathlamet = castle
 #b_altoona = castle
 
 # Misc
-culture = cascadian
+culture = willapan
 religion = gaian
 
 #History

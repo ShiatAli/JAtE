@@ -1,0 +1,21 @@
+# c_chaco
+
+# County Title
+title = c_chaco
+
+# Settlements
+max_settlements = 3
+
+b_torreon = castle
+#b_ojo_encino = city
+#b_pueblo_pintado = temple
+#b_whitehorse_3 = castle
+#b_penistaja = city
+#b_hospah = temple
+#b_pinon_3 = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

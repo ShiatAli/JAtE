@@ -1,0 +1,21 @@
+# c_snowflake
+
+# County Title
+title = c_snowflake
+
+# Settlements
+max_settlements = 4
+
+b_show_low = castle
+#b_snowflake = city
+#b_pinetop_lakeside = temple
+#b_taylor = castle
+#b_pinedale_2 = city
+#b_clay_springs = temple
+#b_zeniff = castle
+
+# Misc
+culture = hopi
+religion = mormon
+
+#History

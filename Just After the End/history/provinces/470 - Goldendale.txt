@@ -1,0 +1,21 @@
+# c_goldendale
+
+# County Title
+title = c_goldendale
+
+# Settlements
+max_settlements = 3
+
+b_goldendale = castle
+#b_centerville_3 = city
+#b_lyle = temple
+#b_white_salmon = castle
+#b_trout_lake = city
+#b_husum = temple
+#b_klickitat = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

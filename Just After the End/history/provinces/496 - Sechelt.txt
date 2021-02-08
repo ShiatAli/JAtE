@@ -1,0 +1,21 @@
+# c_sechelt
+
+# County Title
+title = c_sechelt
+
+# Settlements
+max_settlements = 3
+
+b_sechelt = castle
+b_oalthkyim = city
+#b_klaalth = temple
+#b_roberts_creek = castle
+#b_selma_park = city
+#b_davis_bay = temple
+#b_wilson_creek_2 = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_la_plata
+
+# County Title
+title = c_la_plata
+
+# Settlements
+max_settlements = 3
+
+b_telluride = castle
+#b_mountain_village = city
+#b_nucla = temple
+#b_naturita = castle
+#b_norwood = city
+#b_ophir_2 = temple
+#b_sawpit = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

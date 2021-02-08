@@ -1,0 +1,21 @@
+# c_strike
+
+# County Title
+title = c_strike
+
+# Settlements
+max_settlements = 2
+
+b_bruneau = castle
+#b_pence_spring = city
+#b_rimrock_2 = temple
+#b_dunes_lake = castle
+#b_cj_strike = city
+#b_marsing_murphy = temple
+#b_snake_bird = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

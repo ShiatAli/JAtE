@@ -1,0 +1,21 @@
+# c_montello
+
+# County Title
+title = c_montello
+
+# Settlements
+max_settlements = 1
+
+b_montello = castle
+#b_loray = city
+#b_mt_murdock = temple
+#b_hoppie = castle
+#b_dake = city
+#b_thousand_springs = temple
+#b_rhyolite = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

@@ -1,0 +1,21 @@
+# c_guaymas
+
+# County Title
+title = c_guaymas
+
+# Settlements
+max_settlements = 5
+
+b_guaymas = castle
+#b_vicas = city
+#b_empalme = temple
+#b_potam = castle
+#b_san_carlos_4 = city
+#b_la_atravezada = temple
+#b_guasimas_de_belem = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

@@ -1,0 +1,21 @@
+# c_dilkon
+
+# County Title
+title = c_dilkon
+
+# Settlements
+max_settlements = 4
+
+b_dilkon = castle
+#b_whitecone = city
+#b_jeddito = temple
+#b_low_mountain = castle
+#b_indian_wells = city
+#b_teesto = temple
+#b_balakai = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

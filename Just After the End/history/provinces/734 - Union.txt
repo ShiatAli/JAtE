@@ -1,0 +1,21 @@
+# c_union
+
+# County Title
+title = c_union
+
+# Settlements
+max_settlements = 3
+
+b_la_grande_2 = castle
+#b_union_2 = city
+#b_elgin = temple
+#b_island_city = castle
+#b_cove = city
+#b_imbler = temple
+#b_summerville = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_provo
+
+# County Title
+title = c_provo
+
+# Settlements
+max_settlements = 5
+
+b_orem = castle
+b_provo = city
+b_lindon = temple
+#b_vineyard = castle
+#b_provost = city
+#b_suncrest = temple
+#b_fort_utah = castle
+
+# Misc
+culture = utahn
+religion = mormon
+
+#History

@@ -229,8 +229,6 @@ d_hidalgo;Hidalgo;Hidalgo;Hidalgo;;Hidalgo;;;;;;;;;x
 d_hidalgo_adj;Hidalgian;;hidalger;;;;;;;;;;;x
 d_hidden_valley;Hidden Valley;Hidden Valley;Hidden Valley;;Hidden Valley;;;;;;;;;x
 d_hidden_valley_adj;Hidden Valleian;;Hidden Valleer;;;;;;;;;;;x
-d_hood_river;Hood River;Hood River;Hood River;;Hood River;;;;;;;;;x
-d_hood_river_adj;Hood Riverian;;Hood Riverer;;;;;;;;;;;x
 d_hopituskwa;Hopituskwa;Hopituskwa;Hopituskwa;;Hopituskwa;;;;;;;;;x
 d_hopituskwa_adj;Hopituskwan;;hopituskwer;;;;;;;;;;;x
 d_horse_heaven;Horse Heaven;Horse Heaven;Horse Heaven;;Horse Heaven;;;;;;;;;x
@@ -281,6 +279,8 @@ d_las_estribaciones;Las Estribaciones;Las Estribaciones;Las Estribaciones;;Las E
 d_las_estribaciones_adj;Las Estribacionesian;;Las Estribacioneser;;;;;;;;;;;x
 d_lassen;Lassen;Lassen;Lassen;;Lassen;;;;;;;;;x
 d_lassen_adj;Lassenian;;lassener;;;;;;;;;;;x
+d_lateh;Lateh;Lateh;Lateh;;Lateh;;;;;;;;;x
+d_lateh_adj;Latehian;;lateher;;;;;;;;;;;x
 d_lemhi;Lemhi;Lemhi;Lemhi;;Lemhi;;;;;;;;;x
 d_lemhi_adj;Lemhian;;lemher;;;;;;;;;;;x
 d_lewis;Lewis;Lewis;Lewis;;Lewis;;;;;;;;;x
@@ -325,6 +325,8 @@ d_maricopa;Maricopa;Maricopa;Maricopa;;Maricopa;;;;;;;;;x
 d_maricopa_adj;Maricopan;;maricoper;;;;;;;;;;;x
 d_marin;Marin;Marin;Marin;;Marin;;;;;;;;;x
 d_marin_adj;Marinian;;mariner;;;;;;;;;;;x
+d_marmot;Marmot;Marmot;Marmot;;Marmot;;;;;;;;;x
+d_marmot_adj;Marmotian;;marmoter;;;;;;;;;;;x
 d_mason;Mason;Mason;Mason;;Mason;;;;;;;;;x
 d_mason_adj;Masonian;;masoner;;;;;;;;;;;x
 d_mayo;Mayo;Mayo;Mayo;;Mayo;;;;;;;;;x

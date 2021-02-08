@@ -1,0 +1,21 @@
+# c_concordia
+
+# County Title
+title = c_concordia
+
+# Settlements
+max_settlements = 3
+
+b_concordia = castle
+#b_agua_caliente_de_garate = city
+#b_mesillas = temple
+#b_el_verde = castle
+#b_el_huajote = city
+#b_la_barrigona = temple
+#b_la_petaca = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History
