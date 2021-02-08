@@ -15,7 +15,7 @@ b_lakeview_2 = castle
 #b_drake_peak = castle
 
 # Misc
-culture = siskiyouan
+culture = eastsloper
 religion = cetic
 
 #History

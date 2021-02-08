@@ -15,7 +15,7 @@ b_adel = castle
 #b_flook_knoll = castle
 
 # Misc
-culture = battleborn
+culture = juniperian
 religion = cetic
 
 #History

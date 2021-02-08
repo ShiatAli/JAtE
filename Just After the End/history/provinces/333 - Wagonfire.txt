@@ -15,7 +15,7 @@ b_wagonfire = castle
 #b_diamond = castle
 
 # Misc
-culture = siskiyouan
+culture = juniperian
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_lichty = city
 #b_flint = castle
 
 # Misc
-culture = inlander
+culture = yakama
 religion = gaian
 
 #History

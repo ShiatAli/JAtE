@@ -15,7 +15,7 @@ b_warm_springs = castle
 #b_maupin = castle
 
 # Misc
-culture = inlander
+culture = gorgeon
 religion = gaian
 
 #History

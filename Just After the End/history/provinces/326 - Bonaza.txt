@@ -15,7 +15,7 @@ b_bonaza = castle
 #b_langell_valley = castle
 
 # Misc
-culture = siskiyouan
+culture = eastsloper
 religion = cetic
 
 #History

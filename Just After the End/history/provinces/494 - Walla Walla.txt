@@ -15,7 +15,7 @@ b_touchett = city
 #b_lowden = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

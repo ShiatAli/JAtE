@@ -15,7 +15,7 @@ b_prineville = castle
 #b_smith_rock = castle
 
 # Misc
-culture = inlander
+culture = eastsloper
 religion = gaian
 
 #History

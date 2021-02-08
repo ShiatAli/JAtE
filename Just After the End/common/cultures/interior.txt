@@ -46,6 +46,49 @@ interior = {
 
 		modifier = default_culture_modifier
 	}
+	yakama = {
+		graphical_cultures = { northernnativegfx }
+		
+		color = { 1.0 0.55 0.15 }
+		
+		male_names = {
+			Alahmoot Allahkoliken "Allalimya Takanin" "Apash Wyakaikt"
+			Chapowits Chuslum "Chuslum Moxmox"
+			Ealahweemah "Ealaot Wadass" "Ealaothek Kaunis" Eapalekthiloom Elaskolatat Espowyes
+			Hahtalekin Hallalhotsoot Heinmot Hemene Hinmatóowyalahtqit Hototo Hotots "Husishusis Kute"
+			"Koolkool Snehee"
+			Motsqueh
+			Ollokot Otskai
+			"Pahkatos Owyeen" Peopeo "Peopeo Tholekt" "Peopeo Kiskiok Hihih"
+			Sahkonteic
+			Tamootsin Toohoolhoolzote Tuekakas
+			Wahchumyus Walammottinin
+		}
+		
+		female_names = {
+			Alikkees Ayatootonmi
+			Chickamohpeo
+			Ewetonemy
+			"Heyoon Yoyikt"
+			Kayaatonmy Khapkhaponimi Kooskooskia
+			Petolvonnanick
+			Seahdom
+			Tamalwinonmi Tamer
+			Wallowa
+			"Yiyik Wasumwah"
+		}
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		modifier = default_culture_modifier
+	}
 	
 	ktunaxa = {
 		graphical_cultures = { northernnativegfx }

@@ -8674,7 +8674,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 802 # c_bend
-		culture = inlander
+		culture = eastsloper
 		
 		d_deschutes = {
 			color={ 230 239 8 }
@@ -10404,7 +10404,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 325 # c_klamath_falls
-		culture = siskiyouan
+		culture = eastsloper
 		
 		d_klamath = {
 			color={ 80 63 181 }
@@ -11155,7 +11155,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 494 # c_walla_walla
-		culture = inlander
+		culture = palouse
 		
 		d_bluewood = {
 			color={ 67 39 217 }
@@ -12140,7 +12140,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 486 # c_yakima
-		culture = inlander
+		culture = meseteno
 		
 		d_kittitas = {
 			color={ 214 119 104 }
@@ -12192,7 +12192,7 @@ e_lincoln = {
 				b_ceader_cove = {
 				}
 			}
-			c_moxee = { # 488
+			c_the_reach = { # 488
 				color={ 188 122 122 }
 				color2={ 255 255 255 }
 				
@@ -15559,76 +15559,6 @@ e_oregon = {
 				}
 			}
 		}
-		d_calstop = {
-			color={ 113 90 165 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 352 province_id = 353 province_id = 354 } }
-				}
-			}
-			capital = 352 # c_astoria
-			
-			c_astoria = { # 352
-				color={ 103 100 160 }
-				color2={ 255 255 255 }
-				
-				b_astoria = {
-				}
-				b_svensen = {
-				}
-				b_knappa = {
-				}
-				b_brownsmead = {
-				}
-				b_clifton = {
-				}
-				b_wanua = {
-				}
-				b_olney = {
-				}
-			}
-			c_jewell = { # 353
-				color={ 60 100 160 }
-				color2={ 255 255 255 }
-				
-				b_jewell = {
-				}
-				b_grand_rapids = {
-				}
-				b_elsie = {
-				}
-				b_hamlet = {
-				}
-				b_lukarilla = {
-				}
-				b_nehalem = {
-				}
-				b_sunset = {
-				}
-			}
-			c_warrenton = { # 354
-				color={ 60 100 120 }
-				color2={ 255 255 255 }
-				
-				b_warrenton = {
-				}
-				b_fort_steven = {
-				}
-				b_sunset_beach = {
-				}
-				b_gearhart = {
-				}
-				b_seaside_2 = {
-				}
-				b_cannon_beach = {
-				}
-				b_arch_cape = {
-				}
-			}
-		}
 		d_clackers = {
 			color={ 140 60 250 }
 			color2={ 255 255 255 }
@@ -15839,76 +15769,6 @@ e_oregon = {
 				}
 			}
 		}
-		d_tillamook = {
-			color={ 245 71 129 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 355 province_id = 356 province_id = 357 } }
-				}
-			}
-			capital = 355 # c_tillamook
-			
-			c_tillamook = { # 355
-				color={ 255 61 134 }
-				color2={ 255 255 255 }
-				
-				b_tillamook = {
-				}
-				b_garibaldi = {
-				}
-				b_cape_meares = {
-				}
-				b_oceanside_2 = {
-				}
-				b_netarts = {
-				}
-				b_jordan_creek = {
-				}
-				b_idaville = {
-				}
-			}
-			c_manzanita = { # 357
-				color={ 58 83 95 }
-				color2={ 255 255 255 }
-				
-				b_manzanita = {
-				}
-				b_mohler = {
-				}
-				b_wheeler_3 = {
-				}
-				b_batterston = {
-				}
-				b_rockaway_beach = {
-				}
-				b_barview = {
-				}
-				b_barnesdale = {
-				}
-			}
-			c_pacific_city = { # 356
-				color={ 255 20 134 }
-				color2={ 255 255 255 }
-				
-				b_pacific_city = {
-				}
-				b_neskowin = {
-				}
-				b_oretown = {
-				}
-				b_tierra_del_mar = {
-				}
-				b_sandlake = {
-				}
-				b_hebo = {
-				}
-				b_cloverdale_2 = {
-				}
-			}
-		}
 		d_tualatin = {
 			color={ 170 10 166 }
 			color2={ 255 255 255 }
@@ -16003,7 +15863,7 @@ e_oregon = {
 		color={ 142 30 15 }
 		color2={ 255 255 255 }
 		
-		capital = 372 # c_springfield
+		capital = 360 # c_springfield
 		culture = willametteian
 		
 		d_lane = {
@@ -16013,12 +15873,12 @@ e_oregon = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 372 province_id = 373 province_id = 374 } }
+					any_demesne_province = { OR = { province_id = 360 province_id = 361 province_id = 362 } }
 				}
 			}
-			capital = 372 # c_springfield
+			capital = 360 # c_springfield
 			
-			c_springfield = { # 372
+			c_springfield = { # 360
 				color={ 112 60 0 }
 				color2={ 255 255 255 }
 				
@@ -16032,12 +15892,12 @@ e_oregon = {
 				}
 				b_trent_2 = {
 				}
-				b_cloverdale_3 = {
+				b_cloverdale_2 = {
 				}
 				b_dexter = {
 				}
 			}
-			c_hadleyville = { # 373
+			c_hadleyville = { # 361
 				color={ 0 60 0 }
 				color2={ 255 255 255 }
 				
@@ -16056,7 +15916,7 @@ e_oregon = {
 				b_powell = {
 				}
 			}
-			c_saginaw = { # 374
+			c_saginaw = { # 362
 				color={ 112 60 180 }
 				color2={ 255 255 255 }
 				
@@ -16076,76 +15936,6 @@ e_oregon = {
 				}
 			}
 		}
-		d_coos = {
-			color={ 33 251 159 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 382 province_id = 383 province_id = 384 } }
-				}
-			}
-			capital = 382 # c_coos_bay
-			
-			c_coos_bay = { # 382
-				color={ 43 241 164 }
-				color2={ 255 255 255 }
-				
-				b_coos_bay = {
-				}
-				b_lakeside_2 = {
-				}
-				b_north_bend = {
-				}
-				b_barview_2 = {
-				}
-				b_coquille = {
-				}
-				b_bunker_hill = {
-				}
-				b_millington = {
-				}
-			}
-			c_nesika_beach = { # 384
-				color={ 145 9 9 }
-				color2={ 255 255 255 }
-				
-				b_nesika_beach = {
-				}
-				b_wedderburn = {
-				}
-				b_gold_beach = {
-				}
-				b_carpenterville = {
-				}
-				b_pistol_river = {
-				}
-				b_brooking = {
-				}
-				b_ophir = {
-				}
-			}
-			c_port_orford = { # 383
-				color={ 9 145 92 }
-				color2={ 255 255 255 }
-				
-				b_port_orford = {
-				}
-				b_sixes = {
-				}
-				b_denmark = {
-				}
-				b_langlois = {
-				}
-				b_fourmile = {
-				}
-				b_bandon = {
-				}
-				b_bullards = {
-				}
-			}
-		}
 		d_roseburg = {
 			color={ 226 202 234 }
 			color2={ 255 255 255 }
@@ -16153,12 +15943,12 @@ e_oregon = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 375 province_id = 376 province_id = 377 province_id = 378 } }
+					any_demesne_province = { OR = { province_id = 363 province_id = 364 province_id = 365 province_id = 366 } }
 				}
 			}
-			capital = 375 # c_roseburg
+			capital = 363 # c_roseburg
 			
-			c_roseburg = { # 375
+			c_roseburg = { # 363
 				color={ 236 192 239 }
 				color2={ 255 255 255 }
 				
@@ -16177,7 +15967,7 @@ e_oregon = {
 				b_old_town = {
 				}
 			}
-			c_elkton = { # 378
+			c_elkton = { # 366
 				color={ 212 205 206 }
 				color2={ 255 255 255 }
 				
@@ -16196,7 +15986,7 @@ e_oregon = {
 				b_umpqua = {
 				}
 			}
-			c_glide = { # 376
+			c_glide = { # 364
 				color={ 33 147 73 }
 				color2={ 255 255 255 }
 				
@@ -16215,7 +16005,7 @@ e_oregon = {
 				b_elkhead = {
 				}
 			}
-			c_yoncalla = { # 377
+			c_yoncalla = { # 365
 				color={ 95 255 151 }
 				color2={ 255 255 255 }
 				
@@ -16242,12 +16032,12 @@ e_oregon = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 379 province_id = 380 province_id = 381 } }
+					any_demesne_province = { OR = { province_id = 367 province_id = 368 province_id = 369 } }
 				}
 			}
-			capital = 379 # c_tri_city
+			capital = 367 # c_tri_city
 			
-			c_tri_city = { # 379
+			c_tri_city = { # 367
 				color={ 120 80 123 }
 				color2={ 255 255 255 }
 				
@@ -16266,7 +16056,7 @@ e_oregon = {
 				b_glendale_3 = {
 				}
 			}
-			c_gaylord = { # 381
+			c_gaylord = { # 369
 				color={ 198 68 175 }
 				color2={ 255 255 255 }
 				
@@ -16285,7 +16075,7 @@ e_oregon = {
 				b_norway = {
 				}
 			}
-			c_winston = { # 380
+			c_winston = { # 368
 				color={ 186 136 189 }
 				color2={ 255 255 255 }
 				
@@ -16310,7 +16100,7 @@ e_oregon = {
 		color={ 179 185 209 }
 		color2={ 255 255 255 }
 		
-		capital = 358 # c_salem
+		capital = 352 # c_salem
 		culture = willametteian
 		
 		d_santiam = {
@@ -16320,12 +16110,12 @@ e_oregon = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 358 province_id = 359 province_id = 360 province_id = 361 } }
+					any_demesne_province = { OR = { province_id = 352 province_id = 353 province_id = 354 province_id = 355 } }
 				}
 			}
-			capital = 358 # c_salem
+			capital = 352 # c_salem
 			
-			c_salem = { # 358
+			c_salem = { # 352
 				color={ 209 155 224 }
 				color2={ 255 255 255 }
 				
@@ -16344,7 +16134,7 @@ e_oregon = {
 				b_sublimity = {
 				}
 			}
-			c_polks = { # 360
+			c_polks = { # 354
 				color={ 202 155 215 }
 				color2={ 255 255 255 }
 				
@@ -16363,7 +16153,7 @@ e_oregon = {
 				b_eola = {
 				}
 			}
-			c_woodburn = { # 361
+			c_woodburn = { # 355
 				color={ 193 142 208 }
 				color2={ 255 255 255 }
 				
@@ -16382,7 +16172,7 @@ e_oregon = {
 				b_brooks_2 = {
 				}
 			}
-			c_yamhill = { # 359
+			c_yamhill = { # 353
 				color={ 188 135 203 }
 				color2={ 255 255 255 }
 				
@@ -16409,12 +16199,12 @@ e_oregon = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 362 province_id = 363 province_id = 364 province_id = 365 } }
+					any_demesne_province = { OR = { province_id = 356 province_id = 357 province_id = 358 province_id = 359 } }
 				}
 			}
-			capital = 362 # c_albany
+			capital = 356 # c_albany
 			
-			c_albany = { # 362
+			c_albany = { # 356
 				color={ 170 146 177 }
 				color2={ 255 255 255 }
 				
@@ -16433,7 +16223,7 @@ e_oregon = {
 				b_millersburg = {
 				}
 			}
-			c_benton = { # 364
+			c_benton = { # 358
 				color={ 104 100 176 }
 				color2={ 255 255 255 }
 				
@@ -16452,7 +16242,7 @@ e_oregon = {
 				b_bellfountain = {
 				}
 			}
-			c_cascadia = { # 363
+			c_cascadia = { # 357
 				color={ 197 174 203 }
 				color2={ 255 255 255 }
 				
@@ -16471,7 +16261,7 @@ e_oregon = {
 				b_mill_city = {
 				}
 			}
-			c_eugene = { # 365
+			c_eugene = { # 359
 				color={ 111 122 148 }
 				color2={ 255 255 255 }
 				
@@ -16491,6 +16281,224 @@ e_oregon = {
 				}
 			}
 		}
+	}
+	k_salty_coast = {
+		color={ 142 76 95 }
+		color2={ 255 255 255 }
+		
+		capital = 370 # c_florence
+		culture = saltwater
+		
+		d_searose = {
+			color={ 122 96 85 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 370 province_id = 371 province_id = 372 } }
+				}
+			}
+			capital = 370 # c_florence
+			
+			c_florence = { # 370
+				color={ 112 106 80 }
+				color2={ 255 255 255 }
+				
+				b_florence = {
+				}
+				b_glenada = {
+				}
+				b_cushman = {
+				}
+				b_hecata_beach = {
+				}
+				b_sutton = {
+				}
+				b_tiernan = {
+				}
+				b_acme = {
+				}
+			}
+			c_mapleton = { # 372
+				color={ 112 60 200 }
+				color2={ 255 255 255 }
+				
+				b_mapleton = {
+				}
+				b_rainrock = {
+				}
+				b_swisshome = {
+				}
+				b_walton = {
+				}
+				b_veneta = {
+				}
+				b_elmira_2 = {
+				}
+				b_noti = {
+				}
+			}
+			c_reedsport = { # 371
+				color={ 112 60 80 }
+				color2={ 255 255 255 }
+				
+				b_reedsport = {
+				}
+				b_gardiner = {
+				}
+				b_dunes_city = {
+				}
+				b_winchester_bay = {
+				}
+				b_templeton_2 = {
+				}
+				b_scottburg = {
+				}
+				b_siltcoos = {
+				}
+			}
+		}
+		d_clatsop = {
+			color={ 113 90 165 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 382 province_id = 383 province_id = 384 } }
+				}
+			}
+			capital = 382 # c_astoria
+			
+			c_astoria = { # 382
+				color={ 103 100 160 }
+				color2={ 255 255 255 }
+				
+				b_astoria = {
+				}
+				b_svensen = {
+				}
+				b_knappa = {
+				}
+				b_brownsmead = {
+				}
+				b_clifton = {
+				}
+				b_wanua = {
+				}
+				b_olney = {
+				}
+			}
+			c_jewell = { # 383
+				color={ 60 100 160 }
+				color2={ 255 255 255 }
+				
+				b_jewell = {
+				}
+				b_grand_rapids = {
+				}
+				b_elsie = {
+				}
+				b_hamlet = {
+				}
+				b_lukarilla = {
+				}
+				b_nehalem = {
+				}
+				b_sunset = {
+				}
+			}
+			c_warrenton = { # 384
+				color={ 60 100 120 }
+				color2={ 255 255 255 }
+				
+				b_warrenton = {
+				}
+				b_fort_steven = {
+				}
+				b_sunset_beach = {
+				}
+				b_gearhart = {
+				}
+				b_seaside_2 = {
+				}
+				b_cannon_beach = {
+				}
+				b_arch_cape = {
+				}
+			}
+		}
+		d_coos = {
+			color={ 33 251 159 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 373 province_id = 374 province_id = 375 } }
+				}
+			}
+			capital = 373 # c_coos_bay
+			
+			c_coos_bay = { # 373
+				color={ 43 241 164 }
+				color2={ 255 255 255 }
+				
+				b_coos_bay = {
+				}
+				b_lakeside_2 = {
+				}
+				b_north_bend = {
+				}
+				b_barview = {
+				}
+				b_coquille = {
+				}
+				b_bunker_hill = {
+				}
+				b_millington = {
+				}
+			}
+			c_nesika_beach = { # 375
+				color={ 145 9 9 }
+				color2={ 255 255 255 }
+				
+				b_nesika_beach = {
+				}
+				b_wedderburn = {
+				}
+				b_gold_beach = {
+				}
+				b_carpenterville = {
+				}
+				b_pistol_river = {
+				}
+				b_brooking = {
+				}
+				b_ophir = {
+				}
+			}
+			c_port_orford = { # 374
+				color={ 9 145 92 }
+				color2={ 255 255 255 }
+				
+				b_port_orford = {
+				}
+				b_sixes = {
+				}
+				b_denmark = {
+				}
+				b_langlois = {
+				}
+				b_fourmile = {
+				}
+				b_bandon = {
+				}
+				b_bullards = {
+				}
+			}
+		}
 		d_newport = {
 			color={ 154 174 159 }
 			color2={ 255 255 255 }
@@ -16498,12 +16506,12 @@ e_oregon = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 366 province_id = 367 province_id = 368 } }
+					any_demesne_province = { OR = { province_id = 379 province_id = 380 province_id = 381 } }
 				}
 			}
-			capital = 366 # c_newport
+			capital = 379 # c_newport
 			
-			c_newport = { # 366
+			c_newport = { # 379
 				color={ 164 164 164 }
 				color2={ 255 255 255 }
 				
@@ -16522,7 +16530,7 @@ e_oregon = {
 				b_toledo = {
 				}
 			}
-			c_eddyville = { # 368
+			c_eddyville = { # 381
 				color={ 180 170 120 }
 				color2={ 255 255 255 }
 				
@@ -16541,7 +16549,7 @@ e_oregon = {
 				b_summit = {
 				}
 			}
-			c_lincoln_city = { # 367
+			c_lincoln_city = { # 380
 				color={ 180 170 164 }
 				color2={ 255 255 255 }
 				
@@ -16561,73 +16569,73 @@ e_oregon = {
 				}
 			}
 		}
-		d_searose = {
-			color={ 122 96 85 }
+		d_tillamook = {
+			color={ 245 71 129 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 369 province_id = 370 province_id = 371 } }
+					any_demesne_province = { OR = { province_id = 376 province_id = 377 province_id = 378 } }
 				}
 			}
-			capital = 369 # c_florence
+			capital = 376 # c_tillamook
 			
-			c_florence = { # 369
-				color={ 112 106 80 }
+			c_tillamook = { # 376
+				color={ 255 61 134 }
 				color2={ 255 255 255 }
 				
-				b_florence = {
+				b_tillamook = {
 				}
-				b_glenada = {
+				b_garibaldi = {
 				}
-				b_cushman = {
+				b_cape_meares = {
 				}
-				b_hecata_beach = {
+				b_oceanside_2 = {
 				}
-				b_sutton = {
+				b_netarts = {
 				}
-				b_tiernan = {
+				b_jordan_creek = {
 				}
-				b_acme = {
+				b_idaville = {
 				}
 			}
-			c_mapleton = { # 371
-				color={ 112 60 200 }
+			c_manzanita = { # 378
+				color={ 58 83 95 }
 				color2={ 255 255 255 }
 				
-				b_mapleton = {
+				b_manzanita = {
 				}
-				b_rainrock = {
+				b_mohler = {
 				}
-				b_swisshome = {
+				b_wheeler_3 = {
 				}
-				b_walton = {
+				b_batterston = {
 				}
-				b_veneta = {
+				b_rockaway_beach = {
 				}
-				b_elmira_2 = {
+				b_barview_2 = {
 				}
-				b_noti = {
+				b_barnesdale = {
 				}
 			}
-			c_reedsport = { # 370
-				color={ 112 60 80 }
+			c_pacific_city = { # 377
+				color={ 255 20 134 }
 				color2={ 255 255 255 }
 				
-				b_reedsport = {
+				b_pacific_city = {
 				}
-				b_gardiner = {
+				b_neskowin = {
 				}
-				b_dunes_city = {
+				b_oretown = {
 				}
-				b_winchester_bay = {
+				b_tierra_del_mar = {
 				}
-				b_templeton_2 = {
+				b_sandlake = {
 				}
-				b_scottburg = {
+				b_hebo = {
 				}
-				b_siltcoos = {
+				b_cloverdale_3 = {
 				}
 			}
 		}
@@ -19341,7 +19349,6 @@ e_socal = {
 		capital = 211 # c_las_vegas
 		culture = angeleno
 		
-		}
 		d_grand_vegas = {
 			color={ 231 246 123 }
 			color2={ 255 255 255 }
@@ -19457,7 +19464,7 @@ e_socal = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 224 province_id = 225 province_id = 226 province_id = 227 province_id = 1022 province_id = 1023 } }
+					any_demesne_province = { OR = { province_id = 224 province_id = 225 province_id = 226 province_id = 227 } }
 				}
 			}
 			capital = 224 # c_searchlight
@@ -19500,25 +19507,6 @@ e_socal = {
 				b_hemenway = {
 				}
 			}
-			c_boulder_city_2 = { # 1022
-				color={ 207 0 221 }
-				color2={ 255 255 255 }
-				
-				b_boulder_city_2 = {
-				}
-				b_henderson_2 = {
-				}
-				b_emerald_cove_2 = {
-				}
-				b_black_mountain_3 = {
-				}
-				b_cascata_2 = {
-				}
-				b_bighorn_2 = {
-				}
-				b_hemenway_2 = {
-				}
-			}
 			c_goodsprings = { # 225
 				color={ 221 177 209 }
 				color2={ 255 255 255 }
@@ -19555,25 +19543,6 @@ e_socal = {
 				b_cima = {
 				}
 				b_chase = {
-				}
-			}
-			c_halloran_2 = { # 1023
-				color={ 192 32 0 }
-				color2={ 255 255 255 }
-				
-				b_halloran_2 = {
-				}
-				b_baker_4 = {
-				}
-				b_renoville_3 = {
-				}
-				b_valean_2 = {
-				}
-				b_mountain_pass_2 = {
-				}
-				b_cima_2 = {
-				}
-				b_chase_3 = {
 				}
 			}
 		}
@@ -19673,7 +19642,7 @@ e_socal = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 231 province_id = 232 province_id = 233 province_id = 234 province_id = 1027 province_id = 1028 province_id = 1029 province_id = 1030 } }
+					any_demesne_province = { OR = { province_id = 231 province_id = 232 province_id = 233 province_id = 234 } }
 				}
 			}
 			capital = 231 # c_barstow
@@ -19716,44 +19685,6 @@ e_socal = {
 				b_harvard = {
 				}
 			}
-			c_afton_2 = { # 1028
-				color={ 234 58 117 }
-				color2={ 255 255 255 }
-				
-				b_afton_4 = {
-				}
-				b_crucero_2 = {
-				}
-				b_zzyzx_2 = {
-				}
-				b_midway_4 = {
-				}
-				b_basin_4 = {
-				}
-				b_manix_2 = {
-				}
-				b_harvard_2 = {
-				}
-			}
-			c_barstow_2 = { # 1027
-				color={ 191 123 101 }
-				color2={ 255 255 255 }
-				
-				b_barstow_3 = {
-				}
-				b_lenwood_2 = {
-				}
-				b_irwin_3 = {
-				}
-				b_hinkley_3 = {
-				}
-				b_nebo_3 = {
-				}
-				b_yermo_2 = {
-				}
-				b_daggett_2 = {
-				}
-			}
 			c_johnson_valley = { # 234
 				color={ 191 54 9 }
 				color2={ 255 255 255 }
@@ -19773,25 +19704,6 @@ e_socal = {
 				b_cushenbury = {
 				}
 			}
-			c_johnson_valley_2 = { # 1030
-				color={ 191 54 9 }
-				color2={ 255 255 255 }
-				
-				b_johnson_valley_2 = {
-				}
-				b_landers_3 = {
-				}
-				b_flamingo_heights_2 = {
-				}
-				b_rimrock_4 = {
-				}
-				b_pioneertown_3 = {
-				}
-				b_lucerne_valley_2 = {
-				}
-				b_cushenbury_2 = {
-				}
-			}
 			c_siberia = { # 233
 				color={ 234 164 129 }
 				color2={ 255 255 255 }
@@ -19809,25 +19721,6 @@ e_socal = {
 				b_pisgah = {
 				}
 				b_lavic = {
-				}
-			}
-			c_siberia_2 = { # 1029
-				color={ 234 164 129 }
-				color2={ 255 255 255 }
-				
-				b_siberia_2 = {
-				}
-				b_klondike_2 = {
-				}
-				b_ragtown_2 = {
-				}
-				b_ludlow_2 = {
-				}
-				b_hector_2 = {
-				}
-				b_pisgah_2 = {
-				}
-				b_lavic_2 = {
 				}
 			}
 		}
@@ -19927,7 +19820,7 @@ e_socal = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 228 province_id = 229 province_id = 230 province_id = 1024 province_id = 1025 province_id = 1026 } }
+					any_demesne_province = { OR = { province_id = 228 province_id = 229 province_id = 230 } }
 				}
 			}
 			capital = 228 # c_vidal
@@ -19970,25 +19863,6 @@ e_socal = {
 				b_big_maria = {
 				}
 			}
-			c_blythe_2 = { # 1025
-				color={ 255 208 170 }
-				color2={ 255 255 255 }
-				
-				b_blythe_2 = {
-				}
-				b_mesa_verde_2 = {
-				}
-				b_midland_3 = {
-				}
-				b_cox_2 = {
-				}
-				b_mesaville_2 = {
-				}
-				b_inca_2 = {
-				}
-				b_big_maria_2 = {
-				}
-			}
 			c_needles = { # 230
 				color={ 193 60 126 }
 				color2={ 255 255 255 }
@@ -20006,44 +19880,6 @@ e_socal = {
 				b_goffs = {
 				}
 				b_fenner = {
-				}
-			}
-			c_needles_2 = { # 1026
-				color={ 193 60 126 }
-				color2={ 255 255 255 }
-				
-				b_needles_2 = {
-				}
-				b_klinefelter_2 = {
-				}
-				b_ibis_2 = {
-				}
-				b_homer_2 = {
-				}
-				b_bannock_3 = {
-				}
-				b_goffs_2 = {
-				}
-				b_fenner_2 = {
-				}
-			}
-			c_vidal_2 = { # 1024
-				color={ 96 32 128 }
-				color2={ 255 255 255 }
-				
-				b_vidal_2 = {
-				}
-				b_big_river_2 = {
-				}
-				b_calzona_2 = {
-				}
-				b_bluewater_4 = {
-				}
-				b_earp_2 = {
-				}
-				b_parker_dam_2 = {
-				}
-				b_havasu_palms_2 = {
 				}
 			}
 		}
@@ -21881,7 +21717,7 @@ e_washington = {
 		capital = 385 # c_seattle
 		culture = emeraldian
 		
-		d_grand_seattle = {
+		d_seatac = {
 			color={ 245 120 105 }
 			color2={ 255 255 255 }
 			
@@ -21967,76 +21803,6 @@ e_washington = {
 				b_fairwood = {
 				}
 				b_kent = {
-				}
-			}
-		}
-		d_cascadia = {
-			color={ 129 94 124 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 402 province_id = 403 province_id = 404 } }
-				}
-			}
-			capital = 402 # c_lyman
-			
-			c_lyman = { # 402
-				color={ 119 104 119 }
-				color2={ 255 255 255 }
-				
-				b_sedro_woolley = {
-				}
-				b_lyman = {
-				}
-				b_hamilton = {
-				}
-				b_birdsview = {
-				}
-				b_concrete = {
-				}
-				b_day_creek = {
-				}
-				b_cokedale = {
-				}
-			}
-			c_darrington = { # 404
-				color={ 154 45 153 }
-				color2={ 255 255 255 }
-				
-				b_darington = {
-				}
-				b_mansford = {
-				}
-				b_tulkers = {
-				}
-				b_oso = {
-				}
-				b_white_horse = {
-				}
-				b_boulder_river = {
-				}
-				b_old_sauk = {
-				}
-			}
-			c_rockport_2 = { # 403
-				color={ 124 89 124 }
-				color2={ 255 255 255 }
-				
-				b_rockport_2 = {
-				}
-				b_corkindale = {
-				}
-				b_marblemount = {
-				}
-				b_newhalem = {
-				}
-				b_diablo_2 = {
-				}
-				b_marten = {
-				}
-				b_ross = {
 				}
 			}
 		}
@@ -22232,37 +21998,56 @@ e_washington = {
 			}
 		}
 		d_skagit = {
-			color={ 164 133 118 }
+			color={ 160 52 67 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 398 province_id = 399 province_id = 400 province_id = 401 } }
+					any_demesne_province = { OR = { province_id = 397 province_id = 398 province_id = 399 } }
 				}
 			}
-			capital = 398 # c_camano
+			capital = 397 # c_mt_vernon
 			
-			c_camano = { # 398
-				color={ 174 123 123 }
+			c_mt_vernon = { # 397
+				color={ 150 62 62 }
 				color2={ 255 255 255 }
 				
-				b_utsalady = {
+				b_mt_vernon = {
 				}
-				b_terrys_corner = {
+				b_burlington_2 = {
 				}
-				b_camaloch = {
+				b_baker_heights = {
 				}
-				b_madrona_beach = {
+				b_allen = {
 				}
-				b_lona = {
+				b_sterling = {
 				}
-				b_cama = {
+				b_bay_view = {
 				}
-				b_camano_head = {
+				b_la_conner = {
 				}
 			}
-			c_fidalgo = { # 399
+			c_darrington = { # 399
+				color={ 154 45 153 }
+				color2={ 255 255 255 }
+				
+				b_darington = {
+				}
+				b_mansford = {
+				}
+				b_tulkers = {
+				}
+				b_oso = {
+				}
+				b_white_horse = {
+				}
+				b_boulder_river = {
+				}
+				b_old_sauk = {
+				}
+			}
+			c_fidalgo = { # 398
 				color={ 154 89 89 }
 				color2={ 255 255 255 }
 				
@@ -22281,44 +22066,6 @@ e_washington = {
 				b_washington_park = {
 				}
 			}
-			c_north_whidbey = { # 401
-				color={ 128 72 140 }
-				color2={ 255 255 255 }
-				
-				b_oak_harbor = {
-				}
-				b_coupeville = {
-				}
-				b_aultfield = {
-				}
-				b_san_de_fuca = {
-				}
-				b_swantown = {
-				}
-				b_fort_casey = {
-				}
-				b_dugualla = {
-				}
-			}
-			c_south_whidbey = { # 400
-				color={ 125 100 130 }
-				color2={ 255 255 255 }
-				
-				b_langley = {
-				}
-				b_clinton = {
-				}
-				b_freeland = {
-				}
-				b_baby_island = {
-				}
-				b_sunlight_beach = {
-				}
-				b_midvale_corner = {
-				}
-				b_maxwelton = {
-				}
-			}
 		}
 		d_snohomish = {
 			color={ 242 10 250 }
@@ -22327,7 +22074,7 @@ e_washington = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 394 province_id = 395 province_id = 396 province_id = 397 } }
+					any_demesne_province = { OR = { province_id = 394 province_id = 395 province_id = 396 } }
 				}
 			}
 			capital = 394 # c_snohomish
@@ -22387,25 +22134,6 @@ e_washington = {
 				b_baring = {
 				}
 				b_grotto = {
-				}
-			}
-			c_mt_vernon = { # 397
-				color={ 150 62 62 }
-				color2={ 255 255 255 }
-				
-				b_mt_vernon = {
-				}
-				b_burlington_2 = {
-				}
-				b_baker_heights = {
-				}
-				b_allen = {
-				}
-				b_sterling = {
-				}
-				b_bay_view = {
-				}
-				b_la_conner = {
 				}
 			}
 		}
@@ -22479,6 +22207,57 @@ e_washington = {
 				}
 			}
 		}
+		d_upper_skagit = {
+			color={ 129 94 124 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 403 province_id = 404 } }
+				}
+			}
+			capital = 403 # c_lyman
+			
+			c_lyman = { # 403
+				color={ 119 104 119 }
+				color2={ 255 255 255 }
+				
+				b_sedro_woolley = {
+				}
+				b_lyman = {
+				}
+				b_hamilton = {
+				}
+				b_birdsview = {
+				}
+				b_concrete = {
+				}
+				b_day_creek = {
+				}
+				b_cokedale = {
+				}
+			}
+			c_rockport_2 = { # 404
+				color={ 124 89 124 }
+				color2={ 255 255 255 }
+				
+				b_rockport_2 = {
+				}
+				b_corkindale = {
+				}
+				b_marblemount = {
+				}
+				b_newhalem = {
+				}
+				b_diablo_2 = {
+				}
+				b_marten = {
+				}
+				b_ross = {
+				}
+			}
+		}
 		d_whatcom = {
 			color={ 166 120 170 }
 			color2={ 255 255 255 }
@@ -22549,221 +22328,73 @@ e_washington = {
 				}
 			}
 		}
-	}
-	k_gifford = {
-		color={ 74 214 112 }
-		color2={ 255 255 255 }
-		
-		capital = 414 # c_columbia
-		culture = portlandian
-		
-		d_clark = {
-			color={ 94 194 122 }
+		d_whidbey = {
+			color={ 164 133 118 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 414 province_id = 415 province_id = 416 } }
+					any_demesne_province = { OR = { province_id = 400 province_id = 401 province_id = 402 } }
 				}
 			}
-			capital = 414 # c_columbia
+			capital = 400 # c_camano
 			
-			c_columbia = { # 414
-				color={ 104 184 127 }
+			c_camano = { # 400
+				color={ 174 123 123 }
 				color2={ 255 255 255 }
 				
-				b_vancouver = {
+				b_utsalady = {
 				}
-				b_minnehaha = {
+				b_terrys_corner = {
 				}
-				b_mill_plain = {
+				b_camaloch = {
 				}
-				b_five_corners = {
+				b_madrona_beach = {
 				}
-				b_felida = {
+				b_lona = {
 				}
-				b_camas = {
+				b_cama = {
 				}
-				b_washougal = {
+				b_camano_head = {
 				}
 			}
-			c_battle_ground = { # 415
-				color={ 98 210 130 }
+			c_north_whidbey = { # 402
+				color={ 128 72 140 }
 				color2={ 255 255 255 }
 				
-				b_battle_ground = {
+				b_oak_harbor = {
 				}
-				b_cherry_grove = {
+				b_coupeville = {
 				}
-				b_ridgefield = {
+				b_aultfield = {
 				}
-				b_charter_oak = {
+				b_san_de_fuca = {
 				}
-				b_hockinson = {
+				b_swantown = {
 				}
-				b_lewisville_2 = {
+				b_fort_casey = {
 				}
-				b_heisson = {
+				b_dugualla = {
 				}
 			}
-			c_skamania = { # 416
-				color={ 81 157 102 }
+			c_south_whidbey = { # 401
+				color={ 125 100 130 }
 				color2={ 255 255 255 }
 				
-				b_stevenson_2 = {
+				b_langley = {
 				}
-				b_skamania = {
+				b_clinton = {
 				}
-				b_north_booneville = {
+				b_freeland = {
 				}
-				b_carson_2 = {
+				b_baby_island = {
 				}
-				b_stabler = {
+				b_sunlight_beach = {
 				}
-				b_fort_rains = {
+				b_midvale_corner = {
 				}
-				b_dodson = {
-				}
-			}
-		}
-		d_lewis = {
-			color={ 85 152 105 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 417 province_id = 418 province_id = 419 } }
-				}
-			}
-			capital = 417 # c_centralia
-			
-			c_centralia = { # 417
-				color={ 75 162 100 }
-				color2={ 255 255 255 }
-				
-				b_centralia = {
-				}
-				b_chehalis = {
-				}
-				b_napavine = {
-				}
-				b_adna = {
-				}
-				b_onalaska = {
-				}
-				b_cinebar = {
-				}
-				b_cowlitz = {
-				}
-			}
-			c_cowitz = { # 418
-				color={ 49 118 69 }
-				color2={ 255 255 255 }
-				
-				b_longview = {
-				}
-				b_woodland_2 = {
-				}
-				b_kalama = {
-				}
-				b_preston_2 = {
-				}
-				b_westside_2 = {
-				}
-				b_castle_rock = {
-				}
-				b_olequa = {
-				}
-			}
-			c_la_grande = { # 419
-				color={ 44 97 59 }
-				color2={ 255 255 255 }
-				
-				b_la_grande = {
-				}
-				b_elbe = {
-				}
-				b_morton = {
-				}
-				b_carlson = {
-				}
-				b_randall = {
-				}
-				b_packwood = {
-				}
-				b_glenoma = {
-				}
-			}
-		}
-		d_pacific = {
-			color={ 104 245 248 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 420 province_id = 421 province_id = 422 } }
-				}
-			}
-			capital = 420 # c_raymond
-			
-			c_raymond = { # 420
-				color={ 114 235 253 }
-				color2={ 255 255 255 }
-				
-				b_raymond_2 = {
-				}
-				b_south_bend = {
-				}
-				b_menlo = {
-				}
-				b_lebarn = {
-				}
-				b_pluvius = {
-				}
-				b_pe_ell = {
-				}
-				b_doty = {
-				}
-			}
-			c_ilwaco = { # 421
-				color={ 52 120 130 }
-				color2={ 255 255 255 }
-				
-				b_ilwaco = {
-				}
-				b_long_beach_2 = {
-				}
-				b_oysterville = {
-				}
-				b_naselle = {
-				}
-				b_nemah = {
-				}
-				b_bay_center = {
-				}
-				b_bruceport = {
-				}
-			}
-			c_wahkiakum = { # 422
-				color={ 59 125 135 }
-				color2={ 255 255 255 }
-				
-				b_cathlamet = {
-				}
-				b_eagle_cliff = {
-				}
-				b_skamokawa = {
-				}
-				b_rosburg = {
-				}
-				b_grays_river = {
-				}
-				b_state_camp = {
-				}
-				b_altoona = {
+				b_maxwelton = {
 				}
 			}
 		}
@@ -23192,6 +22823,224 @@ e_washington = {
 				b_moclip = {
 				}
 				b_pacific_beach_2 = {
+				}
+			}
+		}
+	}
+	k_willapa = {
+		color={ 74 214 112 }
+		color2={ 255 255 255 }
+		
+		capital = 414 # c_columbia
+		culture = portlandian
+		
+		d_clark = {
+			color={ 94 194 122 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 414 province_id = 415 province_id = 416 } }
+				}
+			}
+			capital = 414 # c_columbia
+			
+			c_columbia = { # 414
+				color={ 104 184 127 }
+				color2={ 255 255 255 }
+				
+				b_vancouver = {
+				}
+				b_minnehaha = {
+				}
+				b_mill_plain = {
+				}
+				b_five_corners = {
+				}
+				b_felida = {
+				}
+				b_camas = {
+				}
+				b_washougal = {
+				}
+			}
+			c_battle_ground = { # 415
+				color={ 98 210 130 }
+				color2={ 255 255 255 }
+				
+				b_battle_ground = {
+				}
+				b_cherry_grove = {
+				}
+				b_ridgefield = {
+				}
+				b_charter_oak = {
+				}
+				b_hockinson = {
+				}
+				b_lewisville_2 = {
+				}
+				b_heisson = {
+				}
+			}
+			c_skamania = { # 416
+				color={ 81 157 102 }
+				color2={ 255 255 255 }
+				
+				b_stevenson_2 = {
+				}
+				b_skamania = {
+				}
+				b_north_booneville = {
+				}
+				b_carson_2 = {
+				}
+				b_stabler = {
+				}
+				b_fort_rains = {
+				}
+				b_dodson = {
+				}
+			}
+		}
+		d_lewis = {
+			color={ 85 152 105 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 417 province_id = 418 province_id = 419 } }
+				}
+			}
+			capital = 417 # c_centralia
+			
+			c_centralia = { # 417
+				color={ 75 162 100 }
+				color2={ 255 255 255 }
+				
+				b_centralia = {
+				}
+				b_chehalis = {
+				}
+				b_napavine = {
+				}
+				b_adna = {
+				}
+				b_onalaska = {
+				}
+				b_cinebar = {
+				}
+				b_cowlitz = {
+				}
+			}
+			c_cowitz = { # 418
+				color={ 49 118 69 }
+				color2={ 255 255 255 }
+				
+				b_longview = {
+				}
+				b_woodland_2 = {
+				}
+				b_kalama = {
+				}
+				b_preston_2 = {
+				}
+				b_westside_2 = {
+				}
+				b_castle_rock = {
+				}
+				b_olequa = {
+				}
+			}
+			c_la_grande = { # 419
+				color={ 44 97 59 }
+				color2={ 255 255 255 }
+				
+				b_la_grande = {
+				}
+				b_elbe = {
+				}
+				b_morton = {
+				}
+				b_carlson = {
+				}
+				b_randall = {
+				}
+				b_packwood = {
+				}
+				b_glenoma = {
+				}
+			}
+		}
+		d_pacific = {
+			color={ 104 245 248 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 420 province_id = 421 province_id = 422 } }
+				}
+			}
+			capital = 420 # c_raymond
+			
+			c_raymond = { # 420
+				color={ 114 235 253 }
+				color2={ 255 255 255 }
+				
+				b_raymond_2 = {
+				}
+				b_south_bend = {
+				}
+				b_menlo = {
+				}
+				b_lebarn = {
+				}
+				b_pluvius = {
+				}
+				b_pe_ell = {
+				}
+				b_doty = {
+				}
+			}
+			c_ilwaco = { # 421
+				color={ 52 120 130 }
+				color2={ 255 255 255 }
+				
+				b_ilwaco = {
+				}
+				b_long_beach_2 = {
+				}
+				b_oysterville = {
+				}
+				b_naselle = {
+				}
+				b_nemah = {
+				}
+				b_bay_center = {
+				}
+				b_bruceport = {
+				}
+			}
+			c_wahkiakum = { # 422
+				color={ 59 125 135 }
+				color2={ 255 255 255 }
+				
+				b_cathlamet = {
+				}
+				b_eagle_cliff = {
+				}
+				b_skamokawa = {
+				}
+				b_rosburg = {
+				}
+				b_grays_river = {
+				}
+				b_state_camp = {
+				}
+				b_altoona = {
 				}
 			}
 		}

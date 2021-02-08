@@ -15,7 +15,7 @@ b_sumpter = castle
 #b_elkanah = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History

@@ -12,7 +12,7 @@ b_neskowin = city
 #b_tierra_del_mar = castle
 #b_sandlake = city
 #b_hebo = temple
-#b_cloverdale_2 = castle
+#b_cloverdale_3 = castle
 
 # Misc
 culture = saltwater

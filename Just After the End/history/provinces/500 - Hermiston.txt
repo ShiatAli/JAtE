@@ -15,7 +15,7 @@ b_charlestown = city
 #b_echo = castle
 
 # Misc
-culture = inlander
+culture = tricitian
 religion = gaian
 
 #History

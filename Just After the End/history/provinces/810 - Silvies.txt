@@ -15,7 +15,7 @@ b_burns_2 = castle
 #b_loggan_springs = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History

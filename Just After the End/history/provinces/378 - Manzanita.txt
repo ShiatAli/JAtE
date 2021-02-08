@@ -11,7 +11,7 @@ b_mohler = city
 #b_wheeler_3 = temple
 #b_batterston = castle
 #b_rockaway_beach = city
-#b_barview = temple
+#b_barview_2 = temple
 #b_barnesdale = castle
 
 # Misc

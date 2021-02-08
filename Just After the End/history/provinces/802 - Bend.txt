@@ -15,7 +15,7 @@ b_bend_2 = castle
 #b_camp_sherman = castle
 
 # Misc
-culture = inlander
+culture = eastsloper
 religion = gaian
 
 #History

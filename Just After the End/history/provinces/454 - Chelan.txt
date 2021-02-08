@@ -15,7 +15,7 @@ b_chelan_falls = city
 #b_maplecreek = castle
 
 # Misc
-culture = inlander
+culture = meseteno
 religion = gaian
 
 #History

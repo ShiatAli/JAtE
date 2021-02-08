@@ -15,7 +15,7 @@ b_john_day = castle
 #b_antone = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History

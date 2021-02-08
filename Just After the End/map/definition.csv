@@ -350,39 +350,39 @@ province;red;green;blue;x;x
 349;150;120;150;St.Helens;x
 350;103;120;150;Pittsburg;x
 351;103;120;180;Clatskanie;x
-352;103;100;160;Astoria;x
-353;60;100;160;Jewell;x
-354;60;100;120;Warrenton;x
-355;255;61;134;Tillamook;x
-356;255;20;134;Pacific City;x
-357;58;83;95;Manzanita;x
-358;209;155;224;Salem;x
-359;188;135;203;Yamhill;x
-360;202;155;215;Polks;x
-361;193;142;208;Woodburn;x
-362;170;146;177;Albany;x
-363;197;174;203;Cascadia;x
-364;104;100;176;Benton;x
-365;111;122;148;Eugene;x
-366;164;164;164;Newport;x
-367;180;170;164;Lincoln City;x
-368;180;170;120;Eddyville;x
-369;112;106;80;Florence;x
-370;112;60;80;Reedsport;x
-371;112;60;200;Mapleton;x
-372;112;60;0;Springfield;x
-373;0;60;0;Hadleyville;x
-374;112;60;180;Saginaw;x
-375;236;192;239;Roseburg;x
-376;33;147;73;Glide;x
-377;95;255;151;Yoncalla;x
-378;212;205;206;Elkton;x
-379;120;80;123;Tri-City;x
-380;186;136;189;Winston;x
-381;198;68;175;Gaylord;x
-382;43;241;164;Coos Bay;x
-383;9;145;92;Port Orford;x
-384;145;9;9;Nesika Beach;x
+352;209;155;224;Salem;x
+353;188;135;203;Yamhill;x
+354;202;155;215;Polks;x
+355;193;142;208;Woodburn;x
+356;170;146;177;Albany;x
+357;197;174;203;Cascadia;x
+358;104;100;176;Benton;x
+359;111;122;148;Eugene;x
+360;112;60;0;Springfield;x
+361;0;60;0;Hadleyville;x
+362;112;60;180;Saginaw;x
+363;236;192;239;Roseburg;x
+364;33;147;73;Glide;x
+365;95;255;151;Yoncalla;x
+366;212;205;206;Elkton;x
+367;120;80;123;Tri-City;x
+368;186;136;189;Winston;x
+369;198;68;175;Gaylord;x
+370;112;106;80;Florence;x
+371;112;60;80;Reedsport;x
+372;112;60;200;Mapleton;x
+373;43;241;164;Coos Bay;x
+374;9;145;92;Port Orford;x
+375;145;9;9;Nesika Beach;x
+376;255;61;134;Tillamook;x
+377;255;20;134;Pacific City;x
+378;58;83;95;Manzanita;x
+379;164;164;164;Newport;x
+380;180;170;164;Lincoln City;x
+381;180;170;120;Eddyville;x
+382;103;100;160;Astoria;x
+383;60;100;160;Jewell;x
+384;60;100;120;Warrenton;x
 385;255;110;110;Seattle;x
 386;198;94;94;Bellevue;x
 387;167;126;126;Renton;x
@@ -396,13 +396,13 @@ province;red;green;blue;x;x
 395;158;60;159;Leavenworth;x
 396;204;112;205;Arlington;x
 397;150;62;62;Mt.Vernon;x
-398;174;123;123;Camano;x
-399;154;89;89;Fidalgo;x
-400;125;100;130;South Whidbey;x
-401;128;72;140;North Whidbey;x
-402;119;104;119;Lyman;x
-403;124;89;124;Rockport_2;x
-404;154;45;153;Darrington;x
+398;154;89;89;Fidalgo;x
+399;154;45;153;Darrington;x
+400;174;123;123;Camano;x
+401;125;100;130;South Whidbey;x
+402;128;72;140;North Whidbey;x
+403;119;104;119;Lyman;x
+404;124;89;124;Rockport_2;x
 405;176;110;175;Bellingham;x
 406;140;59;139;Deming;x
 407;171;102;170;Lynden;x
@@ -486,7 +486,7 @@ province;red;green;blue;x;x
 485;60;142;120;Towell;x
 486;224;109;109;Yakima;x
 487;188;50;50;Ellenburg;x
-488;188;122;122;Moxee;x
+488;188;122;122;The Reach;x
 489;179;93;93;Goldendale;x
 490;162;114;114;Toppenish;x
 491;106;60;60;Sunnyside;x
@@ -1020,12 +1020,3 @@ province;red;green;blue;x;x
 1019;255;2;32;Mars;x
 1020;255;221;0;Badwater;x
 1021;174;0;0;Ashford Meadows;x
-1022;207;0;221;Boulder City_2;x
-1023;192;32;0;Halloran_2;x
-1024;96;32;128;Vidal_2;x
-1025;255;208;170;Blythe_2;x
-1026;193;60;126;Needles_2;x
-1027;191;123;101;Barstow_2;x
-1028;234;58;117;Afton_2;x
-1029;234;164;129;Siberia_2;x
-1030;191;54;9;Johnson Valley_2;x

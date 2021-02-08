@@ -15,7 +15,7 @@ b_heppner = castle
 #b_pine_city = castle
 
 # Misc
-culture = inlander
+culture = gorgeon
 religion = gaian
 
 #History

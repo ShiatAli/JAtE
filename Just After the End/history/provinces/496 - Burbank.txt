@@ -15,7 +15,7 @@ b_burbank_2 = castle
 #b_holdman = castle
 
 # Misc
-culture = inlander
+culture = tricitian
 religion = gaian
 
 #History

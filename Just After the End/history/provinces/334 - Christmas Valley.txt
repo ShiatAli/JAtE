@@ -15,7 +15,7 @@ b_christmas_valley = castle
 #b_paulina = castle
 
 # Misc
-culture = siskiyouan
+culture = eastsloper
 religion = cetic
 
 #History

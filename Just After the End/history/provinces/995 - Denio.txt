@@ -15,7 +15,7 @@ b_denio_2 = castle
 #b_alvord = castle
 
 # Misc
-culture = battleborn
+culture = juniperian
 religion = atomicist
 
 #History

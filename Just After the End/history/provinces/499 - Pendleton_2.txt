@@ -15,7 +15,7 @@ b_milton_freewater = city
 #b_weston = castle
 
 # Misc
-culture = inlander
+culture = bluemen
 religion = gaian
 
 #History

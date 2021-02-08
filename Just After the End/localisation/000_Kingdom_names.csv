@@ -33,8 +33,6 @@ k_frontrange;Frontrange;Frontrange;Frontrange;;Frontrange;;;;;;;;;x
 k_frontrange_adj;Frontrangean;;frontranger;;;;;;;;;;;x
 k_gadsden;Gadsden;Gadsden;Gadsden;;Gadsden;;;;;;;;;x
 k_gadsden_adj;Gadsdenian;;gadsdener;;;;;;;;;;;x
-k_gifford;Gifford;Gifford;Gifford;;Gifford;;;;;;;;;x
-k_gifford_adj;Giffordian;;gifforder;;;;;;;;;;;x
 k_goldengate;Goldengate;Goldengate;Goldengate;;Goldengate;;;;;;;;;x
 k_goldengate_adj;Goldengatean;;goldengater;;;;;;;;;;;x
 k_great_okanagan;Great Okanagan;Great Okanagan;Great Okanagan;;Great Okanagan;;;;;;;;;x
@@ -91,6 +89,8 @@ k_salem;Salem;Salem;Salem;;Salem;;;;;;;;;x
 k_salem_adj;Salemian;;salemer;;;;;;;;;;;x
 k_salinas;Salinas;Salinas;Salinas;;Salinas;;;;;;;;;x
 k_salinas_adj;Salinasian;;salinaser;;;;;;;;;;;x
+k_salty_coast;Salty Coast;Salty Coast;Salty Coast;;Salty Coast;;;;;;;;;x
+k_salty_coast_adj;Salty Coastian;;Salty Coaster;;;;;;;;;;;x
 k_san_joaquin;San Joaquin;San Joaquin;San Joaquin;;San Joaquin;;;;;;;;;x
 k_san_joaquin_adj;San Joaquinian;;San Joaquiner;;;;;;;;;;;x
 k_san_luis;San Luis;San Luis;San Luis;;San Luis;;;;;;;;;x
@@ -133,6 +133,8 @@ k_west_snake;West Snake;West Snake;West Snake;;West Snake;;;;;;;;;x
 k_west_snake_adj;West Snakean;;West Snaker;;;;;;;;;;;x
 k_western_slope;Western Slope;Western Slope;Western Slope;;Western Slope;;;;;;;;;x
 k_western_slope_adj;Western Slopean;;Western Sloper;;;;;;;;;;;x
+k_willapa;Willapa;Willapa;Willapa;;Willapa;;;;;;;;;x
+k_willapa_adj;Willapan;;willaper;;;;;;;;;;;x
 k_wineland;Wineland;Wineland;Wineland;;Wineland;;;;;;;;;x
 k_wineland_adj;Winelandian;;winelander;;;;;;;;;;;x
 k_wonderland;Wonderland;Wonderland;Wonderland;;Wonderland;;;;;;;;;x

@@ -15,7 +15,7 @@ b_chiloquin = castle
 #b_agency = castle
 
 # Misc
-culture = siskiyouan
+culture = eastsloper
 religion = cetic
 
 #History

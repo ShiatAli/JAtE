@@ -15,7 +15,7 @@ b_vale = castle
 #b_brogan = castle
 
 # Misc
-culture = inlander
+culture = boisean
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_clarkston = castle
 #b_clarkston_heights = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

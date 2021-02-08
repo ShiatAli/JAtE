@@ -15,7 +15,7 @@ b_dayton = castle
 #b_little_goose = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

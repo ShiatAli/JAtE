@@ -15,7 +15,7 @@ b_silver_lake_2 = castle
 #b_derrick_cave = castle
 
 # Misc
-culture = inlander
+culture = eastsloper
 religion = gaian
 
 #History

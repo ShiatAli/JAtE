@@ -15,7 +15,7 @@ b_kooskooskie = city
 #b_lookingglass_falls = castle
 
 # Misc
-culture = inlander
+culture = bluemen
 religion = gaian
 
 #History

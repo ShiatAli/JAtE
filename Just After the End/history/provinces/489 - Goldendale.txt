@@ -15,7 +15,7 @@ b_goldendale = castle
 #b_klickitat = castle
 
 # Misc
-culture = inlander
+culture = gorgeon
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_crane_2 = castle
 #b_venator = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History

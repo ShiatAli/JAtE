@@ -15,7 +15,7 @@ b_harper = castle
 #b_warm_springs_2 = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History

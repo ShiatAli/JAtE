@@ -1,7 +1,7 @@
-# c_moxee
+# c_the_reach
 
 # County Title
-title = c_moxee
+title = c_the_reach
 
 # Settlements
 max_settlements = 3
@@ -15,7 +15,7 @@ b_birchfield = city
 #b_levering = castle
 
 # Misc
-culture = inlander
+culture = meseteno
 religion = gaian
 
 #History

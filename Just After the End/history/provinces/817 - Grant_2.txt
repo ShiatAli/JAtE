@@ -15,7 +15,7 @@ b_long_creek = castle
 #b_susanville_2 = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History

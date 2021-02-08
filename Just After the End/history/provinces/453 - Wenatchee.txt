@@ -15,7 +15,7 @@ b_sunnyslope = city
 #b_gunn = castle
 
 # Misc
-culture = inlander
+culture = meseteno
 religion = gaian
 
 #History

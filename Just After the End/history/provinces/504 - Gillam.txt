@@ -15,7 +15,7 @@ b_condon = castle
 #b_mikkalo = castle
 
 # Misc
-culture = inlander
+culture = gorgeon
 religion = gaian
 
 #History

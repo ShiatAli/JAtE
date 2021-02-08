@@ -11,7 +11,7 @@ b_goshen_2 = city
 #b_jasper = temple
 #b_pleasant_hill_2 = castle
 #b_trent_2 = city
-#b_cloverdale_3 = temple
+#b_cloverdale_2 = temple
 #b_dexter = castle
 
 # Misc

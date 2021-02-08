@@ -15,7 +15,7 @@ b_mcdermitt = castle
 #b_little_owyhee = castle
 
 # Misc
-culture = inlander
+culture = juniperian
 religion = gaian
 
 #History
