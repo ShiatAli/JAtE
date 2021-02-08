@@ -15,7 +15,7 @@ b_felton = temple
 #b_camp_evers = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_plaskett = city
 #b_buckeye = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

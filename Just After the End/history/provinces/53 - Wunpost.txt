@@ -15,7 +15,7 @@ b_san_lucas = city
 #b_paris_valley = castle
 
 # Misc
-culture = bayfolk
+culture = solitarios
 religion = cetic
 
 #History

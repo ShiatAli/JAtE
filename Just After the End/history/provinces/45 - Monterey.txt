@@ -15,7 +15,7 @@ b_marina = temple
 #b_neponset = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

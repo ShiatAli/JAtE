@@ -15,7 +15,7 @@ b_jack_ranch = city
 #b_lonoak = castle
 
 # Misc
-culture = bayfolk
+culture = solitarios
 religion = cetic
 
 #History

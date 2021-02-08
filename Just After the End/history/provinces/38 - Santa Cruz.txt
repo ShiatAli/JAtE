@@ -15,7 +15,7 @@ b_soquel = city
 #b_aptos = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

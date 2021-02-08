@@ -15,7 +15,7 @@ b_del_monte_forest = city
 #b_carmel_valley = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

@@ -15,7 +15,7 @@ b_tassajara_hot_springs = city
 #b_jamesburg = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

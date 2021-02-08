@@ -15,7 +15,7 @@ b_interlaken = city
 #b_amesti = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

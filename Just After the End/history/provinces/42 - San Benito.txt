@@ -15,7 +15,7 @@ b_pinnacle = temple
 #b_stone_canyon = castle
 
 # Misc
-culture = bayfolk
+culture = solitarios
 religion = cetic
 
 #History
