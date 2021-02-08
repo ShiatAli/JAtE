@@ -15,7 +15,7 @@ b_nipomo = city
 #b_huasna = castle
 
 # Misc
-culture = bayfolk
+culture = mustang
 religion = cetic
 
 #History

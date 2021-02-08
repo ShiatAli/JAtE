@@ -5569,7 +5569,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 38 # c_santa_cruz
-		culture = bayfolk
+		culture = carmelite
 		
 		d_santa_cruz = {
 			color={ 236 10 250 }
@@ -6336,7 +6336,7 @@ e_gran_francisco = {
 		color2={ 255 255 255 }
 		
 		capital = 35 # c_south_lake
-		culture = bayfolk
+		culture = lakemen
 		
 		d_the_lake = {
 			color={ 134 9 251 }
@@ -22178,13 +22178,6 @@ e_washington = {
 		
 		capital = 367 # c_seattle
 		culture = emeraldian
-		
-		d_pikeplace = {
-			color={ 251 212 173 }
-			color2={ 255 255 255 }
-			
-			capital = 367 #c_seattle
-		}
 		
 		d_grand_seattle = {
 			color={ 245 120 105 }

@@ -15,7 +15,7 @@ b_clearlake = temple
 #b_loch_lomond = castle
 
 # Misc
-culture = bayfolk
+culture = lakemen
 religion = cetic
 
 #History

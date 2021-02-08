@@ -15,7 +15,7 @@ b_llanada = city
 #b_tres_pinos = castle
 
 # Misc
-culture = bayfolk
+culture = solitarios
 religion = cetic
 
 #History

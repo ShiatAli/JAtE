@@ -15,7 +15,7 @@ b_posts = city
 #b_wreck_beach = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

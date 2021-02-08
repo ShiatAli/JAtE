@@ -15,7 +15,7 @@ b_topaz = castle
 #b_abbott_canyon = castle
 
 # Misc
-culture = bayfolk
+culture = mustang
 religion = cetic
 
 #History

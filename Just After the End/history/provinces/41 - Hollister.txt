@@ -15,7 +15,7 @@ b_san_juan_bautista = temple
 #b_logan = castle
 
 # Misc
-culture = bayfolk
+culture = solitarios
 religion = cetic
 
 #History

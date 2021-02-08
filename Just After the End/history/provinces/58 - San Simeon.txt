@@ -15,7 +15,7 @@ b_cayucos = city
 #b_harmony = castle
 
 # Misc
-culture = bayfolk
+culture = mustang
 religion = cetic
 
 #History

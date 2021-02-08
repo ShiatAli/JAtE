@@ -15,7 +15,7 @@ b_north_lakeport = temple
 #b_lucerene = castle
 
 # Misc
-culture = bayfolk
+culture = lakemen
 religion = cetic
 
 #History

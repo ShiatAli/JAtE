@@ -15,7 +15,7 @@ b_el_granada = temple
 #b_san_gregorio = castle
 
 # Misc
-culture = bayfolk
+culture = carmelite
 religion = cetic
 
 #History

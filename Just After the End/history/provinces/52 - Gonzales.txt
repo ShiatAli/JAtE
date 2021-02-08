@@ -15,7 +15,7 @@ b_dean = temple
 #b_somavia = castle
 
 # Misc
-culture = bayfolk
+culture = solitarios
 religion = cetic
 
 #History
