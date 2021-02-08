@@ -15,7 +15,7 @@ b_payallup = city
 #b_greenwater = castle
 
 # Misc
-culture = emeraldian
+culture = backcountry
 religion = gaian
 
 #History

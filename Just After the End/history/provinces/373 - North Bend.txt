@@ -15,7 +15,7 @@ b_ellisville = city
 #b_rockdale = castle
 
 # Misc
-culture = emeraldian
+culture = backcountry
 religion = gaian
 
 #History

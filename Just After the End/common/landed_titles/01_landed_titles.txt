@@ -23052,7 +23052,7 @@ e_washington = {
 		color2={ 255 255 255 }
 		
 		capital = 404 # c_olympia
-		culture = cascadian
+		culture = olympite
 		
 		d_thurston = {
 			color={ 69 86 140 }

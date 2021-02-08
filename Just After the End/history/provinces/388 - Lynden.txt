@@ -15,7 +15,7 @@ b_greenwood = temple
 #b_laurel = castle
 
 # Misc
-culture = emeraldian
+culture = skagitan
 religion = gaian
 
 #History

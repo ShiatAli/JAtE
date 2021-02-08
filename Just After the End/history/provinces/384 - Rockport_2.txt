@@ -15,7 +15,7 @@ b_corkindale = city
 #b_ross = castle
 
 # Misc
-culture = emeraldian
+culture = backcountry
 religion = gaian
 
 #History

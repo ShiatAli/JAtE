@@ -15,7 +15,7 @@ b_pacheco_pass = city
 #b_harper_canyon = castle
 
 # Misc
-culture = stanforder
+culture = ysidro
 religion = cetic
 
 #History

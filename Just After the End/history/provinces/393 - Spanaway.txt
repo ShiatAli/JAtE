@@ -15,7 +15,7 @@ b_elk_plain = temple
 #b_graham_2 = castle
 
 # Misc
-culture = emeraldian
+culture = backcountry
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_alamito = castle
 #b_summerside = castle
 
 # Misc
-culture = stanforder
+culture = sanjo
 religion = cetic
 
 #History

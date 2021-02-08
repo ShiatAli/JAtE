@@ -640,7 +640,356 @@ north_pacific = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
+	olympite = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.2 0.9 0.3 }
 
+		male_names = {
+			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
+			Bosko Boyle Brad Brandon Breen Brendan Brock
+			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
+			Dallas Damian Daniel Donald Douglass_Douglas Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
+			Hagen Hammond Henry Hud
+			Isaac
+			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kirk Kumail Kurt Kyle
+			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Nicholas Noah Norman
+			Obo Oort Orlando_Roland Oswalt_Oswald
+			Patton Peter Pharoah Pietro_Peter Powell Pratchett
+			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
+			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Terrell Tucker Tyler
+			Vincent
+			Wagner Warren Wash Wrick Wright 
+		}
+		female_names = {
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
+			Becca_Rebecca Berry Beverly Brigitte_Bridget
+			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
+			Dana Dorothy
+			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
+			Fay Floscella
+			Genevieve Glory Greta Gretchen Gwen Galadriel
+			Haley Heather Hilda Hildegardt
+			Irine Iris Jacquiline
+			Jana Jane Jenny Jinx Joanna_Joan
+			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Nance_Nancy Natasha Nina
+			Olga Olivia
+			Penny
+			Raina Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
+			Tabitha Tiffeny Tonya
+			Valerie_Valeria Vanessa Veronica
+			Zooey_Zoe 
+		}
+
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	backcountry = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.1 0.1 0.2 }
+
+		male_names = {
+			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
+			Bosko Boyle Brad Brandon Breen Brendan Brock
+			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
+			Dallas Damian Daniel Donald Douglass_Douglas Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
+			Hagen Hammond Henry Hud
+			Isaac
+			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kirk Kumail Kurt Kyle
+			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Nicholas Noah Norman
+			Obo Oort Orlando_Roland Oswalt_Oswald
+			Patton Peter Pharoah Pietro_Peter Powell Pratchett
+			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
+			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Terrell Tucker Tyler
+			Vincent
+			Wagner Warren Wash Wrick Wright 
+		}
+		female_names = {
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
+			Becca_Rebecca Berry Beverly Brigitte_Bridget
+			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
+			Dana Dorothy
+			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
+			Fay Floscella
+			Genevieve Glory Greta Gretchen Gwen Galadriel
+			Haley Heather Hilda Hildegardt
+			Irine Iris Jacquiline
+			Jana Jane Jenny Jinx Joanna_Joan
+			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Nance_Nancy Natasha Nina
+			Olga Olivia
+			Penny
+			Raina Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
+			Tabitha Tiffeny Tonya
+			Valerie_Valeria Vanessa Veronica
+			Zooey_Zoe 
+		}
+
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	makah = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.4 0.2 0.1 }
+
+		male_names = {
+			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
+			Bosko Boyle Brad Brandon Breen Brendan Brock
+			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
+			Dallas Damian Daniel Donald Douglass_Douglas Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
+			Hagen Hammond Henry Hud
+			Isaac
+			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kirk Kumail Kurt Kyle
+			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Nicholas Noah Norman
+			Obo Oort Orlando_Roland Oswalt_Oswald
+			Patton Peter Pharoah Pietro_Peter Powell Pratchett
+			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
+			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Terrell Tucker Tyler
+			Vincent
+			Wagner Warren Wash Wrick Wright 
+		}
+		female_names = {
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
+			Becca_Rebecca Berry Beverly Brigitte_Bridget
+			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
+			Dana Dorothy
+			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
+			Fay Floscella
+			Genevieve Glory Greta Gretchen Gwen Galadriel
+			Haley Heather Hilda Hildegardt
+			Irine Iris Jacquiline
+			Jana Jane Jenny Jinx Joanna_Joan
+			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Nance_Nancy Natasha Nina
+			Olga Olivia
+			Penny
+			Raina Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
+			Tabitha Tiffeny Tonya
+			Valerie_Valeria Vanessa Veronica
+			Zooey_Zoe 
+		}
+
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	orcan = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.3 0.1 0.5 }
+
+		male_names = {
+			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
+			Bosko Boyle Brad Brandon Breen Brendan Brock
+			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
+			Dallas Damian Daniel Donald Douglass_Douglas Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
+			Hagen Hammond Henry Hud
+			Isaac
+			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kirk Kumail Kurt Kyle
+			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Nicholas Noah Norman
+			Obo Oort Orlando_Roland Oswalt_Oswald
+			Patton Peter Pharoah Pietro_Peter Powell Pratchett
+			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
+			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Terrell Tucker Tyler
+			Vincent
+			Wagner Warren Wash Wrick Wright 
+		}
+		female_names = {
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
+			Becca_Rebecca Berry Beverly Brigitte_Bridget
+			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
+			Dana Dorothy
+			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
+			Fay Floscella
+			Genevieve Glory Greta Gretchen Gwen Galadriel
+			Haley Heather Hilda Hildegardt
+			Irine Iris Jacquiline
+			Jana Jane Jenny Jinx Joanna_Joan
+			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Nance_Nancy Natasha Nina
+			Olga Olivia
+			Penny
+			Raina Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
+			Tabitha Tiffeny Tonya
+			Valerie_Valeria Vanessa Veronica
+			Zooey_Zoe 
+		}
+
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	skagitan = {
+		graphical_cultures = { whitepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.5 0.3 0.7 }
+
+		male_names = {
+			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
+			Bosko Boyle Brad Brandon Breen Brendan Brock
+			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
+			Dallas Damian Daniel Donald Douglass_Douglas Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
+			Hagen Hammond Henry Hud
+			Isaac
+			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kirk Kumail Kurt Kyle
+			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Nicholas Noah Norman
+			Obo Oort Orlando_Roland Oswalt_Oswald
+			Patton Peter Pharoah Pietro_Peter Powell Pratchett
+			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
+			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Terrell Tucker Tyler
+			Vincent
+			Wagner Warren Wash Wrick Wright 
+		}
+		female_names = {
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
+			Becca_Rebecca Berry Beverly Brigitte_Bridget
+			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
+			Dana Dorothy
+			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
+			Fay Floscella
+			Genevieve Glory Greta Gretchen Gwen Galadriel
+			Haley Heather Hilda Hildegardt
+			Irine Iris Jacquiline
+			Jana Jane Jenny Jinx Joanna_Joan
+			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Nance_Nancy Natasha Nina
+			Olga Olivia
+			Penny
+			Raina Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
+			Tabitha Tiffeny Tonya
+			Valerie_Valeria Vanessa Veronica
+			Zooey_Zoe 
+		}
+
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
 	
 	canuck = {
 		graphical_cultures = { canadiangfx whitepacificgfx }

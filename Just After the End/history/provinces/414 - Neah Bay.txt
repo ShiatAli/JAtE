@@ -15,7 +15,7 @@ b_neah_bay = castle
 #b_old_royal = castle
 
 # Misc
-culture = cascadian
+culture = makah
 religion = gaian
 
 #History

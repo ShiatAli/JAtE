@@ -15,7 +15,7 @@ b_ocosta = city
 #b_tokeland = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

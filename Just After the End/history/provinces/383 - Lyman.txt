@@ -15,7 +15,7 @@ b_lyman = city
 #b_cokedale = castle
 
 # Misc
-culture = emeraldian
+culture = skagitan
 religion = gaian
 
 #History

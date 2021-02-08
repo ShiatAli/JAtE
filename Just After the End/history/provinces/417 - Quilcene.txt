@@ -15,7 +15,7 @@ b_brinnon = city
 #b_eldon = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

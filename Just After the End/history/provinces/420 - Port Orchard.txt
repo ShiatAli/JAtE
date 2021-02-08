@@ -15,7 +15,7 @@ b_parkwood = city
 #b_lakebay = castle
 
 # Misc
-culture = cascadian
+culture = vestmenn
 religion = gaian
 
 #History

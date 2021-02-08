@@ -15,7 +15,7 @@ b_nugents_corner = city
 #b_kendall = castle
 
 # Misc
-culture = emeraldian
+culture = skagitan
 religion = gaian
 
 #History

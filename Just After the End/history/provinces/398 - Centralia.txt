@@ -15,7 +15,7 @@ b_chehalis = city
 #b_cowlitz = castle
 
 # Misc
-culture = willapan
+culture = olympite
 religion = gaian
 
 #History
