@@ -1,0 +1,21 @@
+# c_pinon
+
+# County Title
+title = c_pinon
+
+# Settlements
+max_settlements = 4
+
+b_pinon_2 = castle
+#b_whippoorwill = city
+#b_blue_gap = temple
+#b_hardrock = castle
+#b_tachee = city
+#b_forest_lake = temple
+#b_black_mesa = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

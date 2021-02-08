@@ -320,7 +320,7 @@ province;red;green;blue;x;x
 319;172;75;150;Forest Park;x
 320;184;82;161;Oswego;x
 321;185;75;150;Mt. Hood;x
-322;185;75;130;Marmot;x
+322;185;75;130;Towering Village;x
 323;185;75;110;Sandy;x
 324;150;50;255;Oregon City;x
 325;138;61;143;Clackamas;x
@@ -451,589 +451,592 @@ province;red;green;blue;x;x
 450;123;71;67;Moscow;x
 451;35;200;155;Pullman;x
 452;78;179;152;Skitswish;x
-453;140;5;5;Franklin;x
-454;155;86;86;Washtucna;x
-455;108;193;232;Royal City;x
-456;80;111;126;Quincy;x
-457;80;92;126;Douglas;x
-458;136;144;167;Bridgeport;x
-459;204;76;212;Grand Coulee;x
-460;150;86;154;Odessa;x
-461;150;111;152;Davenport;x
-462;115;186;167;Reardan;x
-463;60;142;120;Towell;x
-464;224;109;109;Yakima;x
-465;188;50;50;Ellenburg;x
-466;188;122;122;Moxee;x
-467;179;93;93;Goldendale;x
-468;162;114;114;Toppenish;x
-469;106;60;60;Sunnyside;x
-470;59;97;174;Kennewick;x
-471;114;130;162;Grandview;x
-472;57;49;212;Walla Walla;x
-473;65;49;218;Tollgate;x
-474;212;49;195;Clarkston;x
-475;164;70;154;Burbank;x
-476;119;35;110;Pendleton_2;x
-477;124;42;115;Hermiston;x
-478;208;87;195;Morrow;x
-479;88;181;67;The Dalles;x
-480;77;114;69;Warm Springs;x
-481;181;67;169;Gillam;x
-482;208;210;39;Vancouver;x
-483;249;251;75;Richmond_2;x
-484;190;191;65;Capilano;x
-485;193;195;53;Surrey;x
-486;224;225;108;Coquitlam;x
-487;153;154;106;Abbotsford;x
-488;245;246;167;Chilliwack;x
-489;178;179;121;Hope;x
-490;137;138;60;Pemberton;x
-491;121;136;179;Squamish;x
-492;80;93;130;Gibsons;x
-493;116;129;164;Sechelt;x
-494;164;154;116;Victoria;x
-495;88;81;53;Sidney;x
-496;143;124;46;Langford;x
-497;186;167;92;Nanaimo;x
-498;145;130;71;Duncan;x
-499;165;167;30;Port Renfrew;x
-500;149;150;40;Parksville;x
-501;156;157;89;Port Alberni;x
-502;219;220;116;Royston;x
-503;171;124;124;Comox;x
-504;114;70;70;Campbell River;x
-505;119;63;63;Port Hardy;x
-506;128;76;76;Port Alice;x
-507;78;46;46;Port McNiell;x
-508;200;54;54;Ucluelet;x
-509;164;47;47;Tofino;x
-510;181;114;114;Ahousat;x
-511;124;53;53;Yuquot;x
-512;145;98;98;Zeballos;x
-513;102;133;115;Powell;x
-514;132;164;146;Maderia Park;x
-515;69;101;183;Lund;x
-516;44;70;136;Blind Channel;x
-517;94;108;143;Port Neville;x
-518;134;142;162;Echo Bay;x
-519;57;64;83;Hopetown;x
-520;100;125;188;Allison Harbor;x
-521;231;188;188;Kelowna;x
-522;159;77;77;Keremeos;x
-523;143;77;159;Penticton;x
-524;241;159;159;Kamloops;x
-525;167;102;102;Skeetchestn;x
-526;43;121;41;Lillooet;x
-527;162;121;121;Merritt;x
-528;152;75;75;Princeton;x
-529;191;143;143;Falkland;x
-530;212;142;142;Vernon;x
-531;204;205;128;Salmon Arm;x
-532;179;128;205;Sorrento;x
-533;248;103;103;Nelson;x
-534;251;111;111;Kaslo;x
-535;171;68;68;Crawford;x
-536;154;155;95;Creston;x
-537;140;140;99;Cranbrook;x
-538;140;99;99;Ivermere;x
-539;208;84;84;Elko;x
-540;137;138;45;Castlegar;x
-541;164;104;159;Rossland;x
-542;135;32;126;Salmo;x
-543;190;191;122;South Slocan;x
-544;139;140;87;New Denver;x
-545;115;116;67;Nakusp;x
-546;143;94;94;Grand Forks;x
-547;184;144;144;Rock Creek;x
-548;255;140;140;Revelstoke;x
-549;125;171;183;Shuswap Falls;x
-550;66;233;126;Phoenix;x
-551;41;198;98;Mesa;x
-552;59;199;142;Harquahala;x
-553;41;145;78;Pinal;x
-554;61;123;83;Maricopa;x
-555;116;204;72;Flagstaff;x
-556;69;107;50;Gateway;x
-557;49;123;12;Grand Canyon;x
-558;101;168;68;Kaibab;x
-559;164;248;122;Havasupai;x
-560;141;255;84;Prescott;x
-561;85;255;0;Verde;x
-562;174;230;147;Aquarius;x
-563;15;102;47;Tonto;x
-564;73;127;92;Fort Apache;x
-565;45;184;95;San Carlos;x
-566;6;138;54;Graham;x
-567;83;248;143;Apache Forest;x
-568;79;255;143;San Pedro_2;x
-569;111;192;70;Kingman;x
-570;133;235;82;Hualapai;x
-571;75;163;31;Wikiup;x
-572;37;75;19;Mesquite;x
-573;57;112;30;Hoover;x
-574;108;156;84;Parashant;x
-575;121;171;151;La Paz;x
-576;94;172;58;Bullhead;x
-577;148;187;129;Sacramento Valley;x
-578;122;246;63;Havasu;x
-579;74;163;127;Plomosa;x
-580;147;201;74;Yuma;x
-581;187;233;126;Kofa;x
-582;227;255;147;Pima;x
-583;152;191;41;Organ Pipe;x
-584;206;247;93;Jupin Tohono;x
-585;111;132;51;Tohono Jevud;x
-586;186;204;114;Santa Cruz_2;x
-587;139;173;42;Sierra Vista;x
-588;203;250;67;Sulphur Springs;x
-589;196;225;110;San Simon;x
-590;199;103;47;Animas;x
-591;166;74;20;Bootheel;x
-592;217;166;136;Luna;x
-593;171;128;103;Grant;x
-594;225;195;177;East Sierra;x
-595;183;158;112;Mogollon;x
-596;230;185;105;San Agustin;x
-597;219;157;48;Alamo_2;x
-598;137;133;255;Bernalillo;x
-599;32;29;121;Torrance_2;x
-600;157;154;255;Valencia;x
-601;177;246;111;Sandia;x
-602;64;60;183;Socorro;x
-603;104;101;197;Valley of Fires;x
-604;85;84;116;Chupadera;x
-605;142;158;238;Santa Fe;x
-606;27;19;241;Pojoaque;x
-607;95;102;140;Galiesto;x
-608;96;36;24;El Paso;x
-609;175;33;4;Juarez;x
-610;161;40;15;Dona Ana;x
-611;164;78;59;Otero;x
-612;204;75;48;West Sierra;x
-613;205;253;205;Denver;x
-614;33;110;33;Arapahoe;x
-615;108;248;108;Jefferson_2;x
-616;113;150;113;Adams;x
-617;73;214;73;Boulder;x
-618;45;98;45;Longmont;x
-619;33;148;33;Collins;x
-620;67;112;67;Weld;x
-621;97;230;97;Boyd;x
-622;75;203;75;Larimie;x
-623;34;165;34;Albany_2;x
-624;104;133;104;Colorado;x
-625;41;107;41;Fountain Valley;x
-626;5;182;5;Douglas_2;x
-627;23;166;23;Pueblo;x
-628;78;204;78;Fremont_2;x
-629;183;120;15;Alamosa;x
-630;250;184;74;Costilla;x
-631;118;87;37;Conejos;x
-632;223;195;148;Rio Grande;x
-633;126;113;90;Saguache;x
-634;129;94;38;Taos;x
-635;206;143;41;Picuris;x
-636;143;126;98;Sunshine Valley;x
-637;188;115;59;Huerfano;x
-638;133;75;30;Wet Mountain;x
-639;97;64;40;Park;x
-640;143;78;29;Teller;x
-641;209;127;65;Chaffee;x
-642;255;145;12;Mesa_2;x
-643;131;94;49;Delta_2;x
-644;217;171;114;Montrose;x
-645;252;219;179;Ouray;x
-646;238;147;35;La Plata;x
-647;233;176;105;Montezuma;x
-648;154;87;5;San Miguel;x
-649;183;130;64;Gunnison;x
-650;231;156;64;Curecanti;x
-651;184;123;47;Hinsdale;x
-652;229;190;104;Twin Lakes;x
-653;165;121;23;Pitkin;x
-654;194;147;44;Garfield;x
-655;115;99;63;Eagle;x
-656;171;124;18;Granby;x
-657;255;104;18;Jackson_2;x
-658;77;57;10;Dillon;x
-659;171;69;10;Moffat;x
-660;250;168;121;Routt;x
-661;221;126;73;Rio Blanco;x
-662;31;208;31;Salt Lake City;x
-663;132;236;108;Bountiful;x
-664;64;215;132;West Valley;x
-665;158;238;29;Murray;x
-666;123;225;11;Jordan;x
-667;42;241;32;Sandy_2;x
-668;252;123;19;Provo;x
-669;230;169;37;Lehi;x
-670;208;110;29;Spanish Fork;x
-671;188;91;11;Lake Mountain;x
-672;248;149;68;Goshen;x
-673;186;222;37;Ogden;x
-674;213;235;115;Cache;x
-675;212;195;57;Box Elder;x
-676;158;151;29;Antelope Island;x
-677;238;225;59;Park Valley;x
-678;163;195;17;Blue Creek;x
-679;250;192;68;Grouse Creek;x
-680;126;210;241;Morgan;x
-681;36;168;200;Summit;x
-682;7;106;142;Pineview;x
-683;205;92;54;Millard;x
-684;155;7;31;Juab;x
-685;217;92;112;Little Sahara;x
-686;205;25;54;Tooele;x
-687;200;112;133;Washington;x
-688;176;0;43;Iron;x
-689;229;58;100;Beaver;x
-690;162;28;75;Kanab;x
-691;249;92;84;Dixie Forest;x
-692;249;15;97;Glen Canyon;x
-693;146;106;120;Grand Staircase;x
-694;241;29;81;Manti;x
-695;241;85;81;Sanpete;x
-696;110;18;16;Sevier;x
-697;237;147;145;Piute;x
-698;162;31;27;Bryce;x
-699;192;44;136;San Rafael_2;x
-700;161;44;136;Carbon;x
-701;161;44;85;Capitol Reef;x
-702;88;15;13;Wayne;x
-703;123;14;100;San Juan_2;x
-704;249;120;222;Grand;x
-705;127;20;127;Canyonland;x
-706;68;14;100;Duchesne;x
-707;118;73;242;Uintah;x
-708;36;200;200;Soldier Creek;x
-709;4;91;186;Ada;x
-710;81;131;182;Deer Flat;x
-711;62;148;241;Canyon;x
-712;160;204;225;Homedale;x
-713;134;148;239;Payette;x
-714;119;91;187;Weiser;x
-715;129;92;170;Cascade Valley;x
-716;109;250;120;East Salmon;x
-717;105;221;114;West Salmon;x
-718;88;203;141;Riggins;x
-719;115;255;115;Deadwood;x
-720;199;182;87;Lewis;x
-721;163;203;141;Idaho;x
-722;163;203;87;Nez Perce;x
-723;194;177;141;Elk;x
-724;232;192;106;Selway;x
-725;221;158;49;Silver Lake;x
-726;149;129;17;Grande Rond;x
-727;191;153;87;Whitman;x
-728;165;112;22;Wallowa;x
-729;165;69;19;Baker;x
-730;199;129;17;Pine Creek;x
-731;199;129;92;Union;x
-732;245;134;76;Burnt River;x
-733;87;193;231;Bonneville;x
-734;83;134;217;Mud Lake;x
-735;12;94;124;Ricks;x
-736;70;163;197;Swan Valley;x
-737;14;66;81;Pocatello;x
-738;55;136;159;Power;x
-739;36;163;199;Fort Hall;x
-740;8;121;154;Blackfoot;x
-741;91;215;250;Springfield_2;x
-742;36;192;199;Franklin_2;x
-743;61;217;184;Malad;x
-744;62;139;135;Portneuf;x
-745;93;244;236;Arbon;x
-746;179;236;166;Rockland;x
-747;66;245;162;Burley;x
-748;37;197;162;Malta;x
-749;120;204;165;Salmon Falls;x
-750;21;194;113;Shoshone Falls;x
-751;114;102;159;Craters of the Moon;x
-752;101;168;246;Minidoka;x
-753;143;223;108;Jerome;x
-754;58;150;17;Gooding;x
-755;199;241;180;Lincoln_3;x
-756;148;217;66;Challis;x
-757;11;153;109;Butte_2;x
-758;31;158;41;Pahsimeroi;x
-759;14;208;29;Salmon;x
-760;1;84;8;Lemhi;x
-761;58;119;233;Deerlodge;x
-762;33;106;112;Odell;x
-763;22;179;192;Madison;x
-764;132;240;249;Red Rock;x
-765;187;24;187;Boise;x
-766;246;104;246;No Return;x
-767;139;80;139;Sawtooth;x
-768;81;8;81;Blaine;x
-769;250;17;250;Camas;x
-770;108;51;108;Mid Fork;x
-771;81;182;182;Mountain Home;x
-772;81;108;90;Three Island;x
-773;81;182;141;Strike;x
-774;69;187;245;Owyhee;x
-775;3;59;37;Duck Valley;x
-776;21;194;113;Wild horse;x
-777;33;135;87;Clover;x
-778;36;80;62;Dickshooter;x
-779;240;229;13;Bend;x
-780;40;44;247;Christmas Valley_2;x
-781;223;213;13;Ochoco;x
-782;250;242;72;Deschutes;x
-783;241;235;104;Crook;x
-784;236;96;44;Ontario;x
-785;172;73;21;McDermitt;x
-786;118;60;29;Cow Lake;x
-787;186;130;65;Silvies;x
-788;230;173;105;Blitzen;x
-789;186;180;65;Harper;x
-790;240;177;13;Upper Silves;x
-791;129;134;13;John Day;x
-792;185;204;93;Rock Creek_2;x
-793;109;151;13;Wheeler_2;x
-794;134;114;73;Grant_2;x
-795;52;119;194;Window Rock;x
-796;111;136;184;Dilkon;x
-797;55;92;162;Ganado;x
-798;66;104;147;Houck;x
-799;84;86;135;Twin Lakes_2;x
-800;11;47;110;Tuba;x
-801;92;136;214;Monument Valley;x
-802;35;85;174;Navajo Mountain;x
-803;110;151;224;Kaibito;x
-804;11;204;230;Canyon de Chelly;x
-805;0;74;224;Pinon;x
-806;11;148;175;Chuska;x
-807;135;74;211;Shiprock;x
-808;116;86;153;Red Mesas;x
-809;98;14;201;Fruitland_2;x
-810;182;112;247;Animas_2;x
-811;88;26;168;Crownpoint;x
-812;128;37;241;Gallup;x
-813;153;78;247;Chaco;x
-814;112;112;247;Crow Mesa;x
-815;189;97;59;Third Mesa;x
-816;245;116;62;Second Mesa;x
-817;178;64;16;First Mesa;x
-818;206;138;110;Moenkopi;x
-819;203;83;34;Petrified Forest;x
-820;248;145;102;Canyon Diablo;x
-821;216;110;66;Snowflake;x
-822;239;83;19;Lyman_2;x
-823;194;236;68;Zuni;x
-824;164;207;31;Ramah;x
-825;197;236;79;Jicarilla;x
-826;111;141;19;Archuleta;x
-827;216;244;129;Heron;x
-828;112;145;11;Cuba;x
-829;110;254;82;San Felipe_3;x
-830;61;224;29;Santo Domingo;x
-831;134;221;117;Jemez;x
-832;147;184;110;Los Alamos;x
-833;150;252;130;San Juan_3;x
-834;131;201;62;Abiquiu;x
-835;164;172;100;Acoma;x
-836;164;172;51;Grants;x
-837;152;164;123;Laguna;x
-838;152;206;123;Isleta;x
-839;154;134;134;Yellowstone;x
-840;179;147;147;Monument_2;x
-841;150;107;107;Colter Bay;x
-842;174;106;106;Lemhi_2;x
-843;231;97;97;Mammoth_2;x
-844;157;92;92;Cowen;x
-845;222;71;71;Fremont_3;x
-846;164;59;59;Tetonia;x
-847;128;26;26;Ashton;x
-848;140;65;65;Teton;x
-849;225;97;97;Breccia;x
-850;131;68;68;Sublette;x
-851;118;44;44;Montpelier;x
-852;193;70;70;Paris;x
-853;251;170;170;Grays Lake;x
-854;150;86;86;Uinta;x
-855;255;188;188;Fossil;x
-856;217;146;146;Silver Eagle;x
-857;77;54;54;Palisades;x
-858;169;110;110;Star Valley;x
-859;160;122;122;Flaming Gorge;x
-860;229;97;97;Pilot Butte;x
-861;201;134;134;Red Desert;x
-862;208;152;152;Wind River;x
-863;220;66;66;Hot Spring;x
-864;147;100;100;Natrona;x
-865;166;23;23;Washakie;x
-866;195;150;150;Big Horn;x
-867;128;20;20;Meeteetse;x
-868;237;186;186;Albany_3;x
-869;112;48;48;Carbon_2;x
-870;186;123;123;Helena;x
-871;112;69;69;Missouri;x
-872;229;195;195;Jefferson_3;x
-873;114;9;9;Powell_2;x
-874;124;56;56;Granite;x
-875;200;135;135;Swan;x
-876;142;99;99;Gallatin;x
-877;224;116;116;Silver Bow;x
-878;255;89;89;Park_2;x
-879;177;59;59;Stillwater;x
-880;198;72;72;Sweet Grass;x
-881;148;221;104;Pitic;x
-882;122;233;55;Ures;x
-883;125;180;92;Carbo;x
-884;92;243;56;La Colorada;x
-885;124;169;41;Rio Sonora;x
-886;223;249;94;Bahia Kino;x
-887;160;187;27;Isla Tiburon;x
-888;180;216;71;Agua Prieta;x
-889;134;216;71;Cananea;x
-890;212;245;117;Bacerac;x
-891;226;223;73;Nacori Chico;x
-892;171;169;41;Cumpas;x
-893;119;185;68;Nogales;x
-894;158;185;68;Saric;x
-895;172;223;78;Santa Ana;x
-896;126;161;26;Arizpe;x
-897;137;16;16;Caborca;x
-898;153;63;63;Caborca Occidental;x
-899;205;21;21;San Luis;x
-900;166;56;56;Puerto Penasco;x
-901;240;98;98;Calles;x
-902;26;50;207;Obregon;x
-903;100;134;187;Guaymas;x
-904;43;78;131;Suaqui Grande;x
-905;106;124;244;Navajoa;x
-906;41;47;85;Alamos;x
-907;106;160;244;Rosario;x
-908;170;177;228;Sahuaripa;x
-909;127;133;172;Tepache;x
-910;127;63;205;Ahome;x
-911;91;27;170;El Fuerte;x
-912;125;54;213;Choix;x
-913;75;3;163;Guasave;x
-914;124;24;154;Salvador Alvarado;x
-915;97;30;117;Angostura;x
-916;69;30;117;Sinaloa;x
-917;133;42;161;Badiraguato;x
-918;173;71;204;Mocorito;x
-919;172;15;220;Culiacan;x
-920;216;124;244;Pabellones;x
-921;119;28;147;Navolato;x
-922;159;79;182;Cosala;x
-923;123;72;139;Mazatlan;x
-924;143;96;157;San Ignacio;x
-925;176;109;196;Elota;x
-926;79;32;93;Concordia;x
-927;103;34;124;Rosario_2;x
-928;160;127;170;Escuinapa;x
-929;143;174;247;Catalina Island;x
-930;65;122;255;Channel Islands;x
-931;28;59;138;Reno;x
-932;86;116;193;Washoe City;x
-933;142;161;208;Fernley;x
-934;75;125;253;Nixon;x
-935;95;108;142;Sutcliffe;x
-936;117;148;227;Doyle;x
-937;55;111;255;Black Rock;x
-938;23;42;88;Sierra Valley;x
-939;158;18;21;Carson;x
-940;112;78;79;Dayton;x
-941;135;13;0;Topaz_2;x
-942;124;69;63;Lyon;x
-943;29;59;138;Granite_2;x
-944;59;82;140;Hart Mountain;x
-945;137;194;65;Elko_2;x
-946;102;154;35;Wells;x
-947;182;255;87;Wendover;x
-948;64;91;30;Montello;x
-949;134;238;0;Carlin;x
-950;60;77;37;Ruby Valley;x
-951;98;15;104;Ely;x
-952;70;50;72;West White Pine;x
-953;174;49;182;Steptoe;x
-954;152;93;156;Osceloa;x
-955;241;73;253;Eskdale;x
-956;102;47;47;Pioche;x
-957;85;22;22;Caliente;x
-958;112;55;55;Pahranagat;x
-959;195;95;95;Rachel;x
-960;153;27;27;Lund_2;x
-961;87;92;100;Tonopah;x
-962;139;127;145;Railroad Valley;x
-963;54;62;74;Smokey Valley;x
-964;164;136;25;Austin;x
-965;255;219;73;New Pass;x
-966;211;238;0;Eureka_2;x
-967;89;45;2;Battle Mountain;x
-968;112;81;52;Reese River;x
-969;166;117;70;Crescent Valley;x
-970;247;193;139;Winnemucca;x
-971;134;88;42;Santa Rosas;x
-972;195;105;14;Lovelock;x
-973;255;156;56;Fallon;x
-974;38;59;111;Denio;x
-975;255;117;119;Paoha;x
-976;168;110;104;Pine Grove;x
-977;255;255;43;Lee Vining;x
-978;174;244;0;Pizona;x
-979;253;255;173;Benton_2;x
-980;157;158;107;Chalfant Valley;x
-981;255;208;0;Big Pine;x
-982;255;153;0;Oasis;x
-983;255;33;89;Coaldale;x
-984;181;159;61;Tokop;x
-985;255;231;193;Mineral;x
-986;255;102;0;Lone Pine;x
-987;255;215;124;Haiwee;x
-988;255;111;71;Ballarat;x
-989;255;211;109;Skytop;x
-990;255;33;0;Stovepipe;x
-991;181;159;61;Grapevine;x
-992;255;72;0;Chloride;x
-993;255;148;0;Ryan;x
-994;242;175;42;Amargosa;x
-995;255;199;0;Ridgecrest;x
-996;255;136;25;Copper City;x
-997;186;137;91;Fremont Valley;x
-998;255;2;32;Mars;x
-999;255;221;0;Badwater;x
-1000;174;0;0;Ashford Meadows;x
-1001;221;0;118;Las Vegas_2;x
-1002;224;64;128;Fire Valley_2;x
-1003;192;128;128;Indian Springs;x
-1004;224;64;64;Pahrump_2;x
-1005;160;32;64;Imperial_2;x
-1006;224;96;128;Picacho_2;x
-1007;128;64;64;Slab City_2;x
-1008;224;160;192;Palo Verde_2;x
-1009;224;64;192;North Shore_2;x
-1010;224;128;192;Desert Center_2;x
-1011;221;70;146;Old Dale_2;x
-1012;130;85;121;Bagdad_2;x
-1013;206;221;122;Searchlight_2;x
-1014;221;177;209;Goodsprings_2;x
-1015;207;0;221;Boulder City_2;x
-1016;192;32;0;Halloran_2;x
-1017;96;32;128;Vidal_2;x
-1018;255;208;170;Blythe_2;x
-1019;193;60;126;Needles_2;x
-1020;191;123;101;Barstow_2;x
-1021;234;58;117;Afton_2;x
-1022;234;164;129;Siberia_2;x
-1023;191;54;9;Johnson Valley_2;x
-1024;182;255;0;Twin Oaks;x
-1025;13;53;25;Santiago;x
-1026;40;118;62;Borrego;x
-1027;51;124;72;Anza;x
-1028;66;111;78;Idyllwild;x
-1029;20;61;20;Santa Clarita;x
-1030;88;126;88;Palmdale;x
-1031;95;130;66;Lancaster;x
-1032;149;152;104;Rosamond;x
-1033;59;88;35;Fairmont;x
-1034;80;82;43;Victorville;x
-1035;65;107;65;Hesperia;x
-1036;110;115;34;El Mirage;x
-1037;145;151;62;Yucca;x
-1038;97;99;57;Helendale;x
+453;150;30;20;St. Joe;x
+454;96;41;37;Dworshak;x
+455;97;46;42;Orofino;x
+456;140;5;5;Franklin;x
+457;155;86;86;Washtucna;x
+458;108;193;232;Royal City;x
+459;80;111;126;Quincy;x
+460;80;92;126;Douglas;x
+461;136;144;167;Bridgeport;x
+462;204;76;212;Grand Coulee;x
+463;150;86;154;Odessa;x
+464;150;111;152;Davenport;x
+465;115;186;167;Reardan;x
+466;60;142;120;Towell;x
+467;224;109;109;Yakima;x
+468;188;50;50;Ellenburg;x
+469;188;122;122;Moxee;x
+470;179;93;93;Goldendale;x
+471;162;114;114;Toppenish;x
+472;106;60;60;Sunnyside;x
+473;59;97;174;Kennewick;x
+474;114;130;162;Grandview;x
+475;57;49;212;Walla Walla;x
+476;65;49;218;Tollgate;x
+477;212;49;195;Clarkston;x
+478;164;70;154;Burbank;x
+479;119;35;110;Pendleton_2;x
+480;124;42;115;Hermiston;x
+481;208;87;195;Morrow;x
+482;88;181;67;The Dalles;x
+483;77;114;69;Warm Springs;x
+484;181;67;169;Gillam;x
+485;208;210;39;Vancouver;x
+486;249;251;75;Richmond_2;x
+487;190;191;65;Capilano;x
+488;193;195;53;Surrey;x
+489;224;225;108;Coquitlam;x
+490;153;154;106;Abbotsford;x
+491;245;246;167;Chilliwack;x
+492;178;179;121;Hope;x
+493;137;138;60;Pemberton;x
+494;121;136;179;Squamish;x
+495;80;93;130;Gibsons;x
+496;116;129;164;Sechelt;x
+497;164;154;116;Victoria;x
+498;88;81;53;Sidney;x
+499;143;124;46;Langford;x
+500;186;167;92;Nanaimo;x
+501;145;130;71;Duncan;x
+502;165;167;30;Port Renfrew;x
+503;149;150;40;Parksville;x
+504;156;157;89;Port Alberni;x
+505;219;220;116;Royston;x
+506;171;124;124;Comox;x
+507;114;70;70;Campbell River;x
+508;119;63;63;Port Hardy;x
+509;128;76;76;Port Alice;x
+510;78;46;46;Port McNiell;x
+511;200;54;54;Ucluelet;x
+512;164;47;47;Tofino;x
+513;181;114;114;Ahousat;x
+514;124;53;53;Yuquot;x
+515;145;98;98;Zeballos;x
+516;102;133;115;Powell;x
+517;132;164;146;Maderia Park;x
+518;69;101;183;Lund;x
+519;44;70;136;Blind Channel;x
+520;94;108;143;Port Neville;x
+521;134;142;162;Echo Bay;x
+522;57;64;83;Hopetown;x
+523;100;125;188;Allison Harbor;x
+524;231;188;188;Kelowna;x
+525;159;77;77;Keremeos;x
+526;143;77;159;Penticton;x
+527;241;159;159;Kamloops;x
+528;167;102;102;Skeetchestn;x
+529;43;121;41;Lillooet;x
+530;162;121;121;Merritt;x
+531;152;75;75;Princeton;x
+532;191;143;143;Falkland;x
+533;212;142;142;Vernon;x
+534;204;205;128;Salmon Arm;x
+535;179;128;205;Sorrento;x
+536;248;103;103;Nelson;x
+537;251;111;111;Kaslo;x
+538;171;68;68;Crawford;x
+539;154;155;95;Creston;x
+540;140;140;99;Cranbrook;x
+541;140;99;99;Ivermere;x
+542;208;84;84;Elko;x
+543;137;138;45;Castlegar;x
+544;164;104;159;Rossland;x
+545;135;32;126;Salmo;x
+546;190;191;122;South Slocan;x
+547;139;140;87;New Denver;x
+548;115;116;67;Nakusp;x
+549;143;94;94;Grand Forks;x
+550;184;144;144;Rock Creek;x
+551;255;140;140;Revelstoke;x
+552;125;171;183;Shuswap Falls;x
+553;66;233;126;Phoenix;x
+554;41;198;98;Mesa;x
+555;59;199;142;Harquahala;x
+556;41;145;78;Pinal;x
+557;61;123;83;Maricopa;x
+558;116;204;72;Flagstaff;x
+559;69;107;50;Gateway;x
+560;49;123;12;Grand Canyon;x
+561;101;168;68;Kaibab;x
+562;164;248;122;Havasupai;x
+563;141;255;84;Prescott;x
+564;85;255;0;Verde;x
+565;174;230;147;Aquarius;x
+566;15;102;47;Tonto;x
+567;73;127;92;Fort Apache;x
+568;45;184;95;San Carlos;x
+569;6;138;54;Graham;x
+570;83;248;143;Apache Forest;x
+571;79;255;143;San Pedro_2;x
+572;111;192;70;Kingman;x
+573;133;235;82;Hualapai;x
+574;75;163;31;Wikiup;x
+575;37;75;19;Mesquite;x
+576;57;112;30;Hoover;x
+577;108;156;84;Parashant;x
+578;121;171;151;La Paz;x
+579;94;172;58;Bullhead;x
+580;148;187;129;Sacramento Valley;x
+581;122;246;63;Havasu;x
+582;74;163;127;Plomosa;x
+583;147;201;74;Yuma;x
+584;187;233;126;Kofa;x
+585;227;255;147;Pima;x
+586;152;191;41;Organ Pipe;x
+587;206;247;93;Jupin Tohono;x
+588;111;132;51;Tohono Jevud;x
+589;186;204;114;Santa Cruz_2;x
+590;139;173;42;Sierra Vista;x
+591;203;250;67;Sulphur Springs;x
+592;196;225;110;San Simon;x
+593;199;103;47;Animas;x
+594;166;74;20;Bootheel;x
+595;217;166;136;Luna;x
+596;171;128;103;Grant;x
+597;225;195;177;East Sierra;x
+598;183;158;112;Mogollon;x
+599;230;185;105;San Agustin;x
+600;219;157;48;Alamo_2;x
+601;137;133;255;Bernalillo;x
+602;32;29;121;Torrance_2;x
+603;157;154;255;Valencia;x
+604;177;246;111;Sandia;x
+605;64;60;183;Socorro;x
+606;104;101;197;Valley of Fires;x
+607;85;84;116;Chupadera;x
+608;142;158;238;Santa Fe;x
+609;27;19;241;Pojoaque;x
+610;95;102;140;Galiesto;x
+611;96;36;24;El Paso;x
+612;175;33;4;Juarez;x
+613;161;40;15;Dona Ana;x
+614;164;78;59;Otero;x
+615;204;75;48;West Sierra;x
+616;205;253;205;Denver;x
+617;33;110;33;Arapahoe;x
+618;108;248;108;Jefferson_2;x
+619;113;150;113;Adams;x
+620;73;214;73;Boulder;x
+621;45;98;45;Longmont;x
+622;33;148;33;Collins;x
+623;67;112;67;Weld;x
+624;97;230;97;Boyd;x
+625;75;203;75;Larimie;x
+626;34;165;34;Albany_2;x
+627;104;133;104;Colorado;x
+628;41;107;41;Fountain Valley;x
+629;5;182;5;Douglas_2;x
+630;23;166;23;Pueblo;x
+631;78;204;78;Fremont_2;x
+632;183;120;15;Alamosa;x
+633;250;184;74;Costilla;x
+634;118;87;37;Conejos;x
+635;223;195;148;Rio Grande;x
+636;126;113;90;Saguache;x
+637;129;94;38;Taos;x
+638;206;143;41;Picuris;x
+639;143;126;98;Sunshine Valley;x
+640;188;115;59;Huerfano;x
+641;133;75;30;Wet Mountain;x
+642;97;64;40;Park;x
+643;143;78;29;Teller;x
+644;209;127;65;Chaffee;x
+645;255;145;12;Mesa_2;x
+646;131;94;49;Delta_2;x
+647;217;171;114;Montrose;x
+648;252;219;179;Ouray;x
+649;238;147;35;La Plata;x
+650;233;176;105;Montezuma;x
+651;154;87;5;San Miguel;x
+652;183;130;64;Gunnison;x
+653;231;156;64;Curecanti;x
+654;184;123;47;Hinsdale;x
+655;229;190;104;Twin Lakes;x
+656;165;121;23;Pitkin;x
+657;194;147;44;Garfield;x
+658;115;99;63;Eagle;x
+659;171;124;18;Granby;x
+660;255;104;18;Jackson_2;x
+661;77;57;10;Dillon;x
+662;171;69;10;Moffat;x
+663;250;168;121;Routt;x
+664;221;126;73;Rio Blanco;x
+665;31;208;31;Salt Lake City;x
+666;132;236;108;Bountiful;x
+667;64;215;132;West Valley;x
+668;158;238;29;Murray;x
+669;123;225;11;Jordan;x
+670;42;241;32;Sandy_2;x
+671;252;123;19;Provo;x
+672;230;169;37;Lehi;x
+673;208;110;29;Spanish Fork;x
+674;188;91;11;Lake Mountain;x
+675;248;149;68;Goshen;x
+676;186;222;37;Ogden;x
+677;213;235;115;Cache;x
+678;212;195;57;Box Elder;x
+679;158;151;29;Antelope Island;x
+680;238;225;59;Park Valley;x
+681;163;195;17;Blue Creek;x
+682;250;192;68;Grouse Creek;x
+683;126;210;241;Morgan;x
+684;36;168;200;Summit;x
+685;7;106;142;Pineview;x
+686;205;92;54;Millard;x
+687;155;7;31;Juab;x
+688;217;92;112;Little Sahara;x
+689;205;25;54;Tooele;x
+690;200;112;133;Washington;x
+691;176;0;43;Iron;x
+692;229;58;100;Beaver;x
+693;162;28;75;Kanab;x
+694;249;92;84;Dixie Forest;x
+695;249;15;97;Glen Canyon;x
+696;146;106;120;Grand Staircase;x
+697;241;29;81;Manti;x
+698;241;85;81;Sanpete;x
+699;110;18;16;Sevier;x
+700;237;147;145;Piute;x
+701;162;31;27;Bryce;x
+702;192;44;136;San Rafael_2;x
+703;161;44;136;Carbon;x
+704;161;44;85;Capitol Reef;x
+705;88;15;13;Wayne;x
+706;123;14;100;San Juan_2;x
+707;249;120;222;Grand;x
+708;127;20;127;Canyonland;x
+709;68;14;100;Duchesne;x
+710;118;73;242;Uintah;x
+711;36;200;200;Soldier Creek;x
+712;4;91;186;Ada;x
+713;81;131;182;Deer Flat;x
+714;62;148;241;Canyon;x
+715;160;204;225;Homedale;x
+716;134;148;239;Payette;x
+717;119;91;187;Weiser;x
+718;129;92;170;Cascade Valley;x
+719;109;250;120;East Salmon;x
+720;105;221;114;West Salmon;x
+721;88;203;141;Riggins;x
+722;115;255;115;Deadwood;x
+723;199;182;87;Lewis;x
+724;163;203;141;Idaho;x
+725;163;203;87;Nez Perce;x
+726;194;177;141;Elk;x
+727;232;192;106;Selway;x
+728;221;158;49;Silver Lake;x
+729;149;129;17;Grande Rond;x
+730;191;153;87;Whitman;x
+731;165;112;22;Wallowa;x
+732;165;69;19;Baker;x
+733;199;129;17;Pine Creek;x
+734;199;129;92;Union;x
+735;245;134;76;Burnt River;x
+736;87;193;231;Bonneville;x
+737;83;134;217;Mud Lake;x
+738;12;94;124;Ricks;x
+739;70;163;197;Swan Valley;x
+740;14;66;81;Pocatello;x
+741;55;136;159;Power;x
+742;36;163;199;Fort Hall;x
+743;8;121;154;Blackfoot;x
+744;91;215;250;Springfield_2;x
+745;36;192;199;Franklin_2;x
+746;61;217;184;Malad;x
+747;62;139;135;Portneuf;x
+748;93;244;236;Arbon;x
+749;179;236;166;Rockland;x
+750;66;245;162;Burley;x
+751;37;197;162;Malta;x
+752;120;204;165;Salmon Falls;x
+753;21;194;113;Shoshone Falls;x
+754;114;102;159;Craters of the Moon;x
+755;101;168;246;Minidoka;x
+756;143;223;108;Jerome;x
+757;58;150;17;Gooding;x
+758;199;241;180;Lincoln_3;x
+759;148;217;66;Challis;x
+760;11;153;109;Butte_2;x
+761;31;158;41;Pahsimeroi;x
+762;14;208;29;Salmon;x
+763;1;84;8;Lemhi;x
+764;58;119;233;Deerlodge;x
+765;33;106;112;Odell;x
+766;22;179;192;Madison;x
+767;132;240;249;Red Rock;x
+768;187;24;187;Boise;x
+769;246;104;246;No Return;x
+770;139;80;139;Sawtooth;x
+771;81;8;81;Blaine;x
+772;250;17;250;Camas;x
+773;108;51;108;Mid Fork;x
+774;81;182;182;Mountain Home;x
+775;81;108;90;Three Island;x
+776;81;182;141;Strike;x
+777;69;187;245;Owyhee;x
+778;3;59;37;Duck Valley;x
+779;21;194;113;Wild horse;x
+780;33;135;87;Clover;x
+781;36;80;62;Dickshooter;x
+782;240;229;13;Bend;x
+783;40;44;247;Christmas Valley_2;x
+784;223;213;13;Ochoco;x
+785;250;242;72;Deschutes;x
+786;241;235;104;Crook;x
+787;236;96;44;Ontario;x
+788;172;73;21;McDermitt;x
+789;118;60;29;Cow Lake;x
+790;186;130;65;Silvies;x
+791;230;173;105;Blitzen;x
+792;186;180;65;Harper;x
+793;240;177;13;Upper Silves;x
+794;129;134;13;John Day;x
+795;185;204;93;Rock Creek_2;x
+796;109;151;13;Wheeler_2;x
+797;134;114;73;Grant_2;x
+798;52;119;194;Window Rock;x
+799;111;136;184;Dilkon;x
+800;55;92;162;Ganado;x
+801;66;104;147;Houck;x
+802;84;86;135;Twin Lakes_2;x
+803;11;47;110;Tuba;x
+804;92;136;214;Monument Valley;x
+805;35;85;174;Navajo Mountain;x
+806;110;151;224;Kaibito;x
+807;11;204;230;Canyon de Chelly;x
+808;0;74;224;Pinon;x
+809;11;148;175;Chuska;x
+810;135;74;211;Shiprock;x
+811;116;86;153;Red Mesas;x
+812;98;14;201;Fruitland_2;x
+813;182;112;247;Animas_2;x
+814;88;26;168;Crownpoint;x
+815;128;37;241;Gallup;x
+816;153;78;247;Chaco;x
+817;112;112;247;Crow Mesa;x
+818;189;97;59;Third Mesa;x
+819;245;116;62;Second Mesa;x
+820;178;64;16;First Mesa;x
+821;206;138;110;Moenkopi;x
+822;203;83;34;Petrified Forest;x
+823;248;145;102;Canyon Diablo;x
+824;216;110;66;Snowflake;x
+825;239;83;19;Lyman_2;x
+826;194;236;68;Zuni;x
+827;164;207;31;Ramah;x
+828;197;236;79;Jicarilla;x
+829;111;141;19;Archuleta;x
+830;216;244;129;Heron;x
+831;112;145;11;Cuba;x
+832;110;254;82;San Felipe_3;x
+833;61;224;29;Santo Domingo;x
+834;134;221;117;Jemez;x
+835;147;184;110;Los Alamos;x
+836;150;252;130;San Juan_3;x
+837;131;201;62;Abiquiu;x
+838;164;172;100;Acoma;x
+839;164;172;51;Grants;x
+840;152;164;123;Laguna;x
+841;152;206;123;Isleta;x
+842;154;134;134;Yellowstone;x
+843;179;147;147;Monument_2;x
+844;150;107;107;Colter Bay;x
+845;174;106;106;Lemhi_2;x
+846;231;97;97;Mammoth_2;x
+847;157;92;92;Cowen;x
+848;222;71;71;Fremont_3;x
+849;164;59;59;Tetonia;x
+850;128;26;26;Ashton;x
+851;140;65;65;Teton;x
+852;225;97;97;Breccia;x
+853;131;68;68;Sublette;x
+854;118;44;44;Montpelier;x
+855;193;70;70;Paris;x
+856;251;170;170;Grays Lake;x
+857;150;86;86;Uinta;x
+858;255;188;188;Fossil;x
+859;217;146;146;Silver Eagle;x
+860;77;54;54;Palisades;x
+861;169;110;110;Star Valley;x
+862;160;122;122;Flaming Gorge;x
+863;229;97;97;Pilot Butte;x
+864;201;134;134;Red Desert;x
+865;208;152;152;Wind River;x
+866;220;66;66;Hot Spring;x
+867;147;100;100;Natrona;x
+868;166;23;23;Washakie;x
+869;195;150;150;Big Horn;x
+870;128;20;20;Meeteetse;x
+871;237;186;186;Albany_3;x
+872;112;48;48;Carbon_2;x
+873;186;123;123;Helena;x
+874;112;69;69;Missouri;x
+875;229;195;195;Jefferson_3;x
+876;114;9;9;Powell_2;x
+877;124;56;56;Granite;x
+878;200;135;135;Swan;x
+879;142;99;99;Gallatin;x
+880;224;116;116;Silver Bow;x
+881;255;89;89;Park_2;x
+882;177;59;59;Stillwater;x
+883;198;72;72;Sweet Grass;x
+884;148;221;104;Pitic;x
+885;122;233;55;Ures;x
+886;125;180;92;Carbo;x
+887;92;243;56;La Colorada;x
+888;124;169;41;Rio Sonora;x
+889;223;249;94;Bahia Kino;x
+890;160;187;27;Isla Tiburon;x
+891;180;216;71;Agua Prieta;x
+892;134;216;71;Cananea;x
+893;212;245;117;Bacerac;x
+894;226;223;73;Nacori Chico;x
+895;171;169;41;Cumpas;x
+896;119;185;68;Nogales;x
+897;158;185;68;Saric;x
+898;172;223;78;Santa Ana;x
+899;126;161;26;Arizpe;x
+900;137;16;16;Caborca;x
+901;153;63;63;Caborca Occidental;x
+902;205;21;21;San Luis;x
+903;166;56;56;Puerto Penasco;x
+904;240;98;98;Calles;x
+905;26;50;207;Obregon;x
+906;100;134;187;Guaymas;x
+907;43;78;131;Suaqui Grande;x
+908;106;124;244;Navajoa;x
+909;41;47;85;Alamos;x
+910;106;160;244;Rosario;x
+911;170;177;228;Sahuaripa;x
+912;127;133;172;Tepache;x
+913;127;63;205;Ahome;x
+914;91;27;170;El Fuerte;x
+915;125;54;213;Choix;x
+916;75;3;163;Guasave;x
+917;124;24;154;Salvador Alvarado;x
+918;97;30;117;Angostura;x
+919;69;30;117;Sinaloa;x
+920;133;42;161;Badiraguato;x
+921;173;71;204;Mocorito;x
+922;172;15;220;Culiacan;x
+923;216;124;244;Pabellones;x
+924;119;28;147;Navolato;x
+925;159;79;182;Cosala;x
+926;123;72;139;Mazatlan;x
+927;143;96;157;San Ignacio;x
+928;176;109;196;Elota;x
+929;79;32;93;Concordia;x
+930;103;34;124;Rosario_2;x
+931;160;127;170;Escuinapa;x
+932;143;174;247;Catalina Island;x
+933;65;122;255;Channel Islands;x
+934;28;59;138;Reno;x
+935;86;116;193;Washoe City;x
+936;142;161;208;Fernley;x
+937;75;125;253;Nixon;x
+938;95;108;142;Sutcliffe;x
+939;117;148;227;Doyle;x
+940;55;111;255;Black Rock;x
+941;23;42;88;Sierra Valley;x
+942;158;18;21;Carson;x
+943;112;78;79;Dayton;x
+944;135;13;0;Topaz_2;x
+945;124;69;63;Lyon;x
+946;29;59;138;Granite_2;x
+947;59;82;140;Hart Mountain;x
+948;137;194;65;Elko_2;x
+949;102;154;35;Wells;x
+950;182;255;87;Wendover;x
+951;64;91;30;Montello;x
+952;134;238;0;Carlin;x
+953;60;77;37;Ruby Valley;x
+954;98;15;104;Ely;x
+955;70;50;72;West White Pine;x
+956;174;49;182;Steptoe;x
+957;152;93;156;Osceloa;x
+958;241;73;253;Eskdale;x
+959;102;47;47;Pioche;x
+960;85;22;22;Caliente;x
+961;112;55;55;Pahranagat;x
+962;195;95;95;Rachel;x
+963;153;27;27;Lund_2;x
+964;87;92;100;Tonopah;x
+965;139;127;145;Railroad Valley;x
+966;54;62;74;Smokey Valley;x
+967;164;136;25;Austin;x
+968;255;219;73;New Pass;x
+969;211;238;0;Eureka_2;x
+970;89;45;2;Battle Mountain;x
+971;112;81;52;Reese River;x
+972;166;117;70;Crescent Valley;x
+973;247;193;139;Winnemucca;x
+974;134;88;42;Santa Rosas;x
+975;195;105;14;Lovelock;x
+976;255;156;56;Fallon;x
+977;38;59;111;Denio;x
+978;255;117;119;Paoha;x
+979;168;110;104;Pine Grove;x
+980;255;255;43;Lee Vining;x
+981;174;244;0;Pizona;x
+982;253;255;173;Benton_2;x
+983;157;158;107;Chalfant Valley;x
+984;255;208;0;Big Pine;x
+985;255;153;0;Oasis;x
+986;255;33;89;Coaldale;x
+987;181;159;61;Tokop;x
+988;255;231;193;Mineral;x
+989;255;102;0;Lone Pine;x
+990;255;215;124;Haiwee;x
+991;255;111;71;Ballarat;x
+992;255;211;109;Skytop;x
+993;255;33;0;Stovepipe;x
+994;181;159;61;Grapevine;x
+995;255;72;0;Chloride;x
+996;255;148;0;Ryan;x
+997;242;175;42;Amargosa;x
+998;255;199;0;Ridgecrest;x
+999;255;136;25;Copper City;x
+1000;186;137;91;Fremont Valley;x
+1001;255;2;32;Mars;x
+1002;255;221;0;Badwater;x
+1003;174;0;0;Ashford Meadows;x
+1004;221;0;118;Las Vegas_2;x
+1005;224;64;128;Fire Valley_2;x
+1006;192;128;128;Indian Springs;x
+1007;224;64;64;Pahrump_2;x
+1008;160;32;64;Imperial_2;x
+1009;224;96;128;Picacho_2;x
+1010;128;64;64;Slab City_2;x
+1011;224;160;192;Palo Verde_2;x
+1012;224;64;192;North Shore_2;x
+1013;224;128;192;Desert Center_2;x
+1014;221;70;146;Old Dale_2;x
+1015;130;85;121;Bagdad_2;x
+1016;206;221;122;Searchlight_2;x
+1017;221;177;209;Goodsprings_2;x
+1018;207;0;221;Boulder City_2;x
+1019;192;32;0;Halloran_2;x
+1020;96;32;128;Vidal_2;x
+1021;255;208;170;Blythe_2;x
+1022;193;60;126;Needles_2;x
+1023;191;123;101;Barstow_2;x
+1024;234;58;117;Afton_2;x
+1025;234;164;129;Siberia_2;x
+1026;191;54;9;Johnson Valley_2;x
+1027;182;255;0;Twin Oaks;x
+1028;13;53;25;Santiago;x
+1029;40;118;62;Borrego;x
+1030;51;124;72;Anza;x
+1031;66;111;78;Idyllwild;x
+1032;20;61;20;Santa Clarita;x
+1033;88;126;88;Palmdale;x
+1034;95;130;66;Lancaster;x
+1035;149;152;104;Rosamond;x
+1036;59;88;35;Fairmont;x
+1037;80;82;43;Victorville;x
+1038;65;107;65;Hesperia;x
+1039;110;115;34;El Mirage;x
+1040;145;151;62;Yucca;x
+1041;97;99;57;Helendale;x

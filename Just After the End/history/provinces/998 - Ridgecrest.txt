@@ -1,0 +1,21 @@
+# c_ridgecrest
+
+# County Title
+title = c_ridgecrest
+
+# Settlements
+max_settlements = 3
+
+b_ridgecrest = castle
+b_bradys = city
+#b_indian_wells_2 = temple
+#b_pearsonville = castle
+#b_brown = city
+#b_armistead = temple
+#b_inyokern = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

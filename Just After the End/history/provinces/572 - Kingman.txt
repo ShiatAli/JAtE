@@ -1,0 +1,21 @@
+# c_kingman
+
+# County Title
+title = c_kingman
+
+# Settlements
+max_settlements = 3
+
+b_kingman = castle
+#b_butler = city
+#b_hackberry = temple
+#b_valle_vista = castle
+#b_antartes = city
+#b_long_mountain = temple
+#b_peacock_mountain = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

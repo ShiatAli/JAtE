@@ -1,0 +1,21 @@
+# c_coaldale
+
+# County Title
+title = c_coaldale
+
+# Settlements
+max_settlements = 2
+
+b_coaldale_2 = castle
+#b_dyer_2 = city
+#b_nivloc = temple
+#b_blair = castle
+#b_silver_peak = city
+#b_coyote_hole = temple
+#b_piper_peak = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

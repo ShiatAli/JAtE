@@ -1,0 +1,21 @@
+# c_challis
+
+# County Title
+title = c_challis
+
+# Settlements
+max_settlements = 2
+
+b_challis = castle
+#b_yankee_fork = city
+#b_blue_mountain = temple
+#b_corkscrew = castle
+#b_lone_pine = city
+#b_germer = temple
+#b_grouse_2 = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

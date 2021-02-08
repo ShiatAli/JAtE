@@ -1,0 +1,21 @@
+# c_pitkin
+
+# County Title
+title = c_pitkin
+
+# Settlements
+max_settlements = 4
+
+b_aspen = castle
+#b_carbondale_2 = city
+#b_basalt = temple
+#b_el_jebel = castle
+#b_snowmass = city
+#b_woody_creek = temple
+#b_redstone = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

@@ -1,0 +1,21 @@
+# c_tuba
+
+# County Title
+title = c_tuba
+
+# Settlements
+max_settlements = 5
+
+b_tuba_city = castle
+#b_cameron_2 = city
+#b_bitter_spring = temple
+#b_bodaway = castle
+#b_gray_mountain = city
+#b_willow_springs = temple
+#b_moenave = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

@@ -1,0 +1,21 @@
+# c_heron
+
+# County Title
+title = c_heron
+
+# Settlements
+max_settlements = 4
+
+b_tierra_amarilla = castle
+#b_canjilon = city
+#b_los_ojos = temple
+#b_ensenada_2 = castle
+#b_brazos = city
+#b_cebolla = temple
+#b_rutheron = castle
+
+# Misc
+culture = apache
+religion = mormon
+
+#History

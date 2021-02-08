@@ -1,0 +1,21 @@
+# c_pahrump_2
+
+# County Title
+title = c_pahrump_2
+
+# Settlements
+max_settlements = 2
+
+b_pahrump_2 = castle
+#b_johnnie_2 = city
+#b_mountain_springs_2 = temple
+#b_evelyn_2 = castle
+#b_mt_stirling_2 = city
+#b_shoshone_3 = temple
+#b_charleston_2 = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+
+#History

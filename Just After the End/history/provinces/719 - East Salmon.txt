@@ -1,0 +1,21 @@
+# c_east_salmon
+
+# County Title
+title = c_east_salmon
+
+# Settlements
+max_settlements = 1
+
+b_leesburg = castle
+#b_cobalt = city
+#b_forney = temple
+#b_mcguire = castle
+#b_big_baldy = city
+#b_arctic_creek = temple
+#b_ulysses = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_salmo
+
+# County Title
+title = c_salmo
+
+# Settlements
+max_settlements = 2
+
+b_salmo = castle
+#b_fruitvale_2 = city
+#b_ross_spur = temple
+#b_ymir = castle
+#b_porto_rico = city
+#b_rock_river = temple
+#b_park_siding = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

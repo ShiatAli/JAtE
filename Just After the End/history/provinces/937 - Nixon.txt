@@ -1,0 +1,21 @@
+# c_nixon
+
+# County Title
+title = c_nixon
+
+# Settlements
+max_settlements = 2
+
+b_nixon = castle
+#b_wadsworth = city
+#b_olinghouse = temple
+#b_pah_rah = castle
+#b_dodge_2 = city
+#b_marble_bluff = temple
+#b_dead_ox = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+
+#History

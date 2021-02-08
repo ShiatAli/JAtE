@@ -1,0 +1,21 @@
+# c_el_fuerte
+
+# County Title
+title = c_el_fuerte
+
+# Settlements
+max_settlements = 4
+
+b_el_fuerte = castle
+#b_san_blas_2 = city
+#b_constancia = temple
+#b_mochicahui = castle
+#b_jahuara = city
+#b_charay = temple
+#b_lazaro_cardenas_3 = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

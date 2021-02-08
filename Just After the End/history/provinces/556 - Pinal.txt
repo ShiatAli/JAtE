@@ -1,0 +1,21 @@
+# c_pinal
+
+# County Title
+title = c_pinal
+
+# Settlements
+max_settlements = 5
+
+b_florence_3 = castle
+#b_casa_grande = city
+#b_maricopa_3 = temple
+#b_marana = castle
+#b_eloy = city
+#b_coolidge = temple
+#b_arizona_city = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

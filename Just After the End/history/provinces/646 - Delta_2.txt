@@ -1,0 +1,21 @@
+# c_delta_2
+
+# County Title
+title = c_delta_2
+
+# Settlements
+max_settlements = 4
+
+b_delta_3 = castle
+#b_orchard_city = city
+#b_cedaredge = temple
+#b_paonia = castle
+#b_hotchkiss = city
+#b_crawford = temple
+#b_austin = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

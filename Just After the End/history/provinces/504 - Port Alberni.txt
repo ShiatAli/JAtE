@@ -1,0 +1,21 @@
+# c_port_alberni
+
+# County Title
+title = c_port_alberni
+
+# Settlements
+max_settlements = 2
+
+b_port_alberni = castle
+#b_beaver_creek = city
+#b_nahmint = temple
+#b_klidonan = castle
+#b_ecoole = city
+#b_bamfield = temple
+#b_pachena_beach = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_zuni
+
+# County Title
+title = c_zuni
+
+# Settlements
+max_settlements = 4
+
+b_zuni_pueblo = castle
+#b_black_rock = city
+#b_hawikuh = temple
+#b_fence_lake = castle
+#b_vanderwagon = city
+#b_pescado = temple
+#b_tekapo = castle
+
+# Misc
+culture = apache
+religion = mormon
+
+#History

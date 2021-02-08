@@ -1,0 +1,21 @@
+# c_three_island
+
+# County Title
+title = c_three_island
+
+# Settlements
+max_settlements = 3
+
+b_glenns_ferry = castle
+#b_hammett = city
+#b_king_hill = temple
+#b_grindstone_butte = castle
+#b_miracle_springs = city
+#b_schoffs  = temple
+#b_sparlin = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

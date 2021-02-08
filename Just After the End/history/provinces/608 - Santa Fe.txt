@@ -1,0 +1,21 @@
+# c_santa_fe
+
+# County Title
+title = c_santa_fe
+
+# Settlements
+max_settlements = 4
+
+b_santa_fe = castle
+#b_la_cienega = city
+#b_agua_fria = temple
+#b_seton_village = castle
+#b_canada_de_los_alamos = city
+#b_atalaya = temple
+#b_mcclure = castle
+
+# Misc
+culture = texan
+religion = trailwalker
+
+#History

@@ -1,0 +1,21 @@
+# c_acoma
+
+# County Title
+title = c_acoma
+
+# Settlements
+max_settlements = 3
+
+b_skyland_ganipa = castle
+#b_acomita_lake = city
+#b_north_acomita = temple
+#b_cubero = castle
+#b_san_fidel = city
+#b_anzac = temple
+#b_mccartys = castle
+
+# Misc
+culture = apache
+religion = mormon
+
+#History

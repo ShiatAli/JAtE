@@ -1,0 +1,21 @@
+# c_grand_coulee
+
+# County Title
+title = c_grand_coulee
+
+# Settlements
+max_settlements = 3
+
+b_grand_coulee = castle
+b_electric_city = city
+#b_osborne = temple
+#b_hartline = castle
+#b_coulee_city = city
+#b_stratford = temple
+#b_wilson_creek = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

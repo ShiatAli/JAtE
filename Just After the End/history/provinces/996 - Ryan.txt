@@ -1,0 +1,21 @@
+# c_ryan
+
+# County Title
+title = c_ryan
+
+# Settlements
+max_settlements = 3
+
+b_ryan = castle
+b_furnace_creek = city
+#b_indian_village = temple
+#b_texas_springs = castle
+#b_breakfast_canyon = city
+#b_travertine_springs = temple
+#b_golden_canyon = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

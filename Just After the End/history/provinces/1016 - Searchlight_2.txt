@@ -1,0 +1,21 @@
+# c_searchlight_2
+
+# County Title
+title = c_searchlight_2
+
+# Settlements
+max_settlements = 2
+
+b_searchlight_2 = castle
+#b_juan_2 = city
+#b_cal_nev_ari_2 = temple
+#b_spirit_mountain_2 = castle
+#b_crescent_peak_2 = city
+#b_whister_spring_2 = temple
+#b_cottonwood_7 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

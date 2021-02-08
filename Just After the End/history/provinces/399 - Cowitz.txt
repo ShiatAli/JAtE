@@ -15,7 +15,7 @@ b_woodland_2 = city
 #b_olequa = castle
 
 # Misc
-culture = cascadian
+culture = willapan
 religion = gaian
 
 #History

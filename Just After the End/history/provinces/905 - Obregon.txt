@@ -1,0 +1,21 @@
+# c_obregon
+
+# County Title
+title = c_obregon
+
+# Settlements
+max_settlements = 5
+
+b_ciudad_obregon = castle
+#b_pueblo_yaqui = city
+#b_esperanza = temple
+#b_tobarito = castle
+#b_san_ignicio_rio_muerto = city
+#b_cocorit = temple
+#b_francisco_javier_mina = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

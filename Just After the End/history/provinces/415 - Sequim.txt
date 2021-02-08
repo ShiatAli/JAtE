@@ -15,7 +15,7 @@ b_carlsborg = city
 #b_old_town_2 = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

@@ -1,0 +1,21 @@
+# c_ely
+
+# County Title
+title = c_ely
+
+# Settlements
+max_settlements = 3
+
+b_ely = castle
+#b_mcgill = city
+#b_ruth_2 = temple
+#b_huesser = castle
+#b_egan_flat = city
+#b_gleason = temple
+#b_lavon = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

@@ -1,0 +1,21 @@
+# c_pilot_butte
+
+# County Title
+title = c_pilot_butte
+
+# Settlements
+max_settlements = 3
+
+b_rock_springs_3 = castle
+#b_blairtown = city
+#b_clearview_acres = temple
+#b_white_mountain = castle
+#b_reliance = city
+#b_purple_sage = temple
+#b_farson = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

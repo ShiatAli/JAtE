@@ -1,0 +1,21 @@
+# c_east_sierra
+
+# County Title
+title = c_east_sierra
+
+# Settlements
+max_settlements = 2
+
+b_hillsboro_2 = castle
+#b_winston_2 = city
+#b_kingston = temple
+#b_chloride_2 = castle
+#b_hermosa_2 = city
+#b_chiz = temple
+#b_dusty_2 = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

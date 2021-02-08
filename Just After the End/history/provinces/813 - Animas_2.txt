@@ -1,0 +1,21 @@
+# c_animas_2
+
+# County Title
+title = c_animas_2
+
+# Settlements
+max_settlements = 5
+
+b_aztec_2 = castle
+#b_bloomfield_2 = city
+#b_farmington_3 = temple
+#b_kirtland = castle
+#b_flora_vista = city
+#b_spencerville = temple
+#b_cedar_hill = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

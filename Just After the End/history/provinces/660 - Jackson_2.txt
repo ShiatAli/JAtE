@@ -1,0 +1,21 @@
+# c_jackson_2
+
+# County Title
+title = c_jackson_2
+
+# Settlements
+max_settlements = 2
+
+b_walden_2 = castle
+#b_coalmont_2 = city
+#b_cowdrey = temple
+#b_rand = castle
+#b_gould = city
+#b_arapaho = temple
+#b_pinkham = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

@@ -15,7 +15,7 @@ b_elwha = city
 #b_twin = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

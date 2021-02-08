@@ -15,7 +15,7 @@ b_halford = city
 #b_grotto = castle
 
 # Misc
-culture = cascadian
+culture = backcountry
 religion = gaian
 
 #History

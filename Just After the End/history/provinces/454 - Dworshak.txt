@@ -1,0 +1,21 @@
+# c_dworshak
+
+# County Title
+title = c_dworshak
+
+# Settlements
+max_settlements = 3
+
+b_elk_river = castle
+b_deary = city
+#b_cavendish = temple
+#b_slabtown_2 = castle
+#b_helmer = city
+#b_teaken = temple
+#b_bovill = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

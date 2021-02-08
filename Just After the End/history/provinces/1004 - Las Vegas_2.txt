@@ -1,0 +1,21 @@
+# c_las_vegas_2
+
+# County Title
+title = c_las_vegas_2
+
+# Settlements
+max_settlements = 6
+
+b_las_vegas_2 = castle
+b_paradise_5 = city
+b_spring_valley_4 = temple
+b_sun_city_3 = castle
+b_enterprise_4 = city
+#b_blue_diamond_2 = temple
+#b_summerlin_2 = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+
+#History

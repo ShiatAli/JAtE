@@ -15,7 +15,7 @@ b_coe_ranch = castle
 #b_frog_lake = castle
 
 # Misc
-culture = stanforder
+culture = ysidro
 religion = cetic
 
 #History

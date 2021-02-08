@@ -15,7 +15,7 @@ b_monroe = city
 #b_woods_creek = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

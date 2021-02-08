@@ -1,0 +1,21 @@
+# c_hart_mountain
+
+# County Title
+title = c_hart_mountain
+
+# Settlements
+max_settlements = 2
+
+b_adel = castle
+#b_plush_2 = city
+#b_riddle_ranch = temple
+#b_hart_lake = castle
+#b_campbell_lake = city
+#b_stone_corral = temple
+#b_flook_knoll = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+
+#History

@@ -1,0 +1,21 @@
+# c_juab
+
+# County Title
+title = c_juab
+
+# Settlements
+max_settlements = 3
+
+b_nephi = castle
+#b_mona = city
+#b_levan = temple
+#b_rocky_ridge = castle
+#b_nebo_2 = city
+#b_scipio = temple
+#b_yuba_lake = castle
+
+# Misc
+culture = utahn
+religion = mormon
+
+#History

@@ -1,0 +1,21 @@
+# c_rossland
+
+# County Title
+title = c_rossland
+
+# Settlements
+max_settlements = 3
+
+b_rossland = castle
+b_warfield = city
+#b_trail = temple
+#b_montrose = castle
+#b_miral_heights = city
+#b_glenmerry = temple
+#b_tadanac = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_wikiup
+
+# County Title
+title = c_wikiup
+
+# Settlements
+max_settlements = 1
+
+b_wikiup = castle
+#b_greenwood_3 = city
+#b_signal = temple
+#b_tompkins = castle
+#b_gunsight = city
+#b_cone_springs = temple
+#b_dripping_springs = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

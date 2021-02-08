@@ -1,0 +1,21 @@
+# c_revelstoke
+
+# County Title
+title = c_revelstoke
+
+# Settlements
+max_settlements = 2
+
+b_revelstoke = castle
+#b_sicamous = city
+#b_swansea_point = temple
+#b_greenslide = castle
+#b_craigellachie = city
+#b_malakwa = temple
+#b_mara = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

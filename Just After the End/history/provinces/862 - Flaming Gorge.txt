@@ -1,0 +1,21 @@
+# c_flaming_gorge
+
+# County Title
+title = c_flaming_gorge
+
+# Settlements
+max_settlements = 3
+
+b_green_river_2 = castle
+#b_jamestown_2 = city
+#b_mckinnon = temple
+#b_little_america = castle
+#b_granger_3 = city
+#b_fonteville = temple
+#b_le_barge = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

@@ -1,0 +1,21 @@
+# c_dayton
+
+# County Title
+title = c_dayton
+
+# Settlements
+max_settlements = 3
+
+b_dayton_3 = castle
+b_rawe = city
+#b_lyon = temple
+#b_silver_city_7 = castle
+#b_adrian_valley = city
+#b_spring_valley_2 = temple
+#b_amazon_gulch = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+terrain = desert
+#History

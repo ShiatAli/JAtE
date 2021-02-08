@@ -1,0 +1,21 @@
+# c_red_rock
+
+# County Title
+title = c_red_rock
+
+# Settlements
+max_settlements = 3
+
+b_lima = castle
+#b_dell = city
+#b_lakeview_3 = temple
+#b_monida = castle
+#b_bannack = city
+#b_grant_2 = temple
+#b_timber_butte = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

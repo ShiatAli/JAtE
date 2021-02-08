@@ -1,0 +1,21 @@
+# c_douglas
+
+# County Title
+title = c_douglas
+
+# Settlements
+max_settlements = 3
+
+b_waterville = castle
+#b_soap_lake = city
+#b_lakeview_2 = temple
+#b_ephrata = castle
+#b_rock_island = city
+#b_orondo = temple
+#b_withrow = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

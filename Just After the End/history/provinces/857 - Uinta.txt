@@ -1,0 +1,21 @@
+# c_uinta
+
+# County Title
+title = c_uinta
+
+# Settlements
+max_settlements = 3
+
+b_evanston = castle
+b_almy = city
+#b_bear_river = temple
+#b_woodruff_3 = castle
+#b_randolph = city
+#b_laketown = temple
+#b_garden = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

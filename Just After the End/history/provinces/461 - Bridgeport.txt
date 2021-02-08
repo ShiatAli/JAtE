@@ -1,0 +1,21 @@
+# c_bridgeport
+
+# County Title
+title = c_bridgeport
+
+# Settlements
+max_settlements = 3
+
+b_bridgeport = castle
+#b_mansfield = city
+#b_rocky_butte = temple
+#b_dyer = castle
+#b_fariview = city
+#b_sims_corner = temple
+#b_leahy = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_san_miguel
+
+# County Title
+title = c_san_miguel
+
+# Settlements
+max_settlements = 3
+
+b_durango_2 = castle
+#b_bayfield = city
+#b_ignacio_2 = temple
+#b_arboles = castle
+#b_southern_ute = city
+#b_kline = temple
+#b_chimney_rock = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

@@ -1,0 +1,21 @@
+# c_bend
+
+# County Title
+title = c_bend
+
+# Settlements
+max_settlements = 4
+
+b_bend_2 = castle
+#b_redmond_4 = city
+#b_river_woods = temple
+#b_sisters = castle
+#b_alfalfa = city
+#b_black_butte_3 = temple
+#b_camp_sherman = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

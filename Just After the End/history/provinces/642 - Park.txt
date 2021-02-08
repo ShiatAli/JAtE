@@ -1,0 +1,21 @@
+# c_park
+
+# County Title
+title = c_park
+
+# Settlements
+max_settlements = 3
+
+b_fairplay = castle
+#b_como_2 = city
+#b_hartsel = temple
+#b_alma_2 = castle
+#b_bailey = city
+#b_grant = temple
+#b_jefferson = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

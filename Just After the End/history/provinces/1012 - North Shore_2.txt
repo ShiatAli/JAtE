@@ -1,0 +1,21 @@
+# c_north_shore_2
+
+# County Title
+title = c_north_shore_2
+
+# Settlements
+max_settlements = 3
+
+b_north_shore_3 = castle
+b_ferrum_2 = city
+#b_durmid_2 = temple
+#b_bertram_2 = castle
+#b_pope_2 = city
+#b_bombay_2 = temple
+#b_frink_2 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

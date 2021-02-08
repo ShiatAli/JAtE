@@ -1,0 +1,21 @@
+# c_odell
+
+# County Title
+title = c_odell
+
+# Settlements
+max_settlements = 2
+
+b_wisdom = castle
+#b_jackson_2 = city
+#b_wise_river = temple
+#b_polaris_2 = castle
+#b_elkhorn = city
+#b_tweedy = temple
+#b_torrey_2 = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

@@ -1,0 +1,21 @@
+# c_catalina_island
+
+# County Title
+title = c_catalina_island
+
+# Settlements
+max_settlements = 2
+
+b_avalon = castle
+#b_two_harbors = city
+#b_san_nicholas = temple
+#b_san_clemente_2 = castle
+#b_farnsworth = city
+#b_long_point = temple
+#b_arrow_point = castle
+
+# Misc
+culture = angeleno
+religion = brethren
+
+#History

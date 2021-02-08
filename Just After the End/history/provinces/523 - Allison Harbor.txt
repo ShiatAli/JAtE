@@ -1,0 +1,21 @@
+# c_allison_harbor
+
+# County Title
+title = c_allison_harbor
+
+# Settlements
+max_settlements = 1
+
+b_allison_harbor = castle
+#b_nakwakto_rapid = city
+#b_greaves = temple
+#b_smith = castle
+#b_belize = city
+#b_ko_kwi_iss = temple
+#b_tsa_latz = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

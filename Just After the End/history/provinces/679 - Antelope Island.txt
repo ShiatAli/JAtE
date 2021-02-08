@@ -1,0 +1,21 @@
+# c_antelope_island
+
+# County Title
+title = c_antelope_island
+
+# Settlements
+max_settlements = 2
+
+b_fielding_garr = castle
+#b_saltair = city
+#b_white_rock_3 = temple
+#b_farmington_bay = castle
+#b_frary_peak = city
+#b_bridger_bay = temple
+#b_antelope_marina = castle
+
+# Misc
+culture = utahn
+religion = mormon
+
+#History

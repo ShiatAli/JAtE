@@ -1,0 +1,21 @@
+# c_bullhead
+
+# County Title
+title = c_bullhead
+
+# Settlements
+max_settlements = 4
+
+b_bullhead_city = castle
+#b_mohave_valley = city
+#b_riviera = temple
+#b_fort_mohave = castle
+#b_willow_valley = city
+#b_mesquite_creek = temple
+#b_oatman = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

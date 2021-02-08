@@ -1,0 +1,21 @@
+# c_harper
+
+# County Title
+title = c_harper
+
+# Settlements
+max_settlements = 2
+
+b_harper = castle
+#b_drewsey = city
+#b_juntura = temple
+#b_riverside_malheur = castle
+#b_westfall = city
+#b_beulah = temple
+#b_warm_springs_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

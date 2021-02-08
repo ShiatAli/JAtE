@@ -1,0 +1,21 @@
+# c_payette
+
+# County Title
+title = c_payette
+
+# Settlements
+max_settlements = 4
+
+b_payette = castle
+#b_emmett = city
+#b_fruitland_2 = temple
+#b_new_plymouth = castle
+#b_horseshoe_bend = city
+#b_ola = temple
+#b_sweet = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

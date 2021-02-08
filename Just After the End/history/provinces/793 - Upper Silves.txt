@@ -1,0 +1,21 @@
+# c_upper_silves
+
+# County Title
+title = c_upper_silves
+
+# Settlements
+max_settlements = 1
+
+b_seneca = castle
+#b_trout_creek_2 = city
+#b_silvies_valley = temple
+#b_idlewild_2 = castle
+#b_rock_springs = city
+#b_wickiup = temple
+#b_byron_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

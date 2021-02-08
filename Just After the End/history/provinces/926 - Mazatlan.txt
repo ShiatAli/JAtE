@@ -1,0 +1,21 @@
+# c_mazatlan
+
+# County Title
+title = c_mazatlan
+
+# Settlements
+max_settlements = 5
+
+b_mazatlan = castle
+#b_fraccionamiento_los_angeles = city
+#b_villa_union = temple
+#b_el_walamo = castle
+#b_el_roble = city
+#b_el_castillo_3 = temple
+#b_barron = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

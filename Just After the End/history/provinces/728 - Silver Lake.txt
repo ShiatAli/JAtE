@@ -1,0 +1,21 @@
+# c_silver_lake
+
+# County Title
+title = c_silver_lake
+
+# Settlements
+max_settlements = 3
+
+b_enterprise_3 = castle
+#b_joseph = city
+#b_wallowa_lake = temple
+#b_lewis_2 = castle
+#b_little_sheep = city
+#b_aspen_grove_2 = temple
+#b_hurricane_2 = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

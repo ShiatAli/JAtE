@@ -1,0 +1,21 @@
+# c_santa_rosas
+
+# County Title
+title = c_santa_rosas
+
+# Settlements
+max_settlements = 1
+
+b_paradise_valley = castle
+#b_quinn_valley = city
+#b_kings_river = temple
+#b_coyote_hills = castle
+#b_bilk_creek = city
+#b_gallagher = temple
+#b_daveytown = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

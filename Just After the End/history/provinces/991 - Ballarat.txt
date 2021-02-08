@@ -1,0 +1,21 @@
+# c_ballarat
+
+# County Title
+title = c_ballarat
+
+# Settlements
+max_settlements = 2
+
+b_ballarat = castle
+#b_millspaugh = city
+#b_panamint_springs = temple
+#b_darwin = castle
+#b_parkinson = city
+#b_maturango = temple
+#b_manly_peak = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

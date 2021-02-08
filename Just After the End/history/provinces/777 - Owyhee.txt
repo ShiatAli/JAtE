@@ -1,0 +1,21 @@
+# c_owyhee
+
+# County Title
+title = c_owyhee
+
+# Settlements
+max_settlements = 2
+
+b_murphy_2 = castle
+#b_grand_view = city
+b_oreana = temple
+#b_reynolds = castle
+#b_guffey = city
+#b_walters_ferry = temple
+#b_wilson = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

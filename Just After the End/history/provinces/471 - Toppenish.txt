@@ -1,0 +1,21 @@
+# c_toppenish
+
+# County Title
+title = c_toppenish
+
+# Settlements
+max_settlements = 3
+
+b_toppenish = castle
+b_zillah = city
+#b_buena = temple
+#b_wapato = castle
+#b_parker = city
+#b_harrah = temple
+#b_ashue = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

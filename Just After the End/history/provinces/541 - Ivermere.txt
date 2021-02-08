@@ -1,0 +1,21 @@
+# c_ivermere
+
+# County Title
+title = c_ivermere
+
+# Settlements
+max_settlements = 3
+
+b_ivermere = castle
+#b_canal_flats = city
+#b_skookumchuck_2 = temple
+#b_fairmonts_hot_springs = castle
+#b_windermere = city
+#b_edgewater = temple
+#b_spillimacheen = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

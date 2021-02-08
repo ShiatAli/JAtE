@@ -1,0 +1,21 @@
+# c_fruitland_2
+
+# County Title
+title = c_fruitland_2
+
+# Settlements
+max_settlements = 3
+
+b_upper_fruitland = castle
+#b_ojo_amarillo = city
+#b_nenahnezad = temple
+#b_burnham = castle
+#b_morgan_lake = city
+#b_tailings_pond = temple
+#b_chinde = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

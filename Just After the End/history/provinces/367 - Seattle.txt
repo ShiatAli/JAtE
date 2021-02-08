@@ -15,7 +15,7 @@ b_ballard = temple
 #b_burien = castle
 
 # Misc
-culture = cascadian
+culture = emeraldian
 religion = gaian
 
 #History

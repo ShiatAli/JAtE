@@ -1,0 +1,21 @@
+# c_tonopah
+
+# County Title
+title = c_tonopah
+
+# Settlements
+max_settlements = 2
+
+b_tonopah_2 = castle
+#b_goldfield = city
+#b_gemfield = temple
+#b_montezuma_peak = castle
+#b_millers = city
+#b_ralston = temple
+#b_weepah = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

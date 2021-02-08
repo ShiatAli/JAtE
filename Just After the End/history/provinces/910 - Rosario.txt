@@ -1,0 +1,21 @@
+# c_rosario
+
+# County Title
+title = c_rosario
+
+# Settlements
+max_settlements = 3
+
+b_tesopaco = castle
+#b_quiriego = city
+#b_yecora = temple
+#b_batacosa = castle
+#b_nuri = city
+#b_tepahui = temple
+#b_maicoba = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

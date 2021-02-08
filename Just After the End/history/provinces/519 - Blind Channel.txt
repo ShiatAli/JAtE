@@ -1,0 +1,21 @@
+# c_blind_channel
+
+# County Title
+title = c_blind_channel
+
+# Settlements
+max_settlements = 2
+
+b_blind_channel = castle
+#b_owen_bay = city
+#b_redonda_bay = temple
+#b_mansons_landing = castle
+#b_whaletown = city
+#b_squirrel_cove = temple
+#b_phillips_arm = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

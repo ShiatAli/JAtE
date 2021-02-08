@@ -1,0 +1,21 @@
+# c_lancaster
+
+# County Title
+title = c_lancaster
+
+# Settlements
+max_settlements = 4
+
+b_lancaster_2 = castle
+b_roosevelt_3 = city
+b_redman = temple
+#b_oban = castle
+#b_antelope_acre = city
+#b_prime_desert = temple
+#b_apollo = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

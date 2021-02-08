@@ -1,0 +1,21 @@
+# c_jefferson_2
+
+# County Title
+title = c_jefferson_2
+
+# Settlements
+max_settlements = 4
+
+b_golden = castle
+#b_wheat_ridge = city
+#b_lakewood_3 = temple
+#b_ken_caryl = castle
+#b_dakota_ridge = city
+#b_columbine = temple
+#b_evergreen_2 = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

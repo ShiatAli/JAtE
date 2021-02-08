@@ -1,0 +1,21 @@
+# c_lone_pine
+
+# County Title
+title = c_lone_pine
+
+# Settlements
+max_settlements = 4
+
+b_lone_pine_2 = castle
+b_independence = city
+b_reward_2 = temple
+#b_manzanar = castle
+#b_owenyo = city
+#b_alico = temple
+#b_seven_pines = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

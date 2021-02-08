@@ -1,0 +1,21 @@
+# c_wet_mountain
+
+# County Title
+title = c_wet_mountain
+
+# Settlements
+max_settlements = 3
+
+b_westcliffe = castle
+#b_cotopaxi = city
+#b_silver_city_2 = temple
+#b_san_isabel = castle
+#b_wetmore = city
+#b_texas_creek = temple
+#b_buckskin_joe = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

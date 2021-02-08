@@ -1,0 +1,21 @@
+# c_rio_sonora
+
+# County Title
+title = c_rio_sonora
+
+# Settlements
+max_settlements = 4
+
+b_baviacora = castle
+#b_aconchi = city
+#b_banamichi = temple
+#b_huepac = castle
+#b_la_estancia = city
+#b_mazocahui = temple
+#b_san_felipe_de_jesus = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

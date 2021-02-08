@@ -12,7 +12,7 @@ b_post_falls = city
 #b_dalton_gardens = castle
 #b_rathdrum = city
 #b_garwood = temple
-#b_ramsey_2 = castle
+#b_athol = castle
 
 # Misc
 culture = inlander

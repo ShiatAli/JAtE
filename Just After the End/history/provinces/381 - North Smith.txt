@@ -15,7 +15,7 @@ b_anacortes = city
 #b_san_de_fuca = castle
 
 # Misc
-culture = cascadian
+culture = skagitan
 religion = gaian
 
 #History

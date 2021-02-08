@@ -1,0 +1,21 @@
+# c_royston
+
+# County Title
+title = c_royston
+
+# Settlements
+max_settlements = 2
+
+b_royston = castle
+#b_cumberland = city
+#b_bowser = temple
+#b_qualicum_bay = castle
+#b_fanny_bay = city
+#b_buckley_bay = temple
+#b_union_bay = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

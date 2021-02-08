@@ -1,0 +1,21 @@
+# c_abiquiu
+
+# County Title
+title = c_abiquiu
+
+# Settlements
+max_settlements = 3
+
+b_el_rancho = castle
+#b_gallina = city
+#b_abiquiu = temple
+#b_coyote_3 = castle
+#b_canones = city
+#b_youngsville = temple
+#b_arroyo_del_agua = castle
+
+# Misc
+culture = apache
+religion = mormon
+
+#History

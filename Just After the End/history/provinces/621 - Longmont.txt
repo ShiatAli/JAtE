@@ -1,0 +1,21 @@
+# c_longmont
+
+# County Title
+title = c_longmont
+
+# Settlements
+max_settlements = 4
+
+b_longmont = castle
+#b_firestone = city
+#b_frederick = temple
+#b_fort_lupton = castle
+#b_dacono = city
+#b_niwot = temple
+#b_mead_2 = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

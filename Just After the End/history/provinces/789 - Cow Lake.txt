@@ -1,0 +1,21 @@
+# c_cow_lake
+
+# County Title
+title = c_cow_lake
+
+# Settlements
+max_settlements = 2
+
+b_jordan_valley = castle
+#b_rome = city
+#b_arock = temple
+#b_danner = castle
+#b_silver_city_4 = city
+#b_de_lamar = temple
+#b_cow_lakes = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -15,7 +15,7 @@ b_keystone = city
 #b_madrona_beach = castle
 
 # Misc
-culture = cascadian
+culture = skagitan
 religion = gaian
 
 #History

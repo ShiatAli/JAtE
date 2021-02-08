@@ -1,0 +1,21 @@
+# c_ricks
+
+# County Title
+title = c_ricks
+
+# Settlements
+max_settlements = 4
+
+b_rexburg = castle
+#b_sugar_city = city
+#b_teton = temple
+#b_newdale = castle
+#b_thornton_2 = city
+#b_archer = temple
+#b_burton = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

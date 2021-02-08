@@ -1,0 +1,21 @@
+# c_powell
+
+# County Title
+title = c_powell
+
+# Settlements
+max_settlements = 3
+
+b_powell_river = castle
+#b_lang_bay = city
+#b_blubber_bay = temple
+#b_van_ande = castle
+#b_gilles_bay = city
+#b_saltery_bay = temple
+#b_myrtle_point_2 = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

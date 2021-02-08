@@ -15,7 +15,7 @@ b_elma = castle
 #b_roonys = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

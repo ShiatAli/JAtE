@@ -15,7 +15,7 @@ b_quinault = castle
 #b_pacific_beach_2 = castle
 
 # Misc
-culture = cascadian
+culture = backcountry
 religion = gaian
 
 #History

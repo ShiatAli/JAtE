@@ -1,0 +1,21 @@
+# c_yuma
+
+# County Title
+title = c_yuma
+
+# Settlements
+max_settlements = 5
+
+b_yuma = castle
+#b_san_luis_3 = city
+#b_san_luis_rio_colorado = temple
+#b_fortuna_foothills = castle
+#b_somerton = city
+#b_b_c_colonia = temple
+#b_gadsden = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

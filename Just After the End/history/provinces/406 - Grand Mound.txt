@@ -15,7 +15,7 @@ b_rochester = city
 #b_sunnydale = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

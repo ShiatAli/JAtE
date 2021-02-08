@@ -1,0 +1,21 @@
+# c_navajo_mountain
+
+# County Title
+title = c_navajo_mountain
+
+# Settlements
+max_settlements = 3
+
+b_shonto = castle
+#b_navajo_mountain = city
+#b_tsegi = temple
+#b_inscription_house = castle
+#b_rainbow_bridge = city
+#b_klethla = temple
+#b_dowozheibito = castle
+
+# Misc
+culture = navajo
+religion = mormon
+
+#History

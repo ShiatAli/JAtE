@@ -1,0 +1,21 @@
+# c_kelowna
+
+# County Title
+title = c_kelowna
+
+# Settlements
+max_settlements = 3
+
+b_kelowna = castle
+b_west_bank = city
+b_traders_cove = temple
+#b_lake_country = castle
+#b_nahun = city
+#b_pixie_beach = temple
+#b_fintry = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

@@ -1,0 +1,21 @@
+# c_hualapai
+
+# County Title
+title = c_hualapai
+
+# Settlements
+max_settlements = 2
+
+b_peach_springs = castle
+#b_seligman = city
+#b_frasier_wells = temple
+#b_truxton = castle
+#b_valentine = city
+#b_crozier = temple
+#b_yampai = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

@@ -1,0 +1,21 @@
+# c_ucluelet
+
+# County Title
+title = c_ucluelet
+
+# Settlements
+max_settlements = 2
+
+b_ucluelet = castle
+#b_port_albion = city
+#b_kennedy_2 = temple
+#b_maggie = castle
+#b_klitsa = city
+#b_sproats = temple
+#b_laylee = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

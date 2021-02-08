@@ -1,0 +1,21 @@
+# c_richmond_2
+
+# County Title
+title = c_richmond_2
+
+# Settlements
+max_settlements = 4
+
+b_richmond_3 = castle
+b_steveston = city
+b_southarm = temple
+#b_sea_island = castle
+#b_ladner = city
+#b_tsawwassen = temple
+#b_thompson_2 = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

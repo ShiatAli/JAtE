@@ -1,0 +1,21 @@
+# c_eskdale
+
+# County Title
+title = c_eskdale
+
+# Settlements
+max_settlements = 2
+
+b_eskdale = castle
+#b_baker_3 = city
+#b_garrison_2 = temple
+#b_black_horse = castle
+#b_conger = city
+#b_king_cove = temple
+#b_politician_point = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

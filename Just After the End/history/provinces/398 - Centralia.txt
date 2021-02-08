@@ -15,7 +15,7 @@ b_chehalis = city
 #b_cowlitz = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

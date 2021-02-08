@@ -1,0 +1,21 @@
+# c_crook
+
+# County Title
+title = c_crook
+
+# Settlements
+max_settlements = 3
+
+b_prineville = castle
+#b_crooked_river = city
+#b_terrebonne_2 = temple
+#b_powell_butte = castle
+#b_opal_city = city
+#b_alkali_creek = temple
+#b_smith_rock = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

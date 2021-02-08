@@ -15,7 +15,7 @@ b_agate = city
 #b_hamma_hamma = castle
 
 # Misc
-culture = cascadian
+culture = olympite
 religion = gaian
 
 #History

@@ -1,0 +1,21 @@
+# c_minidoka
+
+# County Title
+title = c_minidoka
+
+# Settlements
+max_settlements = 3
+
+b_rupert = castle
+#b_heyburn = city
+#b_paul = temple
+#b_acequia = castle
+#b_minidoka = city
+#b_d_nine = temple
+#b_h_main = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

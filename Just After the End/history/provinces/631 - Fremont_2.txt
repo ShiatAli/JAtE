@@ -1,0 +1,21 @@
+# c_fremont_2
+
+# County Title
+title = c_fremont_2
+
+# Settlements
+max_settlements = 4
+
+b_canon_city = castle
+#b_florence_4 = city
+#b_penrose = temple
+#b_lincoln_park_2 = castle
+#b_williamsburg_2 = city
+#b_rockvale = temple
+#b_coal_creek_2 = castle
+
+# Misc
+culture = coloradan
+religion = neognostic
+
+#History

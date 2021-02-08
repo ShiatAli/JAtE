@@ -1,0 +1,21 @@
+# c_battle_mountain
+
+# County Title
+title = c_battle_mountain
+
+# Settlements
+max_settlements = 2
+
+b_battle_mountain = castle
+#b_valmy = city
+#b_argenta_3 = temple
+#b_copper_basin = castle
+#b_boulder_creek = city
+#b_poormans_gulch = temple
+#b_stony_point = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+
+#History

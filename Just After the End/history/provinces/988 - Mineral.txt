@@ -1,0 +1,21 @@
+# c_mineral
+
+# County Title
+title = c_mineral
+
+# Settlements
+max_settlements = 3
+
+b_hawthorne = castle
+#b_schurz = city
+#b_mina = temple
+#b_luning = castle
+#b_columbus_3 = city
+#b_moho_mountain = temple
+#b_excelsior_2 = castle
+
+# Misc
+culture = battleborn
+religion = atomicist
+terrain = desert
+#History

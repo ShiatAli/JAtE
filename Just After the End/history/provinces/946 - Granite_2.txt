@@ -1,0 +1,21 @@
+# c_granite_2
+
+# County Title
+title = c_granite_2
+
+# Settlements
+max_settlements = 3
+
+b_fort_bidwell = castle
+#b_eagleville = city
+#b_cedarville = temple
+#b_lake_city_2 = castle
+#b_gerlach = city
+#b_menlos_bath = temple
+#b_vya = castle
+
+# Misc
+culture = battleborn
+religion = cetic
+
+#History

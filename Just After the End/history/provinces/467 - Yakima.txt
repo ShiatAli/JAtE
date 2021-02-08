@@ -1,0 +1,21 @@
+# c_yakima
+
+# County Title
+title = c_yakima
+
+# Settlements
+max_settlements = 3
+
+b_yakima = castle
+b_selah = city
+#b_gleed = temple
+#b_eschabach = castle
+#b_cowiche = city
+#b_tieton = temple
+#b_naches = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

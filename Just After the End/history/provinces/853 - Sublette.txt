@@ -1,0 +1,21 @@
+# c_sublette
+
+# County Title
+title = c_sublette
+
+# Settlements
+max_settlements = 3
+
+b_pinedale_3 = castle
+#b_boulder_3 = city
+#b_cora = temple
+#b_daniel = castle
+#b_bondurant = city
+#b_marbleton = temple
+#b_big_piney = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

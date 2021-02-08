@@ -1,0 +1,21 @@
+# c_yellowstone
+
+# County Title
+title = c_yellowstone
+
+# Settlements
+max_settlements = 3
+
+b_fishing_bridge = castle
+b_canyon_village = city
+#b_old_faithful = temple
+#b_bridge_bay = castle
+#b_lake = city
+#b_west_thumb = temple
+#b_norris = castle
+
+# Misc
+culture = mountainer
+religion = gaian
+
+#History

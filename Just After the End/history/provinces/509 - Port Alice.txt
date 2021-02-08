@@ -1,0 +1,21 @@
+# c_port_alice
+
+# County Title
+title = c_port_alice
+
+# Settlements
+max_settlements = 2
+
+b_port_alice = castle
+#b_rapid_beach = city
+#b_jeune_landing = temple
+#b_mahatta_river = castle
+#b_kyuquot = city
+#b_chamiss_bay = temple
+#b_atluck = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

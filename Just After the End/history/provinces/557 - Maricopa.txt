@@ -1,0 +1,21 @@
+# c_maricopa
+
+# County Title
+title = c_maricopa
+
+# Settlements
+max_settlements = 2
+
+b_gila_bend = castle
+#b_theba = city
+#b_mobile = temple
+#b_hyder = castle
+#b_sentinel = city
+#b_sundad = temple
+#b_papago = castle
+
+# Misc
+culture = arixan
+religion = atomicist
+
+#History

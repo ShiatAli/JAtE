@@ -220,4 +220,84 @@ ameronordic = {
 		allow_looting = yes
 		seafarer = yes
 	}
+	vestmenn = {
+		graphical_cultures = { norsegfx greatlakesgfx }
+		unit_graphical_cultures = { norsegfx saxongfx }
+
+		color = { 0.65 0.45 0.5 }
+
+		male_names = {
+			Anders_Andrew Axel Anton_Anthony Adam Albert Askeladd Adalstein Arne_Arnold Alfons_Alphonse Alfred Ansgar
+			Brix Baltasar_Balthasar Bjorn_Beorn Birger Brosa Benjamin Brage Benedikt_Benedict Bertram Bruno
+			Carsten Christoffer_Christopher Cornelius
+			David Daniel Didrik_Theoderic Dolph Dole_Dewey Doffen_Louis Dominik_Dominic
+			Eirik_Eric Enock_Enoch Eino Edvard_Edward Elias_Elijah Even Edgar Egon_Eugene
+			Fredrik_Frederick Frants_Francis Finn Frey Ferdinand Filip_Philip Falk
+			Georg_George Gustav_Gustav Gudvine_Godwin Grimm Godred Godbrand Gottskalk_Gottschalk Gerhardt_Gerard Gilbert Gorm
+			Henrik_Henry Harald_Harold Hakon Hardhaus Halvdan_Halfdan Hurin Hamlet Herman_Herman Helmut_Helmut Hans Hugo_Hugh Hilmar
+			Isak_Isaac Ingvar Ivar_Ivar Ingemar Inge Immanuel_Emmanuel
+			Jan_John Johan_John Jakob_Jacob Joran Josef_Joseph Jens Jeremiah Joakim_Joachim Jake_John Julius
+			Karl_Charles Knut_Canute Kennet_Kenneth Konstantin_Constantine Konrad_Conrad Kevin Kasimir_Casimir Klaus_Nicholas
+			Ludvik_Louis Linux Lorens_Lawrence Lars_Lawrence Lasse Leopold Lukas_Luke Leif Linus
+			Mikkel_Michael Magnus Marius_Marius Mattias_Matthew Morten_Martin Magnar Markus_Mark Mads_Matthew Manfred
+			Nils_Nicholas Njall_Neil Niklas_Nicholas Norvald Normann_Norman Nobel Noa_Noah
+			Olaf Oleander Oskar_Oscar Oliver_Oliver Otto Ole_Hugh
+			Petter_Peter Poul_Paul Palnatoke Peder_Peter Patrik_Patrick
+			Rikard_Richard Ragnar Ragnvald_Ronald Robert Rurik_Rorik Rolf_Ralph Rasmus_Erasmus Remnar Ruben_Ruben Reinhard_Reynard Rudolf_Rudolph
+			Sakaris_Zachary Sverre Steffen_Stephen Sigismund_Sigmund Sebastian Snorre Sturla Steinar Steinsleif_Stanislaus Sander_Alexander Sivert
+			Thao Tjark_Theodore Tor Tomas_Thomas Trond Tormod Turin Tycho Thales Torgrim Tankred_Tancred Tidemand Tobias
+			Ulrik_Ulrich Ulf_Wolf
+			Valdemar_Vladimir Vilhelm_William Vilfred_Wilfred Viggo Venkesleif_Wenceslaus Vemund Vandal Viktor_Victor
+			Wolfram
+			Ylvis
+			Wildcat He-Fights He-laughs Is-strong Nofear He-Arrives Blacktail Thunderbird Keeps-Watch Whitecrow He-wins Thunderer Windrunner
+			Yellowbear Fairprince Stormcrow He-runs Windstorm Darkcloud Falling-Rain Sunbrow High-Eagle
+		}
+		
+		female_names = {
+			Beata_Beatrice Benedikte_Benedicta Brunhilda_Brunhilde Brida
+			Camilla Cecilie_Cecilia
+			Dagmar Dagny Dagrun Doris Delphine Dorothe_Dorothy Dís
+			Ellerine Ella Edith Edna Eleonora_Eleanor Elise Embla Erika_Erica Eva Ester Elda Eirid
+			Fredrika_Frederica Freya Frida
+			Grace Gerda Greta Gry
+			Hanna Henrika Hilda Hildur Hildegard Hulda Helga
+			Pamela
+			Ida Iona Ingrid Ingvild Isabelle Isolde Iddra Ingun
+			Jannicke Judit_Judith Julia_Julia Jora
+			Kao Karen Karina Kristin_Christina Kara Kamilla_Camilla Karla_Charlotte Katie_Catherine Karolina_Caroline Klara_Claire
+			Laila Laura Lena Linda Ludia Lydia Liesl Lagertha
+			Magda_Magdalene Magnhild Maja_Mary Miriam Maren Margareta_Margaret Marta_Martha Mikaela_Michaela Monika_Monica Madelaine_Magdalene
+			Nanna Nora
+			Olivia Orla
+			Pauline Pernille Petra Pia
+			Ragnild Rakel_Rachel Ragna Rebekka_Rebecca Regine_Regina Renee Rosa_Rose Runa
+			Sara_Sarah Sandra_Alexandra Sofia_Sophia Sunniva Susann_Susan Sonja_Sonia
+			Teresa_Theresa Thekla Tora Tyra Tara
+			Ursula
+			Veronika_Veronica Viktoria_Victoria Viola Vivian_Vivien
+		}
+
+		from_dynasty_prefix = "av "
+
+		male_patronym = "sson"
+		female_patronym = "sdatter"
+		prefix = no
+
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+
+		allow_looting = yes
+		seafarer = yes
+	}
 }

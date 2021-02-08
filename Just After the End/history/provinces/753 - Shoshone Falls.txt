@@ -1,0 +1,21 @@
+# c_shoshone_falls
+
+# County Title
+title = c_shoshone_falls
+
+# Settlements
+max_settlements = 5
+
+b_twin_falls = castle
+#b_buhl = city
+#b_kimberly = temple
+#b_filer = castle
+#b_hansen = city
+#b_castleford = temple
+#b_murtaugh = castle
+
+# Misc
+culture = mountainer
+religion = mormon
+
+#History

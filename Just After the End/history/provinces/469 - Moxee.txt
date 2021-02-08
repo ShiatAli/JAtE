@@ -1,0 +1,21 @@
+# c_moxee
+
+# County Title
+title = c_moxee
+
+# Settlements
+max_settlements = 3
+
+b_moxee = castle
+b_birchfield = city
+#b_terrace_heights = temple
+#b_east_selah = castle
+#b_donald = city
+#b_hanford_2 = temple
+#b_levering = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History
