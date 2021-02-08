@@ -157,51 +157,59 @@ north_pacific = {
 		color = { 0.6 0.4 0.7 }
 
 		male_names = {
-			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
-			Bosko Boyle Brad Brandon Breen Brendan Brock
-			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
-			Dallas Damian Daniel Donald Douglass_Douglas Dunn
-			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
-			Farel Faust Feldberg Francis Frank Fred_Frederick
-			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
-			Hagen Hammond Henry Hud
-			Isaac
-			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
-			Kaufman Keith Kirk Kumail Kurt Kyle
-			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
-			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
-			Nicholas Noah Norman
-			Obo Oort Orlando_Roland Oswalt_Oswald
-			Patton Peter Pharoah Pietro_Peter Powell Pratchett
-			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
-			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
-			Terrell Tucker Tyler
-			Vincent
-			Wagner Warren Wash Wrick Wright 
+			Andy_Andrew Aiden Alf Aragorn Ape Ash Axe Autumn Aytch Az
+            Baedan Banner Bear Bird Bog Brick Bunch 
+            Cad Cats Caiden Cam Celeborn Cheer Chimp Creed Cod Corn Cube Cy 
+            Dannie_Daniel Deadcat Deer Decept Demitrius Denny Din Dog Door Douglas Dude
+            Elf Elk Elliot Emm
+            Faer Fern Fir Foam Fox Frog Futhark Fynn
+            Gam Garf Gin Gorn Grain Green
+            Ham Hayden Hill Hell Hogz House Hunter
+            Ian Ichor Ille
+            Jomms Justin Juice
+            Kael Kai Kipper Korrin Koss Kow
+            Lamm Lance Lean Logan Loyal Lynn
+            Max Mack-No Millet Minns Miso Mite Mountain Mob Moose Mouse 
+            Nemmie Noodle
+            Oats Ollie Oscar Osiris Otter Oxen
+            Panda Poll Pine Possum Purse Pug Pups
+            Quail Quinn 
+            Ram Raw Rats Red Ren Rogue Runner
+            Sam_Samuel Sol Sky Skyler Stool Synn
+            Tanner Tick Tiny Turis Twinks
+            Udon Urn 
+            Xie
+            Wheat
+            Zinn Zither
 		}
 		female_names = {
-			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
-			Becca_Rebecca Berry Beverly Brigitte_Bridget
-			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
-			Dana Dorothy
-			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
-			Fay Floscella
-			Genevieve Glory Greta Gretchen Gwen Galadriel
-			Haley Heather Hilda Hildegardt
-			Irine Iris Jacquiline
-			Jana Jane Jenny Jinx Joanna_Joan
-			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
-			Laura Lindsay Lisa
-			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
-			Nance_Nancy Natasha Nina
-			Olga Olivia
-			Penny
-			Raina Rose_Rose Roseanne_Roseanne
-			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
-			Tabitha Tiffeny Tonya
-			Valerie_Valeria Vanessa Veronica
-			Zooey_Zoe 
+			Aya Air Ali Amber Ambrosia Apple Ash Arwen Autumn Axe Aynesli 
+			Baedan Bear Bee Bird Black Blackbird Bynn
+			Candy Cats_Catherine Cee Cici Chair Chaotia Clemmie_Clementine Cold Crow Crown Conns Courts Cup
+			Dannica Dance Demen Dark Day Dee Dino
+			Effie Egg Ell Emma Energy Enn Els Ex Eye 
+			Fae_Fay Fox Fynn
+			Gance Gina Goat Gon Green
+			Hay Hen Hell Hex
+			Ice Iris Isis Izzy
+			Jane Julie June 
+			Kalie Kin Kim Kitten Kizzie
+			Lane Len Lex Lillith Luca Lynn
+			Max May Mellie Monkey Mouse Mynnie
+			Nalls Nectar Ninn Nellie Night Nympth Nyx
+			Oats Onix Orange
+			Peach Pear Penny Pill Praxis Pynn
+			Quail
+			Raccoon Rat Raven Rain Raindrop Rennee Rhi_Riley Ryn
+			Sam_Samantha Sappho Snow Storm Sword
+			Tam Tan Tiger Tin
+			Umbra Ursula
+			Vikki_Victoria
+			Way Wolfie Well Wynn
+			Yennie Yuri Yyn
+			Zee Zizi Zoe
 		}
+
 
 		from_dynasty_prefix = ""
 		
