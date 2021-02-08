@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_dos_rios = castle
 b_tatu = city
-#b_indian_springs_2 = temple
+#b_indian_springs_3 = temple
 #b_woodman = castle
 #b_card_place = city
 #b_nashmead = temple

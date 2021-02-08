@@ -1723,6 +1723,8 @@ b_cactus;Cactus;Cactus;Cactus;;Cactus;;;;;;;;;x
 b_cactus_adj;Cactusian;;cactuser;;;;;;;;;;;x
 b_cactus_flats;Cactus Flats;Cactus Flats;Cactus Flats;;Cactus Flats;;;;;;;;;x
 b_cactus_flats_adj;Cactus Flatsian;;Cactus Flatser;;;;;;;;;;;x
+b_cactus_spring;Cactus Spring;Cactus Spring;Cactus Spring;;Cactus Spring;;;;;;;;;x
+b_cactus_spring_adj;Cactus Springian;;Cactus Springer;;;;;;;;;;;x
 b_cadenasso;Cadenasso;Cadenasso;Cadenasso;;Cadenasso;;;;;;;;;x
 b_cadenasso_adj;Cadenassian;;cadenasser;;;;;;;;;;;x
 b_cadiz;Cadiz;Cadiz;Cadiz;;Cadiz;;;;;;;;;x
@@ -2643,6 +2645,8 @@ b_cokeville;Cokeville;Cokeville;Cokeville;;Cokeville;;;;;;;;;x
 b_cokeville_adj;Cokevillean;;cokeviller;;;;;;;;;;;x
 b_colbert;Colbert;Colbert;Colbert;;Colbert;;;;;;;;;x
 b_colbert_adj;Colbertian;;colberter;;;;;;;;;;;x
+b_cold_creek;Cold Creek;Cold Creek;Cold Creek;;Cold Creek;;;;;;;;;x
+b_cold_creek_adj;Cold Creekian;;Cold Creeker;;;;;;;;;;;x
 b_cold_springs;Cold Springs;Cold Springs;Cold Springs;;Cold Springs;;;;;;;;;x
 b_cold_springs_adj;Cold Springsian;;Cold Springser;;;;;;;;;;;x
 b_cole;Cole;Cole;Cole;;Cole;;;;;;;;;x
@@ -2843,6 +2847,8 @@ b_corkindale;Corkindale;Corkindale;Corkindale;;Corkindale;;;;;;;;;x
 b_corkindale_adj;Corkindalean;;corkindaler;;;;;;;;;;;x
 b_corkscrew;Corkscrew;Corkscrew;Corkscrew;;Corkscrew;;;;;;;;;x
 b_corkscrew_adj;Corkscrewian;;corkscrewer;;;;;;;;;;;x
+b_corn_creek;Corn Creek;Corn Creek;Corn Creek;;Corn Creek;;;;;;;;;x
+b_corn_creek_adj;Corn Creekian;;Corn Creeker;;;;;;;;;;;x
 b_corn_spring;Corn Spring;Corn Spring;Corn Spring;;Corn Spring;;;;;;;;;x
 b_corn_spring_adj;Corn Springian;;Corn Springer;;;;;;;;;;;x
 b_cornelius;Cornelius;Cornelius;Cornelius;;Cornelius;;;;;;;;;x
@@ -3411,6 +3417,8 @@ b_desert_hills;Desert Hills;Desert Hills;Desert Hills;;Desert Hills;;;;;;;;;x
 b_desert_hills_adj;Desert Hillsian;;Desert Hillser;;;;;;;;;;;x
 b_desert_oasis;Desert Oasis;Desert Oasis;Desert Oasis;;Desert Oasis;;;;;;;;;x
 b_desert_oasis_adj;Desert Oasisian;;Desert Oasiser;;;;;;;;;;;x
+b_desert_rock;Desert Rock;Desert Rock;Desert Rock;;Desert Rock;;;;;;;;;x
+b_desert_rock_adj;Desert Rockian;;Desert Rocker;;;;;;;;;;;x
 b_desert_wells;Desert Wells;Desert Wells;Desert Wells;;Desert Wells;;;;;;;;;x
 b_desert_wells_adj;Desert Wellsian;;Desert Wellser;;;;;;;;;;;x
 b_detroit;Detroit;Detroit;Detroit;;Detroit;;;;;;;;;x
@@ -6145,6 +6153,8 @@ b_indian_springs;Indian Springs;Indian Springs;Indian Springs;;Indian Springs;;;
 b_indian_springs_adj;Indian Springsian;;Indian Springser;;;;;;;;;;;x
 b_indian_springs_2;Indian Springs;Indian Springs;Indian Springs;;Indian Springs;;;;;;;;;x
 b_indian_springs_2_adj;Indian Springsian;;Indian Springser;;;;;;;;;;;x
+b_indian_springs_3;Indian Springs;Indian Springs;Indian Springs;;Indian Springs;;;;;;;;;x
+b_indian_springs_3_adj;Indian Springsian;;Indian Springser;;;;;;;;;;;x
 b_indian_valley;Indian Valley;Indian Valley;Indian Valley;;Indian Valley;;;;;;;;;x
 b_indian_valley_adj;Indian Valleian;;Indian Valleer;;;;;;;;;;;x
 b_indian_village;Indian Village;Indian Village;Indian Village;;Indian Village;;;;;;;;;x
@@ -8093,6 +8103,8 @@ b_merced;Merced;Merced;Merced;;Merced;;;;;;;;;x
 b_merced_adj;Mercedian;;merceder;;;;;;;;;;;x
 b_mercey;Mercey;Mercey;Mercey;;Mercey;;;;;;;;;x
 b_mercey_adj;Merceian;;merceer;;;;;;;;;;;x
+b_mercury;Mercury;Mercury;Mercury;;Mercury;;;;;;;;;x
+b_mercury_adj;Mercurian;;mercurer;;;;;;;;;;;x
 b_meredith;Meredith;Meredith;Meredith;;Meredith;;;;;;;;;x
 b_meredith_adj;Meredithian;;meredither;;;;;;;;;;;x
 b_meridian;Meridian;Meridian;Meridian;;Meridian;;;;;;;;;x
@@ -8627,6 +8639,8 @@ b_mt_angel;Mt Angel;Mt Angel;Mt Angel;;Mt Angel;;;;;;;;;x
 b_mt_angel_adj;Mt Angelian;;Mt Angeler;;;;;;;;;;;x
 b_mt_carmel;Mt Carmel;Mt Carmel;Mt Carmel;;Mt Carmel;;;;;;;;;x
 b_mt_carmel_adj;Mt Carmelian;;Mt Carmeler;;;;;;;;;;;x
+b_mt_charleston;Mt Charleston;Mt Charleston;Mt Charleston;;Mt Charleston;;;;;;;;;x
+b_mt_charleston_adj;Mt Charlestonian;;Mt Charlestoner;;;;;;;;;;;x
 b_mt_currie;Mt. Currie;Mt. Currie;Mt. Currie;;Mt. Currie;;;;;;;;;x
 b_mt_currie_adj;Mt. Curriean;;Mt. Currer;;;;;;;;;;;x
 b_mt_edna;Mt Edna;Mt Edna;Mt Edna;;Mt Edna;;;;;;;;;x
