@@ -15,7 +15,7 @@ b_plains = city
 #b_larchwood = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

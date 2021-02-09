@@ -15,7 +15,7 @@ b_harrison = city
 #b_renfrew = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

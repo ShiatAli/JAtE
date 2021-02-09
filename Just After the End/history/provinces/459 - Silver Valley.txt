@@ -15,7 +15,7 @@ b_pinehurst_3 = city
 #b_mullan = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

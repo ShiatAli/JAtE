@@ -15,7 +15,7 @@ b_newport_4 = castle
 #b_blueslide = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_post_falls = city
 #b_athol = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

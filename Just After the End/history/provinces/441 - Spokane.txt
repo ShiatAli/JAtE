@@ -15,7 +15,7 @@ b_town_and_country = city
 #b_logan_2 = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

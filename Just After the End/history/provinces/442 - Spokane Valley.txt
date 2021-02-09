@@ -15,7 +15,7 @@ b_miliwood = city
 #b_hutton = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

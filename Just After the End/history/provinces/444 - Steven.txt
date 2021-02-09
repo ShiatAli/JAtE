@@ -15,7 +15,7 @@ b_addy = city
 #b_bluecreek = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

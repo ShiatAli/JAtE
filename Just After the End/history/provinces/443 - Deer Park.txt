@@ -15,7 +15,7 @@ b_deer_park = castle
 #b_colbert = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

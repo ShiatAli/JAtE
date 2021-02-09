@@ -15,7 +15,7 @@ b_hunters = castle
 #b_tumtum = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

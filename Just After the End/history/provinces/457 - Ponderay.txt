@@ -15,7 +15,7 @@ b_ponderay = castle
 #b_samuel = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History

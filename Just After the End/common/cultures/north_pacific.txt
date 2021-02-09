@@ -157,59 +157,51 @@ north_pacific = {
 		color = { 0.6 0.4 0.7 }
 
 		male_names = {
-			Andy_Andrew Aiden Alf Aragorn Ape Ash Axe Autumn Aytch Az
-            Baedan Banner Bear Bird Bog Brick Bunch 
-            Cad Cats Caiden Cam Celeborn Cheer Chimp Creed Cod Corn Cube Cy 
-            Dannie_Daniel Deadcat Deer Decept Demitrius Denny Din Dog Door Douglas Dude
-            Elf Elk Elliot Emm
-            Faer Fern Fir Foam Fox Frog Futhark Fynn
-            Gam Garf Gin Gorn Grain Green
-            Ham Hayden Hill Hell Hogz House Hunter
-            Ian Ichor Ille
-            Jomms Justin Juice
-            Kael Kai Kipper Korrin Koss Kow
-            Lamm Lance Lean Logan Loyal Lynn
-            Max Mack-No Millet Minns Miso Mite Mountain Mob Moose Mouse 
-            Nemmie Noodle
-            Oats Ollie Oscar Osiris Otter Oxen
-            Panda Poll Pine Possum Purse Pug Pups
-            Quail Quinn 
-            Ram Raw Rats Red Ren Rogue Runner
-            Sam_Samuel Sol Sky Skyler Stool Synn
-            Tanner Tick Tiny Turis Twinks
-            Udon Urn 
-            Xie
-            Wheat
-            Zinn Zither
+			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
+			Bosko Boyle Brad Brandon Breen Brendan Brock
+			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
+			Dallas Damian Daniel Donald Douglass_Douglas Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
+			Hagen Hammond Henry Hud
+			Isaac
+			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kirk Kumail Kurt Kyle
+			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Nicholas Noah Norman
+			Obo Oort Orlando_Roland Oswalt_Oswald
+			Patton Peter Pharoah Pietro_Peter Powell Pratchett
+			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
+			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Terrell Tucker Tyler
+			Vincent
+			Wagner Warren Wash Wrick Wright 
 		}
 		female_names = {
-			Aya Air Ali Amber Ambrosia Apple Ash Arwen Autumn Axe Aynesli 
-			Baedan Bear Bee Bird Black Blackbird Bynn
-			Candy Cats_Catherine Cee Cici Chair Chaotia Clemmie_Clementine Cold Crow Crown Conns Courts Cup
-			Dannica Dance Demen Dark Day Dee Dino
-			Effie Egg Ell Emma Energy Enn Els Ex Eye 
-			Fae_Fay Fox Fynn
-			Gance Gina Goat Gon Green
-			Hay Hen Hell Hex
-			Ice Iris Isis Izzy
-			Jane Julie June 
-			Kalie Kin Kim Kitten Kizzie
-			Lane Len Lex Lillith Luca Lynn
-			Max May Mellie Monkey Mouse Mynnie
-			Nalls Nectar Ninn Nellie Night Nympth Nyx
-			Oats Onix Orange
-			Peach Pear Penny Pill Praxis Pynn
-			Quail
-			Raccoon Rat Raven Rain Raindrop Rennee Rhi_Riley Ryn
-			Sam_Samantha Sappho Snow Storm Sword
-			Tam Tan Tiger Tin
-			Umbra Ursula
-			Vikki_Victoria
-			Way Wolfie Well Wynn
-			Yennie Yuri Yyn
-			Zee Zizi Zoe
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
+			Becca_Rebecca Berry Beverly Brigitte_Bridget
+			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
+			Dana Dorothy
+			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
+			Fay Floscella
+			Genevieve Glory Greta Gretchen Gwen Galadriel
+			Haley Heather Hilda Hildegardt
+			Irine Iris Jacquiline
+			Jana Jane Jenny Jinx Joanna_Joan
+			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Nance_Nancy Natasha Nina
+			Olga Olivia
+			Penny
+			Raina Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
+			Tabitha Tiffeny Tonya
+			Valerie_Valeria Vanessa Veronica
+			Zooey_Zoe 
 		}
-
 
 		from_dynasty_prefix = ""
 		
@@ -1073,380 +1065,7 @@ north_pacific = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
-	
-	inlander = {
-		dukes_called_kings = yes
-		
-		graphical_cultures = { canadiangfx whitepacificgfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
-		
-		color = { 0.25 0.35 0.55 }
-		
-		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
-		}
-		
-		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
-		}
-		
-		from_dynasty_prefix = ""
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
-		
-		feminist = yes
-		modifier = default_culture_modifier
-	}
-	eastsloper = {
-		dukes_called_kings = yes
-		
-		graphical_cultures = { canadiangfx whitepacificgfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
-		
-		color = { 0.13 0.32 0.51 }
-		
-		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
-		}
-		
-		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
-		}
-		
-		from_dynasty_prefix = ""
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
-		
-		feminist = yes
-		modifier = default_culture_modifier
-	}
-	juniperian = {
-		dukes_called_kings = yes
-		
-		graphical_cultures = { canadiangfx whitepacificgfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
-		
-		color = { 84 95 71 }
-		
-		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
-		}
-		
-		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
-		}
-		
-		from_dynasty_prefix = ""
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
-		
-		feminist = yes
-		modifier = default_culture_modifier
-	}
-	meseteno = {
-		graphical_cultures = { vaquerogfx }
-		unit_graphical_cultures = { andalusiangfx southerngfx }
 
-		color = { 0.85 0.70 0.0 }
-
-		male_names = {
-			Almaron Alexandro_Alexander Antonio_Anthony Alberto_Albert Andrés_Andrew Abraham_Abraham Armando_Herman Agustin_Augustine Alonso_Alphonse
-			Brigido Baldemar Bernardo_Bernard Bautista
-			Carlos_Charles
-			Damacio Domingo_Dominic
-			Emilio_Aemilius Eduardo_Edward Erasmo_Erasmus Esteban_Stephen Elizondo
-			Fernando_Ferdinand Francisco_Francis Flaco
-			Gregorio_Gregory Gory Gaspar_Caspar Garcia
-			Ignacio_Ignatius Ildefonso
-			Juan_John Jorge_George José_Joseph Jesús_Jesus
-			Luis_Louis Lorenzo_Lawrence León_Leon
-			Marcos_Mark Manuel_Emmanuel Mariano_Marianus Martino_Martin Marciel Miguel_Michael
-			Pancho_Francis
-			Raul_Ralph Roberto_Robert Ramón_Raymond Rodrigo_Roderick Rafael_Raphael
-			Santos Seguín Serpario Salvador_Salvador Sebastián_Sebastian
-			Tuco Tomás_Thomas Terán Teodoro_Theodore
-			Vicente_Vincent Valente_Valentine
-			Xavier_Xavier
-		}
-
-		female_names = {
-			Adina Alexis Audi Angelina_Angela
-			Carla_Charlotte
-			Devendra
-			Eva Elida Emilia_Amelia Elsa
-			Jennifer Jaci Jade Justina
-			Linda Lupa Lydia
-			Marcella Margarita_Margaret Michell_Michelle María_Mary
-			Nina Nona
-			Paulina
-			Raini Rebecca Rosa_Rose
-			Selena Susana_Susan
-			Victoria_Victoria
-		}
-
-		from_dynasty_prefix = "de "
-
-		male_patronym = "hijo de "
-		female_patronym = "hija de "
-		prefix = yes
-
-		pat_grf_name_chance = 45
-		mat_grf_name_chance = 15
-		father_name_chance = 30
-
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 10
-		mother_name_chance = 40
-
-		modifier = default_culture_modifier
-	}
-	tricitian = {
-		dukes_called_kings = yes
-		
-		graphical_cultures = { canadiangfx whitepacificgfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
-		
-		color = { 220 20 60 }
-		
-		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
-		}
-		
-		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
-		}
-		
-		from_dynasty_prefix = ""
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
-		
-		feminist = yes
-		modifier = default_culture_modifier
-	}
-	palouse = {
-		dukes_called_kings = yes
-		
-		graphical_cultures = { canadiangfx whitepacificgfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
-		
-		color = { 220 20 60 }
-		
-		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
-		}
-		
-		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
-		}
-		
-		from_dynasty_prefix = ""
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
-		
-		feminist = yes
-		modifier = default_culture_modifier
-	}
-	
 	alaskan = {
 		graphical_cultures = { canadiangfx whitepacificgfx }
 		unit_graphical_cultures = { englishgfx saxongfx }

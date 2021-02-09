@@ -15,7 +15,7 @@ b_superior = castle
 #b_cabin_city = castle
 
 # Misc
-culture = inlander
+culture = panhandler
 religion = gaian
 
 #History
