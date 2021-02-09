@@ -15,7 +15,7 @@ b_lima = castle
 #b_timber_butte = castle
 
 # Misc
-culture = mountainer
+culture = montanan
 religion = mormon
 
 #History

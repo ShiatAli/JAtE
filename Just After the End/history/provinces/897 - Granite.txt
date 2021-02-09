@@ -15,7 +15,7 @@ b_philipsburg = castle
 #b_new_chicago = castle
 
 # Misc
-culture = prairielander
+culture = montanan
 religion = trailwalker
 
 #History

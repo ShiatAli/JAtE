@@ -1,7 +1,7 @@
-# c_cascadia
+# c_sweet_home
 
 # County Title
-title = c_cascadia
+title = c_sweet_home
 
 # Settlements
 max_settlements = 4

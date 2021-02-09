@@ -15,7 +15,7 @@ b_dillon_2 = castle
 #b_hoffman = castle
 
 # Misc
-culture = mountainer
+culture = montanan
 religion = mormon
 
 #History

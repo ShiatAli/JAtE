@@ -15,7 +15,7 @@ b_gardiner_3 = castle
 #b_pray = castle
 
 # Misc
-culture = mountainer
+culture = montanan
 religion = gaian
 
 #History

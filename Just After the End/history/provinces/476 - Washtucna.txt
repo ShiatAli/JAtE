@@ -15,7 +15,7 @@ b_washtucna = castle
 #b_dusty = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

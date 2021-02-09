@@ -7615,14 +7615,14 @@ e_idaho = {
 	color2={ 255 255 20 }
 	
 	capital = 732 # c_ada
-	culture = mountainer
+	culture = boisean
 	
 	k_west_snake = {
 		color={ 34 61 201 }
 		color2={ 255 255 255 }
 		
 		capital = 732 # c_ada
-		culture = mountainer
+		culture = boisean
 		
 		d_boise_canyon = {
 			color={ 14 81 191 }
@@ -8164,7 +8164,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 756 # c_bonneville
-		culture = mountainer
+		culture = snakemen
 		
 		d_idaho_falls = {
 			color={ 77 203 226 }
@@ -9038,7 +9038,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 794 # c_mountain_home
-		culture = mountainer
+		culture = boisean
 		
 		d_elmore = {
 			color={ 71 192 177 }
@@ -9224,7 +9224,7 @@ e_idaho = {
 		color2={ 255 255 255 }
 		
 		capital = 779 # c_challis
-		culture = mountainer
+		culture = sawtooth
 		
 		d_custer = {
 			color={ 138 227 61 }
@@ -9446,9 +9446,9 @@ e_idaho = {
 					any_demesne_province = { OR = { province_id = 788 province_id = 789 province_id = 790 province_id = 791 province_id = 792 province_id = 793 } }
 				}
 			}
-			capital = 788 # c_boise
+			capital = 788 # c_idaho_city
 			
-			c_boise = { # 788
+			c_idaho_city = { # 788
 				color={ 187 24 187 }
 				color2={ 255 255 255 }
 				
@@ -10790,14 +10790,14 @@ e_lincoln = {
 	color2={ 255 255 20 }
 	
 	capital = 441 # c_spokane
-	culture = inlander
+	culture = panhandler
 	
 	k_spokane = {
 		color={ 129 239 28 }
 		color2={ 255 255 255 }
 		
 		capital = 441 # c_spokane
-		culture = inlander
+		culture = panhandler
 		
 		d_lilac = {
 			color={ 109 3 18 }
@@ -11157,7 +11157,7 @@ e_lincoln = {
 		capital = 494 # c_walla_walla
 		culture = palouse
 		
-		d_bluewood = {
+		d_wallawalla = {
 			color={ 67 39 217 }
 			color2={ 255 255 255 }
 			
@@ -11424,7 +11424,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 456 # c_coeur_dalene
-		culture = inlander
+		culture = panhandler
 		
 		d_pend_oreille = {
 			color={ 150 27 42 }
@@ -11871,7 +11871,7 @@ e_lincoln = {
 		color2={ 255 255 255 }
 		
 		capital = 475 # c_franklin
-		culture = inlander
+		culture = tricitian
 		
 		d_franklin = {
 			color={ 150 251 10 }
@@ -16192,7 +16192,7 @@ e_oregon = {
 				}
 			}
 		}
-		d_limm = {
+		d_linn = {
 			color={ 160 156 172 }
 			color2={ 255 255 255 }
 			
@@ -16242,25 +16242,6 @@ e_oregon = {
 				b_bellfountain = {
 				}
 			}
-			c_cascadia = { # 357
-				color={ 197 174 203 }
-				color2={ 255 255 255 }
-				
-				b_cascadia = {
-				}
-				b_upper_soda = {
-				}
-				b_marion_fork = {
-				}
-				b_detroit = {
-				}
-				b_gates = {
-				}
-				b_lyons = {
-				}
-				b_mill_city = {
-				}
-			}
 			c_eugene = { # 359
 				color={ 111 122 148 }
 				color2={ 255 255 255 }
@@ -16278,6 +16259,25 @@ e_oregon = {
 				b_mohawk = {
 				}
 				b_irving = {
+				}
+			}
+			c_sweet_home = { # 357
+				color={ 197 174 203 }
+				color2={ 255 255 255 }
+				
+				b_cascadia = {
+				}
+				b_upper_soda = {
+				}
+				b_marion_fork = {
+				}
+				b_detroit = {
+				}
+				b_gates = {
+				}
+				b_lyons = {
+				}
+				b_mill_city = {
 				}
 			}
 		}
@@ -23051,14 +23051,14 @@ e_yellowstone = {
 	color2={ 255 255 20 }
 	
 	capital = 862 # c_yellowstone
-	culture = mountainer
+	culture = ranger
 	
 	k_wonderland = {
 		color={ 124 164 119 }
 		color2={ 255 255 255 }
 		
 		capital = 862 # c_yellowstone
-		culture = mountainer
+		culture = ranger
 		
 		d_old_faithful = {
 			color={ 144 144 129 }
@@ -23615,7 +23615,7 @@ e_yellowstone = {
 		color2={ 255 255 255 }
 		
 		capital = 874 # c_montpelier
-		culture = mountainer
+		culture = ranger
 		
 		d_bridger = {
 			color={ 128 34 49 }

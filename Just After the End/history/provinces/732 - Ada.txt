@@ -15,7 +15,7 @@ b_boise = castle
 #b_hidden_springs = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = gaian
 
 #History

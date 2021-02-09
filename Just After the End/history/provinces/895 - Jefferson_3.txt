@@ -15,7 +15,7 @@ b_boulder_4 = castle
 #b_comet = castle
 
 # Misc
-culture = prairielander
+culture = montanan
 religion = trailwalker
 
 #History

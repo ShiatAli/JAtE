@@ -35,6 +35,7 @@ orcan;Orcan;;;;;;;;;;;;;x
 skagitan;Skagitan;;;;;;;;;;;;;x
 vestmenn;Vestmenn;;;;;;;;;;;;;x
 
+inland_northwest;Inlander;;;;;;;;;;;;;x
 eastsloper;Eastsloper;;;;;;;;;;;;;x
 juniperian;Juniperian;;;;;;;;;;;;;x
 boisean;Boisean;;;;;;;;;;;;;x
@@ -42,6 +43,13 @@ bluemen;Blue-Men;;;;;;;;;;;;;x
 meseteno;Meseteño;;;;;;;;;;;;;x
 tricitian;Tricitian;;;;;;;;;;;;;x
 palouse;Palouse;;;;;;;;;;;;;x
+panhandler;Panhandler;;;;;;;;;;;;;x
+sawtooth;Sawtooth;;;;;;;;;;;;;x
+snakemen;Snakemen;;;;;;;;;;;;;x
+ranger;Ranger;;;;;;;;;;;;;x
+
+#Prairelander Cultures
+montanan;Montanan;;;;;;;;;;;;;x
 
 #Native Cultures
 yakama;Yakama;;;;;;;;;;;;;x

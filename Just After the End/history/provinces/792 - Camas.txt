@@ -15,7 +15,7 @@ b_fairfield_3 = castle
 #b_castle_rocks = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

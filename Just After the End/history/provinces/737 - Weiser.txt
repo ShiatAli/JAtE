@@ -15,7 +15,7 @@ b_weiser = castle
 #b_goodrich = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = gaian
 
 #History

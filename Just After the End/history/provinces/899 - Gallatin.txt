@@ -15,7 +15,7 @@ b_belgrade = city
 #b_logan_4 = castle
 
 # Misc
-culture = prairielander
+culture = montanan
 religion = trailwalker
 
 #History

@@ -15,7 +15,7 @@ b_baker_city = castle
 #b_medical_springs = castle
 
 # Misc
-culture = mountainer
+culture = bluemen
 religion = gaian
 
 #History

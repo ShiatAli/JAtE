@@ -1,7 +1,7 @@
-# c_boise
+# c_idaho_city
 
 # County Title
-title = c_boise
+title = c_idaho_city
 
 # Settlements
 max_settlements = 3
@@ -15,7 +15,7 @@ b_idaho_city = castle
 #b_pioneerville = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

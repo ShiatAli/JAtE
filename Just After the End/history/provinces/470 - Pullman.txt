@@ -15,7 +15,7 @@ b_colfax = city
 #b_colton_2 = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

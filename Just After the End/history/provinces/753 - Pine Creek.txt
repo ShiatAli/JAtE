@@ -15,7 +15,7 @@ b_halfway = castle
 #b_carson_4 = castle
 
 # Misc
-culture = mountainer
+culture = bluemen
 religion = gaian
 
 #History

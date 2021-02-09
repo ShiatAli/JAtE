@@ -15,7 +15,7 @@ b_mccall = castle
 #b_lake_fork = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = gaian
 
 #History

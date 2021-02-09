@@ -15,7 +15,7 @@ b_butte = castle
 #b_nissler = castle
 
 # Misc
-culture = prairielander
+culture = montanan
 religion = trailwalker
 
 #History

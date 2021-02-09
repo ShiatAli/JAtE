@@ -15,7 +15,7 @@ b_glenns_ferry = castle
 #b_sparlin = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

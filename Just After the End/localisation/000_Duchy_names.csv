@@ -49,8 +49,6 @@ d_bingham;Bingham;Bingham;Bingham;;Bingham;;;;;;;;;x
 d_bingham_adj;Binghamian;;binghamer;;;;;;;;;;;x
 d_biosfera;Biosfera;Biosfera;Biosfera;;Biosfera;;;;;;;;;x
 d_biosfera_adj;Biosferan;;biosferer;;;;;;;;;;;x
-d_bluewood;Bluewood;Bluewood;Bluewood;;Bluewood;;;;;;;;;x
-d_bluewood_adj;Bluewoodian;;bluewooder;;;;;;;;;;;x
 d_boise_canyon;Boise Canyon;Boise Canyon;Boise Canyon;;Boise Canyon;;;;;;;;;x
 d_boise_canyon_adj;Boise Canyonian;;Boise Canyoner;;;;;;;;;;;x
 d_boulder;Boulder;Boulder;Boulder;;Boulder;;;;;;;;;x
@@ -287,10 +285,10 @@ d_lewis;Lewis;Lewis;Lewis;;Lewis;;;;;;;;;x
 d_lewis_adj;Lewisian;;lewiser;;;;;;;;;;;x
 d_lilac;Lilac;Lilac;Lilac;;Lilac;;;;;;;;;x
 d_lilac_adj;Lilacian;;lilacer;;;;;;;;;;;x
-d_limm;Limm;Limm;Limm;;Limm;;;;;;;;;x
-d_limm_adj;Limmian;;limmer;;;;;;;;;;;x
 d_lincoln;Lincoln;Lincoln;Lincoln;;Lincoln;;;;;;;;;x
 d_lincoln_adj;Lincolnian;;lincolner;;;;;;;;;;;x
+d_linn;Linn;Linn;Linn;;Linn;;;;;;;;;x
+d_linn_adj;Linnian;;linner;;;;;;;;;;;x
 d_little_colorado;Little Colorado;Little Colorado;Little Colorado;;Little Colorado;;;;;;;;;x
 d_little_colorado_adj;Little Coloradian;;Little Colorader;;;;;;;;;;;x
 d_loreto;Loreto;Loreto;Loreto;;Loreto;;;;;;;;;x
@@ -561,6 +559,8 @@ d_valhalla;Valhalla;Valhalla;Valhalla;;Valhalla;;;;;;;;;x
 d_valhalla_adj;Valhallan;;valhaller;;;;;;;;;;;x
 d_ventura;Ventura;Ventura;Ventura;;Ventura;;;;;;;;;x
 d_ventura_adj;Venturan;;venturer;;;;;;;;;;;x
+d_wallawalla;Wallawalla;Wallawalla;Wallawalla;;Wallawalla;;;;;;;;;x
+d_wallawalla_adj;Wallawallan;;wallawaller;;;;;;;;;;;x
 d_wallowa;Wallowa;Wallowa;Wallowa;;Wallowa;;;;;;;;;x
 d_wallowa_adj;Wallowan;;wallower;;;;;;;;;;;x
 d_warner;Warner;Warner;Warner;;Warner;;;;;;;;;x

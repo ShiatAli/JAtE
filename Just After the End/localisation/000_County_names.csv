@@ -163,8 +163,6 @@ c_blythe;Blythe;Blythe;Blythe;;Blythe;;;;;;;;;x
 c_blythe_adj;Blythean;;blyther;;;;;;;;;;;x
 c_bodega_bay;Bodega Bay;Bodega Bay;Bodega Bay;;Bodega Bay;;;;;;;;;x
 c_bodega_bay_adj;Bodega Baian;;Bodega Baer;;;;;;;;;;;x
-c_boise;Boise;Boise;Boise;;Boise;;;;;;;;;x
-c_boise_adj;Boisean;;boiser;;;;;;;;;;;x
 c_bonaza;Bonaza;Bonaza;Bonaza;;Bonaza;;;;;;;;;x
 c_bonaza_adj;Bonazan;;bonazer;;;;;;;;;;;x
 c_bonneville;Bonneville;Bonneville;Bonneville;;Bonneville;;;;;;;;;x
@@ -269,8 +267,6 @@ c_carson;Carson;Carson;Carson;;Carson;;;;;;;;;x
 c_carson_adj;Carsonian;;carsoner;;;;;;;;;;;x
 c_cascade_valley;Cascade Valley;Cascade Valley;Cascade Valley;;Cascade Valley;;;;;;;;;x
 c_cascade_valley_adj;Cascade Valleian;;Cascade Valleer;;;;;;;;;;;x
-c_cascadia;Cascadia;Cascadia;Cascadia;;Cascadia;;;;;;;;;x
-c_cascadia_adj;Cascadian;;cascader;;;;;;;;;;;x
 c_castlegar;Castlegar;Castlegar;Castlegar;;Castlegar;;;;;;;;;x
 c_castlegar_adj;Castlegarian;;castlegarer;;;;;;;;;;;x
 c_catalina_island;Catalina Island;Catalina Island;Catalina Island;;Catalina Island;;;;;;;;;x
@@ -781,6 +777,8 @@ c_huntington;Huntington;Huntington;Huntington;;Huntington;;;;;;;;;x
 c_huntington_adj;Huntingtonian;;huntingtoner;;;;;;;;;;;x
 c_idaho;Idaho;Idaho;Idaho;;Idaho;;;;;;;;;x
 c_idaho_adj;Idahian;;idaher;;;;;;;;;;;x
+c_idaho_city;Idaho city;Idaho city;Idaho city;;Idaho city;;;;;;;;;x
+c_idaho_city_adj;Idaho citian;;Idaho citer;;;;;;;;;;;x
 c_idria;Idria;Idria;Idria;;Idria;;;;;;;;;x
 c_idria_adj;Idrian;;idrer;;;;;;;;;;;x
 c_idyllwild;Idyllwild;Idyllwild;Idyllwild;;Idyllwild;;;;;;;;;x
@@ -1789,6 +1787,8 @@ c_swan_valley;Swan Valley;Swan Valley;Swan Valley;;Swan Valley;;;;;;;;;x
 c_swan_valley_adj;Swan Valleian;;Swan Valleer;;;;;;;;;;;x
 c_sweet_grass;Sweet Grass;Sweet Grass;Sweet Grass;;Sweet Grass;;;;;;;;;x
 c_sweet_grass_adj;Sweet Grassian;;Sweet Grasser;;;;;;;;;;;x
+c_sweet_home;Sweet Home;Sweet Home;Sweet Home;;Sweet Home;;;;;;;;;x
+c_sweet_home_adj;Sweet Homean;;Sweet Homer;;;;;;;;;;;x
 c_tacoma;Tacoma;Tacoma;Tacoma;;Tacoma;;;;;;;;;x
 c_tacoma_adj;Tacoman;;tacomer;;;;;;;;;;;x
 c_taft;Taft;Taft;Taft;;Taft;;;;;;;;;x
@@ -1985,8 +1985,8 @@ c_whitman;Whitman;Whitman;Whitman;;Whitman;;;;;;;;;x
 c_whitman_adj;Whitmanian;;whitmaner;;;;;;;;;;;x
 c_wikiup;Wikiup;Wikiup;Wikiup;;Wikiup;;;;;;;;;x
 c_wikiup_adj;Wikiupian;;wikiuper;;;;;;;;;;;x
-c_wild_horse;Wild horse;Wild horse;Wild horse;;Wild horse;;;;;;;;;x
-c_wild_horse_adj;Wild horsean;;Wild horser;;;;;;;;;;;x
+c_wild_horse;Wild Horse;Wild Horse;Wild Horse;;Wild Horse;;;;;;;;;x
+c_wild_horse_adj;Wild Horsean;;Wild Horser;;;;;;;;;;;x
 c_wilkesboro;Wilkesboro;Wilkesboro;Wilkesboro;;Wilkesboro;;;;;;;;;x
 c_wilkesboro_adj;Wilkesborian;;wilkesborer;;;;;;;;;;;x
 c_willits;Willits;Willits;Willits;;Willits;;;;;;;;;x

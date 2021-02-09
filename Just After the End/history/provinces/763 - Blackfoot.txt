@@ -15,7 +15,7 @@ b_blackfoot = castle
 #b_basalt_2 = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

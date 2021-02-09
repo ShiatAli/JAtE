@@ -15,7 +15,7 @@ b_burley = castle
 #b_view = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

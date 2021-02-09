@@ -15,7 +15,7 @@ b_bridgeport = castle
 #b_leahy = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

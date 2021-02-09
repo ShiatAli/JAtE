@@ -15,7 +15,7 @@ b_troy_3 = castle
 #b_mountain_view_2 = castle
 
 # Misc
-culture = mountainer
+culture = bluemen
 religion = gaian
 
 #History

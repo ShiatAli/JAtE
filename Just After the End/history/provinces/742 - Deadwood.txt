@@ -15,7 +15,7 @@ b_deadwood = castle
 #b_lodgepole_creek = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = gaian
 
 #History

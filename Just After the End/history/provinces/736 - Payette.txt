@@ -15,7 +15,7 @@ b_payette = castle
 #b_sweet = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = gaian
 
 #History

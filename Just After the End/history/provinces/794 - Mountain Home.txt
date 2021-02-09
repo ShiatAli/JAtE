@@ -15,7 +15,7 @@ b_mountain_home = castle
 #b_wilkins = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_seven_bays = city
 #b_lincoln = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

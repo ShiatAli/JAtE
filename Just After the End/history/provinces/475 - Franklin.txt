@@ -15,7 +15,7 @@ b_pasco = castle
 #b_basin_city = castle
 
 # Misc
-culture = inlander
+culture = tricitian
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_grover = city
 #b_water_canyon_2 = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = mormon
 
 #History

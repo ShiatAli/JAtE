@@ -15,7 +15,7 @@ b_challis = castle
 #b_grouse_2 = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_sprague = castle
 #b_lacrosse = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_twin_falls = castle
 #b_murtaugh = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

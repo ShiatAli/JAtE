@@ -15,7 +15,7 @@ b_gooding = castle
 #b_pioneer_2 = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

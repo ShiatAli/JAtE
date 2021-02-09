@@ -15,7 +15,7 @@ b_cooke_city = castle
 #b_tower_falls = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = gaian
 
 #History

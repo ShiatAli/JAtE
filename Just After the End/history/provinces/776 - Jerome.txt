@@ -15,7 +15,7 @@ b_jerome = castle
 #b_clover_creek = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

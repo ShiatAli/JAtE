@@ -15,7 +15,7 @@ b_leadore = castle
 #b_sal_mountain = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

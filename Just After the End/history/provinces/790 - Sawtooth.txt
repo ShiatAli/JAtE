@@ -15,7 +15,7 @@ b_galena = castle
 #b_obsidian = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

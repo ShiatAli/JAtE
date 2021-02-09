@@ -15,7 +15,7 @@ b_nampa = castle
 #b_stradley = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = gaian
 
 #History

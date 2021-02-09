@@ -15,7 +15,7 @@ b_homedale = castle
 #b_van_es = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = gaian
 
 #History

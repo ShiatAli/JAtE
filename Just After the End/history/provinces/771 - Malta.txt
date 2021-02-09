@@ -15,7 +15,7 @@ b_malta = castle
 #b_sublett = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

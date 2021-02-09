@@ -15,7 +15,7 @@ b_virginia_city = castle
 #b_mcallister = castle
 
 # Misc
-culture = mountainer
+culture = montanan
 religion = mormon
 
 #History

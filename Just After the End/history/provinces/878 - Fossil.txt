@@ -15,7 +15,7 @@ b_diamondville = city
 #b_geneva_2 = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = mormon
 
 #History

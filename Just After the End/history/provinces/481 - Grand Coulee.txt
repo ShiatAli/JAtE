@@ -15,7 +15,7 @@ b_electric_city = city
 #b_wilson_creek = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

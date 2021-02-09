@@ -15,7 +15,7 @@ b_warren_3 = castle
 #b_hot_springs_3 = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = gaian
 
 #History

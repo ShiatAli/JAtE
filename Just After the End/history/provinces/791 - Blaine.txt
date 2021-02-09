@@ -15,7 +15,7 @@ b_hailey = castle
 #b_triumph = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

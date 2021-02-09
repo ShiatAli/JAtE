@@ -15,7 +15,7 @@ b_oreana = temple
 #b_wilson = castle
 
 # Misc
-culture = mountainer
+culture = juniperian
 religion = mormon
 
 #History

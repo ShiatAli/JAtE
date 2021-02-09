@@ -15,7 +15,7 @@ b_idaho_falls = city
 #b_ririe = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

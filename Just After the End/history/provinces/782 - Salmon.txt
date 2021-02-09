@@ -15,7 +15,7 @@ b_salmon = castle
 #b_copperhead = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

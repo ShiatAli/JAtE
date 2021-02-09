@@ -15,7 +15,7 @@ b_waterville = castle
 #b_withrow = castle
 
 # Misc
-culture = inlander
+culture = meseteno
 religion = gaian
 
 #History

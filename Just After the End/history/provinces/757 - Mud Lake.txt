@@ -15,7 +15,7 @@ b_dubois = castle
 #b_humphrey = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

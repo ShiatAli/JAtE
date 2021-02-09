@@ -15,7 +15,7 @@ b_rock_springs_3 = castle
 #b_farson = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = mormon
 
 #History

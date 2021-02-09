@@ -15,7 +15,7 @@ b_pocatello = castle
 #b_mink = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

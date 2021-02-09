@@ -15,7 +15,7 @@ b_moses_lake = city
 #b_winchester_2 = castle
 
 # Misc
-culture = inlander
+culture = meseteno
 religion = gaian
 
 #History

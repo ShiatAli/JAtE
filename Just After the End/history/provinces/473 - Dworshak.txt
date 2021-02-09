@@ -15,7 +15,7 @@ b_deary = city
 #b_bovill = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

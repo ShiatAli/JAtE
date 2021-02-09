@@ -15,7 +15,7 @@ b_kalispell = castle
 #b_creston_2 = castle
 
 # Misc
-culture = inlander
+culture = ktunaxa
 religion = gaian
 
 #History

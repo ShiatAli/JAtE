@@ -203,7 +203,7 @@ californian = {
 		graphical_cultures = { whitepacificgfx }
 		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
 
-		color = { 111 45 168 }
+		color = { 121 145 168 }
 
 		male_names = {
 			Abrams_Abraham Adam_Adam Al_Albert Alan_Alan Albert_Albert Alex_Alexander Alfred_Alfred Andrew_Andrew Ansel Anthony_Anthony Arguello Ari Armistead Arthur_Arthur Ashby Ajay

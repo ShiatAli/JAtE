@@ -15,7 +15,7 @@ b_stanley = castle
 #b_potato_mountain = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = mormon
 
 #History

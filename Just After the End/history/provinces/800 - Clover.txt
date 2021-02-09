@@ -15,7 +15,7 @@ b_jarbridge = castle
 #b_hicks_mountain = castle
 
 # Misc
-culture = mountainer
+culture = juniperian
 religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_leesburg = castle
 #b_ulysses = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = gaian
 
 #History

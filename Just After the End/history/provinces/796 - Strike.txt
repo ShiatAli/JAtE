@@ -15,7 +15,7 @@ b_bruneau = castle
 #b_snake_bird = castle
 
 # Misc
-culture = mountainer
+culture = juniperian
 religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_rockland_2 = castle
 #b_east_fork = castle
 
 # Misc
-culture = mountainer
+culture = snakemen
 religion = mormon
 
 #History

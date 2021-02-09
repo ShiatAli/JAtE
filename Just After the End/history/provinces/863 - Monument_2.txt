@@ -15,7 +15,7 @@ b_grant_3 = castle
 #b_cabin_creek = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = gaian
 
 #History

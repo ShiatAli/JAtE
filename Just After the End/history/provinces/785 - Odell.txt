@@ -15,7 +15,7 @@ b_wisdom = castle
 #b_torrey_2 = castle
 
 # Misc
-culture = mountainer
+culture = montanan
 religion = mormon
 
 #History

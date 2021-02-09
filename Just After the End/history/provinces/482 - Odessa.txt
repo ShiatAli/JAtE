@@ -15,7 +15,7 @@ b_ritzville = city
 #b_schrag = castle
 
 # Misc
-culture = inlander
+culture = palouse
 religion = gaian
 
 #History

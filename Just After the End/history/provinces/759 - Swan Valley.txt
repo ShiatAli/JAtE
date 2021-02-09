@@ -15,7 +15,7 @@ b_irwin_2 = castle
 #b_baldy = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = mormon
 
 #History

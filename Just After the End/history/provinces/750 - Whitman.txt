@@ -15,7 +15,7 @@ b_imnaha = castle
 #b_getta = castle
 
 # Misc
-culture = mountainer
+culture = bluemen
 religion = gaian
 
 #History

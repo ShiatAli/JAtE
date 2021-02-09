@@ -15,7 +15,7 @@ b_wallowa = castle
 #b_doc_creek = castle
 
 # Misc
-culture = mountainer
+culture = bluemen
 religion = gaian
 
 #History

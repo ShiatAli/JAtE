@@ -15,7 +15,7 @@ b_kamiah = castle
 #b_greer = castle
 
 # Misc
-culture = mountainer
+culture = nez_perce
 religion = gaian
 
 #History

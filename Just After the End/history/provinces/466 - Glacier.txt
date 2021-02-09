@@ -15,7 +15,7 @@ b_west_glacier = castle
 #b_summit_2 = castle
 
 # Misc
-culture = inlander
+culture = ktunaxa
 religion = gaian
 
 #History

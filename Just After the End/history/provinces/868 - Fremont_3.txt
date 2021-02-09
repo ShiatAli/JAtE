@@ -15,7 +15,7 @@ b_wilford = city
 #b_chester_3 = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = gaian
 
 #History

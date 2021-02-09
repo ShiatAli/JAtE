@@ -15,7 +15,7 @@ b_elk_city = castle
 #b_pilot_knob = castle
 
 # Misc
-culture = mountainer
+culture = nez_perce
 religion = gaian
 
 #History

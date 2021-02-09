@@ -15,7 +15,7 @@ b_parma_3 = castle
 #b_sunnyslope_2 = castle
 
 # Misc
-culture = mountainer
+culture = boisean
 religion = gaian
 
 #History

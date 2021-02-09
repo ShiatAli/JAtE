@@ -15,7 +15,7 @@ b_riggins = castle
 #b_he_devil = castle
 
 # Misc
-culture = mountainer
+culture = sawtooth
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_pierce = city
 #b_east_kamiah = castle
 
 # Misc
-culture = inlander
+culture = sawtooth
 religion = gaian
 
 #History

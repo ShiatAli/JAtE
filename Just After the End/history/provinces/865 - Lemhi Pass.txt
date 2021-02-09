@@ -15,7 +15,7 @@ b_west_yellowstone = castle
 #b_madison_2 = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = gaian
 
 #History

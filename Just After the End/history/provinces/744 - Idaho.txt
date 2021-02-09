@@ -15,7 +15,7 @@ b_grangeville_2 = castle
 #b_clearwater_2 = castle
 
 # Misc
-culture = mountainer
+culture = nez_perce
 religion = gaian
 
 #History

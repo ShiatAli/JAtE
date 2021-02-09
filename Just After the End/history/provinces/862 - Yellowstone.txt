@@ -15,7 +15,7 @@ b_canyon_village = city
 #b_norris = castle
 
 # Misc
-culture = mountainer
+culture = ranger
 religion = gaian
 
 #History
