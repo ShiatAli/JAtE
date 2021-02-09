@@ -1768,7 +1768,51 @@ pacific = {
 		intermarry = qingzhen
 		intermarry = imamite
 	}
-	
+	blackcross = {
+		graphical_culture = norsegfx
+
+		icon = 87
+		heresy_icon = 87
+		
+		color = { 0 0 0 }
+		
+		interface_skin = { gaian_interface indian_interface muslim_interface }
+		
+		high_god_name = GOD_THE_MOTHERS
+		
+		god_names = {
+			GOD_MOTHER_ANARKEE GOD_MOTHER_GAIA GOD_CHAOS
+		}
+		evil_god_names = {
+			GOD_THE_MAN GOD_THE_PIGS GOD_THE_SNITCH
+		}
+		
+		feminist = yes
+		men_can_take_consorts = no
+		women_can_take_consorts = no
+		max_consorts = 0
+		allow_rivermovement = yes
+		allow_looting = yes
+		crusade_name = SQUATTING
+		scripture_name = THE_ZINE
+		priest_title = FRONTMAN
+		piety_name = CRED
+		can_demand_religious_conversion = yes
+		
+		aggression = 3.5
+		peace_prestige_loss = yes 	
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		raised_vassal_opinion_loss = no
+
+		religious_clothing_head = 16
+		religious_clothing_priest = 16
+		
+		intermarry = gaian
+		intermarry = shinto
+		intermarry = neognostic
+	}
 	gaian = {
 		graphical_culture = buddhistgfx
 
