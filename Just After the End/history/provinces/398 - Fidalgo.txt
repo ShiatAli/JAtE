@@ -15,7 +15,7 @@ b_swinomish_village = city
 #b_washington_park = castle
 
 # Misc
-culture = skagitan
+culture = orcan
 religion = gaian
 
 #History

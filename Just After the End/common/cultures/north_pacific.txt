@@ -514,50 +514,52 @@ north_pacific = {
 		color = { 0.1 0.6 0.1 }
 
 		male_names = {
-			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
-			Bosko Boyle Brad Brandon Breen Brendan Brock
-			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
-			Dallas Damian Daniel Donald Douglass_Douglas Dunn
-			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
-			Farel Faust Feldberg Francis Frank Fred_Frederick
-			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
-			Hagen Hammond Henry Hud
-			Isaac
-			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
-			Kaufman Keith Kirk Kumail Kurt Kyle
-			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
-			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Aaron Adam Allen_Alan Andrew Antony Alcibiades Apemantus Ashby 
+			Bagot Banquo Bardolph Boyle Brandon Brabantio Brendan Brutus 
+			Cato Capulet Caliban Canidius Casca Cassio Caesar Cicero Cinna Clive Collin_Colin Costard Claudius Creed Curtis Celeborn
+			Dallas Damian Daniel Dogberry Donpedro Donalbain Dunn
+			Ebbe Eckhart_Eckart Edward_Edward Egan Elliott_Elliot Ellis Enobarbus Emerson Engelbart_Englebert Eric Ernest Elrond
+			Farel Feste Fleance Fortinbras Francis 
+			Gabe_Gabriel Gaffer Glenn Gonzalo Graham Gray Greg_Gregory Gus Glorfindel Gildor Guildenstern
+			Hamlet Henry Horatio Hud 
+			Iago Isaac
+			Jaques_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
+			Kaufman Keith Kurt
+			Lance Laertes Lepidus Linus Logan Lou_Louis Lucas_Luke Legolas
+			Malcolm Malvolio Macbeth Mario_Marius Mark Marshall Matt_Matthew Menas Methuselah Mike_Michael Monte
 			Nicholas Noah Norman
-			Obo Oort Orlando_Roland Oswalt_Oswald
-			Patton Peter Pharoah Pietro_Peter Powell Pratchett
-			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
-			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
-			Terrell Tucker Tyler
-			Vincent
-			Wagner Warren Wash Wrick Wright 
+			Octavius Orlando_Roland Orsino Oswalt_Oswald Othello 
+			Patton Petruchio Pharoah Pietro_Peter Polonius Prospero
+			Ray_Raymond Roderigo_Robert Rosencrantz Rozz Rupp Ryan
+			Salim Sam_Samuel Scaurus Sean_John Shylock Simon Siward Steffan_Stephen Steve_Stephen Stewart Storm
+			Timon Titus Touchstone Tucker Tyler
+			Vincent Volumnius
+			Wagner Warren Wash Wrick Wright
+			Yorick
 		}
+		
 		female_names = {
-			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
-			Becca_Rebecca Berry Beverly Brigitte_Bridget
-			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
-			Dana Dorothy
-			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
-			Fay Floscella
-			Genevieve Glory Greta Gretchen Gwen Galadriel
-			Haley Heather Hilda Hildegardt
-			Irine Iris Jacquiline
-			Jana Jane Jenny Jinx Joanna_Joan
-			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
-			Laura Lindsay Lisa
-			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
+			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Ariel Arwen
+			Becca_Rebecca Beatrice Beverly Bianca Brigitte_Bridget
+			Caitlin Candice Calpurnia Carrie Catherine Celia Charmion Chloe Claire Cleopatra Cordelia Courtney
+			Dana Desdemona Dorothy
+			Edie Eleanor Ellen Emilia_Emily Erika_Erica Erin Esperanza Evelyn
+			Fae_Fay Floscella
+			Genevieve Glory Goneril Greta Gretchen Gwen Galadriel
+			Haley Heather Helena Hermia Hilda Hippolyta Hildegardt
+			Irine Iris Innogen 
+			Jacquiline Jane Jessica Joanna_Joan Julia
+			Katherina_Catherine Karey Katee Katie Katsu Katy Kristen Kristine
+			Laura Lindsay Lisa Lucetta
+			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Milan Miranda Molly
 			Nance_Nancy Natasha Nina
-			Olga Olivia
-			Penny
-			Raina Rose_Rose Roseanne_Roseanne
-			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
-			Tabitha Tiffeny Tonya
-			Valerie_Valeria Vanessa Veronica
-			Zooey_Zoe 
+			Octavia Olivia Ophelia
+			Penny Portia
+			Raina Regan Rosalind Rose_Rose Roseanne_Roseanne
+			Sally Sarah Shannon Sheila Shohreh Sierra Silvia Sophia Stephanie Susan Sycorax
+			Tabitha Tamora Titania Trebonius Tiffeny Tonya
+			Valerie_Valeria Vanessa Verona Veronica Viola 
+			Zoe
 		}
 
 		from_dynasty_prefix = ""
@@ -584,50 +586,55 @@ north_pacific = {
 		color = { 0.1 0.6 0.1 }
 
 		male_names = {
-			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
-			Bosko Boyle Brad Brandon Breen Brendan Brock
-			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
-			Dallas Damian Daniel Donald Douglass_Douglas Dunn
-			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
-			Farel Faust Feldberg Francis Frank Fred_Frederick
+			Aaron Aisayk_Issac Adam Akeeto Allyn_Alan Ayndru_Andrew Art_Arthur Ashby Aragorn Axel
+			Boyle Braxton Brayndon_Brandon Breen Brendan Brock
+			Caleb Carson Connor Cooper Crayg_Craig Cramer Crtiys_Curtist Celeborn
+			Dallas Damian Daniel Declan Dominic Douglass_Douglas Dylan Dunn
+			Ebbe Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Eric Elrond Ethan Evan
+			Farel Faust Feldberg Finn Fynn_Finn Fred_Frederick
 			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
-			Hagen Hammond Henry Hud
-			Isaac
-			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
-			Kaufman Keith Kirk Kumail Kurt Kyle
-			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
-			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
+			Hagen Hanuel Haingoll Hammond Henry Hud
+			Ian Isaac Ivar
+			Jaime_James Jayden_Jaden Jaxyn_Jackson Jarman Jason Jaye Jonathan Josh_Joshua Justyn_Justin
+			Kai Kazumee Keith Kyrk_Kirk Kollyin_Colin Konnor_Connor Kumail Kurt Kyle
+			Lance Leo Levi Liam Linus Linux Logan Logyn_Logan Lucas_Luke Legolas
+			Malcolm Mason Mateo Marcus_Mark Mariys_Marius Mark Marshall Matt_Matthew Miles Mike_Michael
 			Nicholas Noah Norman
-			Obo Oort Orlando_Roland Oswalt_Oswald
+			Owen Owyne_Owen
 			Patton Peter Pharoah Pietro_Peter Powell Pratchett
-			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
-			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
+			Ray_Raymond Robb_Robert Roe Ryan
+			Salim Sam_Samuel Seth Shepard Shinobu Simon Steffan_Stephen Stewart Storm Subaru
 			Terrell Tucker Tyler
 			Vincent
+			Xayvier
 			Wagner Warren Wash Wrick Wright 
+			Zacharyee_Zachary
 		}
 		female_names = {
-			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
-			Becca_Rebecca Berry Beverly Brigitte_Bridget
-			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
-			Dana Dorothy
-			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
-			Fay Floscella
-			Genevieve Glory Greta Gretchen Gwen Galadriel
-			Haley Heather Hilda Hildegardt
+			Abigail Aimee_Amy Alexandra Allison_Alison Amelia Amber Anna_Anne Aubrey Aria Areum Arwen Ava
+			Becca_Rebecca Berry Beverly Blake Brigitte_Bridget
+			Caitlin Camila Carrie Catherine Chloe Charlotte Cheeakee Claire Cora Corina Courtney
+			Dana
+			Eleanor Ellen Emma Emily Erika_Erica Erin Eris Esperanza Evelyn
+			Fae_Fay Freya
+			Genevieve Glory Gwen Galadriel
+			Haeyleigh_Haleigh Harper Heather Hilda Hildegardt
 			Irine Iris Jacquiline
 			Jana Jane Jenny Jinx Joanna_Joan
-			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
-			Laura Lindsay Lisa
-			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
-			Nance_Nancy Natasha Nina
-			Olga Olivia
-			Penny
-			Raina Rose_Rose Roseanne_Roseanne
-			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
-			Tabitha Tiffeny Tonya
+			Kaitlin Karey Katee Katie Katsu Kinsley Kim Khaleesi Kokoro Kristine
+			Laura Lisa Luna
+			Maria_Mary Marilyn Martina Maxine Maya Mel_Melanie Melissa Mercedes Meredith Micah Mia Michelle Mikki Miranda Moylly_Molly
+			Naomi Natuskee Nance_Nancy Natasha Nora Nina
+			Olivia
+			Penny Piper
+			Quinn
+			Raina Rei Rose_Rose Roseanne_Roseanne Rylee
+			Sarang Sakura Sally Sarah Savannah Shannon Sheila Shohreh Syerrae_Sierra Sophia Stephieny_Stephanie Susan
+			Tabitha Taylor Tiffeny Tonya
 			Valerie_Valeria Vanessa Veronica
-			Zooey_Zoe 
+			Willow
+			Yukee Yukeeko Yuree
+			Zoey_Zoe 
 		}
 
 		from_dynasty_prefix = ""
@@ -787,76 +794,7 @@ north_pacific = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
-	makah = {
-		graphical_cultures = { whitepacificgfx }
-		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
-		
-		color = { 0.4 0.2 0.1 }
-
-		male_names = {
-			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
-			Bosko Boyle Brad Brandon Breen Brendan Brock
-			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
-			Dallas Damian Daniel Donald Douglass_Douglas Dunn
-			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
-			Farel Faust Feldberg Francis Frank Fred_Frederick
-			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
-			Hagen Hammond Henry Hud
-			Isaac
-			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
-			Kaufman Keith Kirk Kumail Kurt Kyle
-			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
-			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
-			Nicholas Noah Norman
-			Obo Oort Orlando_Roland Oswalt_Oswald
-			Patton Peter Pharoah Pietro_Peter Powell Pratchett
-			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
-			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
-			Terrell Tucker Tyler
-			Vincent
-			Wagner Warren Wash Wrick Wright 
-		}
-		female_names = {
-			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
-			Becca_Rebecca Berry Beverly Brigitte_Bridget
-			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
-			Dana Dorothy
-			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
-			Fay Floscella
-			Genevieve Glory Greta Gretchen Gwen Galadriel
-			Haley Heather Hilda Hildegardt
-			Irine Iris Jacquiline
-			Jana Jane Jenny Jinx Joanna_Joan
-			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
-			Laura Lindsay Lisa
-			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
-			Nance_Nancy Natasha Nina
-			Olga Olivia
-			Penny
-			Raina Rose_Rose Roseanne_Roseanne
-			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
-			Tabitha Tiffeny Tonya
-			Valerie_Valeria Vanessa Veronica
-			Zooey_Zoe 
-		}
-
-		from_dynasty_prefix = ""
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance =15
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
-		
-		feminist = yes
-		modifier = default_culture_modifier
-	}
+	
 	orcan = {
 		graphical_cultures = { whitepacificgfx }
 		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
@@ -864,50 +802,58 @@ north_pacific = {
 		color = { 0.3 0.1 0.5 }
 
 		male_names = {
-			Aaron Adam Allen_Alan Andrew Art_Arthur Ashby Aragorn
-			Bosko Boyle Brad Brandon Breen Brendan Brock
-			Carr Clive Collin_Colin Corbett Craig Cramer Creed Curtis Celeborn
-			Dallas Damian Daniel Donald Douglass_Douglas Dunn
-			Ebbe Eckhart_Eckart Edward_Edward Egan Ehren Elliott_Elliot Ellis Emerson Engelbart_Englebert Eric Ernest Elrond
-			Farel Faust Feldberg Francis Frank Fred_Frederick
-			Gabe_Gabriel Gaffer Galen Garner Glenn Goldblum Gordon Graham Gray Greg_Gregory Gus Glorfindel Gildor Gandalf
-			Hagen Hammond Henry Hud
-			Isaac
-			Jack_John Jaime_James Jarman Jason Jay Jeff_Geoffrey Jello Jonathan Josh_Joshua Judd Justin
-			Kaufman Keith Kirk Kumail Kurt Kyle
-			Lance Lawrence Linus Linux Logan Lou_Louis Lucas_Luke Legolas
-			Malcolm Marcus_Mark Mario_Marius Mark Marshall Matt_Matthew Mel Methuselah Mike_Michael Monte
-			Nicholas Noah Norman
-			Obo Oort Orlando_Roland Oswalt_Oswald
-			Patton Peter Pharoah Pietro_Peter Powell Pratchett
-			Ray_Raymond Robb_Robert Roe Rozz Rupp Ryan
-			Salim Sam_Samuel Schoon Sean_John Shepard Simon Spike Steffan_Stephen Steve_Stephen Stewart Storm
-			Terrell Tucker Tyler
-			Vincent
-			Wagner Warren Wash Wrick Wright 
+			Alma August Avery
+			Basil Blaize Blue Brandon Breezy Bud Burgundy Buzz
+			Cade Carmen Casey Christian Clayton Cloud Cosmic Coyote 
+			Dancer Daydream Delorean Desert Dezra Dharma Dude Dusk Dylan
+			Earth Echo Ember Emerald Emmanuel Ethan Evaan
+			Fern Fillmore Flow Floyd Freedom 
+			Garcia 
+			Hail Heart Honesty 
+			Jaco Jan Jay Jazzerus Jerry Jon_John Joplin Jorma Journey Justice
+			Karma Keenak Kelsey Korin Kukka Kyle
+			Land Leary Lennon Lenzee Lief Logan Lyric
+			Marigold Marley Matthew Mich Mirakel Mist Moonshine Moss
+			Nico Nug
+			Ocean Om
+			Papers Patches Patchouli
+			Quentin Quince Quinn
+			Rayne Rayon Revolution Rex Rufus
+			Sebastian Shadow Skye Skylar Smiles Starr Sun "Sun Child" Sunshine
+			Terrie Thyme Timothy Trent Trey Tyler "Ty-Kurt"
+			Vine Vishnu 
+			Wind Windsong
+			Xavier 
+			Yuna
+			Zachary Zen Ziggie 
 		}
+		
 		female_names = {
-			Abigail Aimee_Amy Alexandra Allison_Alison Amanda Amber Angel_Angela Anna_Anne Aubrey Arwen
-			Becca_Rebecca Berry Beverly Brigitte_Bridget
-			Caitlin Candice Carrie Catherine Chloe Claire Cora Corina Courtney
-			Dana Dorothy
-			Edie Eleanor Ellen Emily Erika_Erica Erin Esperanza Evelyn
-			Fay Floscella
-			Genevieve Glory Greta Gretchen Gwen Galadriel
-			Haley Heather Hilda Hildegardt
-			Irine Iris Jacquiline
-			Jana Jane Jenny Jinx Joanna_Joan
-			Kaitlin Karey Katee Katie Katsu Katy Kristen Kristine
-			Laura Lindsay Lisa
-			Maria_Mary Marilyn Martina Maxine Maya Melanie Melissa Mercedes Meredith Micah Micheline Michelle Mikki Miranda Molly
-			Nance_Nancy Natasha Nina
-			Olga Olivia
-			Penny
-			Raina Rose_Rose Roseanne_Roseanne
-			Sally Sarah Shannon Sheila Shohreh Sierra Sophia Stephanie Susan
-			Tabitha Tiffeny Tonya
-			Valerie_Valeria Vanessa Veronica
-			Zooey_Zoe 
+			Aisha Alaska Alice Allegra Alma Andromeda Angel Ariel Ashley Augie Aurora Azura
+			Begonia Belou Blu_Blue Blossom Brenna Breezeann Breezy Bridget Brisa Butterfly 
+			Canuma Carmel Carmen Cassidy Cassiopia Celeste Chakra Chana Charity Chelsea Cherish Chloe Crystal Cyress
+			Daisie Dakota Dance Danna Dawn Daydream Deja Deliah Desert Destiny
+			Earth Eclipse Emerald Eris 
+			Faith Feather Feelfree Felicity Flight Flow Flower Freedom Friday 
+			Georgia Gia Grace Gretta 
+			Hailey Haley Hannah Harmony Heart Heather Holly Honey Hope 
+			Indica Iris 
+			Jade Janis Jasmine Jaya Jewel June
+			Kami Kaya Kyley
+			Lavender Lanya Lenzee Liberty Light Lilly Logan Lolita Love Lucy Lylee Lyric
+			Magnolia Mandy Manu May Maya Meadow Melody Monday Mist
+			Monday Moon Moonjava Moonshine Morning 
+			Natura 
+			Ocean Opal Orian
+			Paisley Peace Peaceful Petal Phoebe Pink Promise Prudence
+			Raine Rana Rainbow Renee Rhiannon Rose 
+			Sadie Saffron Sage Sapphire Sativa Scarlet Serenity Shadow Shanti Stardust Starlight Stone Storm Sugar Summer Sunburst Sunday Sunstar 
+			Talia Terra Topaz Tranquilia Trinity Tuesday 
+			Understanding
+			Violet
+			Welcome Windsong
+			Yuna 
+			Zennia Zeyla Zoey Zora
 		}
 
 		from_dynasty_prefix = ""
