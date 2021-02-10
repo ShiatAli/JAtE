@@ -15,7 +15,7 @@ b_wendover = castle
 #b_toano = castle
 
 # Misc
-culture = battleborn
+culture = shoshone
 religion = atomicist
 
 #History

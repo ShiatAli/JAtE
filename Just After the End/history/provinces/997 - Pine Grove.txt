@@ -15,7 +15,7 @@ b_pine_grove_2 = castle
 #b_big_indian_mountain = castle
 
 # Misc
-culture = battleborn
+culture = renolander
 religion = atomicist
 terrain = desert
 #History

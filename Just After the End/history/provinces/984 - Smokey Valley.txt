@@ -15,7 +15,7 @@ b_round_mountain_2 = castle
 #b_toquima = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

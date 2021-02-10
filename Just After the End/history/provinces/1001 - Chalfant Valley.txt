@@ -15,7 +15,7 @@ b_bishop = castle
 #b_scheelite = castle
 
 # Misc
-culture = battleborn
+culture = monyo
 religion = atomicist
 terrain = desert
 #History

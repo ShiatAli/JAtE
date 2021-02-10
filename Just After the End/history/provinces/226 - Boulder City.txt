@@ -15,7 +15,7 @@ b_emerald_cove = temple
 #b_hemenway = castle
 
 # Misc
-culture = angeleno
+culture = clarkard
 religion = cetic
 
 #History

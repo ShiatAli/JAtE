@@ -15,7 +15,7 @@ b_new_pine_creek = city
 #b_california_pines = castle
 
 # Misc
-culture = siskiyouan
+culture = black_rocker
 religion = cetic
 
 #History

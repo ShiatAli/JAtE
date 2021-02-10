@@ -15,7 +15,7 @@ b_mammoth_lakes = city
 #b_north_landing = castle
 
 # Misc
-culture = battleborn
+culture = monyo
 religion = atomicist
 terrain = desert
 #History

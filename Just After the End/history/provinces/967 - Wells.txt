@@ -15,7 +15,7 @@ b_wells = castle
 #b_windmere = castle
 
 # Misc
-culture = battleborn
+culture = shoshone
 religion = atomicist
 
 #History

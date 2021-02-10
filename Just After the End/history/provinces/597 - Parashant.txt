@@ -15,7 +15,7 @@ b_parashant = city
 #b_hecs_hole = castle
 
 # Misc
-culture = arixan
+culture = clarkard
 religion = atomicist
 
 #History

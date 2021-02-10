@@ -15,7 +15,7 @@ b_mountain_city = castle
 #b_dolly_creek = castle
 
 # Misc
-culture = mountainer
+culture = north_paiute
 religion = mormon
 
 #History

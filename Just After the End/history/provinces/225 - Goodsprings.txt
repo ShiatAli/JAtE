@@ -15,7 +15,7 @@ b_goodsprings = castle
 #b_shenandoah = castle
 
 # Misc
-culture = angeleno
+culture = clarkard
 religion = cetic
 
 #History

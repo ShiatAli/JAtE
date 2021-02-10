@@ -15,7 +15,7 @@ b_badwater = castle
 #b_greenwater_range = castle
 
 # Misc
-culture = battleborn
+culture = deathman
 religion = atomicist
 terrain = desert
 #History

@@ -15,7 +15,7 @@ b_fernley = castle
 #b_lahontan = castle
 
 # Misc
-culture = battleborn
+culture = renolander
 religion = cetic
 
 #History

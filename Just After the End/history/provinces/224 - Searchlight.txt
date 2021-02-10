@@ -15,7 +15,7 @@ b_searchlight = castle
 #b_cottonwood_3 = castle
 
 # Misc
-culture = angeleno
+culture = clarkard
 religion = cetic
 
 #History

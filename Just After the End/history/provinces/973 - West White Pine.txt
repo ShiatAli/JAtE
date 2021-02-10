@@ -15,7 +15,7 @@ b_hamilton_4 = castle
 #b_newark_valley = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

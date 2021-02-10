@@ -15,7 +15,7 @@ b_tokop = castle
 #b_stonewall = castle
 
 # Misc
-culture = battleborn
+culture = deathman
 religion = atomicist
 terrain = desert
 #History

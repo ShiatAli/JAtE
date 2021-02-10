@@ -15,7 +15,7 @@ b_black_rock_2 = city
 #b_hualapa = castle
 
 # Misc
-culture = battleborn
+culture = black_rocker
 religion = cetic
 
 #History

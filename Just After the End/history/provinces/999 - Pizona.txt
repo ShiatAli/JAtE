@@ -15,7 +15,7 @@ b_pizona = castle
 #b_trafton_2 = castle
 
 # Misc
-culture = battleborn
+culture = monyo
 religion = atomicist
 terrain = desert
 #History

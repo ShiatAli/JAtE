@@ -15,7 +15,7 @@ b_ashford_meadows = castle
 #b_barker_ranch = castle
 
 # Misc
-culture = battleborn
+culture = deathman
 religion = atomicist
 terrain = desert
 #History

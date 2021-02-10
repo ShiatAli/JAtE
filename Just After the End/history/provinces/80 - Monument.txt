@@ -15,7 +15,7 @@ b_camp_richardson = city
 #b_echo_lake = castle
 
 # Misc
-culture = valleyan
+culture = renolander
 religion = cetic
 
 #History
