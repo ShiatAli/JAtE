@@ -15,7 +15,7 @@ b_furnace_creek = city
 #b_golden_canyon = castle
 
 # Misc
-culture = battleborn
+culture = deathman
 religion = atomicist
 terrain = desert
 #History

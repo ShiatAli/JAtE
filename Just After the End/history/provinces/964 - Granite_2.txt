@@ -15,7 +15,7 @@ b_fort_bidwell = castle
 #b_vya = castle
 
 # Misc
-culture = battleborn
+culture = black_rocker
 religion = cetic
 
 #History

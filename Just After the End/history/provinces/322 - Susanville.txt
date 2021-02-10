@@ -15,7 +15,7 @@ b_janeville = city
 #b_belfast = castle
 
 # Misc
-culture = siskiyouan
+culture = black_rocker
 religion = cetic
 
 #History

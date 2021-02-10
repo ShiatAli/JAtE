@@ -15,7 +15,7 @@ b_tonopah_2 = castle
 #b_weepah = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

@@ -15,7 +15,7 @@ b_fallon = castle
 #b_dead_camel = castle
 
 # Misc
-culture = battleborn
+culture = west_paiute
 religion = atomicist
 
 #History

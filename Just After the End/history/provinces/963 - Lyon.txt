@@ -15,7 +15,7 @@ b_mason = city
 #b_seigel = castle
 
 # Misc
-culture = battleborn
+culture = renolander
 religion = cetic
 terrain = desert
 #History

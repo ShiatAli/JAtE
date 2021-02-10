@@ -15,7 +15,7 @@ b_indian_springs_2 = castle
 #b_mt_charleston = castle
 
 # Misc
-culture = battleborn
+culture = clarkard
 religion = cetic
 
 #History

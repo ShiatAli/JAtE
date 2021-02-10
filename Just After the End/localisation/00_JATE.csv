@@ -35,6 +35,7 @@ orcan;Orcan;;;;;;;;;;;;;x
 skagitan;Skagitan;;;;;;;;;;;;;x
 vestmenn;Vestmenn;;;;;;;;;;;;;x
 
+#Inland Northwest Cultures
 inland_northwest;Inlander;;;;;;;;;;;;;x
 eastsloper;Eastsloper;;;;;;;;;;;;;x
 juniperian;Juniperian;;;;;;;;;;;;;x
@@ -48,12 +49,23 @@ sawtooth;Sawtooth;;;;;;;;;;;;;x
 snakemen;Snakemen;;;;;;;;;;;;;x
 ranger;Ranger;;;;;;;;;;;;;x
 
+#Nevada Cultures
+great_basin;Great Basin;;;;;;;;;;;;;x
+clarkard;Clarkard;;;;;;;;;;;;;x
+deathman;Deathman;;;;;;;;;;;;;x
+monyo;Monyo;;;;;;;;;;;;;x
+renolander;Renolander;;;;;;;;;;;;;x
+black_rocker;Black Rocker;;;;;;;;;;;;;x
+lonelyroader;Lonelyroader;;;;;;;;;;;;;x
+
 #Prairelander Cultures
 montanan;Montanan;;;;;;;;;;;;;x
 
 #Native Cultures
 yakama;Yakama;;;;;;;;;;;;;x
-
+north_paiute;North Paiute;;;;;;;;;;;;;x
+west_paiute;West Paiute;;;;;;;;;;;;;x
+shoshone;Shoshone;;;;;;;;;;;;;x
 ###########Titular Titles###########
 d_pikeplace;Pikeplace;;;;;;;;;;;;;x
 d_pikeplace_adj;Pikeplacer;;;;;;;;;;;;;x

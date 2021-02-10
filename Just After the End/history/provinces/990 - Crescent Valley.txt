@@ -15,7 +15,7 @@ b_crescent_valley_2 = castle
 #b_willow_corral = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

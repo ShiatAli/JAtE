@@ -15,7 +15,7 @@ b_westwood = city
 #b_mud_creek = castle
 
 # Misc
-culture = valleyan
+culture = black_rocker
 religion = cetic
 
 #History

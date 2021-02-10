@@ -15,7 +15,7 @@ b_middlegate = castle
 #b_smith_creek = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

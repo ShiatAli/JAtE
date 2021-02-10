@@ -15,7 +15,7 @@ b_amargosa = castle
 #b_shadow_mountain = castle
 
 # Misc
-culture = battleborn
+culture = deathman
 religion = atomicist
 terrain = desert
 #History

@@ -15,7 +15,7 @@ b_carlin = castle
 #b_swales = castle
 
 # Misc
-culture = battleborn
+culture = north_paiute
 religion = atomicist
 
 #History

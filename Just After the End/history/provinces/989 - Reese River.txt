@@ -15,7 +15,7 @@ b_valley_of_the_moon = castle
 #b_crippen = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

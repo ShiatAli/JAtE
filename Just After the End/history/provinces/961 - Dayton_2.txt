@@ -15,7 +15,7 @@ b_rawe = city
 #b_amazon_gulch = castle
 
 # Misc
-culture = battleborn
+culture = renolander
 religion = cetic
 terrain = desert
 #History

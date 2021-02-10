@@ -15,7 +15,7 @@ b_grant_5 = city
 #b_linnie = castle
 
 # Misc
-culture = battleborn
+culture = monyo
 religion = atomicist
 terrain = desert
 #History

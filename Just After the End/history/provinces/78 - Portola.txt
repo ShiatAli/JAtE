@@ -15,7 +15,7 @@ b_iron_horse = city
 #b_quincy = castle
 
 # Misc
-culture = valleyan
+culture = renolander
 religion = cetic
 
 #History

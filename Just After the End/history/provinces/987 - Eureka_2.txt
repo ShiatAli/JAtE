@@ -15,7 +15,7 @@ b_eureka_4 = castle
 #b_mountain_boy = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

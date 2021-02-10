@@ -15,7 +15,7 @@ b_crystal = city
 #b_moapa = castle
 
 # Misc
-culture = angeleno
+culture = clarkard
 religion = cetic
 
 #History

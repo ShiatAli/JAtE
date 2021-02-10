@@ -15,7 +15,7 @@ b_warm_springs_3 = castle
 #b_meteroite = castle
 
 # Misc
-culture = battleborn
+culture = lonelyroader
 religion = atomicist
 
 #History

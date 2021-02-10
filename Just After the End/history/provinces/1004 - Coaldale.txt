@@ -15,7 +15,7 @@ b_coaldale_2 = castle
 #b_piper_peak = castle
 
 # Misc
-culture = battleborn
+culture = deathman
 religion = atomicist
 terrain = desert
 #History

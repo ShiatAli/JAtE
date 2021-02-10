@@ -15,7 +15,7 @@ b_termo = castle
 #b_madeline = castle
 
 # Misc
-culture = siskiyouan
+culture = black_rocker
 religion = cetic
 
 #History

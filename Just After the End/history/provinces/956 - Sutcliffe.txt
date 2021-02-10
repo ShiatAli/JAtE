@@ -15,7 +15,7 @@ b_sutcliffe = castle
 #b_warrior_point = castle
 
 # Misc
-culture = battleborn
+culture = west_paiute
 religion = cetic
 
 #History
