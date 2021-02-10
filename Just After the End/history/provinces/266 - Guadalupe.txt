@@ -1,0 +1,21 @@
+# c_guadalupe
+
+# County Title
+title = c_guadalupe
+
+# Settlements
+max_settlements = 3
+
+b_guadalupe = castle
+b_la_mision = city
+#b_el_solano = temple
+#b_primo_tapia = castle
+#b_campo_lopez = city
+#b_valle_de_las_palmas = temple
+#b_ejido_el_porvenir = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

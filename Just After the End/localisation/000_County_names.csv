@@ -347,8 +347,6 @@ c_concord;Concord;Concord;Concord;;Concord;;;;;;;;;x
 c_concord_adj;Concordian;;concorder;;;;;;;;;;;x
 c_concordia;Concordia;Concordia;Concordia;;Concordia;;;;;;;;;x
 c_concordia_adj;Concordian;;concorder;;;;;;;;;;;x
-c_condensadora;Condensadora;Condensadora;Condensadora;;Condensadora;;;;;;;;;x
-c_condensadora_adj;Condensadoran;;condensadorer;;;;;;;;;;;x
 c_conejos;Conejos;Conejos;Conejos;;Conejos;;;;;;;;;x
 c_conejos_adj;Conejosian;;conejoser;;;;;;;;;;;x
 c_constitucion;Constitución;Constitución;Constitución;;Constitución;;;;;;;;;x
@@ -797,6 +795,10 @@ c_irvine;Irvine;Irvine;Irvine;;Irvine;;;;;;;;;x
 c_irvine_adj;Irvinean;;irviner;;;;;;;;;;;x
 c_isabella;Isabella;Isabella;Isabella;;Isabella;;;;;;;;;x
 c_isabella_adj;Isabellan;;isabeller;;;;;;;;;;;x
+c_isla_de_cedros;Isla de Cedros;Isla de Cedros;Isla de Cedros;;Isla de Cedros;;;;;;;;;x
+c_isla_de_cedros_adj;Isla de Cedrosian;;Isla de Cedroser;;;;;;;;;;;x
+c_isla_guadalupe;Isla Guadalupe;Isla Guadalupe;Isla Guadalupe;;Isla Guadalupe;;;;;;;;;x
+c_isla_guadalupe_adj;Isla Guadalupean;;Isla Guadaluper;;;;;;;;;;;x
 c_isla_tiburon;Isla Tiburón;Isla Tiburón;Isla Tiburón;;Isla Tiburón;;;;;;;;;x
 c_isla_tiburon_adj;Isla Tiburónian;;Isla Tiburóner;;;;;;;;;;;x
 c_isleta;Isleta;Isleta;Isleta;;Isleta;;;;;;;;;x
@@ -1125,8 +1127,8 @@ c_natrona;Natrona;Natrona;Natrona;;Natrona;;;;;;;;;x
 c_natrona_adj;Natronan;;natroner;;;;;;;;;;;x
 c_navajo_mountain;Navajo Mountain;Navajo Mountain;Navajo Mountain;;Navajo Mountain;;;;;;;;;x
 c_navajo_mountain_adj;Navajo Mountainian;;Navajo Mountainer;;;;;;;;;;;x
-c_navajoa;Navajoa;Navajoa;Navajoa;;Navajoa;;;;;;;;;x
-c_navajoa_adj;Navajoan;;navajer;;;;;;;;;;;x
+c_navojoa;Navojoa;Navojoa;Navojoa;;Navojoa;;;;;;;;;x
+c_navojoa_adj;Navojoan;;navojer;;;;;;;;;;;x
 c_navolato;Navolato;Navolato;Navolato;;Navolato;;;;;;;;;x
 c_navolato_adj;Navolatian;;navolater;;;;;;;;;;;x
 c_neah_bay;Neah Bay;Neah Bay;Neah Bay;;Neah Bay;;;;;;;;;x
@@ -1595,8 +1597,6 @@ c_san_rafael;San Rafael;San Rafael;San Rafael;;San Rafael;;;;;;;;;x
 c_san_rafael_adj;San Rafaelian;;San Rafaeler;;;;;;;;;;;x
 c_san_rafael_2;San Rafael;San Rafael;San Rafael;;San Rafael;;;;;;;;;x
 c_san_rafael_2_adj;San Rafaelian;;San Rafaeler;;;;;;;;;;;x
-c_san_salvador;San Salvador;San Salvador;San Salvador;;San Salvador;;;;;;;;;x
-c_san_salvador_adj;San Salvadorian;;San Salvadorer;;;;;;;;;;;x
 c_san_simeon;San Simeon;San Simeon;San Simeon;;San Simeon;;;;;;;;;x
 c_san_simeon_adj;San Simeonian;;San Simeoner;;;;;;;;;;;x
 c_san_simon;San Simon;San Simon;San Simon;;San Simon;;;;;;;;;x

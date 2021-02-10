@@ -1,0 +1,21 @@
+# c_lazaro_cardenas
+
+# County Title
+title = c_lazaro_cardenas
+
+# Settlements
+max_settlements = 2
+
+b_lazaro_cardenas = castle
+#b_ejido_francisco = city
+#b_valle_san_matias = temple
+#b_picacho_2 = castle
+#b_la_lupita = city
+#b_cerro_de_la_trinidad = temple
+#b_santa_clara_2 = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

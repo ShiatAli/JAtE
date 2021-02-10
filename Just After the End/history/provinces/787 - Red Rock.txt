@@ -6,7 +6,7 @@ title = c_red_rock
 # Settlements
 max_settlements = 3
 
-b_lima = castle
+b_lima_2 = castle
 #b_dell = city
 #b_lakeview_4 = temple
 #b_monida = castle

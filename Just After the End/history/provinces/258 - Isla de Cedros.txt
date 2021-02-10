@@ -1,0 +1,21 @@
+# c_isla_de_cedros
+
+# County Title
+title = c_isla_de_cedros
+
+# Settlements
+max_settlements = 2
+
+b_isla_de_cedros = castle
+#b_el_morro = city
+#b_puerto_morro_redond = temple
+#b_san_agustin = castle
+#b_jerusalem = city
+#b_lomas_blancas = temple
+#b_punta_norte = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

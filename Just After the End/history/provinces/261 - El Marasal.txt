@@ -1,0 +1,21 @@
+# c_el_marasal
+
+# County Title
+title = c_el_marasal
+
+# Settlements
+max_settlements = 2
+
+b_el_marasal = castle
+#b_del_vizcaino = city
+#b_ejido_benito_juarez = temple
+#b_san_rafael_3 = castle
+#b_diaz_ordaz = city
+#b_e_tablon = temple
+#b_granjas_elizabeth = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

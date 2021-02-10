@@ -1,0 +1,21 @@
+# c_morelos
+
+# County Title
+title = c_morelos
+
+# Settlements
+max_settlements = 4
+
+b_morelos = castle
+b_tabasco = city
+b_ladrillera = temple
+#b_hermosillo = castle
+#b_poblado_benito_juarez = city
+#b_paredones = temple
+#b_cuervitos = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

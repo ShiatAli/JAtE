@@ -1,6 +1,7 @@
 #GRAND VANCOUVER
 technology = {
 	titles = {
+		d_campbell
 		d_chicktoria
 		d_cowichan
 		d_edinburgh
@@ -11,7 +12,6 @@ technology = {
 		d_johnstone
 		d_lotusland
 		d_parks
-		d_prince_of_wales
 		d_sophia
 		d_sunshine_coast
 		d_suquash

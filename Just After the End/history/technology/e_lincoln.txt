@@ -2,24 +2,26 @@
 technology = {
 	titles = {
 		d_adams
-		d_bluewood
+		d_asotin
 		d_chelan
 		d_crag
 		d_ferry
 		d_flathead
 		d_franklin
+		d_granite
 		d_grant
 		d_great_coulee
 		d_horse_heaven
 		d_kittitas
 		d_klickitat
-		d_lateh
+		d_latah
 		d_lilac
 		d_mineral
 		d_okanogan
 		d_pend_oreille
 		d_steven
 		d_umatilla
+		d_wallawalla
 		d_wasco
 	}
 	2055 = {

@@ -2,7 +2,9 @@
 technology = {
 	titles = {
 		d_anaheim
+		d_antelope_valley
 		d_anza_borrego
+		d_big_morongo
 		d_channel_islands
 		d_dead_mountains
 		d_grand_vegas
@@ -18,6 +20,8 @@ technology = {
 		d_salton
 		d_san_diego
 		d_santa_barbara
+		d_santa_clara
+		d_spring_valley
 		d_the_empire
 		d_ventura
 		d_whipple

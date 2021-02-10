@@ -11,7 +11,7 @@ b_carizozo = castle
 #b_three_rivers = temple
 #b_apache = castle
 #b_sierra_blanca = city
-#b_carrizo_2 = temple
+#b_carrizo = temple
 #b_patos = castle
 
 # Misc

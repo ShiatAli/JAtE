@@ -252,33 +252,33 @@ province;red;green;blue;x;x
 251;206;14;254;Huatamote;x
 252;201;169;231;Liguei;x
 253;206;201;233;Loreto;x
-254;242;83;171;La Poza Grande;x
-255;224;86;114;Heroica Mulege;x
+254;224;86;114;Heroica Mulege;x
+255;242;83;171;La Poza Grande;x
 256;218;50;84;La Yaqui;x
-257;254;158;173;Bahia Tortugas;x
-258;244;168;244;Guerrero Negro;x
-259;228;41;228;El Marasal;x
-260;251;162;249;Santa Rosalia;x
-261;164;249;244;Punta Abreojos;x
-262;245;191;27;Tijuana;x
-263;245;228;129;Tecate;x
-264;219;189;17;Guadalupe;x
-265;252;241;37;La Rumorosa;x
-266;234;94;0;Mexicali;x
-267;224;135;69;Progreso;x
-268;255;167;108;Morelos;x
-269;151;79;26;Delta;x
-270;230;226;100;El Indiviso;x
-271;177;174;29;Condensadora;x
-272;75;54;10;Lazaro Cardenas;x
-273;245;236;122;San Felipe_2;x
-274;253;205;115;Puertecitos;x
-275;219;157;158;El Rosario;x
-276;190;80;83;Rancho los Pinos;x
-277;139;100;18;Ensenada;x
-278;228;172;54;San Salvador;x
+257;228;181;54;Isla Guadalupe;x
+258;228;172;54;Isla de Cedros;x
+259;254;158;173;Bahia Tortugas;x
+260;244;168;244;Guerrero Negro;x
+261;228;41;228;El Marasal;x
+262;251;162;249;Santa Rosalia;x
+263;164;249;244;Punta Abreojos;x
+264;245;191;27;Tijuana;x
+265;245;228;129;Tecate;x
+266;219;189;17;Guadalupe;x
+267;252;241;37;La Rumorosa;x
+268;234;94;0;Mexicali;x
+269;224;135;69;Progreso;x
+270;255;167;108;Morelos;x
+271;151;79;26;Delta;x
+272;230;226;100;El Indiviso;x
+273;75;54;10;Lazaro Cardenas;x
+274;245;236;122;San Felipe_2;x
+275;253;205;115;Puertecitos;x
+276;219;157;158;El Rosario;x
+277;190;80;83;Rancho los Pinos;x
+278;139;100;18;Ensenada;x
 279;240;209;145;Santo Tomas;x
-280;139;100;18;Camalu;x
+280;139;100;20;Camalu;x
 281;234;170;21;Rosarito;x
 282;221;206;17;Bahia de los Angeles;x
 283;147;136;11;Punta Final;x
@@ -926,7 +926,7 @@ province;red;green;blue;x;x
 925;26;50;207;Obregon;x
 926;100;134;187;Guaymas;x
 927;43;78;131;Suaqui Grande;x
-928;106;124;244;Navajoa;x
+928;106;124;244;Navojoa;x
 929;41;47;85;Alamos;x
 930;106;160;244;Rosario;x
 931;170;177;228;Sahuaripa;x

@@ -1,0 +1,21 @@
+# c_punta_abreojos
+
+# County Title
+title = c_punta_abreojos
+
+# Settlements
+max_settlements = 3
+
+b_punta_abreojos = castle
+b_los_castros = city
+#b_el_patrocinio = temple
+#b_isla_ana = castle
+#b_los_martires = city
+#b_isla_abaroa = temple
+#b_isla_delgadito = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

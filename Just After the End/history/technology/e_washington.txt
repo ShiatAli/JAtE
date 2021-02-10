@@ -1,10 +1,8 @@
 #WASHINGTON
 technology = {
 	titles = {
-		d_cascadia
 		d_clallam
 		d_clark
-		d_grand_seattle
 		d_grays_harbor
 		d_kitsap
 		d_lewis
@@ -14,11 +12,14 @@ technology = {
 		d_posession
 		d_quinault
 		d_san_juan
+		d_seatac
 		d_skagit
 		d_snohomish
 		d_snoqualmie
 		d_thurston
+		d_upper_skagit
 		d_whatcom
+		d_whidbey
 	}
 	2055 = {
 		military = 2.0

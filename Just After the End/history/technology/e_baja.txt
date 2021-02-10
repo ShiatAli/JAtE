@@ -3,8 +3,9 @@ technology = {
 	titles = {
 		d_biosfera
 		d_comondu
-		d_diablo
+		d_el_rosario
 		d_ensenada
+		d_gran_guadalupe
 		d_gran_paz
 		d_gran_rosarito
 		d_kakigui
@@ -13,6 +14,7 @@ technology = {
 		d_magdalena
 		d_mexicali
 		d_mulege
+		d_san_felipe
 		d_tijuana
 	}
 	2055 = {

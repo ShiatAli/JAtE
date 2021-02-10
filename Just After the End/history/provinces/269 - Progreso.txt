@@ -1,0 +1,21 @@
+# c_progreso
+
+# County Title
+title = c_progreso
+
+# Settlements
+max_settlements = 2
+
+b_progreso = castle
+#b_santa_isabel = city
+#b_cucapa = temple
+#b_las_palmas = castle
+#b_san_carlos_2 = city
+#b_ejido_coahuila = temple
+#b_la_luna = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

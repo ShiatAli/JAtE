@@ -131,8 +131,6 @@ d_denver;Denver;Denver;Denver;;Denver;;;;;;;;;x
 d_denver_adj;Denverian;;denverer;;;;;;;;;;;x
 d_deschutes;Deschutes;Deschutes;Deschutes;;Deschutes;;;;;;;;;x
 d_deschutes_adj;Deschutesian;;deschuteser;;;;;;;;;;;x
-d_diablo;Diablo;Diablo;Diablo;;Diablo;;;;;;;;;x
-d_diablo_adj;Diablian;;diabler;;;;;;;;;;;x
 d_dorado_slopes;Dorado Slopes;Dorado Slopes;Dorado Slopes;;Dorado Slopes;;;;;;;;;x
 d_dorado_slopes_adj;Dorado Slopesian;;Dorado Slopeser;;;;;;;;;;;x
 d_duck_valley;Duck Valley;Duck Valley;Duck Valley;;Duck Valley;;;;;;;;;x
@@ -143,6 +141,8 @@ d_el_paso;El Paso;El Paso;El Paso;;El Paso;;;;;;;;;x
 d_el_paso_adj;El Pasian;;El Paser;;;;;;;;;;;x
 d_el_picante;El Picante;El Picante;El Picante;;El Picante;;;;;;;;;x
 d_el_picante_adj;El Picantean;;El Picanter;;;;;;;;;;;x
+d_el_rosario;El Rosario;El Rosario;El Rosario;;El Rosario;;;;;;;;;x
+d_el_rosario_adj;El Rosarian;;El Rosarer;;;;;;;;;;;x
 d_elko;Elko;Elko;Elko;;Elko;;;;;;;;;x
 d_elko_adj;Elkian;;elker;;;;;;;;;;;x
 d_elmore;Elmore;Elmore;Elmore;;Elmore;;;;;;;;;x
@@ -181,6 +181,8 @@ d_glenn;Glenn;Glenn;Glenn;;Glenn;;;;;;;;;x
 d_glenn_adj;Glennian;;glenner;;;;;;;;;;;x
 d_goose;Goose;Goose;Goose;;Goose;;;;;;;;;x
 d_goose_adj;Goosean;;gooser;;;;;;;;;;;x
+d_gran_guadalupe;Gran Guadalupe;Gran Guadalupe;Gran Guadalupe;;Gran Guadalupe;;;;;;;;;x
+d_gran_guadalupe_adj;Gran Guadalupean;;Gran Guadaluper;;;;;;;;;;;x
 d_gran_hermosillo;Gran Hermosillo;Gran Hermosillo;Gran Hermosillo;;Gran Hermosillo;;;;;;;;;x
 d_gran_hermosillo_adj;Gran Hermosillian;;Gran Hermosiller;;;;;;;;;;;x
 d_gran_paz;Gran Paz;Gran Paz;Gran Paz;;Gran Paz;;;;;;;;;x
@@ -435,6 +437,8 @@ d_san_benito;San Benito;San Benito;San Benito;;San Benito;;;;;;;;;x
 d_san_benito_adj;San Benitian;;San Beniter;;;;;;;;;;;x
 d_san_diego;San Diego;San Diego;San Diego;;San Diego;;;;;;;;;x
 d_san_diego_adj;San Diegian;;San Dieger;;;;;;;;;;;x
+d_san_felipe;San Felipe;San Felipe;San Felipe;;San Felipe;;;;;;;;;x
+d_san_felipe_adj;San Felipean;;San Feliper;;;;;;;;;;;x
 d_san_francisco;San Francisco;San Francisco;San Francisco;;San Francisco;;;;;;;;;x
 d_san_francisco_adj;San Franciscian;;San Franciscer;;;;;;;;;;;x
 d_san_joaquin;San Joaquin;San Joaquin;San Joaquin;;San Joaquin;;;;;;;;;x

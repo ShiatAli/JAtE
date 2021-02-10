@@ -1,0 +1,21 @@
+# c_navojoa
+
+# County Title
+title = c_navojoa
+
+# Settlements
+max_settlements = 5
+
+b_navajoa = castle
+#b_etchojoa = city
+#b_huatabampo = temple
+#b_villa_juarez = castle
+#b_bacame_nuevo = city
+#b_basconcobe = temple
+#b_paredon_colorado = castle
+
+# Misc
+culture = sonorense
+religion = sacred_heart
+
+#History

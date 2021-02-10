@@ -1,0 +1,21 @@
+# c_isla_guadalupe
+
+# County Title
+title = c_isla_guadalupe
+
+# Settlements
+max_settlements = 3
+
+b_melpomene_cove = castle
+#b_tepeyac = city
+#b_lima = temple
+#b_corrals = castle
+#b_pista = city
+#b_campo_este = temple
+#b_campo_norte = castle
+
+# Misc
+culture = californio
+religion = brethren
+terrain = desert
+#History

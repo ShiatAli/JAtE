@@ -1,13 +1,13 @@
 #OREGON
 technology = {
 	titles = {
-		d_calstop
 		d_clackers
+		d_clatsop
 		d_columbia
 		d_coos
-		d_hood_river
 		d_lane
-		d_limm
+		d_linn
+		d_marmot
 		d_multnomah
 		d_newport
 		d_roseburg
@@ -15,7 +15,7 @@ technology = {
 		d_searose
 		d_surprise
 		d_tillamook
-		d_washington
+		d_tualatin
 	}
 	2055 = {
 		military = 2.0

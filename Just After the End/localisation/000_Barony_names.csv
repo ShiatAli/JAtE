@@ -1829,8 +1829,12 @@ b_campo_carretero;Campo Carretero;Campo Carretero;Campo Carretero;;Campo Carrete
 b_campo_carretero_adj;Campo Carreterian;;Campo Carreterer;;;;;;;;;;;x
 b_campo_dulce;Campo Dulce;Campo Dulce;Campo Dulce;;Campo Dulce;;;;;;;;;x
 b_campo_dulce_adj;Campo Dulcean;;Campo Dulcer;;;;;;;;;;;x
+b_campo_este;Campo Este;Campo Este;Campo Este;;Campo Este;;;;;;;;;x
+b_campo_este_adj;Campo Estean;;Campo Ester;;;;;;;;;;;x
 b_campo_lopez;Campo López;Campo López;Campo López;;Campo López;;;;;;;;;x
 b_campo_lopez_adj;Campo Lópezian;;Campo Lópezer;;;;;;;;;;;x
+b_campo_norte;Campo Norte;Campo Norte;Campo Norte;;Campo Norte;;;;;;;;;x
+b_campo_norte_adj;Campo Nortean;;Campo Norter;;;;;;;;;;;x
 b_cana;Cana;Cana;Cana;;Cana;;;;;;;;;x
 b_cana_adj;Canan;;caner;;;;;;;;;;;x
 b_canada_de_los_alamos;Cañada de los Alamos;Cañada de los Alamos;Cañada de los Alamos;;Cañada de los Alamos;;;;;;;;;x
@@ -1973,8 +1977,6 @@ b_carriso;Carriso;Carriso;Carriso;;Carriso;;;;;;;;;x
 b_carriso_adj;Carrisian;;carriser;;;;;;;;;;;x
 b_carrizo;Carrizo;Carrizo;Carrizo;;Carrizo;;;;;;;;;x
 b_carrizo_adj;Carrizian;;carrizer;;;;;;;;;;;x
-b_carrizo_2;Carrizo;Carrizo;Carrizo;;Carrizo;;;;;;;;;x
-b_carrizo_2_adj;Carrizian;;carrizer;;;;;;;;;;;x
 b_carrizozo;Carrizozo;Carrizozo;Carrizozo;;Carrizozo;;;;;;;;;x
 b_carrizozo_adj;Carrizozian;;carrizozer;;;;;;;;;;;x
 b_carson;Carson;Carson;Carson;;Carson;;;;;;;;;x
@@ -2729,8 +2731,6 @@ b_concrete;Concrete;Concrete;Concrete;;Concrete;;;;;;;;;x
 b_concrete_adj;Concretean;;concreter;;;;;;;;;;;x
 b_conda;Conda;Conda;Conda;;Conda;;;;;;;;;x
 b_conda_adj;Condan;;conder;;;;;;;;;;;x
-b_condensadora;Condensadora;Condensadora;Condensadora;;Condensadora;;;;;;;;;x
-b_condensadora_adj;Condensadoran;;condensadorer;;;;;;;;;;;x
 b_condon;Condon;Condon;Condon;;Condon;;;;;;;;;x
 b_condon_adj;Condonian;;condoner;;;;;;;;;;;x
 b_cone_springs;Cone Springs;Cone Springs;Cone Springs;;Cone Springs;;;;;;;;;x
@@ -2837,6 +2837,8 @@ b_corral_de_tierra;Corral De Tierra;Corral De Tierra;Corral De Tierra;;Corral De
 b_corral_de_tierra_adj;Corral De Tierran;;Corral De Tierrer;;;;;;;;;;;x
 b_corrales;Corrales;Corrales;Corrales;;Corrales;;;;;;;;;x
 b_corrales_adj;Corralesian;;corraleser;;;;;;;;;;;x
+b_corrals;Corrals;Corrals;Corrals;;Corrals;;;;;;;;;x
+b_corrals_adj;Corralsian;;corralser;;;;;;;;;;;x
 b_corrine;Corrine;Corrine;Corrine;;Corrine;;;;;;;;;x
 b_corrine_adj;Corrinean;;corriner;;;;;;;;;;;x
 b_corte_madera;Corte Madera;Corte Madera;Corte Madera;;Corte Madera;;;;;;;;;x
@@ -2947,8 +2949,6 @@ b_coyote;Coyote;Coyote;Coyote;;Coyote;;;;;;;;;x
 b_coyote_adj;Coyotean;;coyoter;;;;;;;;;;;x
 b_coyote_2;Coyote;Coyote;Coyote;;Coyote;;;;;;;;;x
 b_coyote_2_adj;Coyotean;;coyoter;;;;;;;;;;;x
-b_coyote_3;Coyote;Coyote;Coyote;;Coyote;;;;;;;;;x
-b_coyote_3_adj;Coyotean;;coyoter;;;;;;;;;;;x
 b_coyote_canyon;Coyote Canyon;Coyote Canyon;Coyote Canyon;;Coyote Canyon;;;;;;;;;x
 b_coyote_canyon_adj;Coyote Canyonian;;Coyote Canyoner;;;;;;;;;;;x
 b_coyote_hills;Coyote Hills;Coyote Hills;Coyote Hills;;Coyote Hills;;;;;;;;;x
@@ -3933,6 +3933,8 @@ b_el_mogote;El Mogote;El Mogote;El Mogote;;El Mogote;;;;;;;;;x
 b_el_mogote_adj;El Mogotean;;El Mogoter;;;;;;;;;;;x
 b_el_morro;El Morro;El Morro;El Morro;;El Morro;;;;;;;;;x
 b_el_morro_adj;El Morrian;;El Morrer;;;;;;;;;;;x
+b_el_morro_2;El Morro;El Morro;El Morro;;El Morro;;;;;;;;;x
+b_el_morro_2_adj;El Morrian;;El Morrer;;;;;;;;;;;x
 b_el_nido;El Nido;El Nido;El Nido;;El Nido;;;;;;;;;x
 b_el_nido_adj;El Nidian;;El Nider;;;;;;;;;;;x
 b_el_novillo;El Novillo;El Novillo;El Novillo;;El Novillo;;;;;;;;;x
@@ -6285,6 +6287,8 @@ b_jensen;Jensen;Jensen;Jensen;;Jensen;;;;;;;;;x
 b_jensen_adj;Jensenian;;jensener;;;;;;;;;;;x
 b_jerome;Jerome;Jerome;Jerome;;Jerome;;;;;;;;;x
 b_jerome_adj;Jeromean;;jeromer;;;;;;;;;;;x
+b_jerusalem;Jerusalem;Jerusalem;Jerusalem;;Jerusalem;;;;;;;;;x
+b_jerusalem_adj;Jerusalemian;;jerusalemer;;;;;;;;;;;x
 b_jesmond;Jesmond;Jesmond;Jesmond;;Jesmond;;;;;;;;;x
 b_jesmond_adj;Jesmondian;;jesmonder;;;;;;;;;;;x
 b_jesus_maria;Jesus Maria;Jesus Maria;Jesus Maria;;Jesus Maria;;;;;;;;;x
@@ -6753,6 +6757,8 @@ b_la_llama;La Llama;La Llama;La Llama;;La Llama;;;;;;;;;x
 b_la_llama_adj;La Llaman;;La Llamer;;;;;;;;;;;x
 b_la_lobera;La Lobera;La Lobera;La Lobera;;La Lobera;;;;;;;;;x
 b_la_lobera_adj;La Loberan;;La Loberer;;;;;;;;;;;x
+b_la_lobera_2;La Lobera;La Lobera;La Lobera;;La Lobera;;;;;;;;;x
+b_la_lobera_2_adj;La Loberan;;La Loberer;;;;;;;;;;;x
 b_la_luna;La Luna;La Luna;La Luna;;La Luna;;;;;;;;;x
 b_la_luna_adj;La Lunan;;La Luner;;;;;;;;;;;x
 b_la_lupita;La Lupita;La Lupita;La Lupita;;La Lupita;;;;;;;;;x
@@ -6803,8 +6809,6 @@ b_la_reforma;La Reforma;La Reforma;La Reforma;;La Reforma;;;;;;;;;x
 b_la_reforma_adj;La Reforman;;La Reformer;;;;;;;;;;;x
 b_la_reforma_2;La Reforma;La Reforma;La Reforma;;La Reforma;;;;;;;;;x
 b_la_reforma_2_adj;La Reforman;;La Reformer;;;;;;;;;;;x
-b_la_rosa_de_castilla;La Rosa de Castilla;La Rosa de Castilla;La Rosa de Castilla;;La Rosa de Castilla;;;;;;;;;x
-b_la_rosa_de_castilla_adj;La Rosa de Castillan;;La Rosa de Castiller;;;;;;;;;;;x
 b_la_rumorosa;La Rumorosa;La Rumorosa;La Rumorosa;;La Rumorosa;;;;;;;;;x
 b_la_rumorosa_adj;La Rumorosan;;La Rumoroser;;;;;;;;;;;x
 b_la_sal;La Sal;La Sal;La Sal;;La Sal;;;;;;;;;x
@@ -6821,8 +6825,6 @@ b_la_ultima_agua;La Última Agua;La Última Agua;La Última Agua;;La Última Agua;;;
 b_la_ultima_agua_adj;La Última Aguan;;La Última Ager;;;;;;;;;;;x
 b_la_ventana;La Ventana;La Ventana;La Ventana;;La Ventana;;;;;;;;;x
 b_la_ventana_adj;La Ventanan;;La Ventaner;;;;;;;;;;;x
-b_la_ventana_2;La Ventana;La Ventana;La Ventana;;La Ventana;;;;;;;;;x
-b_la_ventana_2_adj;La Ventanan;;La Ventaner;;;;;;;;;;;x
 b_la_verkin;La Verkin;La Verkin;La Verkin;;La Verkin;;;;;;;;;x
 b_la_verkin_adj;La Verkinian;;La Verkiner;;;;;;;;;;;x
 b_la_veta;La Veta;La Veta;La Veta;;La Veta;;;;;;;;;x
@@ -7035,8 +7037,6 @@ b_las_flores;Las Flores;Las Flores;Las Flores;;Las Flores;;;;;;;;;x
 b_las_flores_adj;Las Floresian;;Las Floreser;;;;;;;;;;;x
 b_las_higueras_de_padilla;Las Higueras de Padilla;Las Higueras de Padilla;Las Higueras de Padilla;;Las Higueras de Padilla;;;;;;;;;x
 b_las_higueras_de_padilla_adj;Las Higueras de Padillan;;Las Higueras de Padiller;;;;;;;;;;;x
-b_las_joyitas;Las Joyitas;Las Joyitas;Las Joyitas;;Las Joyitas;;;;;;;;;x
-b_las_joyitas_adj;Las Joyitasian;;Las Joyitaser;;;;;;;;;;;x
 b_las_nutrias;Las Nutrias;Las Nutrias;Las Nutrias;;Las Nutrias;;;;;;;;;x
 b_las_nutrias_adj;Las Nutriasian;;Las Nutriaser;;;;;;;;;;;x
 b_las_palmas;Las Palmas;Las Palmas;Las Palmas;;Las Palmas;;;;;;;;;x
@@ -7045,12 +7045,8 @@ b_las_palmitas;Las Palmitas;Las Palmitas;Las Palmitas;;Las Palmitas;;;;;;;;;x
 b_las_palmitas_adj;Las Palmitasian;;Las Palmitaser;;;;;;;;;;;x
 b_las_parras;Las Parras;Las Parras;Las Parras;;Las Parras;;;;;;;;;x
 b_las_parras_adj;Las Parrasian;;Las Parraser;;;;;;;;;;;x
-b_las_pintas;Las Pintas;Las Pintas;Las Pintas;;Las Pintas;;;;;;;;;x
-b_las_pintas_adj;Las Pintasian;;Las Pintaser;;;;;;;;;;;x
 b_las_sinitas;Las Sinitas;Las Sinitas;Las Sinitas;;Las Sinitas;;;;;;;;;x
 b_las_sinitas_adj;Las Sinitasian;;Las Sinitaser;;;;;;;;;;;x
-b_las_tinajas;Las Tinajas;Las Tinajas;Las Tinajas;;Las Tinajas;;;;;;;;;x
-b_las_tinajas_adj;Las Tinajasian;;Las Tinajaser;;;;;;;;;;;x
 b_las_vegas;Las Vegas;Las Vegas;Las Vegas;;Las Vegas;;;;;;;;;x
 b_las_vegas_adj;Las Vegasian;;Las Vegaser;;;;;;;;;;;x
 b_las_veredas;Las Veredas;Las Veredas;Las Veredas;;Las Veredas;;;;;;;;;x
@@ -7205,8 +7201,6 @@ b_lewisville_2;Lewisville;Lewisville;Lewisville;;Lewisville;;;;;;;;;x
 b_lewisville_2_adj;Lewisvillean;;lewisviller;;;;;;;;;;;x
 b_lexington;Lexington;Lexington;Lexington;;Lexington;;;;;;;;;x
 b_lexington_adj;Lexingtonian;;lexingtoner;;;;;;;;;;;x
-b_leyes_de_reforma;Leyes de Reforma;Leyes de Reforma;Leyes de Reforma;;Leyes de Reforma;;;;;;;;;x
-b_leyes_de_reforma_adj;Leyes de Reforman;;Leyes de Reformer;;;;;;;;;;;x
 b_libby;Libby;Libby;Libby;;Libby;;;;;;;;;x
 b_libby_adj;Libbian;;libber;;;;;;;;;;;x
 b_libertad;Libertad;Libertad;Libertad;;Libertad;;;;;;;;;x
@@ -7231,6 +7225,8 @@ b_lillooet;Lillooet;Lillooet;Lillooet;;Lillooet;;;;;;;;;x
 b_lillooet_adj;Lillooetian;;lillooeter;;;;;;;;;;;x
 b_lima;Lima;Lima;Lima;;Lima;;;;;;;;;x
 b_lima_adj;Liman;;limer;;;;;;;;;;;x
+b_lima_2;Lima;Lima;Lima;;Lima;;;;;;;;;x
+b_lima_2_adj;Liman;;limer;;;;;;;;;;;x
 b_limbert;Limbert;Limbert;Limbert;;Limbert;;;;;;;;;x
 b_limbert_adj;Limbertian;;limberter;;;;;;;;;;;x
 b_lime_canyon;Lime Canyon;Lime Canyon;Lime Canyon;;Lime Canyon;;;;;;;;;x
@@ -7377,6 +7373,8 @@ b_loma_linda;Loma Linda;Loma Linda;Loma Linda;;Loma Linda;;;;;;;;;x
 b_loma_linda_adj;Loma Lindan;;Loma Linder;;;;;;;;;;;x
 b_loma_rica;Loma Rica;Loma Rica;Loma Rica;;Loma Rica;;;;;;;;;x
 b_loma_rica_adj;Loma Rican;;Loma Ricer;;;;;;;;;;;x
+b_lomas_blancas;Lomas Blancas;Lomas Blancas;Lomas Blancas;;Lomas Blancas;;;;;;;;;x
+b_lomas_blancas_adj;Lomas Blancasian;;Lomas Blancaser;;;;;;;;;;;x
 b_lompoc;Lompoc;Lompoc;Lompoc;;Lompoc;;;;;;;;;x
 b_lompoc_adj;Lompocian;;lompocer;;;;;;;;;;;x
 b_lona;Lona;Lona;Lona;;Lona;;;;;;;;;x
@@ -7993,6 +7991,8 @@ b_melchor_ocampo;Melchor Ocampo;Melchor Ocampo;Melchor Ocampo;;Melchor Ocampo;;;
 b_melchor_ocampo_adj;Melchor Ocampian;;Melchor Ocamper;;;;;;;;;;;x
 b_meloland;Meloland;Meloland;Meloland;;Meloland;;;;;;;;;x
 b_meloland_adj;Melolandian;;melolander;;;;;;;;;;;x
+b_melpomene_cove;Melpómene Cove;Melpómene Cove;Melpómene Cove;;Melpómene Cove;;;;;;;;;x
+b_melpomene_cove_adj;Melpómene Covean;;Melpómene Cover;;;;;;;;;;;x
 b_menan;Menan;Menan;Menan;;Menan;;;;;;;;;x
 b_menan_adj;Menanian;;menaner;;;;;;;;;;;x
 b_mendicino;Mendicino;Mendicino;Mendicino;;Mendicino;;;;;;;;;x
@@ -8209,8 +8209,6 @@ b_milwaukie;Milwaukie;Milwaukie;Milwaukie;;Milwaukie;;;;;;;;;x
 b_milwaukie_adj;Milwaukiean;;milwauker;;;;;;;;;;;x
 b_mina;Mina;Mina;Mina;;Mina;;;;;;;;;x
 b_mina_adj;Minan;;miner;;;;;;;;;;;x
-b_mina_san_felipe;Mina San Felipe;Mina San Felipe;Mina San Felipe;;Mina San Felipe;;;;;;;;;x
-b_mina_san_felipe_adj;Mina San Felipean;;Mina San Feliper;;;;;;;;;;;x
 b_minam;Minam;Minam;Minam;;Minam;;;;;;;;;x
 b_minam_adj;Minamian;;minamer;;;;;;;;;;;x
 b_minas_nuevas;Minas Nuevas;Minas Nuevas;Minas Nuevas;;Minas Nuevas;;;;;;;;;x
@@ -9841,6 +9839,8 @@ b_pisgah;Pisgah;Pisgah;Pisgah;;Pisgah;;;;;;;;;x
 b_pisgah_adj;Pisgahian;;pisgaher;;;;;;;;;;;x
 b_pisinemo;Pisinemo;Pisinemo;Pisinemo;;Pisinemo;;;;;;;;;x
 b_pisinemo_adj;Pisinemian;;pisinemer;;;;;;;;;;;x
+b_pista;Pista;Pista;Pista;;Pista;;;;;;;;;x
+b_pista_adj;Pistan;;pister;;;;;;;;;;;x
 b_pistol_river;Pistol River;Pistol River;Pistol River;;Pistol River;;;;;;;;;x
 b_pistol_river_adj;Pistol Riverian;;Pistol Riverer;;;;;;;;;;;x
 b_pitco;Pitco;Pitco;Pitco;;Pitco;;;;;;;;;x
@@ -10205,8 +10205,6 @@ b_pueblo_pintado;Pueblo Pintado;Pueblo Pintado;Pueblo Pintado;;Pueblo Pintado;;;
 b_pueblo_pintado_adj;Pueblo Pintadian;;Pueblo Pintader;;;;;;;;;;;x
 b_pueblo_yaqui;Pueblo Yaqui;Pueblo Yaqui;Pueblo Yaqui;;Pueblo Yaqui;;;;;;;;;x
 b_pueblo_yaqui_adj;Pueblo Yaqian;;Pueblo Yaqer;;;;;;;;;;;x
-b_puerta_trampa;Puerta Trampa;Puerta Trampa;Puerta Trampa;;Puerta Trampa;;;;;;;;;x
-b_puerta_trampa_adj;Puerta Trampan;;Puerta Tramper;;;;;;;;;;;x
 b_puertecitos;Puertecitos;Puertecitos;Puertecitos;;Puertecitos;;;;;;;;;x
 b_puertecitos_adj;Puertecitosian;;puertecitoser;;;;;;;;;;;x
 b_puerto_agua_verde;Puerto Agua Verde;Puerto Agua Verde;Puerto Agua Verde;;Puerto Agua Verde;;;;;;;;;x
@@ -10219,6 +10217,8 @@ b_puerto_libertad;Puerto Libertad;Puerto Libertad;Puerto Libertad;;Puerto Libert
 b_puerto_libertad_adj;Puerto Libertadian;;Puerto Libertader;;;;;;;;;;;x
 b_puerto_lobos;Puerto Lobos;Puerto Lobos;Puerto Lobos;;Puerto Lobos;;;;;;;;;x
 b_puerto_lobos_adj;Puerto Lobosian;;Puerto Loboser;;;;;;;;;;;x
+b_puerto_morro_redond;Puerto Morro Redond;Puerto Morro Redond;Puerto Morro Redond;;Puerto Morro Redond;;;;;;;;;x
+b_puerto_morro_redond_adj;Puerto Morro Redondian;;Puerto Morro Redonder;;;;;;;;;;;x
 b_puerto_nuevo;Puerto Nuevo;Puerto Nuevo;Puerto Nuevo;;Puerto Nuevo;;;;;;;;;x
 b_puerto_nuevo_adj;Puerto Nuevian;;Puerto Nuever;;;;;;;;;;;x
 b_puerto_penasco;Puerto Penasco;Puerto Penasco;Puerto Penasco;;Puerto Penasco;;;;;;;;;x
@@ -10241,6 +10241,8 @@ b_punta_coyote;Punta Coyote;Punta Coyote;Punta Coyote;;Punta Coyote;;;;;;;;;x
 b_punta_coyote_adj;Punta Coyotean;;Punta Coyoter;;;;;;;;;;;x
 b_punta_final;Punta Final;Punta Final;Punta Final;;Punta Final;;;;;;;;;x
 b_punta_final_adj;Punta Finalian;;Punta Finaler;;;;;;;;;;;x
+b_punta_norte;Punta Norte;Punta Norte;Punta Norte;;Punta Norte;;;;;;;;;x
+b_punta_norte_adj;Punta Nortean;;Punta Norter;;;;;;;;;;;x
 b_punta_prieta;Punta Prieta;Punta Prieta;Punta Prieta;;Punta Prieta;;;;;;;;;x
 b_punta_prieta_adj;Punta Prietan;;Punta Prieter;;;;;;;;;;;x
 b_punta_risco;Punta Risco;Punta Risco;Punta Risco;;Punta Risco;;;;;;;;;x
@@ -10369,8 +10371,6 @@ b_rancho_del_oro;Rancho Del Oro;Rancho Del Oro;Rancho Del Oro;;Rancho Del Oro;;;
 b_rancho_del_oro_adj;Rancho Del Orian;;Rancho Del Orer;;;;;;;;;;;x
 b_rancho_el_refugio;Rancho El Refugio;Rancho El Refugio;Rancho El Refugio;;Rancho El Refugio;;;;;;;;;x
 b_rancho_el_refugio_adj;Rancho El Refugian;;Rancho El Refuger;;;;;;;;;;;x
-b_rancho_el_tule;Rancho El Tule;Rancho El Tule;Rancho El Tule;;Rancho El Tule;;;;;;;;;x
-b_rancho_el_tule_adj;Rancho El Tulean;;Rancho El Tuler;;;;;;;;;;;x
 b_rancho_escondido;Rancho Escondido;Rancho Escondido;Rancho Escondido;;Rancho Escondido;;;;;;;;;x
 b_rancho_escondido_adj;Rancho Escondidian;;Rancho Escondider;;;;;;;;;;;x
 b_rancho_los_pinos;Rancho los Pinos;Rancho los Pinos;Rancho los Pinos;;Rancho los Pinos;;;;;;;;;x
@@ -10435,8 +10435,6 @@ b_rayville;Rayville;Rayville;Rayville;;Rayville;;;;;;;;;x
 b_rayville_adj;Rayvillean;;rayviller;;;;;;;;;;;x
 b_reagan;Reagan;Reagan;Reagan;;Reagan;;;;;;;;;x
 b_reagan_adj;Reaganian;;reaganer;;;;;;;;;;;x
-b_real_del_castillo_nuevo;Real del Castillo Nuevo;Real del Castillo Nuevo;Real del Castillo Nuevo;;Real del Castillo Nuevo;;;;;;;;;x
-b_real_del_castillo_nuevo_adj;Real del Castillo Nuevian;;Real del Castillo Nuever;;;;;;;;;;;x
 b_reardan;Reardan;Reardan;Reardan;;Reardan;;;;;;;;;x
 b_reardan_adj;Reardanian;;reardaner;;;;;;;;;;;x
 b_recoveco;Recoveco;Recoveco;Recoveco;;Recoveco;;;;;;;;;x
@@ -11065,6 +11063,8 @@ b_san_acacio;San Acacio;San Acacio;San Acacio;;San Acacio;;;;;;;;;x
 b_san_acacio_adj;San Acacian;;San Acacer;;;;;;;;;;;x
 b_san_acadia;San Acadia;San Acadia;San Acadia;;San Acadia;;;;;;;;;x
 b_san_acadia_adj;San Acadian;;San Acader;;;;;;;;;;;x
+b_san_agustin;San Agustín;San Agustín;San Agustín;;San Agustín;;;;;;;;;x
+b_san_agustin_adj;San Agustínian;;San Agustíner;;;;;;;;;;;x
 b_san_andreas;San Andreas;San Andreas;San Andreas;;San Andreas;;;;;;;;;x
 b_san_andreas_adj;San Andreasian;;San Andreaser;;;;;;;;;;;x
 b_san_antonio;San Antonio;San Antonio;San Antonio;;San Antonio;;;;;;;;;x
@@ -11301,8 +11301,6 @@ b_san_ramon;San Ramon;San Ramon;San Ramon;;San Ramon;;;;;;;;;x
 b_san_ramon_adj;San Ramonian;;San Ramoner;;;;;;;;;;;x
 b_san_raphael;San Raphael;San Raphael;San Raphael;;San Raphael;;;;;;;;;x
 b_san_raphael_adj;San Raphaelian;;San Raphaeler;;;;;;;;;;;x
-b_san_salvador;San Salvador;San Salvador;San Salvador;;San Salvador;;;;;;;;;x
-b_san_salvador_adj;San Salvadorian;;San Salvadorer;;;;;;;;;;;x
 b_san_sebastian;San Sebastián;San Sebastián;San Sebastián;;San Sebastián;;;;;;;;;x
 b_san_sebastian_adj;San Sebastiánian;;San Sebastiáner;;;;;;;;;;;x
 b_san_simeon;San Simeon;San Simeon;San Simeon;;San Simeon;;;;;;;;;x
@@ -12695,6 +12693,8 @@ b_tepahui;Tepahui;Tepahui;Tepahui;;Tepahui;;;;;;;;;x
 b_tepahui_adj;Tepahian;;tepaher;;;;;;;;;;;x
 b_tepentu;Tepentú;Tepentú;Tepentú;;Tepentú;;;;;;;;;x
 b_tepentu_adj;Tepentúian;;tepentúer;;;;;;;;;;;x
+b_tepeyac;Tepeyac;Tepeyac;Tepeyac;;Tepeyac;;;;;;;;;x
+b_tepeyac_adj;Tepeyacian;;tepeyacer;;;;;;;;;;;x
 b_tepupa;Tepupa;Tepupa;Tepupa;;Tepupa;;;;;;;;;x
 b_tepupa_adj;Tepupan;;tepuper;;;;;;;;;;;x
 b_terminal;Terminal;Terminal;Terminal;;Terminal;;;;;;;;;x

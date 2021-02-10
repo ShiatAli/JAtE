@@ -1252,12 +1252,12 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 254 province_id = 255 province_id = 256 } }
+					any_demesne_province = { OR = { province_id = 255 province_id = 256 } }
 				}
 			}
-			capital = 254 # c_la_poza_grande
+			capital = 255 # c_la_poza_grande
 			
-			c_la_poza_grande = { # 254
+			c_la_poza_grande = { # 255
 				color={ 242 83 171 }
 				color2={ 255 255 255 }
 				
@@ -1274,25 +1274,6 @@ e_baja = {
 				b_las_barrancas = {
 				}
 				b_la_purisima = {
-				}
-			}
-			c_heroica_mulege = { # 255
-				color={ 224 86 114 }
-				color2={ 255 255 255 }
-				
-				b_heroica_mulege = {
-				}
-				b_punta_chivato = {
-				}
-				b_san_bruno_2 = {
-				}
-				b_los_naranjos = {
-				}
-				b_loma_azuil = {
-				}
-				b_el_romerial = {
-				}
-				b_san_jose_de_magdalena = {
 				}
 			}
 			c_la_yaqui = { # 256
@@ -1312,6 +1293,57 @@ e_baja = {
 				b_el_arenal = {
 				}
 				b_camino_de_enmedio = {
+				}
+			}
+		}
+		d_gran_guadalupe = {
+			color={ 218 191 49 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 257 province_id = 258 } }
+				}
+			}
+			capital = 257 # c_isla_guadalupe
+			
+			c_isla_guadalupe = { # 257
+				color={ 228 181 54 }
+				color2={ 255 255 255 }
+				
+				b_melpomene_cove = {
+				}
+				b_tepeyac = {
+				}
+				b_lima = {
+				}
+				b_corrals = {
+				}
+				b_pista = {
+				}
+				b_campo_este = {
+				}
+				b_campo_norte = {
+				}
+			}
+			c_isla_de_cedros = { # 258
+				color={ 228 172 54 }
+				color2={ 255 255 255 }
+				
+				b_isla_de_cedros = {
+				}
+				b_el_morro = {
+				}
+				b_puerto_morro_redond = {
+				}
+				b_san_agustin = {
+				}
+				b_jerusalem = {
+				}
+				b_lomas_blancas = {
+				}
+				b_punta_norte = {
 				}
 			}
 		}
@@ -1392,7 +1424,7 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 252 province_id = 253 } }
+					any_demesne_province = { OR = { province_id = 252 province_id = 253 province_id = 254 } }
 				}
 			}
 			capital = 252 # c_liguei
@@ -1414,6 +1446,25 @@ e_baja = {
 				b_palmar = {
 				}
 				b_isla_pardo = {
+				}
+			}
+			c_heroica_mulege = { # 254
+				color={ 224 86 114 }
+				color2={ 255 255 255 }
+				
+				b_heroica_mulege = {
+				}
+				b_punta_chivato = {
+				}
+				b_san_bruno_2 = {
+				}
+				b_los_naranjos = {
+				}
+				b_loma_azuil = {
+				}
+				b_el_romerial = {
+				}
+				b_san_jose_de_magdalena = {
 				}
 			}
 			c_loreto = { # 253
@@ -1640,12 +1691,12 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 257 province_id = 258 province_id = 259 province_id = 260 province_id = 261 } }
+					any_demesne_province = { OR = { province_id = 259 province_id = 260 province_id = 261 province_id = 262 province_id = 263 } }
 				}
 			}
-			capital = 257 # c_bahia_tortugas
+			capital = 259 # c_bahia_tortugas
 			
-			c_bahia_tortugas = { # 257
+			c_bahia_tortugas = { # 259
 				color={ 254 158 173 }
 				color2={ 255 255 255 }
 				
@@ -1661,10 +1712,10 @@ e_baja = {
 				}
 				b_bombas_de_salinas = {
 				}
-				b_isla_de_cedros = {
+				b_la_lobera = {
 				}
 			}
-			c_el_marasal = { # 259
+			c_el_marasal = { # 261
 				color={ 228 41 228 }
 				color2={ 255 255 255 }
 				
@@ -1683,7 +1734,7 @@ e_baja = {
 				b_granjas_elizabeth = {
 				}
 			}
-			c_guerrero_negro = { # 258
+			c_guerrero_negro = { # 260
 				color={ 244 168 244 }
 				color2={ 255 255 255 }
 				
@@ -1702,7 +1753,7 @@ e_baja = {
 				b_loma_bonita = {
 				}
 			}
-			c_punta_abreojos = { # 261
+			c_punta_abreojos = { # 263
 				color={ 164 249 244 }
 				color2={ 255 255 255 }
 				
@@ -1721,7 +1772,7 @@ e_baja = {
 				b_isla_delgadito = {
 				}
 			}
-			c_santa_rosalia = { # 260
+			c_santa_rosalia = { # 262
 				color={ 251 162 249 }
 				color2={ 255 255 255 }
 				
@@ -1746,7 +1797,7 @@ e_baja = {
 		color={ 215 221 12 }
 		color2={ 255 255 255 }
 		
-		capital = 262 # c_tijuana
+		capital = 264 # c_tijuana
 		culture = californio
 		
 		d_tijuana = {
@@ -1756,12 +1807,12 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 262 province_id = 263 province_id = 264 province_id = 265 } }
+					any_demesne_province = { OR = { province_id = 264 province_id = 265 province_id = 266 province_id = 267 } }
 				}
 			}
-			capital = 262 # c_tijuana
+			capital = 264 # c_tijuana
 			
-			c_tijuana = { # 262
+			c_tijuana = { # 264
 				color={ 245 191 27 }
 				color2={ 255 255 255 }
 				
@@ -1780,7 +1831,7 @@ e_baja = {
 				b_punta_bandera = {
 				}
 			}
-			c_guadalupe = { # 264
+			c_guadalupe = { # 266
 				color={ 219 189 17 }
 				color2={ 255 255 255 }
 				
@@ -1799,7 +1850,7 @@ e_baja = {
 				b_ejido_el_porvenir = {
 				}
 			}
-			c_la_rumorosa = { # 265
+			c_la_rumorosa = { # 267
 				color={ 252 241 37 }
 				color2={ 255 255 255 }
 				
@@ -1818,7 +1869,7 @@ e_baja = {
 				b_agua_hechicera = {
 				}
 			}
-			c_tecate = { # 263
+			c_tecate = { # 265
 				color={ 245 228 129 }
 				color2={ 255 255 255 }
 				
@@ -1845,12 +1896,12 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 270 province_id = 271 province_id = 272 } }
+					any_demesne_province = { OR = { province_id = 272 province_id = 273 } }
 				}
 			}
-			capital = 270 # c_el_indiviso
+			capital = 272 # c_el_indiviso
 			
-			c_el_indiviso = { # 270
+			c_el_indiviso = { # 272
 				color={ 230 226 100 }
 				color2={ 255 255 255 }
 				
@@ -1869,26 +1920,7 @@ e_baja = {
 				b_los_amigos = {
 				}
 			}
-			c_condensadora = { # 271
-				color={ 177 174 29 }
-				color2={ 255 255 255 }
-				
-				b_condensadora = {
-				}
-				b_mina_san_felipe = {
-				}
-				b_las_pintas = {
-				}
-				b_las_tinajas = {
-				}
-				b_carrizo = {
-				}
-				b_coyote_2 = {
-				}
-				b_la_ventana_2 = {
-				}
-			}
-			c_lazaro_cardenas = { # 272
+			c_lazaro_cardenas = { # 273
 				color={ 75 54 10 }
 				color2={ 255 255 255 }
 				
@@ -1908,38 +1940,19 @@ e_baja = {
 				}
 			}
 		}
-		d_diablo = {
-			color={ 235 246 117 }
+		d_el_rosario = {
+			color={ 209 167 153 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 273 province_id = 274 province_id = 275 province_id = 276 } }
+					any_demesne_province = { OR = { province_id = 276 province_id = 277 } }
 				}
 			}
-			capital = 273 # c_san_felipe_2
+			capital = 276 # c_el_rosario
 			
-			c_san_felipe_2 = { # 273
-				color={ 245 236 122 }
-				color2={ 255 255 255 }
-				
-				b_san_felipe_3 = {
-				}
-				b_valle_chico = {
-				}
-				b_el_paraiso_2 = {
-				}
-				b_el_mezquite = {
-				}
-				b_la_hacienda = {
-				}
-				b_baja_marina = {
-				}
-				b_playa_hawaii = {
-				}
-			}
-			c_el_rosario = { # 275
+			c_el_rosario = { # 276
 				color={ 219 157 158 }
 				color2={ 255 255 255 }
 				
@@ -1955,29 +1968,10 @@ e_baja = {
 				}
 				b_el_rosario_de_abajo = {
 				}
-				b_la_lobera = {
+				b_la_lobera_2 = {
 				}
 			}
-			c_puertecitos = { # 274
-				color={ 253 205 115 }
-				color2={ 255 255 255 }
-				
-				b_puertecitos = {
-				}
-				b_matomi = {
-				}
-				b_playa_la_costilla = {
-				}
-				b_curvina = {
-				}
-				b_carriso = {
-				}
-				b_san_martin_2 = {
-				}
-				b_el_coloradito = {
-				}
-			}
-			c_rancho_los_pinos = { # 276
+			c_rancho_los_pinos = { # 277
 				color={ 190 80 83 }
 				color2={ 255 255 255 }
 				
@@ -2004,12 +1998,12 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 277 province_id = 278 province_id = 279 province_id = 280 } }
+					any_demesne_province = { OR = { province_id = 278 province_id = 279 province_id = 280 } }
 				}
 			}
-			capital = 277 # c_ensenada
+			capital = 278 # c_ensenada
 			
-			c_ensenada = { # 277
+			c_ensenada = { # 278
 				color={ 139 100 18 }
 				color2={ 255 255 255 }
 				
@@ -2029,7 +2023,7 @@ e_baja = {
 				}
 			}
 			c_camalu = { # 280
-				color={ 139 100 18 }
+				color={ 139 100 20 }
 				color2={ 255 255 255 }
 				
 				b_camalu = {
@@ -2045,25 +2039,6 @@ e_baja = {
 				b_el_carricito = {
 				}
 				b_el_bramadero = {
-				}
-			}
-			c_san_salvador = { # 278
-				color={ 228 172 54 }
-				color2={ 255 255 255 }
-				
-				b_san_salvador = {
-				}
-				b_real_del_castillo_nuevo = {
-				}
-				b_puerta_trampa = {
-				}
-				b_la_rosa_de_castilla = {
-				}
-				b_rancho_el_tule = {
-				}
-				b_las_joyitas = {
-				}
-				b_leyes_de_reforma = {
 				}
 			}
 			c_santo_tomas = { # 279
@@ -2163,12 +2138,12 @@ e_baja = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 266 province_id = 267 province_id = 268 province_id = 269 } }
+					any_demesne_province = { OR = { province_id = 268 province_id = 269 province_id = 270 province_id = 271 } }
 				}
 			}
-			capital = 266 # c_mexicali
+			capital = 268 # c_mexicali
 			
-			c_mexicali = { # 266
+			c_mexicali = { # 268
 				color={ 234 94 0 }
 				color2={ 255 255 255 }
 				
@@ -2187,7 +2162,7 @@ e_baja = {
 				b_ejido_el_choropo = {
 				}
 			}
-			c_delta = { # 269
+			c_delta = { # 271
 				color={ 151 79 26 }
 				color2={ 255 255 255 }
 				
@@ -2206,7 +2181,7 @@ e_baja = {
 				b_sonora_2 = {
 				}
 			}
-			c_morelos = { # 268
+			c_morelos = { # 270
 				color={ 255 167 108 }
 				color2={ 255 255 255 }
 				
@@ -2225,7 +2200,7 @@ e_baja = {
 				b_cuervitos = {
 				}
 			}
-			c_progreso = { # 267
+			c_progreso = { # 269
 				color={ 224 135 69 }
 				color2={ 255 255 255 }
 				
@@ -2242,6 +2217,57 @@ e_baja = {
 				b_ejido_coahuila = {
 				}
 				b_la_luna = {
+				}
+			}
+		}
+		d_san_felipe = {
+			color={ 235 246 117 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 274 province_id = 275 } }
+				}
+			}
+			capital = 274 # c_san_felipe_2
+			
+			c_san_felipe_2 = { # 274
+				color={ 245 236 122 }
+				color2={ 255 255 255 }
+				
+				b_san_felipe_3 = {
+				}
+				b_valle_chico = {
+				}
+				b_el_paraiso_2 = {
+				}
+				b_el_mezquite = {
+				}
+				b_la_hacienda = {
+				}
+				b_baja_marina = {
+				}
+				b_playa_hawaii = {
+				}
+			}
+			c_puertecitos = { # 275
+				color={ 253 205 115 }
+				color2={ 255 255 255 }
+				
+				b_puertecitos = {
+				}
+				b_matomi = {
+				}
+				b_playa_la_costilla = {
+				}
+				b_curvina = {
+				}
+				b_carriso = {
+				}
+				b_san_martin_2 = {
+				}
+				b_el_coloradito = {
 				}
 			}
 		}
@@ -9369,7 +9395,7 @@ e_idaho = {
 				color={ 132 240 249 }
 				color2={ 255 255 255 }
 				
-				b_lima = {
+				b_lima_2 = {
 				}
 				b_dell = {
 				}
@@ -12572,7 +12598,7 @@ e_lone_star = {
 				}
 				b_sierra_blanca = {
 				}
-				b_carrizo_2 = {
+				b_carrizo = {
 				}
 				b_patos = {
 				}
@@ -13403,7 +13429,7 @@ e_navajoland = {
 				}
 				b_mountain_view_3 = {
 				}
-				b_el_morro = {
+				b_el_morro_2 = {
 				}
 				b_obe_worthen = {
 				}
@@ -13632,7 +13658,7 @@ e_navajoland = {
 				}
 				b_abiquiu = {
 				}
-				b_coyote_3 = {
+				b_coyote_2 = {
 				}
 				b_canones = {
 				}
@@ -21660,9 +21686,9 @@ e_sonora = {
 					any_demesne_province = { OR = { province_id = 928 province_id = 929 } }
 				}
 			}
-			capital = 928 # c_navajoa
+			capital = 928 # c_navojoa
 			
-			c_navajoa = { # 928
+			c_navojoa = { # 928
 				color={ 106 124 244 }
 				color2={ 255 255 255 }
 				

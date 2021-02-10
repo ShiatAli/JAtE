@@ -1,0 +1,21 @@
+# c_tecate
+
+# County Title
+title = c_tecate
+
+# Settlements
+max_settlements = 5
+
+b_tecate = castle
+b_el_paraiso = city
+b_tanama = temple
+b_santa_lucia = castle
+#b_maritza = city
+#b_el_chaparal = temple
+#b_el_gavilan = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = hills
+#History
