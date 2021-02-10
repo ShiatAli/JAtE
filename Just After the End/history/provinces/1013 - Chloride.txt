@@ -15,7 +15,7 @@ b_chloride_city = castle
 #b_pyramid_peak = castle
 
 # Misc
-culture = deathman
+culture = battleborn
 religion = atomicist
 terrain = desert
 #History

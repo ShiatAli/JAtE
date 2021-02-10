@@ -10282,7 +10282,7 @@ e_jefferson = {
 		color2={ 255 255 255 }
 		
 		capital = 319 # c_alturas
-		culture = siskiyouan
+		culture = black_rocker
 		
 		d_goose = {
 			color={ 150 137 122 }
@@ -14224,7 +14224,7 @@ e_nevada = {
 		color2={ 255 255 255 }
 		
 		capital = 996 # c_paoha
-		culture = battleborn
+		culture = monyo
 		
 		d_mono = {
 			color={ 245 127 114 }
@@ -14817,7 +14817,7 @@ e_nevada = {
 		color2={ 255 255 255 }
 		
 		capital = 966 # c_elko_2
-		culture = battleborn
+		culture = north_paiute
 		
 		d_elko = {
 			color={ 127 204 60 }
@@ -19373,7 +19373,7 @@ e_socal = {
 		color2={ 255 255 255 }
 		
 		capital = 211 # c_las_vegas
-		culture = angeleno
+		culture = clarkard
 		
 		d_grand_vegas = {
 			color={ 231 246 123 }

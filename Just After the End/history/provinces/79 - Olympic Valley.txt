@@ -15,7 +15,7 @@ b_tahoma = city
 #b_donner = castle
 
 # Misc
-culture = renolander
+culture = valleyan
 religion = cetic
 
 #History
