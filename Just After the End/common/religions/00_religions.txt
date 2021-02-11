@@ -1597,6 +1597,64 @@ christian = {
 		intermarry = espiritista
 		intermarry = candomble
 	}
+
+	dominionist = {
+		graphical_culture = westerngfx
+
+		icon = 89
+		heresy_icon = 89
+		
+		color = { 238 242 255 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_CHRIST GOD_THE_LORD GOD_JESUS GOD_AMERICA GOD_THE_FLAG
+		}
+		
+		evil_god_names = {
+			SATAN THE_DEVIL GOD_COMMUNISM GOD_THE_UNBELIEVERS
+		}
+	
+		pacifist = no
+		can_excommunicate = no
+		allow_rivermovement = yes
+		allow_viking_invasion = yes
+		aggression = 2.0 #highly aggressive
+		allow_looting = yes	#will loot infidels
+		peace_prestige_loss = yes # Lose Prestige while at peace
+		can_demand_religious_conversion = yes
+		peace_piety_gain = 0
+
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+		intermarry = catholic
+		intermarry = evangelical
+		intermarry = ursuline
+		intermarry = high_church
+		intermarry = anabaptist
+		intermarry = falling_star
+		intermarry = apostolic
+		
+		intermarry = neognostic
+		intermarry = sedevacantist
+		intermarry = nestorian
+		intermarry = charismatic
+		intermarry = antinomian
+		intermarry = postadventist
+		intermarry = angeline
+		intermarry = nonconformist
+		#intermarry = batenburger
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = celeste
+		intermarry = orthodox
+	}
 }
 
 cult_of_saints= {
