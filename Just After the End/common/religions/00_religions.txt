@@ -1768,7 +1768,7 @@ pacific = {
 		intermarry = qingzhen
 		intermarry = imamite
 	}
-	blackcross = {
+	black_cross = {
 		graphical_culture = norsegfx
 
 		icon = 87
