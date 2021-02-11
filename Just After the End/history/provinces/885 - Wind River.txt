@@ -15,7 +15,7 @@ b_lander = city
 #b_south_pass_city = castle
 
 # Misc
-culture = grangelander
+culture = shoshone
 religion = trailwalker
 
 #History

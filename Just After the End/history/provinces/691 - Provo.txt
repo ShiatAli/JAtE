@@ -15,7 +15,7 @@ b_lindon = temple
 #b_fort_utah = castle
 
 # Misc
-culture = utahn
+culture = provo
 religion = mormon
 
 #History

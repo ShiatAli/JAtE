@@ -15,7 +15,7 @@ b_huntsville = castle
 #b_willard_peak = castle
 
 # Misc
-culture = utahn
+culture = wyomingite
 religion = mormon
 
 #History

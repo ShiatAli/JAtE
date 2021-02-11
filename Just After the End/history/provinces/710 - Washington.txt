@@ -15,7 +15,7 @@ b_st_george = city
 #b_toquerville = castle
 
 # Misc
-culture = utahn
+culture = long_fifteener
 religion = mormon
 
 #History

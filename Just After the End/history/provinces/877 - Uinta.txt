@@ -15,7 +15,7 @@ b_almy = city
 #b_garden = castle
 
 # Misc
-culture = mountainer
+culture = wyomingite
 religion = mormon
 
 #History

@@ -47,7 +47,6 @@ palouse;Palouse;;;;;;;;;;;;;x
 panhandler;Panhandler;;;;;;;;;;;;;x
 sawtooth;Sawtooth;;;;;;;;;;;;;x
 snakemen;Snakemen;;;;;;;;;;;;;x
-ranger;Ranger;;;;;;;;;;;;;x
 
 #Nevada Cultures
 great_basin;Great Basin;;;;;;;;;;;;;x
@@ -57,15 +56,31 @@ monyo;Monyo;;;;;;;;;;;;;x
 renolander;Renolander;;;;;;;;;;;;;x
 black_rocker;Black Rocker;;;;;;;;;;;;;x
 lonelyroader;Lonelyroader;;;;;;;;;;;;;x
+long_fifteener;Long Fifteener;;;;;;;;;;;;;x
+
+#Utahn Cultures
+staircaser;Staircaser;;;;;;;;;;;;;x
+middleman;Middleman;;;;;;;;;;;;;x
+boxer;Boxer;;;;;;;;;;;;;x
+utah;Utah;;;;;;;;;;;;;x
+canyonlander;Canyonlander;;;;;;;;;;;;;x
+provo;Provo;;;;;;;;;;;;;x
 
 #Prairelander Cultures
 montanan;Montanan;;;;;;;;;;;;;x
+
+#Divider Cultures
+divider;Divider;;;;;;;;;;;;;x
+ranger;Ranger;;;;;;;;;;;;;x
+wyomingite;Wyomingite;;;;;;;;;;;;;x
 
 #Native Cultures
 yakama;Yakama;;;;;;;;;;;;;x
 north_paiute;North Paiute;;;;;;;;;;;;;x
 west_paiute;West Paiute;;;;;;;;;;;;;x
 shoshone;Shoshone;;;;;;;;;;;;;x
+ute;Ute;;;;;;;;;;;;;x
+
 ###########Titular Titles###########
 d_pikeplace;Pikeplace;;;;;;;;;;;;;x
 d_pikeplace_adj;Pikeplacer;;;;;;;;;;;;;x

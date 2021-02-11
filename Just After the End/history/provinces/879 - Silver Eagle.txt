@@ -15,7 +15,7 @@ b_fort_bridger = castle
 #b_carter = castle
 
 # Misc
-culture = mountainer
+culture = wyomingite
 religion = mormon
 
 #History

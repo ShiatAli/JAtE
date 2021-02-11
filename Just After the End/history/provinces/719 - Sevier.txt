@@ -15,7 +15,7 @@ b_richfield_2 = castle
 #b_redmond_3 = castle
 
 # Misc
-culture = utahn
+culture = middleman
 religion = mormon
 
 #History

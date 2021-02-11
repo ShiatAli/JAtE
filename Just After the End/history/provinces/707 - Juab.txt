@@ -15,7 +15,7 @@ b_nephi = castle
 #b_yuba_lake = castle
 
 # Misc
-culture = utahn
+culture = provo
 religion = mormon
 
 #History

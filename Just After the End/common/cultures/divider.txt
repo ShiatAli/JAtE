@@ -1,0 +1,131 @@
+###ÄNSI
+
+divider = {
+	graphical_cultures = { westerngfx }
+
+	ranger = {
+		dukes_called_kings = yes
+		
+		graphical_cultures = { canadiangfx whitepacificgfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+		
+		color = { 223 185 103 }
+		
+		male_names = {
+			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
+			Bing Brian Burl Burt Burton
+			Charlie_Charles Clarence Connor Craig
+			Daryl David_David Dennis_Denis Drew
+			Eddie_Edward Eric
+			Garry_Gary
+			Harlond Harold
+			Jackson Jerry Jim_James John_John Jordan
+			Luke_Luke
+			Matt_Matthew Mel Mike_Michael
+			Neil
+			Orson
+			Richard_Richard Robert_Robert Ryan
+			Sam_Samuel Sherman Steve_Stephen Stuart
+			Tom_Thomas Trevor Tyler
+			Walter Wayne Wilbur Wilder William_William Willis
+		}
+		
+		female_names = {
+			Adrienne_Adriana Andrea Anna_Anne Amy
+			Beverley
+			Carol_Caroline Christine_Christina Cindy Colleen
+			Dorothy
+			Gale
+			Helga Hope
+			Janet Jean_Joan Julia Julianna
+			Kathryn_Catherine Kayla
+			Launi Linda Lis_Elizabeth
+			Madonna Martha Mary_Mary Michele_Michelle
+			Paige Patrice_Patricia
+			Quail
+			Sarah_Sarah Seena Sharon Sophia Susan Sydney
+			Thelma
+			Wanda
+			Yolanda
+		}
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+
+	wyomingite = {
+		dukes_called_kings = yes
+		
+		graphical_cultures = { canadiangfx whitepacificgfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+		
+		color = { 5 183 44 }
+		
+		male_names = {
+			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
+			Bing Brian Burl Burt Burton
+			Charlie_Charles Clarence Connor Craig
+			Daryl David_David Dennis_Denis Drew
+			Eddie_Edward Eric
+			Garry_Gary
+			Harlond Harold
+			Jackson Jerry Jim_James John_John Jordan
+			Luke_Luke
+			Matt_Matthew Mel Mike_Michael
+			Neil
+			Orson
+			Richard_Richard Robert_Robert Ryan
+			Sam_Samuel Sherman Steve_Stephen Stuart
+			Tom_Thomas Trevor Tyler
+			Walter Wayne Wilbur Wilder William_William Willis
+		}
+		
+		female_names = {
+			Adrienne_Adriana Andrea Anna_Anne Amy
+			Beverley
+			Carol_Caroline Christine_Christina Cindy Colleen
+			Dorothy
+			Gale
+			Helga Hope
+			Janet Jean_Joan Julia Julianna
+			Kathryn_Catherine Kayla
+			Launi Linda Lis_Elizabeth
+			Madonna Martha Mary_Mary Michele_Michelle
+			Paige Patrice_Patricia
+			Quail
+			Sarah_Sarah Seena Sharon Sophia Susan Sydney
+			Thelma
+			Wanda
+			Yolanda
+		}
+		from_dynasty_prefix = ""
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+}

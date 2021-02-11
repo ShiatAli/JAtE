@@ -15,7 +15,7 @@ b_koosharem = castle
 #b_flake_mountain = castle
 
 # Misc
-culture = utahn
+culture = middleman
 religion = mormon
 
 #History

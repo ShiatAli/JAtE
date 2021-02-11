@@ -15,7 +15,7 @@ b_grantdale = castle
 #b_medicines = castle
 
 # Misc
-culture = sawtooth
+culture = montanan
 religion = gaian
 
 #History

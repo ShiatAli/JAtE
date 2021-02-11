@@ -15,7 +15,7 @@ b_sky_island = castle
 #b_holeman_spring = castle
 
 # Misc
-culture = utahn
+culture = canyonlander
 religion = mormon
 
 #History

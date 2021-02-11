@@ -1,16 +1,12 @@
 ###ÄNSI
 
-great_basin = {
-	graphical_cultures = { cowboygfx westerngfx }
+utah = {
+	graphical_cultures = { westerngfx }
 	
-		
-	battleborn = {
+	staircaser = {
 		graphical_cultures = { cowboygfx }
 		
-		color = { 0.39 0.20 0.35 }
-		
-		#made this more serious by doing the usual thing of going through historical figures and adding names based on that.
-		#however, i will retain some new vegas names because it can be hard to get female names using the method i listed
+		color = { 210 144 28 }
 		
 		male_names = {
 			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
@@ -69,10 +65,10 @@ great_basin = {
 
 		modifier = default_culture_modifier
 	}
-	clarkard = {
+	boxer = {
 		graphical_cultures = { cowboygfx }
 		
-		color = { 82 56 252 }
+		color = { 187 209 46 }
 		
 		male_names = {
 			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
@@ -131,10 +127,10 @@ great_basin = {
 
 		modifier = default_culture_modifier
 	}
-	deathman = {
+	middleman = {
 		graphical_cultures = { cowboygfx }
 		
-		color = { 38 38 38 }
+		color = { 4 148 90 }
 		
 		male_names = {
 			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
@@ -193,10 +189,10 @@ great_basin = {
 
 		modifier = default_culture_modifier
 	}
-	monyo = {
+	canyonlander = {
 		graphical_cultures = { cowboygfx }
 		
-		color = { 255 63 63 }
+		color = { 213 44 11 }
 		
 		male_names = {
 			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
@@ -255,10 +251,10 @@ great_basin = {
 
 		modifier = default_culture_modifier
 	}
-	renolander = {
+	provo = {
 		graphical_cultures = { cowboygfx }
 		
-		color = { 255 251 98 }
+		color = { 98 150 255 }
 		
 		male_names = {
 			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
@@ -317,134 +313,10 @@ great_basin = {
 
 		modifier = default_culture_modifier
 	}
-	black_rocker = {
+	salter = {
 		graphical_cultures = { cowboygfx }
 		
-		color = { 43 37 4 }
-		
-		male_names = {
-			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
-			Benny_Benjamin Bert Bing Blake Buddy
-			Caleb Chauncey Carol Chet Chris_Christopher Clanden Clifford Craig
-			Dale Daniel_Daniel Dean Don_Donald
-			Eddie_Edward Ezekiel
-			Farris Frank_Francis Fred_Frederick
-			George_George
-			Hadrian_Adrian Harland Henry Howard Hughes_Hugh
-			Ignacio_Ignatius Ike_Isaac
-			Jake_Jacob Jimmy_James Jason Jedediah Jeremy_Jeremiah Jessup Joey_Joseph
-			Karl_Charles Keene Keith Kenny_Kenneth Key Kirk Kyle
-			Lars_Lawrence Lee Logan Louis
-			Manny_Emmanuel Mark_Mark Max_Maximilian Mick_Michael Mike_Michael Milo Moe_Moses
-			Neil_Neil Nolan
-			Oscar_Oscar Orris
-			Pacer Pat_Patrick Pete_Peter
-			Ralph_Ralph Raul_Ralph Reinhold_Ronald Ringo Robert_Robert Ronald_Ronald Roy
-			Sammy_Samuel Santiago Simon_Simon
-			Tom_Thomas
-			Vail Victor
-			Walter Wayne William_William
-		}
-
-		female_names = {
-			Ada Alice Allison_Alison Angela Anne April
-			Beatrix_Beatrice
-			Cassandra Cassidy Christine
-			Daisy Dala Diane
-			Elizabeth_Elizabeth Emily Ethel
-			Francine
-			Gloria
-			Ida
-			Jacklyn_Jacqueline Jane Janet Jeannie_Joan Joana_Joan Judy_Judith Julie_Julia
-			Kate_Catherine
-			Lacey Lena Lily_Lillian Lindsay Lucy
-			Pearl
-			Rachael_Rachel Raquel Rebecca Rhonda Rose Ruth
-			Sarah Sharon Shirley Siri Stella Sunny
-			Tabitha Trudy
-			Mags_Margaret Marjorie Marie_Mary Marilyn Marlene Maude_Maud Melissa Melody Michelle
-			Veronica Violet
-			Yvette
-		}
-
-		from_dynasty_prefix = ""
-
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 25
-		father_name_chance = 35
-
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 10
-		mother_name_chance = 15
-
-		modifier = default_culture_modifier
-	}
-	lonelyroader = {
-		graphical_cultures = { cowboygfx }
-		
-		color = { 208 201 5 }
-		
-		male_names = {
-			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll
-			Benny_Benjamin Bert Bing Blake Buddy
-			Caleb Chauncey Carol Chet Chris_Christopher Clanden Clifford Craig
-			Dale Daniel_Daniel Dean Don_Donald
-			Eddie_Edward Ezekiel
-			Farris Frank_Francis Fred_Frederick
-			George_George
-			Hadrian_Adrian Harland Henry Howard Hughes_Hugh
-			Ignacio_Ignatius Ike_Isaac
-			Jake_Jacob Jimmy_James Jason Jedediah Jeremy_Jeremiah Jessup Joey_Joseph
-			Karl_Charles Keene Keith Kenny_Kenneth Key Kirk Kyle
-			Lars_Lawrence Lee Logan Louis
-			Manny_Emmanuel Mark_Mark Max_Maximilian Mick_Michael Mike_Michael Milo Moe_Moses
-			Neil_Neil Nolan
-			Oscar_Oscar Orris
-			Pacer Pat_Patrick Pete_Peter
-			Ralph_Ralph Raul_Ralph Reinhold_Ronald Ringo Robert_Robert Ronald_Ronald Roy
-			Sammy_Samuel Santiago Simon_Simon
-			Tom_Thomas
-			Vail Victor
-			Walter Wayne William_William
-		}
-
-		female_names = {
-			Ada Alice Allison_Alison Angela Anne April
-			Beatrix_Beatrice
-			Cassandra Cassidy Christine
-			Daisy Dala Diane
-			Elizabeth_Elizabeth Emily Ethel
-			Francine
-			Gloria
-			Ida
-			Jacklyn_Jacqueline Jane Janet Jeannie_Joan Joana_Joan Judy_Judith Julie_Julia
-			Kate_Catherine
-			Lacey Lena Lily_Lillian Lindsay Lucy
-			Pearl
-			Rachael_Rachel Raquel Rebecca Rhonda Rose Ruth
-			Sarah Sharon Shirley Siri Stella Sunny
-			Tabitha Trudy
-			Mags_Margaret Marjorie Marie_Mary Marilyn Marlene Maude_Maud Melissa Melody Michelle
-			Veronica Violet
-			Yvette
-		}
-
-		from_dynasty_prefix = ""
-
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 25
-		father_name_chance = 35
-
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 10
-		mother_name_chance = 15
-
-		modifier = default_culture_modifier
-	}
-	long_fifteener = {
-		graphical_cultures = { cowboygfx }
-		
-		color = { 193 162 115 }
+		color = { 242 245 255 }
 		
 		male_names = {
 			Aaron Alex_Alexander Andy_Andrew Antony_Anthony Arcade_Arcadius Argyll

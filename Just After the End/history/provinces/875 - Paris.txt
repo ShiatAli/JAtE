@@ -15,7 +15,7 @@ b_liberty_2 = city
 #b_garden_city_3 = castle
 
 # Misc
-culture = mountainer
+culture = wyomingite
 religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_malad_city = castle
 #b_woodruff = castle
 
 # Misc
-culture = mountainer
+culture = boxer
 religion = mormon
 
 #History

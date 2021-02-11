@@ -15,7 +15,7 @@ b_bern = city
 #b_dingle = castle
 
 # Misc
-culture = ranger
+culture = wyomingite
 religion = mormon
 
 #History

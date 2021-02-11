@@ -15,7 +15,7 @@ b_green_river_2 = castle
 #b_le_barge = castle
 
 # Misc
-culture = mountainer
+culture = wyomingite
 religion = mormon
 
 #History

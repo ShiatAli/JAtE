@@ -15,7 +15,7 @@ b_baggs = castle
 #b_superior_3 = castle
 
 # Misc
-culture = mountainer
+culture = wyomingite
 religion = mormon
 
 #History

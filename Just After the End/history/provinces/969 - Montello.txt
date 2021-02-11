@@ -15,7 +15,7 @@ b_montello = castle
 #b_rhyolite = castle
 
 # Misc
-culture = battleborn
+culture = boxer
 religion = atomicist
 
 #History

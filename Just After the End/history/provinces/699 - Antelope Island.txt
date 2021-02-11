@@ -15,7 +15,7 @@ b_fielding_garr = castle
 #b_antelope_marina = castle
 
 # Misc
-culture = utahn
+culture = salter
 religion = mormon
 
 #History

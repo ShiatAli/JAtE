@@ -15,7 +15,7 @@ b_price = castle
 #b_west_wood = castle
 
 # Misc
-culture = utahn
+culture = canyonlander
 religion = mormon
 
 #History
