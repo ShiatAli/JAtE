@@ -138,54 +138,60 @@ rockland = {
 		unit_graphical_cultures = { saxongfx }
 
 		color = { 214 67 9 }
-
 		male_names = {
-			Apash Angus Alluviel Almo Arco Armstrong
-			Bruneau Bannock Benedicte_Benedict Borah Bridger Buck Bench Baptiste_Baptist Belzy Bent Bill_William
-			Camas Clarkand Colter Calvin Cameawait Car_Charles Clymer Custer Clayton
-			Doran Dodge
-			Ellis Elbert_Albert Elbridge
-			Fremont Ferris Fraser Fuller Flint
-			Gallatin Grenville Gangue Gutzon
-			Hototo Hall Hoss Hatcher Hunter
-			Jordan Jim_James Jedediah Jocko_John	
-			Kemble Kipp Kit_Christopher
-			Lolo Lodge Lincoln Lewisand Langford Lucian Lanterloo Lupton
-			Malad Moyle Malcolm Muggin Mullan Merriweather Madoc Meek Mulas Mapiyato Milward
+			Abarran_Abraham Apash Aitor Angus Alesander_Alexander Alluviel Almo Apal Argi Arco Armstrong Atze Atzo Austin
+			Bruneau Bannock Bernat_Benedict Brandon Borah Bridger Buck Bench Baptiste_Baptist Belzy Bent Bill_William
+			Camas Caleb Chevy Clarkand Colt Collin_Colin Calvin Cameawait Car_Charles Clymer Custer Clayton
+			Danel Doran Dodge Dworshak Dylan
+			Easton Ellis Elbert_Albert Eguntsenti Endiko Elbridge
+			Fremont Ferris Felix Finn Fraser Frantzisko Fuller Flint
+			Gallatin Gizon Grenville Gangue Gorka Goiz Gutzon
+			Hayden Hall Hoss Hogan Hatcher Hunter
+			Ibar Ineko Ion_John Itzal Izotz 
+			Jaxon_Jackson Jakes_Jacob Julen_Julian Jordan Jim_James Jedediah Jose
+			Kemble Kip Koldo Kimetz Kipp Kit_Christopher
+			Lolo Lodge Lincoln Lewisand Langford Lucas Lanterloo Lupton
+			Malad Moyle Malcolm Mateo Muggin Mullan Mikel_Michael Merriweather Madoc Meek Mulas Mapiyato Milward
 			Ned_Edward Nash
-			Orofino Ollicut Otter Osborne
-			Pass Perce Pike Pomp Pocatell Placer Peno
-			Raynold_Ronald Reet Remington Reno Rufus_Red Rulon Ranous
-			Secesh Selkirk Sublett Sycan Seth Skene Shuman Stuart_Stewart
-			Teton Tuecakas Tindoor Tuff Tetoharsk Terch Trommel Thurman Teno
+			Odol Orofino Ollicut Otter Osborne Otsoko
+			Patriot Pass Perce Pike Pomp Pocatell Placer Peno
+			Raynold_Ronald Reet Remington Reno Rufus_Red Rulon Ranous Ryker
+			Sawyer Secesh Selkirk Sublett Sycan Seth Skene Shuman Stuart_Stewart Su
+			Tanner Teobaldo_Theobald Teton Todd Tuecakas Todor Theo_Theodore Tindoor Tuff Tetoharsk Terch Trommel Thurman Teno Txeru Tyler
 			Vrain
-			Weitas Wheeler Wirasuap Welcher Willis
-			Yount
-			Zenas Zane
+			Weitas Wheeler Wirasuap Welcher Willis Wyatt
+			Xabier_Xavier Xarles_Charles 
+			Uhin Urdin Urre
+			Yount Yuli
+			Zenas Zane Zuri Zuzen 
 		}
 		female_names = {
-			Alaia Alice_Alice Astora
-			Blanca_Blanche Betsy_Elizabeth Belva Burnu
-			Cheyenne
-			Emilie_Emily Eliza_Elizabeth Esther Enid Eda
-			Fantan
-			Glenna Gail Galena Gretel Gorsuch Godat
-			Helena_Helen Hazel Hedow
-			Isabel_Isabelle
-			Judith Juniper Jesseca_Jessica Jewell
-			Lochsa Lizette_Elizabeth Lydia Lafacon Lilian_Lillian Lynne
-			Marias_Mary Margaret_Margaret Mildred Melba Monica
-			Narcissa Nellie
-			Owyhee Oreille
-			Payette Perpetua
-			Randy'L Resi
-			Susan_Susan Sylvia
+			Ada Alaia Alize_Alice Angel Astora
+			Blanca_Blanche Betsy_Elizabeth Bitxi Belva Burnu
+			Carly Cheyenne China
+			Emilie_Emily Elixabete_Elizabeth Esther Enid Esti Eda
+			Fantan Fede Florentxi_Florence
+			Gabone Gainko Garbi Gaxuxa Goizelder Glenna Gail Galena Gretel Gorria Godat
+			Haizea Hilargi Helena_Helen Hazel Hedow
+			Isabel_Isabelle Irati Itizar Izar Izzy
+			Jaurega Julene Judith Juniper Jesseca_Jessica Jewell Jone_Joan
+			Kalare_Claire Katerin_Catherine
+			Laida Lirian Lochsa Lindsay Lizette_Elizabeth Lorea Lafacon Liernia Lili_Lillian Luixa Lide_Lydia Lynne
+			Matxalen_Madeline Maya Miren_Mary Margaret_Margaret Mildred Melba Monika_Monica
+			Nekane Nevah Nellie Nikole_Nicole
+			Owyhee Oreille Oro Osane Otsana
+			Payette Penny Perpetua Pauli Pozne
+			Rain Randy Resi
+			Shasta Sorne Susan_Susan Sylvie_Sylvia
 			Thanadelthur Tamal Tayloe
 			Varina Virginia
+			Udane Udara Usoa
 			Winonmie
+			Virginia
+			Xixili
 			Yakima
+			Zabal Zubia Zuriñe
 		}
-
 		from_dynasty_prefix = "of "
 		
 		feminist = yes

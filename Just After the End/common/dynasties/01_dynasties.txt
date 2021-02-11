@@ -167,4 +167,9 @@
 # 2042 Dene
 # 2043 Iyyu
 
+#JUST AFTER THE END CULTURES BEGIN
+
+# 2044 Meseteno
+# 2045 Emeraldian
+
 # 3000 Special Dynasties (for event-generated characters)

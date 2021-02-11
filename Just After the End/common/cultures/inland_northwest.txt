@@ -198,39 +198,56 @@ inland_northwest = {
 		color = { 0.85 0.70 0.0 }
 
 		male_names = {
-			Almaron Alexandro_Alexander Antonio_Anthony Alberto_Albert Andrés_Andrew Abraham_Abraham Armando_Herman Agustin_Augustine Alonso_Alphonse
-			Brigido Baldemar Bernardo_Bernard Bautista
-			Carlos_Charles
-			Damacio Domingo_Dominic
-			Emilio_Aemilius Eduardo_Edward Erasmo_Erasmus Esteban_Stephen Elizondo
-			Fernando_Ferdinand Francisco_Francis Flaco
-			Gregorio_Gregory Gory Gaspar_Caspar Garcia
-			Ignacio_Ignatius Ildefonso
-			Juan_John Jorge_George José_Joseph Jesús_Jesus
-			Luis_Louis Lorenzo_Lawrence León_Leon
-			Marcos_Mark Manuel_Emmanuel Mariano_Marianus Martino_Martin Marciel Miguel_Michael
-			Pancho_Francis
-			Raul_Ralph Roberto_Robert Ramón_Raymond Rodrigo_Roderick Rafael_Raphael
-			Santos Seguín Serpario Salvador_Salvador Sebastián_Sebastian
-			Tuco Tomás_Thomas Terán Teodoro_Theodore
-			Vicente_Vincent Valente_Valentine
-			Xavier_Xavier
-		}
-
+            Abedul Abeto Acebo Álamo Albaricoque Aliso Almedro Arce Anacardo
+            Bracero Bambú 
+            Castaño Castor Cactus Cedro Cerezo César Cristian_Christian Ciprés Cilantro Carlos_Charles Coyote 
+            Darío Daniel David Desértico Dylan Durazno
+            Ébano Eucalipto Emanuel_Emmanuel Estival 
+            Fresno Francisco Faraón
+            Guayacán Gabriel Guille_William
+            Higuero Hibisco Huerto 
+			Isaac Isaías Israel
+            Jacobo_James Jacinto Jesús Joaquín Juan_John Jerónimo Joel Josafat José_Joseph Josué_Joshua Jeremías_Jeremy Jorge_George 
+            Lázaro Lenin Lirio Logro Luis_Louis Lucas_Luke
+            Manzano Madroño Marcos Mario Mateo_Matthew Manuel Miguel_Michael 
+            Nicolás_Nicholas Nublar Nogal Níspero
+            Océano_Ocean Olivo Olmo Otoño
+            Pino Pedro_Peter Pecán
+            Quetzal 
+            Roberto_Robert Romero
+            Sicomóro_Sycamore Sauce Sabino Síndico Silvestre
+            Tejo Tilo Trébol Timoteo_Timothy 
+			Unión
+            Viñedo_Vine 
+            Wily_William
+            Yólotl
+            Zacarías_Zachary Zapote Zión_Zion 
+        }
 		female_names = {
-			Adina Alexis Audi Angelina_Angela
-			Carla_Charlotte
-			Devendra
-			Eva Elida Emilia_Amelia Elsa
-			Jennifer Jaci Jade Justina
-			Linda Lupa Lydia
-			Marcella Margarita_Margaret Michell_Michelle María_Mary
-			Nina Nona
-			Paulina
-			Raini Rebecca Rosa_Rose
-			Selena Susana_Susan
-			Victoria_Victoria
-		}
+            Acacia Adelfa Alicia_Alice “Aloe Vera” Albicia Alma Alba Almez Ángela_Angel Ana_Anna Araucaria Aurora Areca Avellana Albahaca Almendra Alameda Amapola Azucena Artemisia Apricot Aralia Azalea
+            Bella Benjamina  Betel  Bombón Burbuja Bellota Brisa
+            Canistel Casia Castaña Carmen Casuarina Causa Ceiba Celeste Cereza_Cherry Cordia Caléndula Caoba Camelia Calatea Cristal_Crystal 
+            Deisi_Daisy Dalia_Daliah Daniela Dalila Dolores
+            Encina Eclipta_Eclipse Esmeralda_Emerald 
+            Felicia_Felicity Fresa Flor 
+            Gardenia Georgina_Georgia Grecia Guinda_Cherry Guadalupe Gloria
+			Hortensia Higuera Huerta 
+            Índica_Indica Iris Irene
+            Jade Jazmín_Jasmine Jacaranda Joya_Jewel Julieta
+            Lavanda_Lavender Ladierna Laurel Lentisca Lima Lichi Lolita Lluvia Lucy Lila_Lilly
+            Magnolia Margarita_Daisy María_Mary Mariangeles Marisol Maribel Maya  Milenrama Mirta
+            Madera Macadamia Marina Melia Menta Manzana Mora “Mora Azul” 
+            Natalia Nieve 
+            Oliva Orquídea
+            Palmera Paloma Pradera_Meadow Pacífica_Peaceful Pétalo_Petal Promesa_Promise Pera
+            Rafia Renée_Renee Revolución_Revolution Rosa_Rose Rocío
+            Sabina Selena Secuoya Susana Soledad Sierra
+			Talia Tranquilia Trinidad_Trinity 
+            Uva 
+            Valeria Violeta_Violet 
+            Yadira Yanis_Janis Yerbera Yuma
+            Zahara Zoé_Zoey Zeta
+        }
 
 		from_dynasty_prefix = "de "
 
