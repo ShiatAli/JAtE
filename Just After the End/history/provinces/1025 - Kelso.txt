@@ -1,0 +1,15 @@
+# c_kelso
+
+# County Title
+title = c_kelso
+
+# Settlements
+max_settlements = 2
+
+b_kelso = castle
+
+# Misc
+culture = willapan
+religion = gaian
+
+#History

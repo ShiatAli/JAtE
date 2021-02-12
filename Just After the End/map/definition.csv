@@ -416,7 +416,7 @@ province;red;green;blue;x;x
 415;98;210;130;Battle Ground;x
 416;81;157;102;Skamania;x
 417;75;162;100;Centralia;x
-418;49;118;69;Cowitz;x
+418;49;118;69;Longview;x
 419;44;97;59;La Grande;x
 420;114;235;253;Raymond;x
 421;52;120;130;Ilwaco;x
@@ -1020,3 +1020,7 @@ province;red;green;blue;x;x
 1019;255;2;32;Mars;x
 1020;255;221;0;Badwater;x
 1021;174;0;0;Ashford Meadows;x
+1022;153;36;36;Vashon;x
+1023;137;72;72;Redmond;x
+1024;60;144;84;Yelm;x
+1025;45;111;64;Kelso;x

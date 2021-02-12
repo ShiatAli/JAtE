@@ -1,0 +1,16 @@
+# c_vashon
+
+# County Title
+title = c_vashon
+
+# Settlements
+max_settlements = 3
+
+b_vashon = castle
+b_maury = city
+
+# Misc
+culture = emeraldian
+religion = gaian
+
+#History

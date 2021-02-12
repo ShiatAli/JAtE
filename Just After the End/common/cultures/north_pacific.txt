@@ -853,7 +853,7 @@ north_pacific = {
 			Violet
 			Welcome Windsong
 			Yuna 
-			Zennia Zeyla Zoey Zora
+			Zennia Zelda Zeyla Zoey Zora
 		}
 
 		from_dynasty_prefix = ""

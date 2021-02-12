@@ -1,0 +1,16 @@
+# c_yelm
+
+
+# County Title
+title = c_yelm
+
+# Settlements
+max_settlements = 3
+
+b_yelm = castle
+
+# Misc
+culture = emeraldian
+religion = gaian
+
+#History

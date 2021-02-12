@@ -21750,7 +21750,7 @@ e_washington = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 385 province_id = 386 province_id = 387 province_id = 388 } }
+					any_demesne_province = { OR = { province_id = 385 province_id = 387 province_id = 388  province_id = 1022} }
 				}
 			}
 			capital = 385 # c_seattle
@@ -21772,25 +21772,6 @@ e_washington = {
 				b_alki = {
 				}
 				b_burien = {
-				}
-			}
-			c_bellevue = { # 386
-				color={ 198 94 94 }
-				color2={ 255 255 255 }
-				
-				b_bellevue_2 = {
-				}
-				b_redmond = {
-				}
-				b_kirkland = {
-				}
-				b_kenmore = {
-				}
-				b_woodinville = {
-				}
-				b_bothell = {
-				}
-				b_factoria = {
 				}
 			}
 			c_federal_way = { # 388
@@ -21829,6 +21810,87 @@ e_washington = {
 				b_fairwood = {
 				}
 				b_kent = {
+				}
+			}
+			c_vashon = { #1022
+				color={ 160 172 239 }
+				color2={ 255 255 255 }
+				
+				b_vashon = {
+				}
+				b_maury = {
+				}
+				b_tahlequah = {
+				}
+				b_burton_2 = {
+				}
+				b_cove_2 = {
+				}
+				b_dockton = {
+				}
+				b_portage_3 = {
+				}
+			}
+		}
+		d_eastside = {
+			color={ 90 122 87 }
+			color2={ 255 255 255 }
+			
+			c_bellevue = { # 386
+				color={ 198 94 94 }
+				color2={ 255 255 255 }
+				
+				b_bellevue_2 = {
+				}
+				b_mercer_island = {
+				}
+				b_kirkland = {
+				}
+				b_kenmore = {
+				}
+				b_woodinville = {
+				}
+				b_bothell = {
+				}
+				b_factoria = {
+				}
+			}
+			c_redmond = { #1023
+				color={ 198 124 94 }
+				color2={ 255 255 255 }
+				
+				b_redmond = { 
+				}
+				b_cottage_lake = {
+				}
+				b_ames_lake = {
+				}
+				b_maltby = {
+				}
+				b_union_hill = {
+				}
+				b_novelty_hill = {
+				}
+				b_high_bridge = {
+				}
+			}
+			c_sammamish = { # 389
+				color={ 154 86 86 }
+				color2={ 255 255 255 }
+				
+				b_sammamish = {
+				}
+				b_klahanie = {
+				}
+				b_issaquah = {
+				}
+				b_pinelake = {
+				}
+				b_skyline = {
+				}
+				b_poo_poo_point = {
+				}
+				b_duthie = {
 				}
 			}
 		}
@@ -22175,25 +22237,6 @@ e_washington = {
 			}
 			capital = 389 # c_sammamish
 			
-			c_sammamish = { # 389
-				color={ 154 86 86 }
-				color2={ 255 255 255 }
-				
-				b_sammamish = {
-				}
-				b_klahanie = {
-				}
-				b_issaquah = {
-				}
-				b_pinelake = {
-				}
-				b_skyline = {
-				}
-				b_poo_poo_point = {
-				}
-				b_duthie = {
-				}
-			}
 			c_carnation = { # 390
 				color={ 195 157 157 }
 				color2={ 255 255 255 }
@@ -22477,7 +22520,7 @@ e_washington = {
 				}
 				b_peterson_corner = {
 				}
-				b_tenino = {
+				b_mima = {
 				}
 				b_sunnydale = {
 				}
@@ -22930,6 +22973,57 @@ e_washington = {
 				}
 			}
 		}
+		d_cowitz ={
+			color={ 122 142 201 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 418 province_id = 1025 } }
+				}
+			}
+			capital = 418 # c_longview
+			
+			c_longview = { # 418
+				color={ 49 118 69 }
+				color2={ 255 255 255 }
+				
+				b_longview = {
+				}
+				b_woodland_2 = {
+				}
+				b_kalama = {
+				}
+				b_preston_2 = {
+				}
+				b_westside_2 = {
+				}
+				b_eufaula = {
+				}
+				b_olequa = {
+				}
+			}
+			c_kelso = { # 1205
+				color={ 4 85 164 }
+				color2={ 255 255 255 }
+				
+				b_kelso = {
+				}
+				b_castle_rock = {
+				}
+				b_rocky_point = {
+				}
+				b_ostrander = {
+				}
+				b_vision_acres = {
+				}
+				b_toutle = {
+				}
+				b_headquarters = {
+				}
+			}
+		}
 		d_lewis = {
 			color={ 85 152 105 }
 			color2={ 255 255 255 }
@@ -22937,7 +23031,7 @@ e_washington = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 417 province_id = 418 province_id = 419 } }
+					any_demesne_province = { OR = { province_id = 417 province_id = 419 } }
 				}
 			}
 			capital = 417 # c_centralia
@@ -22961,23 +23055,23 @@ e_washington = {
 				b_cowlitz = {
 				}
 			}
-			c_cowitz = { # 418
-				color={ 49 118 69 }
+			c_yelm = { # 1024
+				color={ 94 120 24 }
 				color2={ 255 255 255 }
 				
-				b_longview = {
+				b_yelm = {
 				}
-				b_woodland_2 = {
+				b_tenino = {
 				}
-				b_kalama = {
+				b_rainier = {
 				}
-				b_preston_2 = {
+				b_mckenna = {
 				}
-				b_westside_2 = {
+				b_north_yelm = {
 				}
-				b_castle_rock = {
+				b_kellys_corner = {
 				}
-				b_olequa = {
+				b_roy_5 = {
 				}
 			}
 			c_la_grande = { # 419

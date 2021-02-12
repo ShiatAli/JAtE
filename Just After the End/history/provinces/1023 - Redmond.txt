@@ -1,0 +1,17 @@
+# c_redmond
+
+# County Title
+title = c_redmond
+
+# Settlements
+max_settlements = 5
+
+b_redmond = castle
+b_cottage_lake = temple
+b_ames_lake = city
+
+# Misc
+culture = emeraldian
+religion = gaian
+
+#History

@@ -377,8 +377,8 @@ c_cow_lake;Cow Lake;Cow Lake;Cow Lake;;Cow Lake;;;;;;;;;x
 c_cow_lake_adj;Cow Lakean;;Cow Laker;;;;;;;;;;;x
 c_cowen;Cowen;Cowen;Cowen;;Cowen;;;;;;;;;x
 c_cowen_adj;Cowenian;;cowener;;;;;;;;;;;x
-c_cowitz;Cowitz;Cowitz;Cowitz;;Cowitz;;;;;;;;;x
-c_cowitz_adj;Cowitzian;;cowitzer;;;;;;;;;;;x
+c_cowitz;Longview;Longview;Longview;;Longview;;;;;;;;;x
+c_cowitz_adj;Longviewer;;Longviewer;;;;;;;;;;;x
 c_cranbrook;Cranbrook;Cranbrook;Cranbrook;;Cranbrook;;;;;;;;;x
 c_cranbrook_adj;Cranbrookian;;cranbrooker;;;;;;;;;;;x
 c_craters_of_the_moon;Craters of the Moon;Craters of the Moon;Craters of the Moon;;Craters of the Moon;;;;;;;;;x
@@ -951,8 +951,10 @@ c_lone_pine;Lone Pine;Lone Pine;Lone Pine;;Lone Pine;;;;;;;;;x
 c_lone_pine_adj;Lone Pinean;;Lone Piner;;;;;;;;;;;x
 c_long_beach;Long Beach;Long Beach;Long Beach;;Long Beach;;;;;;;;;x
 c_long_beach_adj;Long Beachian;;Long Beacher;;;;;;;;;;;x
-c_longmont;Longmont;Longmont;Longmont;;Longmont;;;;;;;;;x
+c_longmont;Longmont;Longmont;Longmont;;Longmont;;;;;;;;;
 c_longmont_adj;Longmontian;;longmonter;;;;;;;;;;;x
+c_longview;Longview;Longview;Longview;;Longview;;;;;;;;;x
+c_longview_adj;Longviewer;;Longviwer;;;;;;;;;x
 c_lopez;Lopez;Lopez;Lopez;;Lopez;;;;;;;;;x
 c_lopez_adj;Lopezian;;lopezer;;;;;;;;;;;x
 c_loreto;Loreto;Loreto;Loreto;;Loreto;;;;;;;;;x
@@ -1429,6 +1431,8 @@ c_red_desert;Red Desert;Red Desert;Red Desert;;Red Desert;;;;;;;;;x
 c_red_desert_adj;Red Desertian;;Red Deserter;;;;;;;;;;;x
 c_red_mesas;Red Mesas;Red Mesas;Red Mesas;;Red Mesas;;;;;;;;;x
 c_red_mesas_adj;Red Mesasian;;Red Mesaser;;;;;;;;;;;x
+c_redmond;Redmond;Redmond;Redmond;;Redmond;;;;;;;;;x
+c_redmond_adj;Redmonder;;Redmonder;;;;;;;;;x
 c_red_rock;Red Rock;Red Rock;Red Rock;;Red Rock;;;;;;;;;x
 c_red_rock_adj;Red Rockian;;Red Rocker;;;;;;;;;;;x
 c_redding;Redding;Redding;Redding;;Redding;;;;;;;;;x
@@ -1911,6 +1915,8 @@ c_valley_of_fires;Valley of Fires;Valley of Fires;Valley of Fires;;Valley of Fir
 c_valley_of_fires_adj;Valley of Firesian;;Valley of Fireser;;;;;;;;;;;x
 c_vancouver;Vancouver;Vancouver;Vancouver;;Vancouver;;;;;;;;;x
 c_vancouver_adj;Vancouverian;;vancouverer;;;;;;;;;;;x
+c_vashon;Vashon;Vashon;Vashon;;Vashon;;;;;;;;;x
+c_vashon_adj;Vashonite;Vashonite;;;;;;;;;x
 c_ventura;Ventura;Ventura;Ventura;;Ventura;;;;;;;;;x
 c_ventura_adj;Venturan;;venturer;;;;;;;;;;;x
 c_verde;Verde;Verde;Verde;;Verde;;;;;;;;;x
@@ -2021,6 +2027,8 @@ c_yakima;Yakima;Yakima;Yakima;;Yakima;;;;;;;;;x
 c_yakima_adj;Yakiman;;yakimer;;;;;;;;;;;x
 c_yamhill;Yamhill;Yamhill;Yamhill;;Yamhill;;;;;;;;;x
 c_yamhill_adj;Yamhillian;;yamhiller;;;;;;;;;;;x
+c_yelm;Yelm;Yelm;Yelm;;Yelm;;;;;;;;;x
+c_yelm_adj;Yelmer;;Yelmer;;;;;;;;;x
 c_yellowstone;Yellowstone;Yellowstone;Yellowstone;;Yellowstone;;;;;;;;;x
 c_yellowstone_adj;Yellowstonean;;yellowstoner;;;;;;;;;;;x
 c_yoncalla;Yoncalla;Yoncalla;Yoncalla;;Yoncalla;;;;;;;;;x
