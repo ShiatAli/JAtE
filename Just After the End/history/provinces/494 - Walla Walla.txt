@@ -15,7 +15,7 @@ b_touchett = city
 #b_lowden = castle
 
 # Misc
-culture = palouse
+culture = tricitian
 religion = gaian
 
 #History

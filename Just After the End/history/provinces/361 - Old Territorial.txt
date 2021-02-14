@@ -1,0 +1,21 @@
+# c_old_territorial
+
+# County Title
+title = c_old_territorial
+
+# Settlements
+max_settlements = 2
+
+b_hadleyville = castle
+#b_vaughn = city
+#b_crow = temple
+#b_lorane = castle
+#b_mill_camp = city
+#b_sweet_cheeks = temple
+#b_powell = castle
+
+# Misc
+culture = willametteian
+religion = gaian
+
+#History

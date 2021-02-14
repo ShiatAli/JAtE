@@ -6,7 +6,7 @@ title = c_phoenix
 # Settlements
 max_settlements = 7
 
-b_phoenix_2 = castle
+b_phoenix_3 = castle
 #b_scottsdale = city
 #b_glendale_4 = temple
 #b_peoria = castle

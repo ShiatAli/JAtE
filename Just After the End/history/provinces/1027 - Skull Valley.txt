@@ -1,0 +1,21 @@
+# c_skull_valley
+
+# County Title
+title = c_skull_valley
+
+# Settlements
+max_settlements = 1
+
+b_dugway = castle
+#b_skull_valley_2 = city
+#b_english_village = temple
+#b_terra = castle
+#b_tekoi = city
+#b_clover_springs = temple
+#b_vickory_mountain = castle
+
+# Misc
+culture = shoshone
+religion = mormon
+
+#History

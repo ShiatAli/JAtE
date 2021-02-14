@@ -6,8 +6,8 @@ title = c_elko
 # Settlements
 max_settlements = 3
 
-b_elko = castle
-#b_fernie = city
+b_fernie = castle
+#b_elko = city
 #b_sparwood = temple
 #b_hosmer = castle
 #b_elkwood = city

@@ -12,7 +12,7 @@ b_richfield_2 = castle
 #b_aurora_3 = castle
 #b_elsinore_2 = city
 #b_annabella = temple
-#b_redmond_3 = castle
+#b_redmond_2 = castle
 
 # Misc
 culture = middleman

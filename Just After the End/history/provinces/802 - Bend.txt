@@ -7,7 +7,7 @@ title = c_bend
 max_settlements = 4
 
 b_bend_2 = castle
-#b_redmond_4 = city
+#b_redmond_3 = city
 #b_river_woods = temple
 #b_sisters = castle
 #b_alfalfa = city

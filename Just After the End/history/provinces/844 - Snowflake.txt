@@ -15,7 +15,7 @@ b_show_low = castle
 #b_zeniff = castle
 
 # Misc
-culture = hopi
+culture = navajo
 religion = mormon
 
 #History

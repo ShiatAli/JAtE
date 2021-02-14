@@ -7,12 +7,12 @@ title = c_leavenworth
 max_settlements = 3
 
 b_leavenworth = castle
-b_halford = city
-#b_startup = temple
-#b_gold_bar = castle
-#b_index = city
-#b_baring = temple
-#b_grotto = castle
+b_cashmere = city
+#b_peshashtin = temple
+#b_dryden = castle
+#b_coles_corner = city
+#b_chumstick = temple
+#b_plain = castle
 
 # Misc
 culture = backcountry

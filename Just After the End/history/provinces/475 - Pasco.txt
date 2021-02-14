@@ -1,0 +1,21 @@
+# c_pasco
+
+# County Title
+title = c_pasco
+
+# Settlements
+max_settlements = 3
+
+b_pasco = castle
+#b_west_pasco = city
+#b_martindale = temple
+#b_glade = castle
+#b_redd = city
+#b_big_flat = temple
+#b_broadmoor = castle
+
+# Misc
+culture = tricitian
+religion = gaian
+
+#History

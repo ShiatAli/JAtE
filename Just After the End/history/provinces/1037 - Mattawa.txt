@@ -1,0 +1,21 @@
+# c_mattawa
+
+# County Title
+title = c_mattawa
+
+# Settlements
+max_settlements = 4
+
+b_mattawa_2 = castle
+#b_basin_city = city
+#b_eltopia = temple
+#b_desert_aire = castle
+#b_mesa_3 = city
+#b_edwards_3 = temple
+#b_matthews_corner = castle
+
+# Misc
+culture = meseteno
+religion = gaian
+
+#History

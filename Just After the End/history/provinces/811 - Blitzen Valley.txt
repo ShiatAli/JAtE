@@ -1,0 +1,21 @@
+# c_blitzen_valley
+
+# County Title
+title = c_blitzen_valley
+
+# Settlements
+max_settlements = 2
+
+b_crane_2 = castle
+#b_diamond_2 = city
+#b_new_princeton = temple
+#b_crowley = castle
+#b_narrows = city
+#b_voltage_2 = temple
+#b_venator = castle
+
+# Misc
+culture = juniperian
+religion = gaian
+
+#History

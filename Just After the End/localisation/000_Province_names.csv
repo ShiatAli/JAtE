@@ -355,10 +355,10 @@ PROV354;Polks;Polks;Polks;;;;;;;;;x
 PROV355;Woodburn;Woodburn;Woodburn;;;;;;;;;x
 PROV356;Albany;Albany;Albany;;;;;;;;;x
 PROV357;Sweet Home;Sweet Home;Sweet Home;;;;;;;;;x
-PROV358;Benton;Benton;Benton;;;;;;;;;x
+PROV358;Corvallis;Corvallis;Corvallis;;;;;;;;;x
 PROV359;Eugene;Eugene;Eugene;;;;;;;;;x
 PROV360;Springfield;Springfield;Springfield;;;;;;;;;x
-PROV361;Hadleyville;Hadleyville;Hadleyville;;;;;;;;;x
+PROV361;Old Territorial;Old Territorial;Old Territorial;;;;;;;;;x
 PROV362;Saginaw;Saginaw;Saginaw;;;;;;;;;x
 PROV363;Roseburg;Roseburg;Roseburg;;;;;;;;;x
 PROV364;Glide;Glide;Glide;;;;;;;;;x
@@ -372,7 +372,7 @@ PROV371;Reedsport;Reedsport;Reedsport;;;;;;;;;x
 PROV372;Mapleton;Mapleton;Mapleton;;;;;;;;;x
 PROV373;Coos Bay;Coos Bay;Coos Bay;;;;;;;;;x
 PROV374;Port Orford;Port Orford;Port Orford;;;;;;;;;x
-PROV375;Nesika Beach;Nesika Beach;Nesika Beach;;;;;;;;;x
+PROV375;Gold Beach;Gold Beach;Gold Beach;;;;;;;;;x
 PROV376;Tillamook;Tillamook;Tillamook;;;;;;;;;x
 PROV377;Pacific City;Pacific City;Pacific City;;;;;;;;;x
 PROV378;Manzanita;Manzanita;Manzanita;;;;;;;;;x
@@ -472,7 +472,7 @@ PROV471;Skitswish;Skitswish;Skitswish;;;;;;;;;x
 PROV472;St. Joe;St. Joe;St. Joe;;;;;;;;;x
 PROV473;Dworshak;Dworshak;Dworshak;;;;;;;;;x
 PROV474;Orofino;Orofino;Orofino;;;;;;;;;x
-PROV475;Franklin;Franklin;Franklin;;;;;;;;;x
+PROV475;Pasco;Pasco;Pasco;;;;;;;;;x
 PROV476;Washtucna;Washtucna;Washtucna;;;;;;;;;x
 PROV477;Royal City;Royal City;Royal City;;;;;;;;;x
 PROV478;Quincy;Quincy;Quincy;;;;;;;;;x
@@ -484,7 +484,7 @@ PROV483;Davenport;Davenport;Davenport;;;;;;;;;x
 PROV484;Reardan;Reardan;Reardan;;;;;;;;;x
 PROV485;Towell;Towell;Towell;;;;;;;;;x
 PROV486;Yakima;Yakima;Yakima;;;;;;;;;x
-PROV487;Ellenburg;Ellenburg;Ellenburg;;;;;;;;;x
+PROV487;Ellensburg;Ellensburg;Ellensburg;;;;;;;;;x
 PROV488;The Reach;The Reach;The Reach;;;;;;;;;x
 PROV489;Goldendale;Goldendale;Goldendale;;;;;;;;;x
 PROV490;Toppenish;Toppenish;Toppenish;;;;;;;;;x
@@ -524,11 +524,10 @@ PROV523;Parksville;Parksville;Parksville;;;;;;;;;x
 PROV524;Port Alberni;Port Alberni;Port Alberni;;;;;;;;;x
 PROV525;Royston;Royston;Royston;;;;;;;;;x
 PROV526;Comox;Comox;Comox;;;;;;;;;x
-PROV527;Campbell River;Campbell River;Campbell River;;;;;;;;;x
 PROV528;Port Hardy;Port Hardy;Port Hardy;;;;;;;;;x
 PROV529;Port Alice;Port Alice;Port Alice;;;;;;;;;x
 PROV530;Port McNiell;Port McNiell;Port McNiell;;;;;;;;;x
-PROV531;Ucluelet;Ucluelet;Ucluelet;;;;;;;;;x
+PROV531;Whistler;Whistler;Whistler;;;;;;;;;x
 PROV532;Tofino;Tofino;Tofino;;;;;;;;;x
 PROV533;Ahousat;Ahousat;Ahousat;;;;;;;;;x
 PROV534;Yuquot;Yuquot;Yuquot;;;;;;;;;x
@@ -539,7 +538,7 @@ PROV538;Lund;Lund;Lund;;;;;;;;;x
 PROV539;Blind Channel;Blind Channel;Blind Channel;;;;;;;;;x
 PROV540;Port Neville;Port Neville;Port Neville;;;;;;;;;x
 PROV541;Echo Bay;Echo Bay;Echo Bay;;;;;;;;;x
-PROV542;Hopetown;Hopetown;Hopetown;;;;;;;;;x
+PROV542;Harrison Hot Springs;Harrison Hot Springs;Harrison Hot Springs;;;;;;;;;x
 PROV543;Allison Harbor;Allison Harbor;Allison Harbor;;;;;;;;;x
 PROV544;Kelowna;Kelowna;Kelowna;;;;;;;;;x
 PROV545;Keremeos;Keremeos;Keremeos;;;;;;;;;x
@@ -567,7 +566,7 @@ PROV566;South Slocan;South Slocan;South Slocan;;;;;;;;;x
 PROV567;New Denver;New Denver;New Denver;;;;;;;;;x
 PROV568;Nakusp;Nakusp;Nakusp;;;;;;;;;x
 PROV569;Grand Forks;Grand Forks;Grand Forks;;;;;;;;;x
-PROV570;Rock Creek;Rock Creek;Rock Creek;;;;;;;;;x
+PROV570;Sumpter;Sumpter;Sumpter;;;;;;;;;x
 PROV571;Revelstoke;Revelstoke;Revelstoke;;;;;;;;;x
 PROV572;Shuswap Falls;Shuswap Falls;Shuswap Falls;;;;;;;;;x
 PROV573;Phoenix;Phoenix;Phoenix;;;;;;;;;x
@@ -677,7 +676,7 @@ PROV676;Pitkin;Pitkin;Pitkin;;;;;;;;;x
 PROV677;Garfield;Garfield;Garfield;;;;;;;;;x
 PROV678;Eagle;Eagle;Eagle;;;;;;;;;x
 PROV679;Granby;Granby;Granby;;;;;;;;;x
-PROV680;Jackson;Jackson;Jackson;;;;;;;;;x
+PROV680;Medford;Medford;Medford;;;;;;;;;x
 PROV681;Dillon;Dillon;Dillon;;;;;;;;;x
 PROV682;Moffat;Moffat;Moffat;;;;;;;;;x
 PROV683;Routt;Routt;Routt;;;;;;;;;x
@@ -807,8 +806,8 @@ PROV806;Crook;Crook;Crook;;;;;;;;;x
 PROV807;Ontario;Ontario;Ontario;;;;;;;;;x
 PROV808;McDermitt;McDermitt;McDermitt;;;;;;;;;x
 PROV809;Cow Lake;Cow Lake;Cow Lake;;;;;;;;;x
-PROV810;Silvies;Silvies;Silvies;;;;;;;;;x
-PROV811;Blitzen;Blitzen;Blitzen;;;;;;;;;x
+PROV810;Burns;Burns;Burns;;;;;;;;;x
+PROV811;Blitzen Valley;Blitzen Valley;Blitzen Valley;;;;;;;;;x
 PROV812;Harper;Harper;Harper;;;;;;;;;x
 PROV813;Upper Silves;Upper Silves;Upper Silves;;;;;;;;;x
 PROV814;John Day;John Day;John Day;;;;;;;;;x
@@ -1024,3 +1023,19 @@ PROV1023;Redmond;Redmond;Redmond;;;;;;;;;x
 PROV1024;Yelm;Yelm;Yelm;;;;;;;;;x
 PROV1025;Kelso;Kelso;Kelso;;;;;;;;;x
 PROV1026;Pomeroy;Pomeroy;Pomeroy;;;;;;;;;x
+PROV1027;Skull Valley;Skull Valley;Skull Valley;;;;;;;;;x
+PROV1028;White Swan;White Swan;White Swan;;;;;;;;;x
+PROV1029;Cle Elum;Cle Elum;Cle Elum;;;;;;;;;x
+PROV1030;Skykomish;Skykomish;Skykomish;;;;;;;;;x
+PROV1031;Ephrata;Ephrata;Ephrata;;;;;;;;;x
+PROV1032;Moses Lake;Moses Lake;Moses Lake;;;;;;;;;x
+PROV1033;Othello;Othello;Othello;;;;;;;;;x
+PROV1034;Cheney;Cheney;Cheney;;;;;;;;;x
+PROV1035;Lebanon;Lebanon;Lebanon;;;;;;;;;x
+PROV1036;Trout Lake;Trout Lake;Trout Lake;;;;;;;;;x
+PROV1037;Mattawa;Mattawa;Mattawa;;;;;;;;;x
+PROV1038;Horse Heaven;Horse Heaven;Horse Heaven;;;;;;;;;x
+PROV1039;Connell;Connell;Connell;;;;;;;;;x
+PROV1040;Ashland;Ashland;Ashland;;;;;;;;;x
+PROV1041;Chetco;Chetco;Chetco;;;;;;;;;x
+PROV1042;Ballard;Ballard;Ballard;;;;;;;;;x

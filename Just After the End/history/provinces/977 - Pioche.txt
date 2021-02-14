@@ -15,7 +15,7 @@ b_pioche = castle
 #b_kixmiller = castle
 
 # Misc
-culture = long_fifteener
+culture = long fifteener
 religion = atomicist
 
 #History

@@ -15,7 +15,7 @@ b_eagar = castle
 #b_cienega_2 = castle
 
 # Misc
-culture = hopi
+culture = navajo
 religion = mormon
 
 #History

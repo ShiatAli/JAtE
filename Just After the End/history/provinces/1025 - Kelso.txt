@@ -6,7 +6,13 @@ title = c_kelso
 # Settlements
 max_settlements = 2
 
-b_kelso = castle
+b_kelso_2 = castle
+#b_castle_rock_2 = city
+#b_rocky_point = temple
+#b_ostrander = castle
+#b_vision_acres = city
+#b_pleasant_hill_3 = temple
+#b_headquarters = castle
 
 # Misc
 culture = willapan

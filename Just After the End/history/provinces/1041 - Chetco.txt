@@ -1,0 +1,21 @@
+# c_chetco
+
+# County Title
+title = c_chetco
+
+# Settlements
+max_settlements = 2
+
+b_brookings = castle
+b_pistol_river_2 = city
+#b_carpenterville_2 = temple
+#b_harbor = castle
+#b_crissey_field = city
+#b_secret_beach = temple
+#b_harris_beach = castle
+
+# Misc
+culture = saltwater
+religion = gaian
+
+#History

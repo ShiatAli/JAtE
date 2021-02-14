@@ -356,10 +356,10 @@ province;red;green;blue;x;x
 355;193;142;208;Woodburn;x
 356;170;146;177;Albany;x
 357;197;174;203;Sweet Home;x
-358;104;100;176;Benton;x
+358;104;100;176;Corvallis;x
 359;111;122;148;Eugene;x
 360;112;60;0;Springfield;x
-361;0;60;0;Hadleyville;x
+361;0;60;0;Old Territorial;x
 362;112;60;180;Saginaw;x
 363;236;192;239;Roseburg;x
 364;33;147;73;Glide;x
@@ -373,7 +373,7 @@ province;red;green;blue;x;x
 372;112;60;200;Mapleton;x
 373;43;241;164;Coos Bay;x
 374;9;145;92;Port Orford;x
-375;145;9;9;Nesika Beach;x
+375;145;9;9;Gold Beach;x
 376;255;61;134;Tillamook;x
 377;255;20;134;Pacific City;x
 378;58;83;95;Manzanita;x
@@ -473,7 +473,7 @@ province;red;green;blue;x;x
 472;150;30;20;St. Joe;x
 473;96;41;37;Dworshak;x
 474;97;46;42;Orofino;x
-475;140;5;5;Franklin;x
+475;140;5;5;Pasco;x
 476;155;86;86;Washtucna;x
 477;108;193;232;Royal City;x
 478;80;111;126;Quincy;x
@@ -485,7 +485,7 @@ province;red;green;blue;x;x
 484;115;186;167;Reardan;x
 485;60;142;120;Towell;x
 486;224;109;109;Yakima;x
-487;188;50;50;Ellenburg;x
+487;188;50;50;Ellensburg;x
 488;188;122;122;The Reach;x
 489;179;93;93;Goldendale;x
 490;162;114;114;Toppenish;x
@@ -525,11 +525,11 @@ province;red;green;blue;x;x
 524;156;157;89;Port Alberni;x
 525;219;220;116;Royston;x
 526;171;124;124;Comox;x
-527;114;70;70;Campbell River;x
+527;1;1;1;PLACEHOLDER527;x
 528;119;63;63;Port Hardy;x
 529;128;76;76;Port Alice;x
 530;78;46;46;Port McNiell;x
-531;200;54;54;Ucluelet;x
+531;200;54;54;Whistler;x
 532;164;47;47;Tofino;x
 533;181;114;114;Ahousat;x
 534;124;53;53;Yuquot;x
@@ -540,7 +540,7 @@ province;red;green;blue;x;x
 539;44;70;136;Blind Channel;x
 540;94;108;143;Port Neville;x
 541;134;142;162;Echo Bay;x
-542;57;64;83;Hopetown;x
+542;57;64;83;Harrison Hot Springs;x
 543;100;125;188;Allison Harbor;x
 544;231;188;188;Kelowna;x
 545;159;77;77;Keremeos;x
@@ -568,7 +568,7 @@ province;red;green;blue;x;x
 567;139;140;87;New Denver;x
 568;115;116;67;Nakusp;x
 569;143;94;94;Grand Forks;x
-570;184;144;144;Rock Creek;x
+570;184;144;144;Sumpter;x
 571;255;140;140;Revelstoke;x
 572;125;171;183;Shuswap Falls;x
 573;66;233;126;Phoenix;x
@@ -678,7 +678,7 @@ province;red;green;blue;x;x
 677;194;147;44;Garfield;x
 678;115;99;63;Eagle;x
 679;171;124;18;Granby;x
-680;255;104;18;Jackson_2;x
+680;255;104;18;Medford;x
 681;77;57;10;Dillon;x
 682;171;69;10;Moffat;x
 683;250;168;121;Routt;x
@@ -763,7 +763,7 @@ province;red;green;blue;x;x
 762;36;163;199;Fort Hall;x
 763;8;121;154;Blackfoot;x
 764;91;215;250;Springfield_2;x
-765;36;192;199;Franklin_2;x
+765;36;192;199;Franklin;x
 766;61;217;184;Malad;x
 767;62;139;135;Portneuf;x
 768;93;244;236;Arbon;x
@@ -808,12 +808,12 @@ province;red;green;blue;x;x
 807;236;96;44;Ontario;x
 808;172;73;21;McDermitt;x
 809;118;60;29;Cow Lake;x
-810;186;130;65;Silvies;x
-811;230;173;105;Blitzen;x
+810;186;130;65;Burns;x
+811;230;173;105;Blitzen Valley;x
 812;186;180;65;Harper;x
 813;240;177;13;Upper Silves;x
 814;129;134;13;John Day;x
-815;185;204;93;Rock Creek_2;x
+815;185;204;93;Rock Creek;x
 816;109;151;13;Wheeler_2;x
 817;134;114;73;Grant_2;x
 818;52;119;194;Window Rock;x
@@ -998,7 +998,7 @@ province;red;green;blue;x;x
 997;168;110;104;Pine Grove;x
 998;255;255;43;Lee Vining;x
 999;174;244;0;Pizona;x
-1000;253;255;173;Benton_2;x
+1000;253;255;173;Benton;x
 1001;157;158;107;Chalfant Valley;x
 1002;255;208;0;Big Pine;x
 1003;255;153;0;Oasis;x
@@ -1025,3 +1025,19 @@ province;red;green;blue;x;x
 1024;60;144;84;Yelm;x
 1025;45;111;64;Kelso;x
 1026;194;40;172;Pomeroy;x
+1027;183;30;55;Skull Valley;x
+1028;221;169;169;White Swan;x
+1029;172;41;41;Cle Elum;x
+1030;181;35;183;Skykomish;x
+1031;31;77;99;Ephrata;x
+1032;54;90;107;Moses Lake;x
+1033;87;175;216;Othello;x
+1034;37;122;99;Cheney;x
+1035;183;140;194;Lebanon;x
+1036;216;152;152;Trout Lake;x
+1037;59;148;190;Mattawa;x
+1038;151;84;84;Horse Heaven;x
+1039;70;165;209;Connell;x
+1040;33;87;155;Ashland;x
+1041;125;23;23;Chetco;x
+1042;247;93;93;Ballard;x

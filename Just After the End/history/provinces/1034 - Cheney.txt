@@ -1,0 +1,21 @@
+# c_cheney
+
+# County Title
+title = c_cheney
+
+# Settlements
+max_settlements = 4
+
+b_cheney_2 = castle
+#b_medicine_lake_2 = city
+#b_fairchild = temple
+#b_spangle = castle
+#b_airway_heights_2 = city
+#b_four_lakes = temple
+#b_tyler = castle
+
+# Misc
+culture = palouse
+religion = gaian
+
+#History

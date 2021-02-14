@@ -117,8 +117,8 @@ d_coso;Coso;Coso;Coso;;Coso;;;;;;;;;x
 d_coso_adj;Cosian;;coser;;;;;;;;;;;x
 d_cowichan;Cowichan;Cowichan;Cowichan;;Cowichan;;;;;;;;;x
 d_cowichan_adj;Cowichanian;;cowichaner;;;;;;;;;;;x
-d_cowitz;Cowlitz;Cowlitz;Cowlitz;;Cowlitz;;;;;;;;;x
-d_cowitz_adj;Cowlitzian;;Cowiltzian;;;;;;;;;x
+d_cowlitz;Cowlitz;Cowlitz;Cowlitz;;Cowlitz;;;;;;;;;x
+d_cowlitz_adj;Cowlitzian;;cowlitzer;;;;;;;;;;;x
 d_crag;Crag;Crag;Crag;;Crag;;;;;;;;;x
 d_crag_adj;Cragian;;crager;;;;;;;;;;;x
 d_crownpoint;Crownpoint;Crownpoint;Crownpoint;;Crownpoint;;;;;;;;;x
@@ -138,7 +138,7 @@ d_dorado_slopes_adj;Dorado Slopesian;;Dorado Slopeser;;;;;;;;;;;x
 d_duck_valley;Duck Valley;Duck Valley;Duck Valley;;Duck Valley;;;;;;;;;x
 d_duck_valley_adj;Duck Valleian;;Duck Valleer;;;;;;;;;;;x
 d_eastside;Eastside;Eastside;Eastside;;Eastside;;;;;;;;;x
-d_eastside_adj;Eastsider;;Eastsider;;;;;;;;;x
+d_eastside_adj;Eastsidean;;eastsider;;;;;;;;;;;x
 d_edinburgh;Edinburgh;Edinburgh;Edinburgh;;Edinburgh;;;;;;;;;x
 d_edinburgh_adj;Edinburghian;;edinburgher;;;;;;;;;;;x
 d_el_paso;El Paso;El Paso;El Paso;;El Paso;;;;;;;;;x
@@ -235,8 +235,6 @@ d_hidden_valley;Hidden Valley;Hidden Valley;Hidden Valley;;Hidden Valley;;;;;;;;
 d_hidden_valley_adj;Hidden Valleian;;Hidden Valleer;;;;;;;;;;;x
 d_hopituskwa;Hopituskwa;Hopituskwa;Hopituskwa;;Hopituskwa;;;;;;;;;x
 d_hopituskwa_adj;Hopituskwan;;hopituskwer;;;;;;;;;;;x
-d_horse_heaven;Horse Heaven;Horse Heaven;Horse Heaven;;Horse Heaven;;;;;;;;;x
-d_horse_heaven_adj;Horse Heavenian;;Horse Heavener;;;;;;;;;;;x
 d_huerfano;Huerfano;Huerfano;Huerfano;;Huerfano;;;;;;;;;x
 d_huerfano_adj;Huerfanian;;huerfaner;;;;;;;;;;;x
 d_humboldt;Humboldt;Humboldt;Humboldt;;Humboldt;;;;;;;;;x
@@ -361,6 +359,8 @@ d_mono;Mono;Mono;Mono;;Mono;;;;;;;;;x
 d_mono_adj;Monian;;moner;;;;;;;;;;;x
 d_moreno_valley;Moreno Valley;Moreno Valley;Moreno Valley;;Moreno Valley;;;;;;;;;x
 d_moreno_valley_adj;Moreno Valleian;;Moreno Valleer;;;;;;;;;;;x
+d_moses_lake;Moses Lake;Moses Lake;Moses Lake;;Moses Lake;;;;;;;;;x
+d_moses_lake_adj;Moses Lakean;;Moses Laker;;;;;;;;;;;x
 d_mulege;Mulegé;Mulegé;Mulegé;;Mulegé;;;;;;;;;x
 d_mulege_adj;Mulegéian;;mulegéer;;;;;;;;;;;x
 d_multnomah;Multnomah;Multnomah;Multnomah;;Multnomah;;;;;;;;;x
@@ -469,6 +469,8 @@ d_santa_fe;Santa Fe;Santa Fe;Santa Fe;;Santa Fe;;;;;;;;;x
 d_santa_fe_adj;Santa Fean;;Santa Fer;;;;;;;;;;;x
 d_santiam;Santiam;Santiam;Santiam;;Santiam;;;;;;;;;x
 d_santiam_adj;Santiamian;;santiamer;;;;;;;;;;;x
+d_sea_to_sky;Sea-to-Sky;Sea-to-Sky;Sea-to-Sky;;Sea-to-Sky;;;;;;;;;x
+d_sea_to_sky_adj;Sea-to-Skian;;sea-to-sker;;;;;;;;;;;x
 d_searose;Searose;Searose;Searose;;Searose;;;;;;;;;x
 d_searose_adj;Searosean;;searoser;;;;;;;;;;;x
 d_seatac;Seatac;Seatac;Seatac;;Seatac;;;;;;;;;x
@@ -489,8 +491,8 @@ d_similkameen;Similkameen;Similkameen;Similkameen;;Similkameen;;;;;;;;;x
 d_similkameen_adj;Similkameenian;;similkameener;;;;;;;;;;;x
 d_skagit;Skagit;Skagit;Skagit;;Skagit;;;;;;;;;x
 d_skagit_adj;Skagitian;;skagiter;;;;;;;;;;;x
-d_snohomish;Snohomish;Snohomish;Snohomish;;Snohomish;;;;;;;;;x
-d_snohomish_adj;Snohomishian;;snohomisher;;;;;;;;;;;x
+d_skykomish;Skykomish;Skykomish;Skykomish;;Skykomish;;;;;;;;;x
+d_skykomish_adj;Skykomishian;;skykomisher;;;;;;;;;;;x
 d_snoqualmie;Snoqualmie;Snoqualmie;Snoqualmie;;Snoqualmie;;;;;;;;;x
 d_snoqualmie_adj;Snoqualmiean;;snoqualmer;;;;;;;;;;;x
 d_socorro;Socorro;Socorro;Socorro;;Socorro;;;;;;;;;x
@@ -543,6 +545,8 @@ d_tijuana;Tijuana;Tijuana;Tijuana;;Tijuana;;;;;;;;;x
 d_tijuana_adj;Tijuanan;;tijuaner;;;;;;;;;;;x
 d_tillamook;Tillamook;Tillamook;Tillamook;;Tillamook;;;;;;;;;x
 d_tillamook_adj;Tillamookian;;tillamooker;;;;;;;;;;;x
+d_tri_cities;Tri-cities;Tri-cities;Tri-cities;;Tri-cities;;;;;;;;;x
+d_tri_cities_adj;Tri-citiesian;;tri-citieser;;;;;;;;;;;x
 d_trinity;Trinity;Trinity;Trinity;;Trinity;;;;;;;;;x
 d_trinity_adj;Trinitian;;triniter;;;;;;;;;;;x
 d_truckee_meadows;Truckee Meadows;Truckee Meadows;Truckee Meadows;;Truckee Meadows;;;;;;;;;x
@@ -595,6 +599,10 @@ d_white_pine;White Pine;White Pine;White Pine;;White Pine;;;;;;;;;x
 d_white_pine_adj;White Pinean;;White Piner;;;;;;;;;;;x
 d_white_sands;White Sands;White Sands;White Sands;;White Sands;;;;;;;;;x
 d_white_sands_adj;White Sandsian;;White Sandser;;;;;;;;;;;x
+d_white_swan;White Swan;White Swan;White Swan;;White Swan;;;;;;;;;x
+d_white_swan_adj;White Swanian;;White Swaner;;;;;;;;;;;x
+d_yakima_valley;Yakima Valley;Yakima Valley;Yakima Valley;;Yakima Valley;;;;;;;;;x
+d_yakima_valley_adj;Yakima Valleian;;Yakima Valleer;;;;;;;;;;;x
 d_yampa;Yampa;Yampa;Yampa;;Yampa;;;;;;;;;x
 d_yampa_adj;Yampan;;yamper;;;;;;;;;;;x
 d_yavapai;Yavapai;Yavapai;Yavapai;;Yavapai;;;;;;;;;x

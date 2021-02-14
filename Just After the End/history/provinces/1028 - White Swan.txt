@@ -1,0 +1,21 @@
+# c_white_swan
+
+# County Title
+title = c_white_swan
+
+# Settlements
+max_settlements = 3
+
+b_white_swan = castle
+#b_harrah_2 = city
+#b_brownstown = temple
+#b_farron = castle
+#b_venner = city
+#b_ashue_2 = temple
+#b_fort_simcoe = castle
+
+# Misc
+culture = yakama
+religion = gaian
+
+#History

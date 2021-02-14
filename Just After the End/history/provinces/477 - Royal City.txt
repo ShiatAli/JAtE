@@ -7,12 +7,12 @@ title = c_royal_city
 max_settlements = 2
 
 b_royal_city = castle
-#b_desert_aire = city
+#b_smyrna = city
 #b_mattawa = temple
 #b_beverly = castle
-#b_othello = city
-#b_warden = temple
-#b_smyrna = castle
+#b_wanapum_village = city
+#b_low_gap = temple
+#b_potholes = castle
 
 # Misc
 culture = meseteno

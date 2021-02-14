@@ -1,0 +1,21 @@
+# c_moses_lake
+
+# County Title
+title = c_moses_lake
+
+# Settlements
+max_settlements = 1
+
+b_moses_lake = castle
+b_cascade_valley = city
+#b_moses_lake_north = temple
+#b_wheeler_5 = castle
+#b_mae = city
+#b_ruff = temple
+#b_tiflis = castle
+
+# Misc
+culture = meseteno
+religion = gaian
+
+#History

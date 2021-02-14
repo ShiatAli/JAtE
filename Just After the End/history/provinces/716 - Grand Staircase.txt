@@ -15,7 +15,7 @@ b_tropic = castle
 #b_powell_2 = castle
 
 # Misc
-culture = staircaser
+culture = utahn
 religion = mormon
 
 #History

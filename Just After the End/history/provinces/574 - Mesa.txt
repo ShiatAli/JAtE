@@ -6,7 +6,7 @@ title = c_mesa
 # Settlements
 max_settlements = 6
 
-b_mesa_2 = castle
+b_mesa = castle
 #b_chandler = city
 #b_gilbert = temple
 #b_tempe = castle

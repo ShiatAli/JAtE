@@ -1,0 +1,21 @@
+# c_cle_elum
+
+# County Title
+title = c_cle_elum
+
+# Settlements
+max_settlements = 2
+
+b_cle_elum = castle
+#b_roslyn = city
+#b_easton_2 = temple
+#b_teanaway = castle
+#b_horlick = city
+#b_south_cle_elum = temple
+#b_driftwood_acres = castle
+
+# Misc
+culture = backcountry
+religion = gaian
+
+#History

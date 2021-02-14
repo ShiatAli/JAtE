@@ -8,11 +8,11 @@ max_settlements = 3
 
 b_medford = castle
 #b_jacksonville = city
-#b_ashland = temple
+#b_phoenix = temple
 #b_pinehurst_2 = castle
 #b_buckhorn_springs = city
-#b_colestin = temple
-#b_talent = castle
+#b_central_point = temple
+#b_seven_oaks = castle
 
 # Misc
 culture = rogueite

@@ -7,7 +7,7 @@ title = c_pine_creek
 max_settlements = 2
 
 b_halfway = castle
-#b_richland = city
+#b_richland_2 = city
 #b_new_bridge = temple
 #b_jimtown = castle
 #b_copperfield = city

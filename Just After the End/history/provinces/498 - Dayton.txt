@@ -7,9 +7,9 @@ title = c_dayton
 max_settlements = 2
 
 b_dayton = castle
-#b_pomeroy = city
-#b_starbuck = temple
-#b_pataha = castle
+#b_starbuck = city
+#b_alto = temple
+#b_marengo = castle
 #b_jackson = city
 #b_baileyburg = temple
 #b_little_goose = castle

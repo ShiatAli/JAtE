@@ -1,0 +1,21 @@
+# c_harrison_hot_springs
+
+# County Title
+title = c_harrison_hot_springs
+
+# Settlements
+max_settlements = 1
+
+b_hopetown = castle
+#b_nimmo_bay = city
+#b_turnbull_cove = temple
+#b_jennis_bay = castle
+#b_robinson = city
+#b_viola = temple
+#b_seymour = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

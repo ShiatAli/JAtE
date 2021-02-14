@@ -10,7 +10,7 @@ b_blackfoot = castle
 #b_shelley = city
 #b_moreland = temple
 #b_groveland_2 = castle
-#b_riverside_5 = city
+#b_riverside_6 = city
 #b_firth = temple
 #b_basalt_2 = castle
 

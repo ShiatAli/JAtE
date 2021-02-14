@@ -1,0 +1,21 @@
+# c_benton
+
+# County Title
+title = c_benton
+
+# Settlements
+max_settlements = 3
+
+b_benton_crossing = castle
+b_mammoth_lakes = city
+#b_whitmore_2 = temple
+#b_toms_place = castle
+#b_south_landing = city
+#b_crestview = temple
+#b_north_landing = castle
+
+# Misc
+culture = monyo
+religion = atomicist
+terrain = desert
+#History

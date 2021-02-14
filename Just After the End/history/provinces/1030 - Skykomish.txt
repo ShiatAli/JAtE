@@ -1,0 +1,21 @@
+# c_skykomish
+
+# County Title
+title = c_skykomish
+
+# Settlements
+max_settlements = 2
+
+b_skykomish = castle
+#b_baring = city
+#b_index = temple
+#b_halford = castle
+#b_miller_river = city
+#b_stevens_pass = temple
+#b_may_creek = castle
+
+# Misc
+culture = backcountry
+religion = gaian
+
+#History

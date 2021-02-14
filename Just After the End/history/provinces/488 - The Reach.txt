@@ -6,8 +6,8 @@ title = c_the_reach
 # Settlements
 max_settlements = 3
 
-b_moxee = castle
-b_birchfield = city
+b_richland = castle
+b_moxee = city
 #b_terrace_heights = temple
 #b_east_selah = castle
 #b_donald = city
@@ -15,7 +15,7 @@ b_birchfield = city
 #b_levering = castle
 
 # Misc
-culture = meseteno
+culture = tricitian
 religion = gaian
 
 #History

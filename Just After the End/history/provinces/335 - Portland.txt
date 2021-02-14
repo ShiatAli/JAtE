@@ -16,6 +16,6 @@ b_sunnyside = temple
 
 # Misc
 culture = portlandian
-religion = black_cross
+religion = blackcross
 
 #History

@@ -15,7 +15,7 @@ b_alamo_3 = castle
 #b_big_rocks = castle
 
 # Misc
-culture = long_fifteener
+culture = long fifteener
 religion = atomicist
 
 #History

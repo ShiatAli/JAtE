@@ -15,7 +15,7 @@ b_circleville = castle
 #b_forshea = castle
 
 # Misc
-culture = staircaser
+culture = middleman
 religion = mormon
 
 #History

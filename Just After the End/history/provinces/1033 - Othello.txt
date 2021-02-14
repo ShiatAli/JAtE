@@ -1,0 +1,21 @@
+# c_othello
+
+# County Title
+title = c_othello
+
+# Settlements
+max_settlements = 2
+
+b_othello = castle
+#b_warden = city
+#b_lind_2 = temple
+#b_koren = castle
+#b_novara = city
+#b_providence_2 = temple
+#b_bruce = castle
+
+# Misc
+culture = meseteno
+religion = gaian
+
+#History

@@ -4,11 +4,15 @@
 title = c_redmond
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_redmond = castle
-b_cottage_lake = temple
-b_ames_lake = city
+b_redmond_4 = castle
+b_cottage_lake = city
+#b_ames_lake = temple
+#b_maltby = castle
+#b_union_hill = city
+#b_cathcart_2 = temple
+#b_high_bridge = castle
 
 # Misc
 culture = emeraldian

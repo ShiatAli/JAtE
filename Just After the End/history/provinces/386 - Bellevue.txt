@@ -4,15 +4,15 @@
 title = c_bellevue
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_bellevue_2 = castle
-b_redmond = city
-b_kirkland = temple
+b_kirkland = city
+b_mercer_island = temple
 #b_kenmore = castle
 #b_woodinville = city
 #b_bothell = temple
-#b_factoria = castle
+#b_beaux_arts_village = castle
 
 # Misc
 culture = emeraldian

@@ -12,7 +12,7 @@ b_fairplay = castle
 #b_alma_2 = castle
 #b_bailey = city
 #b_grant = temple
-#b_jefferson = castle
+#b_jefferson_2 = castle
 
 # Misc
 culture = coloradan

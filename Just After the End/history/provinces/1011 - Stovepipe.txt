@@ -8,7 +8,7 @@ max_settlements = 2
 
 b_stovepipe = castle
 #b_skidoo = city
-#b_harrisburg_3 = temple
+#b_harrisburg_2 = temple
 #b_teakettle = castle
 #b_tucki = city
 #b_hunter_2 = temple

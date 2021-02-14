@@ -7,7 +7,7 @@ title = c_quincy
 max_settlements = 3
 
 b_quincy_3 = castle
-b_moses_lake = city
+b_naylor_2 = city
 #b_george = temple
 #b_trinidad_3 = castle
 #b_mcdonald = city

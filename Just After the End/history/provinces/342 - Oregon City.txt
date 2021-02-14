@@ -7,7 +7,7 @@ title = c_oregon_city
 max_settlements = 4
 
 b_oregon_city_2 = castle
-b_central_point = city
+b_central_point_2 = city
 b_new_era = temple
 #b_canemah = castle
 #b_hillendale = city

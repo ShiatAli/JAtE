@@ -1,0 +1,21 @@
+# c_connell
+
+# County Title
+title = c_connell
+
+# Settlements
+max_settlements = 3
+
+b_connell = castle
+#b_curry = city
+#b_scootney_park = temple
+#b_myers = castle
+#b_hatton_coulee = city
+#b_sulphur = temple
+#b_coyote_ridge = castle
+
+# Misc
+culture = meseteno
+religion = gaian
+
+#History

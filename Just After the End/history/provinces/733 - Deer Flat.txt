@@ -11,7 +11,7 @@ b_nampa = castle
 #b_middleton_2 = temple
 #b_melba = castle
 #b_bowmont = city
-#b_riverside_4 = temple
+#b_riverside_5 = temple
 #b_stradley = castle
 
 # Misc

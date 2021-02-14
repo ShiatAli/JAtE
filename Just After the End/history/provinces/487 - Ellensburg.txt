@@ -1,0 +1,21 @@
+# c_ellensburg
+
+# County Title
+title = c_ellensburg
+
+# Settlements
+max_settlements = 3
+
+b_ellensburg = castle
+#b_kittitas = city
+#b_holme = temple
+#b_vantage = castle
+#b_thorp = city
+#b_bristol = temple
+#b_cedar_cove = castle
+
+# Misc
+culture = meseteno
+religion = gaian
+
+#History

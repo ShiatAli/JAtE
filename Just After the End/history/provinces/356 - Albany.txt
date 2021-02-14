@@ -6,13 +6,13 @@ title = c_albany
 # Settlements
 max_settlements = 4
 
-b_lebanon = castle
-b_albany_2 = city
+b_albany_2 = castle
+b_scio = city
 b_brownsville = temple
-#b_harrisburg = castle
-#b_tangent = city
-#b_sweet_home = temple
-#b_millersburg = castle
+#b_tangent = castle
+#b_millersburg = city
+#b_riverside_2 = temple
+#b_jefferson = castle
 
 # Misc
 culture = willametteian

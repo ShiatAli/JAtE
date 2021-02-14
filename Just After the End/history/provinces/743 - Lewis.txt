@@ -15,7 +15,7 @@ b_lewiston_2 = castle
 #b_spalding = castle
 
 # Misc
-culture = palouse
+culture = nez_perce
 religion = gaian
 
 #History

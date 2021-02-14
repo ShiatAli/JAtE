@@ -1,0 +1,21 @@
+# c_ashland
+
+# County Title
+title = c_ashland
+
+# Settlements
+max_settlements = 4
+
+b_ashland = castle
+#b_talent = city
+#b_mountain_view_5 = temple
+#b_colestin = castle
+#b_emigrant_lake = city
+#b_songen_gap = temple
+#b_lithia_park = castle
+
+# Misc
+culture = rogueite
+religion = gaian
+
+#History

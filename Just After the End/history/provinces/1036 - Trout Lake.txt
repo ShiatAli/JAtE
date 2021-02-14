@@ -1,0 +1,21 @@
+# c_trout_lake
+
+# County Title
+title = c_trout_lake
+
+# Settlements
+max_settlements = 2
+
+b_trout_lake_3 = castle
+#b_glenwood_4 = city
+#b_laurel_2 = temple
+#b_conboy_lake = castle
+#b_lost_springs = city
+#b_indian_heaven = temple
+#b_guler = castle
+
+# Misc
+culture = yakama
+religion = gaian
+
+#History

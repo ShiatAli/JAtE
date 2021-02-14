@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_alpaugh = castle
 b_angiola = city
-b_allensworth = temple
+b_delano = temple
 #b_kernell = castle
 #b_pond = city
 #b_earlimart = temple

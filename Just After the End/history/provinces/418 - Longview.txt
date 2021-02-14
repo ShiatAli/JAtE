@@ -11,7 +11,7 @@ b_woodland_2 = city
 #b_kalama = temple
 #b_preston_2 = castle
 #b_westside_2 = city
-#b_castle_rock = temple
+#b_eufaula = temple
 #b_olequa = castle
 
 # Misc

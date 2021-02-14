@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_okanogan = castle
 b_omak = city
-#b_riverside_2 = temple
+#b_riverside_3 = temple
 #b_ruby = castle
 #b_conconully = city
 #b_keystone = temple

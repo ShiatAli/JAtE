@@ -7,11 +7,11 @@ title = c_douglas
 max_settlements = 3
 
 b_waterville = castle
-#b_soap_lake = city
-#b_lakeview_3 = temple
-#b_ephrata = castle
-#b_rock_island = city
-#b_orondo = temple
+#b_east_wenatchee = city
+#b_terrace_park = temple
+#b_rock_island = castle
+#b_orondo = city
+#b_voltage = temple
 #b_withrow = castle
 
 # Misc

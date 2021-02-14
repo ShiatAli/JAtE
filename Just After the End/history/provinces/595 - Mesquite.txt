@@ -11,11 +11,11 @@ b_mesquite = castle
 #b_scenic = temple
 #b_bunkerville = castle
 #b_littlefield = city
-#b_riverside_3 = temple
+#b_riverside_4 = temple
 #b_frehner = castle
 
 # Misc
-culture = long_fifteener
+culture = long fifteener
 religion = atomicist
 
 #History

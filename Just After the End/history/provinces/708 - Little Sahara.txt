@@ -15,7 +15,7 @@ b_leamington = castle
 #b_silver_city_3 = castle
 
 # Misc
-culture = long_fifteener
+culture = long fifteener
 religion = mormon
 
 #History

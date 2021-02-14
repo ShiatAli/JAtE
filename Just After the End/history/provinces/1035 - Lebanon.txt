@@ -1,0 +1,21 @@
+# c_lebanon
+
+# County Title
+title = c_lebanon
+
+# Settlements
+max_settlements = 3
+
+b_lebanon = castle
+#b_waterloo = city
+#b_sodaville = temple
+#b_south_lebanon = castle
+#b_whitaker = city
+#b_crabtree = temple
+#b_berlin = castle
+
+# Misc
+culture = willametteian
+religion = gaian
+
+#History

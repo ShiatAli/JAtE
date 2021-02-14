@@ -15,7 +15,7 @@ b_pinedale_3 = castle
 #b_big_piney = castle
 
 # Misc
-culture = ranger
+culture = shoshone
 religion = gaian
 
 #History

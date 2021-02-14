@@ -10,7 +10,7 @@ b_weiser = castle
 #b_council = city
 #b_cambridge = temple
 #b_midvale_2 = castle
-#b_mesa_3 = city
+#b_mesa_2 = city
 #b_indian_valley = temple
 #b_goodrich = castle
 

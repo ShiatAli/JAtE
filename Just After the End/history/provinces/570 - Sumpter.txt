@@ -1,0 +1,21 @@
+# c_sumpter
+
+# County Title
+title = c_sumpter
+
+# Settlements
+max_settlements = 2
+
+b_sumpter = castle
+#b_kettle_valley = city
+#b_bridesville = temple
+#b_midway_2 = castle
+#b_anaconda = city
+#b_greenhorn_2 = temple
+#b_phoenix_2 = castle
+
+# Misc
+culture = inlander
+religion = gaian
+
+#History

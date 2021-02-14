@@ -15,7 +15,7 @@ b_caliente_2 = castle
 #b_rainbow_canyon = castle
 
 # Misc
-culture = long_fifteener
+culture = long fifteener
 religion = atomicist
 
 #History

@@ -1,0 +1,21 @@
+# c_horse_heaven
+
+# County Title
+title = c_horse_heaven
+
+# Settlements
+max_settlements = 1
+
+b_bickleton_2 = castle
+#b_paterson_2 = city
+#b_whitcomb = temple
+#b_north_mcnary = castle
+#b_roosevelt_4 = city
+#b_plymouth_3 = temple
+#b_goodnoe_hills = castle
+
+# Misc
+culture = meseteno
+religion = gaian
+
+#History

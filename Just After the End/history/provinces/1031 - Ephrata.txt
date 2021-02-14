@@ -1,0 +1,21 @@
+# c_ephrata
+
+# County Title
+title = c_ephrata
+
+# Settlements
+max_settlements = 2
+
+b_ephrata = castle
+#b_soap_lake = city
+#b_wilson_creek_3 = temple
+#b_lakeview_4 = castle
+#b_krupp = city
+#b_stratford_2 = temple
+#b_adco = castle
+
+# Misc
+culture = palouse
+religion = gaian
+
+#History

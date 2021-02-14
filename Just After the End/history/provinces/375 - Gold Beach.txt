@@ -1,0 +1,21 @@
+# c_gold_beach
+
+# County Title
+title = c_gold_beach
+
+# Settlements
+max_settlements = 2
+
+b_gold_beach = castle
+#b_wedderburn = city
+#b_nesika_beach = temple
+#b_carpenterville = castle
+#b_pistol_river = city
+#b_brooking = temple
+#b_ophir = castle
+
+# Misc
+culture = saltwater
+religion = gaian
+
+#History

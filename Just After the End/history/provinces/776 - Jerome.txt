@@ -10,7 +10,7 @@ b_jerome = castle
 #b_hazelton_2 = city
 #b_eden_3 = temple
 #b_hunt = castle
-#b_greenwood_5 = city
+#b_greenwood_4 = city
 #b_falls_city = temple
 #b_clover_creek = castle
 
