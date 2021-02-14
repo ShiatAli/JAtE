@@ -15,7 +15,7 @@ b_bickleton_2 = castle
 #b_goodnoe_hills = castle
 
 # Misc
-culture = meseteno
+culture = gorgeon
 religion = gaian
 
 #History

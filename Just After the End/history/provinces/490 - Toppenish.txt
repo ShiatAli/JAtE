@@ -15,7 +15,7 @@ b_zillah = city
 #b_ashue = castle
 
 # Misc
-culture = yakama
+culture = meseteno
 religion = gaian
 
 #History
