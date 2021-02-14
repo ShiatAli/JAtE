@@ -7,3 +7,24 @@ d_pikeplace = {
 	allow = { is_republic = yes }
 	culture = cascadian
 }
+###################THE PING LORD########################
+e_celestial_harmony = {
+	color = { 255 255 255 }
+	color2={ 255 255 255 }
+	
+	capital = 1 #PLACEHOLDER
+	culture = valleyan
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	can_be_claimed = no
+	can_be_usurped = no
+	
+}

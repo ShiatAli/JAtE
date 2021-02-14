@@ -1,5 +1,6 @@
 ###ÄNSI
-
+#The Ping KING
+1 = { name="Norton" culture=bayfolk }
 
 1001000 = { name="Power" culture=newfie }
 1001001 = { name="Wells" culture=newfie }

@@ -1,0 +1,3 @@
+landmark_palouse_falls = {	
+	icon = 81
+}

@@ -1,0 +1,14 @@
+###########UNIQUE ORIENTALIS RULES#######################
+jate_landmarks = {
+	name = "RULE_AMERICAN_LANDMARKS"
+	option = {
+		name = on
+		text = "RULE_OPTION_ON"
+		desc = "RULE_LANDMARKS_ON_DESC"
+	}
+	option = {
+		name = off
+		text = "RULE_OPTION_OFF"
+		desc = "RULE_LANDMARKS_OFF_DESC"
+	}
+}
