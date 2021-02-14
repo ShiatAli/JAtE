@@ -16,6 +16,6 @@ b_new_era = temple
 
 # Misc
 culture = portlandian
-religion = gaian
+religion = black_cross
 
 #History

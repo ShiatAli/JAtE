@@ -15,7 +15,7 @@ b_tonasket = castle
 #b_ellemeham = castle
 
 # Misc
-culture = inlander
+culture = backcountry
 religion = gaian
 
 #History

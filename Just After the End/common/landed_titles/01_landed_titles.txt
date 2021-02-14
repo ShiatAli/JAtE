@@ -2575,6 +2575,25 @@ e_caledonia = {
 		capital = 556 # c_nelson
 		culture = inlander
 		
+		c_fernie = { # 562
+			color={ 208 84 84 }
+			color2={ 255 255 255 }
+			
+			b_fernie = {
+			}
+			b_elko = {
+			}
+			b_sparwood = {
+			}
+			b_hosmer = {
+			}
+			b_elkwood = {
+			}
+			b_kragmont = {
+			}
+			b_grasmere = {
+			}
+		}
 		d_kokanee = {
 			color={ 238 113 98 }
 			color2={ 255 255 255 }
@@ -2797,7 +2816,7 @@ e_caledonia = {
 				b_jaffray = {
 				}
 			}
-			c_elko = { # 562
+			c_fernie = { # 562
 				color={ 208 84 84 }
 				color2={ 255 255 255 }
 				
@@ -10848,14 +10867,14 @@ e_lincoln = {
 	color2={ 255 255 20 }
 	
 	capital = 395 # c_leavenworth
-	culture = backcountry
+	culture = leavenworther
 	
 	k_spokane = {
 		color={ 188 30 174 }
 		color2={ 255 255 255 }
 		
 		capital = 395 # c_leavenworth
-		culture = backcountry
+		culture = leavenworther
 		
 		d_chelan = {
 			color={ 168 50 164 }
@@ -11969,25 +11988,6 @@ e_lincoln = {
 		capital = 476 # c_washtucna
 		culture = palouse
 		
-		c_mattawa = { # 1037
-			color={ 59 148 190 }
-			color2={ 255 255 255 }
-			
-			b_mattawa_2 = {
-			}
-			b_basin_city = {
-			}
-			b_eltopia = {
-			}
-			b_desert_aire = {
-			}
-			b_mesa_3 = {
-			}
-			b_edwards_3 = {
-			}
-			b_matthews_corner = {
-			}
-		}
 		d_adams = {
 			color={ 165 76 91 }
 			color2={ 255 255 255 }
@@ -11995,7 +11995,7 @@ e_lincoln = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 476 province_id = 484 province_id = 485 province_id = 1034 } }
+					any_demesne_province = { OR = { province_id = 476 province_id = 485 province_id = 1034 } }
 				}
 			}
 			capital = 476 # c_washtucna
@@ -12036,25 +12036,6 @@ e_lincoln = {
 				b_four_lakes = {
 				}
 				b_tyler = {
-				}
-			}
-			c_reardan = { # 484
-				color={ 115 186 167 }
-				color2={ 255 255 255 }
-				
-				b_reardan = {
-				}
-				b_medicine_lake = {
-				}
-				b_cheney = {
-				}
-				b_geiger_heights = {
-				}
-				b_hazelwood = {
-				}
-				b_airway_heights = {
-				}
-				b_marshall = {
 				}
 			}
 			c_towell = { # 485
@@ -12173,7 +12154,7 @@ e_lincoln = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 478 province_id = 479 province_id = 480 province_id = 1031 } }
+					any_demesne_province = { OR = { province_id = 478 province_id = 479 province_id = 480 } }
 				}
 			}
 			capital = 478 # c_quincy
@@ -12235,25 +12216,6 @@ e_lincoln = {
 				b_withrow = {
 				}
 			}
-			c_ephrata = { # 1031
-				color={ 31 77 99 }
-				color2={ 255 255 255 }
-				
-				b_ephrata = {
-				}
-				b_soap_lake = {
-				}
-				b_wilson_creek_3 = {
-				}
-				b_lakeview_4 = {
-				}
-				b_krupp = {
-				}
-				b_stratford_2 = {
-				}
-				b_adco = {
-				}
-			}
 		}
 		d_great_coulee = {
 			color={ 194 86 207 }
@@ -12262,7 +12224,7 @@ e_lincoln = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 481 province_id = 482 province_id = 483 } }
+					any_demesne_province = { OR = { province_id = 481 province_id = 483 province_id = 484 } }
 				}
 			}
 			capital = 481 # c_grand_coulee
@@ -12305,6 +12267,38 @@ e_lincoln = {
 				b_lincoln = {
 				}
 			}
+			c_reardan = { # 484
+				color={ 115 186 167 }
+				color2={ 255 255 255 }
+				
+				b_reardan = {
+				}
+				b_medicine_lake = {
+				}
+				b_cheney = {
+				}
+				b_geiger_heights = {
+				}
+				b_hazelwood = {
+				}
+				b_airway_heights = {
+				}
+				b_marshall = {
+				}
+			}
+		}
+		d_moses_lake = {
+			color={ 140 96 149 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 482 province_id = 1031 province_id = 1032 } }
+				}
+			}
+			capital = 482 # c_odessa
+			
 			c_odessa = { # 482
 				color={ 150 86 154 }
 				color2={ 255 255 255 }
@@ -12324,19 +12318,25 @@ e_lincoln = {
 				b_schrag = {
 				}
 			}
-		}
-		d_moses_lake = {
-			color={ 64 80 112 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 1032 } }
+			c_ephrata = { # 1031
+				color={ 31 77 99 }
+				color2={ 255 255 255 }
+				
+				b_ephrata = {
+				}
+				b_soap_lake = {
+				}
+				b_wilson_creek_3 = {
+				}
+				b_lakeview_4 = {
+				}
+				b_krupp = {
+				}
+				b_stratford_2 = {
+				}
+				b_adco = {
 				}
 			}
-			capital = 1032 # c_moses_lake
-			
 			c_moses_lake = { # 1032
 				color={ 54 90 107 }
 				color2={ 255 255 255 }
@@ -15134,7 +15134,7 @@ e_nevada = {
 		color={ 107 224 50 }
 		color2={ 255 255 255 }
 		
-		capital = 966 # c_elko_2
+		capital = 966 # c_elko
 		culture = north_paiute
 		
 		d_elko = {
@@ -15147,9 +15147,9 @@ e_nevada = {
 					any_demesne_province = { OR = { province_id = 966 province_id = 967 province_id = 968 province_id = 969 province_id = 970 province_id = 971 } }
 				}
 			}
-			capital = 966 # c_elko_2
+			capital = 966 # c_elko
 			
-			c_elko_2 = { # 966
+			c_elko = { # 966
 				color={ 137 194 65 }
 				color2={ 255 255 255 }
 				
@@ -16447,25 +16447,6 @@ e_oregon = {
 		capital = 352 # c_salem
 		culture = willametteian
 		
-		c_lebanon = { # 1035
-			color={ 183 140 194 }
-			color2={ 255 255 255 }
-			
-			b_lebanon = {
-			}
-			b_waterloo = {
-			}
-			b_sodaville = {
-			}
-			b_south_lebanon = {
-			}
-			b_whitaker = {
-			}
-			b_crabtree = {
-			}
-			b_berlin = {
-			}
-		}
 		d_santiam = {
 			color={ 199 165 219 }
 			color2={ 255 255 255 }

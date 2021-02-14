@@ -15,7 +15,7 @@ b_cashmere = city
 #b_plain = castle
 
 # Misc
-culture = backcountry
+culture = leavenworther
 religion = gaian
 
 #History

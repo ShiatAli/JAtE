@@ -15,7 +15,7 @@ b_mansford = city
 #b_old_sauk = castle
 
 # Misc
-culture = skagitan
+culture = backcountry
 religion = gaian
 
 #History

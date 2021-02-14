@@ -521,8 +521,6 @@ c_elk_grove;Elk Grove;Elk Grove;Elk Grove;;Elk Grove;;;;;;;;;x
 c_elk_grove_adj;Elk Grovean;;Elk Grover;;;;;;;;;;;x
 c_elko;Elko;Elko;Elko;;Elko;;;;;;;;;x
 c_elko_adj;Elkian;;elker;;;;;;;;;;;x
-c_elko_2;Elko;Elko;Elko;;Elko;;;;;;;;;x
-c_elko_2_adj;Elkian;;elker;;;;;;;;;;;x
 c_elkton;Elkton;Elkton;Elkton;;Elkton;;;;;;;;;x
 c_elkton_adj;Elktonian;;elktoner;;;;;;;;;;;x
 c_ellensburg;Ellensburg;Ellensburg;Ellensburg;;Ellensburg;;;;;;;;;x
@@ -559,6 +557,8 @@ c_fallon;Fallon;Fallon;Fallon;;Fallon;;;;;;;;;x
 c_fallon_adj;Fallonian;;falloner;;;;;;;;;;;x
 c_federal_way;Federal Way;Federal Way;Federal Way;;Federal Way;;;;;;;;;x
 c_federal_way_adj;Federal Waian;;Federal Waer;;;;;;;;;;;x
+c_fernie;Fernie;Fernie;Fernie;;Fernie;;;;;;;;;x
+c_fernie_adj;Ferniean;;ferner;;;;;;;;;;;x
 c_fernley;Fernley;Fernley;Fernley;;Fernley;;;;;;;;;x
 c_fernley_adj;Fernleian;;fernleer;;;;;;;;;;;x
 c_fidalgo;Fidalgo;Fidalgo;Fidalgo;;Fidalgo;;;;;;;;;x

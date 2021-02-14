@@ -16,6 +16,6 @@ b_king_city_2 = temple
 
 # Misc
 culture = portlandian
-religion = gaian
+religion = black_cross
 
 #History

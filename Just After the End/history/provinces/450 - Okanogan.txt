@@ -15,7 +15,7 @@ b_omak = city
 #b_synarep = castle
 
 # Misc
-culture = inlander
+culture = backcountry
 religion = gaian
 
 #History

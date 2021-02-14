@@ -15,7 +15,7 @@ b_skykomish = castle
 #b_may_creek = castle
 
 # Misc
-culture = backcountry
+culture = leavenworther
 religion = gaian
 
 #History
