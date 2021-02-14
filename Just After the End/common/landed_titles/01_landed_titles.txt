@@ -11284,17 +11284,36 @@ e_lincoln = {
 				b_clarkston_heights = {
 				}
 			}
+			c_pomeroy = { #1026
+				color={ 222 97 153 }
+				color2={ 255 255 255 }
+			
+				b_pomeroy = {
+				}
+				b_pataha = {
+				}
+				b_gould_city = {
+				}
+				b_peola = {
+				}
+				b_ping = {
+				}
+				b_dodge_2 = {
+				}
+				b_deadmans_gulch = {
+				}
+			}
 			c_dayton = { # 498
 				color={ 202 49 180 }
 				color2={ 255 255 255 }
 				
 				b_dayton = {
 				}
-				b_pomeroy = {
-				}
 				b_starbuck = {
 				}
-				b_pataha = {
+				b_alto = {
+				}
+				b_marengo = {
 				}
 				b_jackson = {
 				}

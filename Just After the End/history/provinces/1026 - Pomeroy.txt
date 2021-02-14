@@ -1,0 +1,15 @@
+# c_pomeroy
+
+# County Title
+title = c_pomeroy
+
+# Settlements
+max_settlements = 2
+
+b_pomeroy = castle
+
+# Misc
+culture = palouse
+religion = gaian
+
+#History

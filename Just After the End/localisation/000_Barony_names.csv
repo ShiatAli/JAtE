@@ -3253,6 +3253,8 @@ b_dead_camel;Dead Camel;Dead Camel;Dead Camel;;Dead Camel;;;;;;;;;x
 b_dead_camel_adj;Dead Camelian;;Dead Cameler;;;;;;;;;;;x
 b_dead_horse;Dead Horse;Dead Horse;Dead Horse;;Dead Horse;;;;;;;;;x
 b_dead_horse_adj;Dead Horsean;;Dead Horser;;;;;;;;;;;x
+b_deadmans_gulch;Deadman's Gulch;Deadman's Gulch;Deadman's Gulch;;Deadman's Gulch;;;;;;;;;;;x
+b_deadmans_gulch_adj;Deadman;;Deadman;;;;;;;;;;;x
 b_dead_ox;Dead Ox;Dead Ox;Dead Ox;;Dead Ox;;;;;;;;;x
 b_dead_ox_adj;Dead Oxian;;Dead Oxer;;;;;;;;;;;x
 b_deadeye;Deadeye;Deadeye;Deadeye;;Deadeye;;;;;;;;;x
@@ -3509,6 +3511,8 @@ b_dockton;Dockton;Dockton;Dockton;Dockton;;;;;;;;;;;x
 b_dockton_adj;Docktoner;docktoner;;;;;;;;;;;x
 b_dodge;Dodge;Dodge;Dodge;;Dodge;;;;;;;;;x
 b_dodge_adj;Dodgean;;dodger;;;;;;;;;;;x
+b_dodge_2;Dodge;Dodge;Dodge;;Dodge;;;;;;;;;x
+b_dodge_2_adj;Dodgean;;dodger;;;;;;;;;;;x
 b_dodson;Dodson;Dodson;Dodson;;Dodson;;;;;;;;;x
 b_dodson_adj;Dodsonian;;dodsoner;;;;;;;;;;;x
 b_dog_knobs;Dog Knobs;Dog Knobs;Dog Knobs;;Dog Knobs;;;;;;;;;x
@@ -5133,6 +5137,8 @@ b_goshen_3;Goshen;Goshen;Goshen;;Goshen;;;;;;;;;x
 b_goshen_3_adj;Goshenian;;goshener;;;;;;;;;;;x
 b_gould;Gould;Gould;Gould;;Gould;;;;;;;;;x
 b_gould_adj;Gouldian;;goulder;;;;;;;;;;;x
+b_gould_city;Gould City;Gould City;Gould City;;Gould City;;;;;;;;;;;x
+b_gould_city_adj;Goulden;;goulden;;;;;;;;;;;;x
 b_government_camp;Government Camp;Government Camp;Government Camp;;Government Camp;;;;;;;;;x
 b_government_camp_adj;Government Campian;;Government Camper;;;;;;;;;;;x
 b_gowdy;Gowdy;Gowdy;Gowdy;;Gowdy;;;;;;;;;x
@@ -9685,6 +9691,8 @@ b_pentz;Pentz;Pentz;Pentz;;Pentz;;;;;;;;;x
 b_pentz_adj;Pentzian;;pentzer;;;;;;;;;;;x
 b_penvir;Penvir;Penvir;Penvir;;Penvir;;;;;;;;;x
 b_penvir_adj;Penvirian;;penvirer;;;;;;;;;;;x
+b_peola;Peola;Peola;Peola;;Peola;;;;;;;;;;;x
+b_peola_adj;Peolan;;peolan;;;;;;;;;;;x
 b_peoria;Peoria;Peoria;Peoria;;Peoria;;;;;;;;;x
 b_peoria_adj;Peorian;;peorer;;;;;;;;;;;x
 b_pepperwood_grove;Pepperwood Grove;Pepperwood Grove;Pepperwood Grove;;Pepperwood Grove;;;;;;;;;x
@@ -9831,6 +9839,8 @@ b_pinelake;Pinelake;Pinelake;Pinelake;;Pinelake;;;;;;;;;x
 b_pinelake_adj;Pinelakean;;pinelaker;;;;;;;;;;;x
 b_pinetop_lakeside;Pinetop-Lakeside;Pinetop-Lakeside;Pinetop-Lakeside;;Pinetop-Lakeside;;;;;;;;;x
 b_pinetop_lakeside_adj;Pinetop-Lakesidean;;pinetop-lakesider;;;;;;;;;;;x
+b_ping;Ping;Ping;Ping;;Ping;;;;;;;;;;;x
+b_ping_adj;Pinger;;pinger;;;;;;;;;;;x
 b_pingree;Pingree;Pingree;Pingree;;Pingree;;;;;;;;;x
 b_pingree_adj;Pingreean;;pingrer;;;;;;;;;;;x
 b_pinkham;Pinkham;Pinkham;Pinkham;;Pinkham;;;;;;;;;x
