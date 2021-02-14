@@ -15,7 +15,7 @@ b_cedar_city = city
 #b_summit_3 = castle
 
 # Misc
-culture = long fifteener
+culture = long_fifteener
 religion = mormon
 
 #History

@@ -15,7 +15,7 @@ b_ash_springs = castle
 #b_etna = castle
 
 # Misc
-culture = long fifteener
+culture = long_fifteener
 religion = cetic
 
 #History

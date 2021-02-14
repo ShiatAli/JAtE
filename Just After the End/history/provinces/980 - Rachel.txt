@@ -15,7 +15,7 @@ b_rachel_2 = castle
 #b_nellis = castle
 
 # Misc
-culture = long fifteener
+culture = long_fifteener
 religion = atomicist
 
 #History
