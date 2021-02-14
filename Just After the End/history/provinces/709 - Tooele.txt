@@ -15,7 +15,7 @@ b_tooele = castle
 #b_rush_valley = castle
 
 # Misc
-culture = long fifteener
+culture = long_fifteener
 religion = mormon
 
 #History

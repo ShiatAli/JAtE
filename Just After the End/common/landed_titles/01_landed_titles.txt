@@ -2575,25 +2575,6 @@ e_caledonia = {
 		capital = 556 # c_nelson
 		culture = inlander
 		
-		c_fernie = { # 562
-			color={ 208 84 84 }
-			color2={ 255 255 255 }
-			
-			b_fernie = {
-			}
-			b_elko = {
-			}
-			b_sparwood = {
-			}
-			b_hosmer = {
-			}
-			b_elkwood = {
-			}
-			b_kragmont = {
-			}
-			b_grasmere = {
-			}
-		}
 		d_kokanee = {
 			color={ 238 113 98 }
 			color2={ 255 255 255 }
@@ -4889,7 +4870,7 @@ e_deseret = {
 		color2={ 255 255 255 }
 		
 		capital = 706 # c_millard
-		culture = long fifteener
+		culture = long_fifteener
 		
 		d_fishlake = {
 			color={ 215 82 59 }
