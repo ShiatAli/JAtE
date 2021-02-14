@@ -16,6 +16,6 @@ b_pasco = castle
 
 # Misc
 culture = tricitian
-religion = gaian
+religion = la_hermandad
 
 #History
