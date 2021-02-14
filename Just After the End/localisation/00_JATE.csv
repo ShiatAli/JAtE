@@ -84,6 +84,11 @@ ute;Ute;;;;;;;;;;;;;x
 ###########Titular Titles###########
 d_pikeplace;Pikeplace;;;;;;;;;;;;;x
 d_pikeplace_adj;Pikeplacer;;;;;;;;;;;;;x
+e_celestial_harmony;Celestial Heaven;;;;;;;;;;;;;x
+e_celestial_harmony_adj;Nortonites;;;;;;;;;;;;;x
+
+###########Landmarks###########
+landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palouse River into the gorge to the Snake. Although the sight is beautiful, more than a few travelers have met their end falling off the sheer cliffs.;;;;;;;;;;;;;x
 
 ############## JATE Religions ###########
 

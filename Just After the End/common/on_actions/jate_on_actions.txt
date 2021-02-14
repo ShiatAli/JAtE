@@ -1,0 +1,6 @@
+#character
+on_startup = {
+	events = {
+		jate_landmarks.0 # Landmark event
+	}
+}
