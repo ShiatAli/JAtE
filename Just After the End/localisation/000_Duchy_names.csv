@@ -365,6 +365,8 @@ d_mulege;Mulegé;Mulegé;Mulegé;;Mulegé;;;;;;;;;x
 d_mulege_adj;Mulegéian;;mulegéer;;;;;;;;;;;x
 d_multnomah;Multnomah;Multnomah;Multnomah;;Multnomah;;;;;;;;;x
 d_multnomah_adj;Multnomahian;;multnomaher;;;;;;;;;;;x
+d_myrtlewoods;Myrtlewoods;Myrtlewoods;Myrtlewoods;;Myrtlewoods;;;;;;;;;x
+d_myrtlewoods_adj;Myrtlewoodsian;;myrtlewoodser;;;;;;;;;;;x
 d_napa;Napa;Napa;Napa;;Napa;;;;;;;;;x
 d_napa_adj;Napan;;naper;;;;;;;;;;;x
 d_newport;Newport;Newport;Newport;;Newport;;;;;;;;;x
@@ -519,8 +521,6 @@ d_sunshine_coast;Sunshine Coast;Sunshine Coast;Sunshine Coast;;Sunshine Coast;;;
 d_sunshine_coast_adj;Sunshine Coastian;;Sunshine Coaster;;;;;;;;;;;x
 d_suquash;Suquash;Suquash;Suquash;;Suquash;;;;;;;;;x
 d_suquash_adj;Suquashian;;suquasher;;;;;;;;;;;x
-d_surprise;Surprise;Surprise;Surprise;;Surprise;;;;;;;;;x
-d_surprise_adj;Surprisean;;surpriser;;;;;;;;;;;x
 d_sutter_valley;Sutter Valley;Sutter Valley;Sutter Valley;;Sutter Valley;;;;;;;;;x
 d_sutter_valley_adj;Sutter Valleian;;Sutter Valleer;;;;;;;;;;;x
 d_swan_valley;Swan Valley;Swan Valley;Swan Valley;;Swan Valley;;;;;;;;;x

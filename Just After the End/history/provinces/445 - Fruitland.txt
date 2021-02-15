@@ -16,6 +16,6 @@ b_hunters = castle
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

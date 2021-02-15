@@ -16,6 +16,6 @@ b_connell = castle
 
 # Misc
 culture = meseteno
-religion = gaian
+religion = la_hermandad
 
 #History

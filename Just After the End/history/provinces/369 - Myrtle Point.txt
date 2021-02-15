@@ -1,14 +1,14 @@
-# c_gaylord
+# c_myrtle_point
 
 # County Title
-title = c_gaylord
+title = c_myrtle_point
 
 # Settlements
 max_settlements = 2
 
-b_gaylord = castle
-#b_broadbent = city
-#b_myrtle_point = temple
+b_myrtle_point = castle
+#b_gaylord = city
+#b_broadbent = temple
 #b_powers = castle
 #b_bridge = city
 #b_remote = temple

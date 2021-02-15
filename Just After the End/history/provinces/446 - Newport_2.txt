@@ -16,6 +16,6 @@ b_newport_4 = castle
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

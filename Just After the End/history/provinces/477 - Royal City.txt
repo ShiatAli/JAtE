@@ -16,6 +16,6 @@ b_royal_city = castle
 
 # Misc
 culture = meseteno
-religion = gaian
+religion = la_hermandad
 
 #History

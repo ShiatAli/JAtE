@@ -16,6 +16,6 @@ b_pinehurst_3 = city
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

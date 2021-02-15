@@ -16,6 +16,6 @@ b_waterville = castle
 
 # Misc
 culture = meseteno
-religion = gaian
+religion = la_hermandad
 
 #History

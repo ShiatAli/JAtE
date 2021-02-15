@@ -1,13 +1,13 @@
-# c_grandview
+# c_prosser
 
 # County Title
-title = c_grandview
+title = c_prosser
 
 # Settlements
 max_settlements = 3
 
-b_grandview = castle
-b_prosser = city
+b_prosser = castle
+b_grandview = city
 #b_whitstran = temple
 #b_mabton = castle
 #b_apricot = city
@@ -16,6 +16,6 @@ b_prosser = city
 
 # Misc
 culture = meseteno
-religion = gaian
+religion = la_hermandad
 
 #History

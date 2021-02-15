@@ -1,16 +1,16 @@
-# c_eagle_valley
+# c_upper_rogue
 
 # County Title
-title = c_eagle_valley
+title = c_upper_rogue
 
 # Settlements
 max_settlements = 3
 
-b_eagle_point = castle
+b_shady_cove = castle
 #b_white_city = city
 #b_brownsboro = temple
 #b_lakecreek = castle
-#b_shady_cove = city
+#b_eagle_point = city
 #b_table_rock = temple
 #b_beagle = castle
 

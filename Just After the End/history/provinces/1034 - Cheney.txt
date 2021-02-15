@@ -16,6 +16,6 @@ b_cheney_2 = castle
 
 # Misc
 culture = palouse
-religion = gaian
+religion = dominionist
 
 #History

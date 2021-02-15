@@ -16,6 +16,6 @@ b_deer_park = castle
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

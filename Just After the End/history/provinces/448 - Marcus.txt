@@ -16,6 +16,6 @@ b_kettle_falls = city
 
 # Misc
 culture = inlander
-religion = gaian
+religion = dominionist
 
 #History

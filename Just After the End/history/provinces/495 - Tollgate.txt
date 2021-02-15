@@ -16,6 +16,6 @@ b_kooskooskie = city
 
 # Misc
 culture = bluemen
-religion = gaian
+religion = postadventist
 
 #History

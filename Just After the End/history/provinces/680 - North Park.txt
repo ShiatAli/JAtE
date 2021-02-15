@@ -1,7 +1,7 @@
-# c_medford
+# c_north_park
 
 # County Title
-title = c_medford
+title = c_north_park
 
 # Settlements
 max_settlements = 2

@@ -16,6 +16,6 @@ b_trout_lake_3 = castle
 
 # Misc
 culture = yakama
-religion = gaian
+religion = peyotist
 
 #History

@@ -16,6 +16,6 @@ b_west_sound = castle
 
 # Misc
 culture = orcan
-religion = gaian
+religion = pelagic
 
 #History

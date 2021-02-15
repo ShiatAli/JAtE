@@ -326,9 +326,9 @@ PROV325;Klamath Falls;Klamath Falls;Klamath Falls;;;;;;;;;x
 PROV326;Bonaza;Bonaza;Bonaza;;;;;;;;;x
 PROV327;Chiloquin;Chiloquin;Chiloquin;;;;;;;;;x
 PROV328;Chemult;Chemult;Chemult;;;;;;;;;x
-PROV329;Jackson;Jackson;Jackson;;;;;;;;;x
+PROV329;Medford;Medford;Medford;;;;;;;;;x
 PROV330;Josephine;Josephine;Josephine;;;;;;;;;x
-PROV331;Eagle Valley;Eagle Valley;Eagle Valley;;;;;;;;;x
+PROV331;Upper Rogue;Upper Rogue;Upper Rogue;;;;;;;;;x
 PROV332;Lakeview;Lakeview;Lakeview;;;;;;;;;x
 PROV333;Wagonfire;Wagonfire;Wagonfire;;;;;;;;;x
 PROV334;Christmas Valley;Christmas Valley;Christmas Valley;;;;;;;;;x
@@ -364,9 +364,9 @@ PROV363;Roseburg;Roseburg;Roseburg;;;;;;;;;x
 PROV364;Glide;Glide;Glide;;;;;;;;;x
 PROV365;Yoncalla;Yoncalla;Yoncalla;;;;;;;;;x
 PROV366;Elkton;Elkton;Elkton;;;;;;;;;x
-PROV367;Tri-City;Tri-City;Tri-City;;;;;;;;;x
+PROV367;Myrtle Creek;Myrtle Creek;Myrtle Creek;;;;;;;;;x
 PROV368;Winston;Winston;Winston;;;;;;;;;x
-PROV369;Gaylord;Gaylord;Gaylord;;;;;;;;;x
+PROV369;Myrtle Point;Myrtle Point;Myrtle Point;;;;;;;;;x
 PROV370;Florence;Florence;Florence;;;;;;;;;x
 PROV371;Reedsport;Reedsport;Reedsport;;;;;;;;;x
 PROV372;Mapleton;Mapleton;Mapleton;;;;;;;;;x
@@ -482,7 +482,7 @@ PROV481;Grand Coulee;Grand Coulee;Grand Coulee;;;;;;;;;x
 PROV482;Odessa;Odessa;Odessa;;;;;;;;;x
 PROV483;Davenport;Davenport;Davenport;;;;;;;;;x
 PROV484;Reardan;Reardan;Reardan;;;;;;;;;x
-PROV485;Towell;Towell;Towell;;;;;;;;;x
+PROV485;Sprague;Sprague;Sprague;;;;;;;;;x
 PROV486;Yakima;Yakima;Yakima;;;;;;;;;x
 PROV487;Ellensburg;Ellensburg;Ellensburg;;;;;;;;;x
 PROV488;The Reach;The Reach;The Reach;;;;;;;;;x
@@ -490,7 +490,7 @@ PROV489;Goldendale;Goldendale;Goldendale;;;;;;;;;x
 PROV490;Toppenish;Toppenish;Toppenish;;;;;;;;;x
 PROV491;Sunnyside;Sunnyside;Sunnyside;;;;;;;;;x
 PROV492;Kennewick;Kennewick;Kennewick;;;;;;;;;x
-PROV493;Grandview;Grandview;Grandview;;;;;;;;;x
+PROV493;Prosser;Prosser;Prosser;;;;;;;;;x
 PROV494;Walla Walla;Walla Walla;Walla Walla;;;;;;;;;x
 PROV495;Tollgate;Tollgate;Tollgate;;;;;;;;;x
 PROV496;Burbank;Burbank;Burbank;;;;;;;;;x
@@ -538,7 +538,7 @@ PROV538;Lund;Lund;Lund;;;;;;;;;x
 PROV539;Blind Channel;Blind Channel;Blind Channel;;;;;;;;;x
 PROV540;Port Neville;Port Neville;Port Neville;;;;;;;;;x
 PROV541;Echo Bay;Echo Bay;Echo Bay;;;;;;;;;x
-PROV542;Harrison Hot Springs;Harrison Hot Springs;Harrison Hot Springs;;;;;;;;;x
+PROV542;Harrison;Harrison;Harrison;;;;;;;;;x
 PROV543;Allison Harbor;Allison Harbor;Allison Harbor;;;;;;;;;x
 PROV544;Kelowna;Kelowna;Kelowna;;;;;;;;;x
 PROV545;Keremeos;Keremeos;Keremeos;;;;;;;;;x
@@ -676,7 +676,7 @@ PROV676;Pitkin;Pitkin;Pitkin;;;;;;;;;x
 PROV677;Garfield;Garfield;Garfield;;;;;;;;;x
 PROV678;Eagle;Eagle;Eagle;;;;;;;;;x
 PROV679;Granby;Granby;Granby;;;;;;;;;x
-PROV680;Medford;Medford;Medford;;;;;;;;;x
+PROV680;North Park;North Park;North Park;;;;;;;;;x
 PROV681;Dillon;Dillon;Dillon;;;;;;;;;x
 PROV682;Moffat;Moffat;Moffat;;;;;;;;;x
 PROV683;Routt;Routt;Routt;;;;;;;;;x
@@ -1039,3 +1039,5 @@ PROV1039;Connell;Connell;Connell;;;;;;;;;x
 PROV1040;Ashland;Ashland;Ashland;;;;;;;;;x
 PROV1041;Chetco;Chetco;Chetco;;;;;;;;;x
 PROV1042;Ballard;Ballard;Ballard;;;;;;;;;x
+PROV1043;Rancho Cucamonga;Rancho Cucamonga;Rancho Cucamonga;;;;;;;;;x
+PROV1044;Sherman;Sherman;Sherman;;;;;;;;;x
