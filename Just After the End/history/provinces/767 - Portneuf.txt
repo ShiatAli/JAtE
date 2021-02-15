@@ -15,7 +15,7 @@ b_inkom = castle
 #b_virginia = castle
 
 # Misc
-culture = snakemen
+culture = mountainer
 religion = mormon
 
 #History
