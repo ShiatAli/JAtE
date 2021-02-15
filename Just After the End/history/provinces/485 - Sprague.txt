@@ -1,7 +1,7 @@
-# c_towell
+# c_sprague
 
 # County Title
-title = c_towell
+title = c_sprague
 
 # Settlements
 max_settlements = 2

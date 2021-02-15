@@ -16,6 +16,6 @@ b_miliwood = city
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

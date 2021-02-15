@@ -95,7 +95,7 @@ landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palous
 
 #Black Cross
 black_cross;Black Cross;;;;;;;;;;;;;x
-black_cross_DESC;Placeholder time :sunglasses:;;;;;;;;;;;;;x
+black_cross_DESC;The Black Cross are a loosely organized collective of insular communities, travelling bard-preachers, and militant heresiarchs who share a belief in the “Straight-Edged Path” in rebellion against a figure only known as “the Man”, who they believe imprisoned the mother-goddesses Anarkee and Gaia in the Event. The Straight-Edged Path mandates abstination from drugs, alcohol, and premarital sex, a path that they believe will lead to freeing of the Mothers from the Man’s control. Black Crossers bear a particular opposition to the rearing of livestock, and often seek to destroy the practice through force.;;;;;;;;;;;;;x
 GOD_THE_MOTHERS;The Mothers;;;;;;;;;;;;;x
 GOD_MOTHER_ANARKEE;Mother Anarkee;;;;;;;;;;;;;x
 GOD_MOTHER_GAIA;Mother Gaia;;;;;;;;;;;;;x
@@ -104,6 +104,22 @@ GOD_THE_MAN;The Man;;;;;;;;;;;;;x
 GOD_THE_PIGS;The Pigs;;;;;;;;;;;;;x
 GOD_THE_SNITCH;The Snitch;;;;;;;;;;;;;x
 THE_ZINE;The Zine;;;;;;;;;;;;;x
+FRONTMAN;Frontman;;;;;;;;;;;;;x
+SQUATTING;Squatting;;;;;;;;;;;;;x
+CRED;Cred;;;;;;;;;;;;;x
+
+#La Hermandad
+la_hermandad;La Hermandad;;;;;;;;;;;;;x
+la_hermandad_DESC;La Hermandad, or “The Brotherhood” is the name commonly used to refer to a group of Chicano Christians in the interior Pacific Northwest. Far from the Mexican heartland, the Meseteño have merged Mexican Christianity with a reverence for saints of agriculture and labor, believing that kings should work the fields besides their subjects.;;;;;;;;;;;;;x
+GOD_DIOS;;;;;;;;;;;;;;x
+GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;;;x
+GOD_CESARCHAVEZ;Césarchávez;;;;;;;;;;;;;x
+GOD_EL_PUEBLO_UNIDO;El Pueblo Unido;;;;;;;;;;;;;x
+SATAN;;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+GOD_LA_MIGRA;La Migra;;;;;;;;;;;;;x
+MANIFESTATION;Manifestación;;;;;;;;;;;;;x
+THE_BYLAWS;The Bylaws;;;;;;;;;;;;;x
 
 #Dominionist
 dominionist;Dominionist;;;;;;;;;;;;;x

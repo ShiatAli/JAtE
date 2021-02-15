@@ -1,0 +1,21 @@
+# c_sherman
+
+# County Title
+title = c_sherman
+
+# Settlements
+max_settlements = 2
+
+b_wasco_3 = castle
+#b_moro = city
+#b_biggs_junction = temple
+#b_rufus = castle
+#b_grass_valley_3 = city
+#b_kent_2 = temple
+#b_de_moss_springs = castle
+
+# Misc
+culture = gorgeon
+religion = gaian
+
+#History

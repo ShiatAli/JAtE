@@ -16,6 +16,6 @@ b_moxee = city
 
 # Misc
 culture = tricitian
-religion = gaian
+religion = aphite
 
 #History

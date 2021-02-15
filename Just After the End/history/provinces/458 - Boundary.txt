@@ -16,6 +16,6 @@ b_bonners_ferry = castle
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

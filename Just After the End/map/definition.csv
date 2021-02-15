@@ -327,9 +327,9 @@ province;red;green;blue;x;x
 326;70;50;176;Bonaza;x
 327;70;80;176;Chiloquin;x
 328;70;100;176;Chemult;x
-329;40;100;176;Jackson;x
+329;40;100;176;Medford;x
 330;100;100;176;Josephine;x
-331;100;120;176;Eagle Valley;x
+331;100;120;176;Upper Rogue;x
 332;60;70;180;Lakeview;x
 333;51;53;180;Wagonfire;x
 334;40;44;247;Christmas Valley;x
@@ -365,9 +365,9 @@ province;red;green;blue;x;x
 364;33;147;73;Glide;x
 365;95;255;151;Yoncalla;x
 366;212;205;206;Elkton;x
-367;120;80;123;Tri-City;x
+367;120;80;123;Myrtle Creek;x
 368;186;136;189;Winston;x
-369;198;68;175;Gaylord;x
+369;198;68;175;Myrtle Point;x
 370;112;106;80;Florence;x
 371;112;60;80;Reedsport;x
 372;112;60;200;Mapleton;x
@@ -483,7 +483,7 @@ province;red;green;blue;x;x
 482;150;86;154;Odessa;x
 483;150;111;152;Davenport;x
 484;115;186;167;Reardan;x
-485;60;142;120;Towell;x
+485;60;142;120;Sprague;x
 486;224;109;109;Yakima;x
 487;188;50;50;Ellensburg;x
 488;188;122;122;The Reach;x
@@ -491,7 +491,7 @@ province;red;green;blue;x;x
 490;162;114;114;Toppenish;x
 491;106;60;60;Sunnyside;x
 492;59;97;174;Kennewick;x
-493;114;130;162;Grandview;x
+493;114;130;162;Prosser;x
 494;57;49;212;Walla Walla;x
 495;65;49;218;Tollgate;x
 496;164;70;154;Burbank;x
@@ -540,7 +540,7 @@ province;red;green;blue;x;x
 539;44;70;136;Blind Channel;x
 540;94;108;143;Port Neville;x
 541;134;142;162;Echo Bay;x
-542;57;64;83;Harrison Hot Springs;x
+542;57;64;83;Harrison;x
 543;100;125;188;Allison Harbor;x
 544;231;188;188;Kelowna;x
 545;159;77;77;Keremeos;x
@@ -678,7 +678,7 @@ province;red;green;blue;x;x
 677;194;147;44;Garfield;x
 678;115;99;63;Eagle;x
 679;171;124;18;Granby;x
-680;255;104;18;Medford;x
+680;255;104;18;North Park;x
 681;77;57;10;Dillon;x
 682;171;69;10;Moffat;x
 683;250;168;121;Routt;x
@@ -1041,3 +1041,5 @@ province;red;green;blue;x;x
 1040;33;87;155;Ashland;x
 1041;125;23;23;Chetco;x
 1042;247;93;93;Ballard;x
+1043;46;157;77;Rancho Cucamonga;x
+1044;67;157;46;Sherman;x

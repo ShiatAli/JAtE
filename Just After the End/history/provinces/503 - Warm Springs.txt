@@ -16,6 +16,6 @@ b_warm_springs = castle
 
 # Misc
 culture = north_paiute
-religion = gaian
+religion = peyotist
 
 #History

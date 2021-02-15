@@ -485,8 +485,6 @@ c_dworshak;Dworshak;Dworshak;Dworshak;;Dworshak;;;;;;;;;x
 c_dworshak_adj;Dworshakian;;dworshaker;;;;;;;;;;;x
 c_eagle;Eagle;Eagle;Eagle;;Eagle;;;;;;;;;x
 c_eagle_adj;Eaglean;;eagler;;;;;;;;;;;x
-c_eagle_valley;Eagle Valley;Eagle Valley;Eagle Valley;;Eagle Valley;;;;;;;;;x
-c_eagle_valley_adj;Eagle Valleian;;Eagle Valleer;;;;;;;;;;;x
 c_east_salmon;East Salmon;East Salmon;East Salmon;;East Salmon;;;;;;;;;x
 c_east_salmon_adj;East Salmonian;;East Salmoner;;;;;;;;;;;x
 c_east_sierra;East Sierra;East Sierra;East Sierra;;East Sierra;;;;;;;;;x
@@ -629,8 +627,6 @@ c_garfield;Garfield;Garfield;Garfield;;Garfield;;;;;;;;;x
 c_garfield_adj;Garfieldian;;garfielder;;;;;;;;;;;x
 c_gateway;Gateway;Gateway;Gateway;;Gateway;;;;;;;;;x
 c_gateway_adj;Gatewaian;;gatewaer;;;;;;;;;;;x
-c_gaylord;Gaylord;Gaylord;Gaylord;;Gaylord;;;;;;;;;x
-c_gaylord_adj;Gaylordian;;gaylorder;;;;;;;;;;;x
 c_gibsons;Gibsons;Gibsons;Gibsons;;Gibsons;;;;;;;;;x
 c_gibsons_adj;Gibsonsian;;gibsonser;;;;;;;;;;;x
 c_gillam;Gillam;Gillam;Gillam;;Gillam;;;;;;;;;x
@@ -677,8 +673,6 @@ c_grand_staircase;Grand Staircase;Grand Staircase;Grand Staircase;;Grand Stairca
 c_grand_staircase_adj;Grand Staircasean;;Grand Staircaser;;;;;;;;;;;x
 c_grande_rond;Grande Rond;Grande Rond;Grande Rond;;Grande Rond;;;;;;;;;x
 c_grande_rond_adj;Grande Rondian;;Grande Ronder;;;;;;;;;;;x
-c_grandview;Grandview;Grandview;Grandview;;Grandview;;;;;;;;;x
-c_grandview_adj;Grandviewian;;grandviewer;;;;;;;;;;;x
 c_granite;Granite;Granite;Granite;;Granite;;;;;;;;;x
 c_granite_adj;Granitean;;graniter;;;;;;;;;;;x
 c_granite_2;Granite;Granite;Granite;;Granite;;;;;;;;;x
@@ -723,8 +717,8 @@ c_harper;Harper;Harper;Harper;;Harper;;;;;;;;;x
 c_harper_adj;Harperian;;harperer;;;;;;;;;;;x
 c_harquahala;Harquahala;Harquahala;Harquahala;;Harquahala;;;;;;;;;x
 c_harquahala_adj;Harquahalan;;harquahaler;;;;;;;;;;;x
-c_harrison_hot_springs;Harrison Hot Springs;Harrison Hot Springs;Harrison Hot Springs;;Harrison Hot Springs;;;;;;;;;x
-c_harrison_hot_springs_adj;Harrison Hot Springsian;;Harrison Hot Springser;;;;;;;;;;;x
+c_harrison;Harrison;Harrison;Harrison;;Harrison;;;;;;;;;x
+c_harrison_adj;Harrisonian;;harrisoner;;;;;;;;;;;x
 c_hart_mountain;Hart Mountain;Hart Mountain;Hart Mountain;;Hart Mountain;;;;;;;;;x
 c_hart_mountain_adj;Hart Mountainian;;Hart Mountainer;;;;;;;;;;;x
 c_havasu;Havasu;Havasu;Havasu;;Havasu;;;;;;;;;x
@@ -817,8 +811,6 @@ c_isleta;Isleta;Isleta;Isleta;;Isleta;;;;;;;;;x
 c_isleta_adj;Isletan;;isleter;;;;;;;;;;;x
 c_ivermere;Ivermere;Ivermere;Ivermere;;Ivermere;;;;;;;;;x
 c_ivermere_adj;Ivermerean;;ivermerer;;;;;;;;;;;x
-c_jackson;Jackson;Jackson;Jackson;;Jackson;;;;;;;;;x
-c_jackson_adj;Jacksonian;;jacksoner;;;;;;;;;;;x
 c_jefferson;Jefferson;Jefferson;Jefferson;;Jefferson;;;;;;;;;x
 c_jefferson_adj;Jeffersonian;;jeffersoner;;;;;;;;;;;x
 c_jefferson_2;Jefferson;Jefferson;Jefferson;;Jefferson;;;;;;;;;x
@@ -1137,6 +1129,10 @@ c_mud_lake;Mud Lake;Mud Lake;Mud Lake;;Mud Lake;;;;;;;;;x
 c_mud_lake_adj;Mud Lakean;;Mud Laker;;;;;;;;;;;x
 c_murray;Murray;Murray;Murray;;Murray;;;;;;;;;x
 c_murray_adj;Murraian;;murraer;;;;;;;;;;;x
+c_myrtle_creek;Myrtle Creek;Myrtle Creek;Myrtle Creek;;Myrtle Creek;;;;;;;;;x
+c_myrtle_creek_adj;Myrtle Creekian;;Myrtle Creeker;;;;;;;;;;;x
+c_myrtle_point;Myrtle Point;Myrtle Point;Myrtle Point;;Myrtle Point;;;;;;;;;x
+c_myrtle_point_adj;Myrtle Pointian;;Myrtle Pointer;;;;;;;;;;;x
 c_nacori_chico;Nácori Chico;Nácori Chico;Nácori Chico;;Nácori Chico;;;;;;;;;x
 c_nacori_chico_adj;Nácori Chician;;Nácori Chicer;;;;;;;;;;;x
 c_nakusp;Nakusp;Nakusp;Nakusp;;Nakusp;;;;;;;;;x
@@ -1185,6 +1181,8 @@ c_north_bend;North Bend;North Bend;North Bend;;North Bend;;;;;;;;;x
 c_north_bend_adj;North Bendian;;North Bender;;;;;;;;;;;x
 c_north_lake;North Lake;North Lake;North Lake;;North Lake;;;;;;;;;x
 c_north_lake_adj;North Lakean;;North Laker;;;;;;;;;;;x
+c_north_park;North Park;North Park;North Park;;North Park;;;;;;;;;x
+c_north_park_adj;North Parkian;;North Parker;;;;;;;;;;;x
 c_north_shore;North Shore;North Shore;North Shore;;North Shore;;;;;;;;;x
 c_north_shore_adj;North Shorean;;North Shorer;;;;;;;;;;;x
 c_north_whidbey;North Whidbey;North Whidbey;North Whidbey;;North Whidbey;;;;;;;;;x
@@ -1411,6 +1409,8 @@ c_princeton;Princeton;Princeton;Princeton;;Princeton;;;;;;;;;x
 c_princeton_adj;Princetonian;;princetoner;;;;;;;;;;;x
 c_progreso;Progreso;Progreso;Progreso;;Progreso;;;;;;;;;x
 c_progreso_adj;Progresian;;progreser;;;;;;;;;;;x
+c_prosser;Prosser;Prosser;Prosser;;Prosser;;;;;;;;;x
+c_prosser_adj;Prosserian;;prosserer;;;;;;;;;;;x
 c_provo;Provo;Provo;Provo;;Provo;;;;;;;;;x
 c_provo_adj;Provian;;prover;;;;;;;;;;;x
 c_pueblo;Pueblo;Pueblo;Pueblo;;Pueblo;;;;;;;;;x
@@ -1441,6 +1441,8 @@ c_ramona;Ramona;Ramona;Ramona;;Ramona;;;;;;;;;x
 c_ramona_adj;Ramonan;;ramoner;;;;;;;;;;;x
 c_rancho_cordova;Rancho Cordova;Rancho Cordova;Rancho Cordova;;Rancho Cordova;;;;;;;;;x
 c_rancho_cordova_adj;Rancho Cordovan;;Rancho Cordover;;;;;;;;;;;x
+c_rancho_cucamonga;Rancho Cucamonga;Rancho Cucamonga;Rancho Cucamonga;;Rancho Cucamonga;;;;;;;;;x
+c_rancho_cucamonga_adj;Rancho Cucamongan;;Rancho Cucamonger;;;;;;;;;;;x
 c_rancho_los_pinos;Rancho los Pinos;Rancho los Pinos;Rancho los Pinos;;Rancho los Pinos;;;;;;;;;x
 c_rancho_los_pinos_adj;Rancho los Pinosian;;Rancho los Pinoser;;;;;;;;;;;x
 c_rancho_murieta;Rancho Murieta;Rancho Murieta;Rancho Murieta;;Rancho Murieta;;;;;;;;;x
@@ -1693,6 +1695,8 @@ c_shafter;Shafter;Shafter;Shafter;;Shafter;;;;;;;;;x
 c_shafter_adj;Shafterian;;shafterer;;;;;;;;;;;x
 c_shelton;Shelton;Shelton;Shelton;;Shelton;;;;;;;;;x
 c_shelton_adj;Sheltonian;;sheltoner;;;;;;;;;;;x
+c_sherman;Sherman;Sherman;Sherman;;Sherman;;;;;;;;;x
+c_sherman_adj;Shermanian;;shermaner;;;;;;;;;;;x
 c_shiprock;Shiprock;Shiprock;Shiprock;;Shiprock;;;;;;;;;x
 c_shiprock_adj;Shiprockian;;shiprocker;;;;;;;;;;;x
 c_shoshone_falls;Shoshone Falls;Shoshone Falls;Shoshone Falls;;Shoshone Falls;;;;;;;;;x
@@ -1765,6 +1769,8 @@ c_spokane;Spokane;Spokane;Spokane;;Spokane;;;;;;;;;x
 c_spokane_adj;Spokanean;;spokaner;;;;;;;;;;;x
 c_spokane_valley;Spokane Valley;Spokane Valley;Spokane Valley;;Spokane Valley;;;;;;;;;x
 c_spokane_valley_adj;Spokane Valleian;;Spokane Valleer;;;;;;;;;;;x
+c_sprague;Sprague;Sprague;Sprague;;Sprague;;;;;;;;;x
+c_sprague_adj;Spraguean;;sprager;;;;;;;;;;;x
 c_springfield;Springfield;Springfield;Springfield;;Springfield;;;;;;;;;x
 c_springfield_adj;Springfieldian;;springfielder;;;;;;;;;;;x
 c_springfield_2;Springfield;Springfield;Springfield;;Springfield;;;;;;;;;x
@@ -1899,14 +1905,10 @@ c_torrey;Torrey;Torrey;Torrey;;Torrey;;;;;;;;;x
 c_torrey_adj;Torreian;;torreer;;;;;;;;;;;x
 c_toulumnes;Toulumnes;Toulumnes;Toulumnes;;Toulumnes;;;;;;;;;x
 c_toulumnes_adj;Toulumnesian;;toulumneser;;;;;;;;;;;x
-c_towell;Towell;Towell;Towell;;Towell;;;;;;;;;x
-c_towell_adj;Towellian;;toweller;;;;;;;;;;;x
 c_towering_village;Towering Village;Towering Village;Towering Village;;Towering Village;;;;;;;;;x
 c_towering_village_adj;Towering Villagean;;Towering Villager;;;;;;;;;;;x
 c_tracy;Tracy;Tracy;Tracy;;Tracy;;;;;;;;;x
 c_tracy_adj;Tracian;;tracer;;;;;;;;;;;x
-c_tri_city;Tri-City;Tri-City;Tri-City;;Tri-City;;;;;;;;;x
-c_tri_city_adj;Tri-Citian;;tri-citer;;;;;;;;;;;x
 c_trinidad;Trinidad;Trinidad;Trinidad;;Trinidad;;;;;;;;;x
 c_trinidad_adj;Trinidadian;;trinidader;;;;;;;;;;;x
 c_trout_lake;Trout Lake;Trout Lake;Trout Lake;;Trout Lake;;;;;;;;;x
@@ -1929,6 +1931,8 @@ c_ukiah;Ukiah;Ukiah;Ukiah;;Ukiah;;;;;;;;;x
 c_ukiah_adj;Ukiahian;;ukiaher;;;;;;;;;;;x
 c_union;Union;Union;Union;;Union;;;;;;;;;x
 c_union_adj;Unionian;;unioner;;;;;;;;;;;x
+c_upper_rogue;Upper Rogue;Upper Rogue;Upper Rogue;;Upper Rogue;;;;;;;;;x
+c_upper_rogue_adj;Upper Roguean;;Upper Roger;;;;;;;;;;;x
 c_upper_silves;Upper Silves;Upper Silves;Upper Silves;;Upper Silves;;;;;;;;;x
 c_upper_silves_adj;Upper Silvesian;;Upper Silveser;;;;;;;;;;;x
 c_ures;Ures;Ures;Ures;;Ures;;;;;;;;;x

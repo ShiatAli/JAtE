@@ -16,6 +16,6 @@ b_post_falls = city
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

@@ -16,6 +16,6 @@ b_ponderay = castle
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = dominionist
 
 #History

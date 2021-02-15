@@ -16,6 +16,6 @@ b_nespelem = castle
 
 # Misc
 culture = selish
-religion = gaian
+religion = peyotist
 
 #History

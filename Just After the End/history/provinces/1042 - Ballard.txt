@@ -16,6 +16,6 @@ b_fremont_3 = city
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = black_cross
 
 #History

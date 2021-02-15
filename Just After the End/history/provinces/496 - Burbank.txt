@@ -16,6 +16,6 @@ b_burbank_2 = castle
 
 # Misc
 culture = tricitian
-religion = gaian
+religion = postadventist
 
 #History

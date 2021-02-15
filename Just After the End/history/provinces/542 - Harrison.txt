@@ -1,7 +1,7 @@
-# c_harrison_hot_springs
+# c_harrison
 
 # County Title
-title = c_harrison_hot_springs
+title = c_harrison
 
 # Settlements
 max_settlements = 1

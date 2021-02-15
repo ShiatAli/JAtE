@@ -1,7 +1,7 @@
-# c_jackson
+# c_medford
 
 # County Title
-title = c_jackson
+title = c_medford
 
 # Settlements
 max_settlements = 3

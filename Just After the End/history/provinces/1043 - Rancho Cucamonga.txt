@@ -1,0 +1,21 @@
+# c_rancho_cucamonga
+
+# County Title
+title = c_rancho_cucamonga
+
+# Settlements
+max_settlements = 4
+
+b_rancho_cucamonga = castle
+#b_upland = city
+#b_fontana = temple
+#b_declezville = castle
+#b_alta_loma = city
+#b_los_olivos = temple
+#b_san_antonio_heights = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

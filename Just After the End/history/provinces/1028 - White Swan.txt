@@ -16,6 +16,6 @@ b_white_swan = castle
 
 # Misc
 culture = yakama
-religion = gaian
+religion = peyotist
 
 #History

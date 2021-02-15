@@ -16,6 +16,6 @@ b_naylor_2 = city
 
 # Misc
 culture = meseteno
-religion = gaian
+religion = la_hermandad
 
 #History

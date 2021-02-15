@@ -16,6 +16,6 @@ b_republic = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = dominionist
 
 #History

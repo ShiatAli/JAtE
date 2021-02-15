@@ -16,6 +16,6 @@ b_friday_harbor = castle
 
 # Misc
 culture = orcan
-religion = gaian
+religion = pelagic
 
 #History

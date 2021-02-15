@@ -1,14 +1,14 @@
-# c_tri_city
+# c_myrtle_creek
 
 # County Title
-title = c_tri_city
+title = c_myrtle_creek
 
 # Settlements
 max_settlements = 2
 
-b_tri_city = castle
-#b_riddle = city
-#b_myrtle_creek = temple
+b_myrtle_creek = castle
+#b_tri_city = city
+#b_riddle = temple
 #b_milo = castle
 #b_azalea_2 = city
 #b_galesville = temple
