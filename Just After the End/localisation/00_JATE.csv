@@ -81,6 +81,7 @@ north_paiute;North Paiute;;;;;;;;;;;;;x
 west_paiute;West Paiute;;;;;;;;;;;;;x
 shoshone;Shoshone;;;;;;;;;;;;;x
 ute;Ute;;;;;;;;;;;;;x
+selish;Selish;;;;;;;;;;;;;x
 
 ###########Titular Titles###########
 d_pikeplace;Pikeplace;;;;;;;;;;;;;x
@@ -115,7 +116,7 @@ GOD_DIOS;;;;;;;;;;;;;;x
 GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;;;x
 GOD_CESARCHAVEZ;Césarchávez;;;;;;;;;;;;;x
 GOD_EL_PUEBLO_UNIDO;El Pueblo Unido;;;;;;;;;;;;;x
-SATAN;;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
 THE_DEVIL;the Devil;;;;;;;;;;;;;x
 GOD_LA_MIGRA;La Migra;;;;;;;;;;;;;x
 MANIFESTATION;Manifestación;;;;;;;;;;;;;x
@@ -134,3 +135,30 @@ SATAN;Satan;;;;;;;;;;;;;x
 THE_DEVIL;the Devil;;;;;;;;;;;;;x
 GOD_COMMUNISM;Communism;;;;;;;;;;;;;x
 GOD_THE_UNBELIEVERS;the Unbelievers;;;;;;;;;;;;;x
+
+#Sovereignist
+sovereignist;Sovereignist;;;;;;;;;;;;;x
+sovereignist_DESC;The Sovereignists are a religious movement who emerged shortly before the Event, who believe that the day-to-day state of man is a lie, and one’s true self can only be obtained through a combination of ritual ceremonies and incantations known as Asseveration. Upon Asseveration, Sovereignists believe the soul will become Redeemed and become able to tap into a spirit realm known as the Treasury to gain wealth and power. ;;;;;;;;;;;;;x
+GOD_THE_COMMON_LAW;the Common Law;;;;;;;;;;;;;x
+GOD_BILL_OF_RIGHTS;the Bill of Rights;;;;;;;;;;;;;x
+GOD_CITIZEN;the Citizen;;;;;;;;;;;;;x
+GOD_THE_FOUNDERS;the Founders;;;;;;;;;;;;;x
+GOD_THE_FEDS;the Feds;;;;;;;;;;;;;x
+GOD_SUPERIORS;the Superiors;;;;;;;;;;;;;x
+GOD_CORPORATE_SHELL;the Corporate Shell;;;;;;;;;;;;;x
+GOD_AIARESS;Aiaress;;;;;;;;;;;;;x
+GOD_AYTIEFF;Aytieff;;;;;;;;;;;;;x
+MINUTEMAN;Minuteman;;;;;;;;;;;;;x
+THE_LAWBOOKS;The Lawbooks;;;;;;;;;;;;;x
+
+#Millenarian
+millenarian;Millenarian;;;;;;;;;;;;;x
+millenarian_DESC;These are the followers of a lost Guru, a follower of the Guru Christ. The Millenarians believe that the Event was a cleansing of the earth in preparation for Christ’s return, which will occur at the latest in 2239 -- 6000 years after the creation of the earth, by the Jewish tradition, and thus the start of the Seventh Millennium. A Millennial Sabbath.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+LUCIFER;Lucifer;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+

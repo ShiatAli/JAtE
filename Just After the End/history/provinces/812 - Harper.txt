@@ -16,6 +16,6 @@ b_harper = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = sovereignist
 
 #History

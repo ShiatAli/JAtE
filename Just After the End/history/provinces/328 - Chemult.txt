@@ -16,6 +16,6 @@ b_chemult = castle
 
 # Misc
 culture = eastsloper
-religion = cetic
+religion = millenarian
 
 #History
