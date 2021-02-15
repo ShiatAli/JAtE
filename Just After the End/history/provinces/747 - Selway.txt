@@ -15,7 +15,7 @@ b_syringa = castle
 #b_gardiner_peak = castle
 
 # Misc
-culture = nez_perce
+culture = sawtooth
 religion = gaian
 
 #History
