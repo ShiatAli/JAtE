@@ -126,4 +126,11 @@
 2045062 = { name="Spady" culture=emeraldian }
 2045063 = { name="Ghormley" culture=emeraldian }
 2045064 = { name="Ray" culture=emeraldian }
-2045065 = { name="Fry" culture=emeraldian
+2045065 = { name="Fry" culture=emeraldian }
+
+#Dynasties in Pike place
+3000000 = { name="Berry" culture=cascadian }
+3000001 = { name="Ito" culture=cascadian }
+3000002 = { name="Butler" culture=cascadian }
+3000003 = { name="Moran" culture=cascadian }
+3000004 = { name="Gatzert" culture=cascadian }

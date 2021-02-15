@@ -6,3 +6,7 @@
 1990.1.1={
 	liege=k_the_puget
 }
+2055.1.1={
+	holder=2
+	capital=b_cap_hill
+}

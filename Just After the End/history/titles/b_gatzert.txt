@@ -1,0 +1,6 @@
+2055.1.1={
+	leige=d_pikeplace
+	holder=6
+	culture=cascadian
+	religion=reform
+}
