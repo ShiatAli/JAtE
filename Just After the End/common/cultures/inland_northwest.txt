@@ -290,7 +290,7 @@ inland_northwest = {
         }
 		female_names = {
             Acacia Adelfa Alicia_Alice “Aloe Vera” Albicia Alma Alba Almez Ángela_Angel Ana_Anna Araucaria Aurora Areca Avellana Albahaca Almendra Alameda Amapola Azucena Artemisia Apricot Aralia Azalea
-            Bella Benjamina  Betel  Bombón Burbuja Bellota Brisa
+            Bella Benjamina Betel Bombón Burbuja Bellota Brisa
             Canistel Casia Castaña Carmen Casuarina Causa Ceiba Celeste Cereza_Cherry Cordia Caléndula Caoba Camelia Calatea Cristal_Crystal 
             Deisi_Daisy Dalia_Daliah Daniela Dalila Dolores
             Encina Eclipta_Eclipse Esmeralda_Emerald 
@@ -300,7 +300,7 @@ inland_northwest = {
             Índica_Indica Iris Irene
             Jade Jazmín_Jasmine Jacaranda Joya_Jewel Julieta
             Lavanda_Lavender Ladierna Laurel Lentisca Lima Lichi Lolita Lluvia Lucy Lila_Lilly
-            Magnolia Margarita_Daisy María_Mary Mariangeles Marisol Maribel Maya  Milenrama Mirta
+            Magnolia Margarita María_Mary Mariangeles Marisol Maribel Maya  Milenrama Mirta
             Madera Macadamia Marina Melia Menta Manzana Mora “Mora Azul” 
             Natalia Nieve 
             Oliva Orquídea
@@ -333,47 +333,59 @@ inland_northwest = {
 	tricitian = {
 		dukes_called_kings = yes
 		
-		graphical_cultures = { canadiangfx whitepacificgfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
+		graphical_cultures = { whitepacificgfx vaquerogfx }
+		unit_graphical_cultures = { andalusiangfx southerngfx }
 		
 		color = { 220 20 60 }
-		
+	
 		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
+			Adam_Adam Alan Alejandro Alex_Alexander Antonio Arthur
+			Brian Bear Benjamin Blake Brandon Boris Burl Burton
+			Caden Carlos_Charles César Clarence Connor Coyote Craig Curtis
+			Daryl David_David Dennis_Denis Drew Dylan
+			Eddie_Edward Eric Ethan
+			Fern Fernando Feynman Fisher Finn Francisco 
+			Garry_Gary Geiger Greg
+			Harold Hogan Hunter
+			Ian Isaías 
+			Jackson Jesús Jerry Jim_James Juan_John José Jordan Julius 
+			Kevin Kip Kyle 
+			Larry Logan Luke_Luke Luís_Lewis
+			Manuel Madroño Marcos Mario Mateo_Matthew Mel Mike_Michael
+			Noah Neil Norman
+			Orson Olivo_Oliver Olmo Otoño
+			Pablo Patriot
+			Quinn
+			Radon Red Richard_Richard Robert_Robert Ryan
+			Sam_Samuel Sergey Sherman Sol Steve_Stephen Stuart
+			Teddy Theo Timothy Tom_Thomas Trevor Tucker Ty_Tyler
+			Vern Vince
+			Wilbur William_William Wyatt
+			Xavier
+			Zack_Zachariah
 		}
 		
 		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
+			Adrienne_Adriana Alicia_Alice Alice Amber Andrea Ana_Anne Amy Ava Aya
+			Barley Bettie Brianna
+			Carol_Caroline Carmen Chastity Chelsea Christine_Christina Cindy Colleen Columbia Curie
+			Daisy Dalia_Daliah Daniela Dalila Debbie_Debra Diana Dorothy Dolores
+			Emma Emily Enola
+			Faith Felicia
+			Gale Gina
 			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
+			Iris Irene Isabella 
+			Jade Janet Joy Juanita_Joan Julia Julianna
+			Kathryn_Catherine Karla Kjaella_Kayla
+			Laura Lilly Linda Liz_Elizabeth
+			Madison Madonna Martha Margarita María_Mary Max Michele_Michelle Miriam Morgan
+			Olivia Orquídea
+			Pacífica Paige Patrice_Patricia Penny
+			Rain Rosa_Rose Robin
+			Sarah_Sarah Seena Sharon Sonja Sophia Susie_Susan Sydney
+			Tammy Trinity Thelma
+			Valeria Violeta_Violet
+			Willow
 		}
 		
 		from_dynasty_prefix = ""
