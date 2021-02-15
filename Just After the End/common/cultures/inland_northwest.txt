@@ -477,42 +477,52 @@ inland_northwest = {
 		color = { 0.05 0.05 0.6 }
 		
 		male_names = {
-			Abe_Abraham Adam_Adam Alan Alex_Alexander Arthur
-			Bing Brian Burl Burt Burton
-			Charlie_Charles Clarence Connor Craig
-			Daryl David_David Dennis_Denis Drew
-			Eddie_Edward Eric
-			Garry_Gary
-			Harlond Harold
-			Jackson Jerry Jim_James John_John Jordan
-			Luke_Luke
-			Matt_Matthew Mel Mike_Michael
-			Neil
-			Orson
-			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart
-			Tom_Thomas Trevor Tyler
-			Walter Wayne Wilbur Wilder William_William Willis
-		}
-		
-		female_names = {
-			Adrienne_Adriana Andrea Anna_Anne Amy
-			Beverley
-			Carol_Caroline Christine_Christina Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean_Joan Julia Julianna
-			Kathryn_Catherine Kayla
-			Launi Linda Lis_Elizabeth
-			Madonna Martha Mary_Mary Michele_Michelle
-			Paige Patrice_Patricia
-			Quail
-			Sarah_Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
-		}
+            Alex_Alexander Arthur Andrew_Andy Airman Antoine_Anthony
+            Brian Benjamin_Ben Bonner Buck Bradley Bob_Bobby Butte
+            Charlie_Charles Connor Craig Caleb Chester Clay
+            Daryl David_Dave Dish
+            Ed_Edward Eric
+            Frank
+            Garry_Gary Garland Gondola Garfield
+            Huey_Twinhuey Harold Hunter Heyburn Henry
+            Isidore Isaac
+            Jackson Jerry Jim_James John_Johnny Jordan Joe_Joseph Jonah
+            Ken_Kenneth Kaiser
+            Luke_Luke Lookout Leo Leland
+            Matt_Matthew Mike_Michael Minuteman Mica Mullan Mendeley Match
+            Neil Norton
+            Orson Osb Orchard
+            Patriot_Pat Pilot Pend Post Pappy
+            Richard_Richard Robert_Robert Ryan
+            Sam_Samuel Sherman Steve_Stephen Stuart Skit Shooter Strato Steptoe
+            Tom_Thomas Tyler Tanker Trooper Trout Tubbs Trent
+            Walter Wayne Wilder William_Bill
+            Zip
+        }
+
+        female_names = {
+            Audrey_Aubrey Anna_Anne Amy Amber
+            Bev Betty
+            Cindy Chastity Colleen
+            Dorothy Donna
+            Eliza_Elizabeth Ena Eileen
+            Fairchild Friday
+            Grouse_Grace Galena Garnet
+            Hope Hedrite
+            Ida
+            Janet_Jane Jean_Joan Julianna_Julia July Josie Joy
+            Kathryn_Catherine Kayla Kat
+            Leigh Leah Linda Lilac Laurah_Laura Liberty Lucy
+            Maxine Martha Marie_Mary Maddy_Madeline Moyie Margaret Muley
+            Nurse
+            Oleysa Orielle
+            Patrice_Patricia Perpetua
+            Quail
+            Rose_Rosie Ronnette
+            Sara_Sarah Sophia Sydney Shelley Sandy Saint Sunshine Sunchild
+            Tetra
+            Vera Virginia
+        }
 		from_dynasty_prefix = ""
 		
 		prefix = no # The patronym is added as a suffix
