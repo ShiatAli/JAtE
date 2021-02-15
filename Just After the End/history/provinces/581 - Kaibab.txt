@@ -15,7 +15,7 @@ b_north_rim = castle
 #b_summit_valley = castle
 
 # Misc
-culture = arixan
+culture = staircaser
 religion = atomicist
 
 #History
