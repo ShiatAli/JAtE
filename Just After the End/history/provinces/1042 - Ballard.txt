@@ -19,3 +19,7 @@ culture = emeraldian
 religion = black_cross
 
 #History
+2055.1.1={
+	leige=d_pikeplace
+	holder=5
+}

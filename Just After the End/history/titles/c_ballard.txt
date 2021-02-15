@@ -6,3 +6,8 @@
 2000.1.1={
 	liege=k_the_puget
 }
+
+2055.1.1={
+	liege=d_pikeplace
+	capital=b_fremont
+	holder=5

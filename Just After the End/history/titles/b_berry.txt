@@ -1,0 +1,7 @@
+2055.1.1={
+	leige=d_pikeplace
+	holder=2
+	culture=cascadian
+	religion=gaian #silicon cult not in yet
+}
+	

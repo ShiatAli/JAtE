@@ -1,0 +1,9 @@
+2055.1.1={
+	color = { 251 212 173 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	allow = { is_republic = yes }
+	culture = cascadian
+	holder = 2
+}
