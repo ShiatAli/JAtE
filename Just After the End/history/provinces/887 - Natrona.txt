@@ -15,7 +15,7 @@ b_shoshoni = castle
 #b_alcova = castle
 
 # Misc
-culture = grangelander
+culture = bighorner
 religion = trailwalker
 
 #History

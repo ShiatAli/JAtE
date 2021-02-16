@@ -15,7 +15,7 @@ b_livingston = castle
 #b_ringling = castle
 
 # Misc
-culture = prairielander
+culture = plainsman
 religion = trailwalker
 
 #History

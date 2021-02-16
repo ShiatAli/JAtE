@@ -15,7 +15,7 @@ b_worland = castle
 #b_hyattville = castle
 
 # Misc
-culture = grangelander
+culture = bighorner
 religion = trailwalker
 
 #History

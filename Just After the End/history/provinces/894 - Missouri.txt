@@ -15,7 +15,7 @@ b_townsend = castle
 #b_canton = castle
 
 # Misc
-culture = prairielander
+culture = plainsman
 religion = trailwalker
 
 #History

@@ -15,7 +15,7 @@ b_morgan = castle
 #b_peterson = castle
 
 # Misc
-culture = wyomingite
+culture = salter
 religion = mormon
 
 #History

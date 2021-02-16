@@ -15,7 +15,7 @@ b_preston_3 = castle
 #b_whitney = castle
 
 # Misc
-culture = wyomingite
+culture = boxer
 religion = mormon
 
 #History

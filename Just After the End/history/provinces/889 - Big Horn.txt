@@ -15,7 +15,7 @@ b_powell_3 = castle
 #b_wapiti = castle
 
 # Misc
-culture = grangelander
+culture = bighorner
 religion = trailwalker
 
 #History

@@ -15,7 +15,7 @@ b_rawlins = castle
 #b_walcott = castle
 
 # Misc
-culture = grangelander
+culture = wyomingite
 religion = trailwalker
 
 #History

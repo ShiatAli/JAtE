@@ -15,7 +15,7 @@ b_helena = castle
 #b_silver_city_5 = castle
 
 # Misc
-culture = prairielander
+culture = plainsman
 religion = trailwalker
 
 #History

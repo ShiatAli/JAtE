@@ -15,7 +15,7 @@ b_logan_3 = city
 #b_wellsville = castle
 
 # Misc
-culture = wyomingite
+culture = boxer
 religion = mormon
 
 #History
