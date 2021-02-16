@@ -16,6 +16,6 @@ b_walker = temple
 
 # Misc
 culture = willametteian
-religion = gaian
+religion = millenarian
 
 #History

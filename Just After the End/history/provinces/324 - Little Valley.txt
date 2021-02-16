@@ -16,6 +16,6 @@ b_little_valley = castle
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = sovereignist
 
 #History

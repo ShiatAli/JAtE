@@ -16,6 +16,6 @@ b_weiser = castle
 
 # Misc
 culture = boisean
-religion = gaian
+religion = sovereignist
 
 #History

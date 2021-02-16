@@ -16,6 +16,6 @@ b_hadleyville = castle
 
 # Misc
 culture = willametteian
-religion = gaian
+religion = anabaptist
 
 #History

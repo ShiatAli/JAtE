@@ -16,6 +16,6 @@ b_klamath_falls = castle
 
 # Misc
 culture = eastsloper
-religion = cetic
+religion = millenarian
 
 #History

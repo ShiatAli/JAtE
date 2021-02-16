@@ -16,6 +16,6 @@ b_new_pine_creek = city
 
 # Misc
 culture = black_rocker
-religion = cetic
+religion = sovereignist
 
 #History

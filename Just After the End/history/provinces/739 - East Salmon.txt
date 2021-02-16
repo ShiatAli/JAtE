@@ -16,6 +16,6 @@ b_leesburg = castle
 
 # Misc
 culture = sawtooth
-religion = gaian
+religion = millenarian
 
 #History

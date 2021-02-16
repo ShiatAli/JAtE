@@ -16,6 +16,6 @@ b_termo = castle
 
 # Misc
 culture = black_rocker
-religion = cetic
+religion = sovereignist
 
 #History

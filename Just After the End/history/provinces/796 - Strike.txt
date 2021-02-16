@@ -16,6 +16,6 @@ b_bruneau = castle
 
 # Misc
 culture = juniperian
-religion = mormon
+religion = sovereignist
 
 #History

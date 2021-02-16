@@ -55,6 +55,8 @@ d_boise_canyon;Boise Canyon;Boise Canyon;Boise Canyon;;Boise Canyon;;;;;;;;;x
 d_boise_canyon_adj;Boise Canyonian;;Boise Canyoner;;;;;;;;;;;x
 d_boulder;Boulder;Boulder;Boulder;;Boulder;;;;;;;;;x
 d_boulder_adj;Boulderian;;boulderer;;;;;;;;;;;x
+d_boundary_country;Boundary Country;Boundary Country;Boundary Country;;Boundary Country;;;;;;;;;x
+d_boundary_country_adj;Boundary Countrian;;Boundary Countrer;;;;;;;;;;;x
 d_box_elder;Box Elder;Box Elder;Box Elder;;Box Elder;;;;;;;;;x
 d_box_elder_adj;Box Elderian;;Box Elderer;;;;;;;;;;;x
 d_bridger;Bridger;Bridger;Bridger;;Bridger;;;;;;;;;x
@@ -75,8 +77,6 @@ d_canyonlands;Canyonlands;Canyonlands;Canyonlands;;Canyonlands;;;;;;;;;x
 d_canyonlands_adj;Canyonlandsian;;canyonlandser;;;;;;;;;;;x
 d_carmel_coast;Carmel Coast;Carmel Coast;Carmel Coast;;Carmel Coast;;;;;;;;;x
 d_carmel_coast_adj;Carmel Coastian;;Carmel Coaster;;;;;;;;;;;x
-d_cascade;Cascade;Cascade;Cascade;;Cascade;;;;;;;;;x
-d_cascade_adj;Cascadean;;cascader;;;;;;;;;;;x
 d_cassia;Cassia;Cassia;Cassia;;Cassia;;;;;;;;;x
 d_cassia_adj;Cassian;;casser;;;;;;;;;;;x
 d_channel_islands;Channel Islands;Channel Islands;Channel Islands;;Channel Islands;;;;;;;;;x

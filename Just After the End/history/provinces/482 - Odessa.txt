@@ -16,6 +16,6 @@ b_ritzville = city
 
 # Misc
 culture = palouse
-religion = gaian
+religion = millenarian
 
 #History

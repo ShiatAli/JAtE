@@ -16,6 +16,6 @@ b_lakeview_2 = castle
 
 # Misc
 culture = juniperian
-religion = cetic
+religion = millenarian
 
 #History

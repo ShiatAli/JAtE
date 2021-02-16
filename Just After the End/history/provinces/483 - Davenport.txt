@@ -16,6 +16,6 @@ b_seven_bays = city
 
 # Misc
 culture = palouse
-religion = gaian
+religion = millenarian
 
 #History

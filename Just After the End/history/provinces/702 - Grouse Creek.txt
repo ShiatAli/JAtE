@@ -16,6 +16,6 @@ b_grouse_creek = castle
 
 # Misc
 culture = boxer
-religion = mormon
+religion = sovereignist
 
 #History

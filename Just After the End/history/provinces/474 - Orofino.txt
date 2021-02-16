@@ -16,6 +16,6 @@ b_pierce = city
 
 # Misc
 culture = sawtooth
-religion = gaian
+religion = millenarian
 
 #History

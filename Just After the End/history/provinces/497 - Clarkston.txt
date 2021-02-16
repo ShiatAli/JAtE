@@ -16,6 +16,6 @@ b_clarkston = castle
 
 # Misc
 culture = palouse
-religion = gaian
+religion = millenarian
 
 #History

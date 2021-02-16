@@ -16,6 +16,6 @@ b_tonasket = castle
 
 # Misc
 culture = backcountry
-religion = gaian
+religion = millenarian
 
 #History

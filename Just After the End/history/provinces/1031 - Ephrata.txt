@@ -16,6 +16,6 @@ b_ephrata = castle
 
 # Misc
 culture = palouse
-religion = dominionist
+religion = millenarian
 
 #History

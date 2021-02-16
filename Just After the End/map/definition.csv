@@ -404,7 +404,7 @@ province;red;green;blue;x;x
 403;119;104;119;Lyman;x
 404;124;89;124;Rockport_2;x
 405;176;110;175;Bellingham;x
-406;140;59;139;Deming;x
+406;140;59;139;Nooksack;x
 407;171;102;170;Lynden;x
 408;255;54;253;San Juan;x
 409;201;69;199;Lopez;x
@@ -412,7 +412,7 @@ province;red;green;blue;x;x
 411;44;219;200;Tacoma;x
 412;49;157;146;Spanaway;x
 413;154;63;63;Enumclaw;x
-414;104;184;127;Coover;x
+414;104;184;127;the Couve;x
 415;98;210;130;Battle Ground;x
 416;81;157;102;Skamania;x
 417;75;162;100;Centralia;x
@@ -429,7 +429,7 @@ province;red;green;blue;x;x
 428;113;135;157;Westport;x
 429;217;163;162;Oceanshore;x
 430;217;136;201;Quinault;x
-431;174;126;164;La Push;x
+431;174;126;164;Quileute;x
 432;148;58;58;Port Angeles;x
 433;112;37;37;Neah Bay;x
 434;188;80;80;Sequim;x
@@ -568,7 +568,7 @@ province;red;green;blue;x;x
 567;139;140;87;New Denver;x
 568;115;116;67;Nakusp;x
 569;143;94;94;Grand Forks;x
-570;184;144;144;Sumpter;x
+570;184;144;144;Anarchist Mountain;x
 571;255;140;140;Revelstoke;x
 572;125;171;183;Shuswap Falls;x
 573;66;233;126;Phoenix;x
@@ -786,7 +786,7 @@ province;red;green;blue;x;x
 785;33;106;112;Odell;x
 786;22;179;192;Madison;x
 787;132;240;249;Red Rock;x
-788;187;24;187;Idaho city;x
+788;187;24;187;Idaho City;x
 789;246;104;246;No Return;x
 790;139;80;139;Sawtooth;x
 791;81;8;81;Blaine;x

@@ -16,6 +16,6 @@ b_wisdom = castle
 
 # Misc
 culture = montanan
-religion = mormon
+religion = millenarian
 
 #History

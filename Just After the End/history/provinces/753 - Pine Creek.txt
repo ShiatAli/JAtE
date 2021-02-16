@@ -16,6 +16,6 @@ b_halfway = castle
 
 # Misc
 culture = bluemen
-religion = gaian
+religion = sovereignist
 
 #History

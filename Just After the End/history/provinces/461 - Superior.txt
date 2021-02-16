@@ -16,6 +16,6 @@ b_superior = castle
 
 # Misc
 culture = panhandler
-religion = gaian
+religion = sovereignist
 
 #History

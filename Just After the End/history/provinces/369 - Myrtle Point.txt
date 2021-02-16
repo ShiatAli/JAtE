@@ -16,6 +16,6 @@ b_myrtle_point = castle
 
 # Misc
 culture = rogueite
-religion = gaian
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_payette = castle
 
 # Misc
 culture = boisean
-religion = gaian
+religion = sovereignist
 
 #History

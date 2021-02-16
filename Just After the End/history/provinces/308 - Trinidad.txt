@@ -16,6 +16,6 @@ b_clam_beach = city
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = millenarian
 
 #History

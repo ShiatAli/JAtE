@@ -16,6 +16,6 @@ b_imnaha = castle
 
 # Misc
 culture = bluemen
-religion = gaian
+religion = sovereignist
 
 #History

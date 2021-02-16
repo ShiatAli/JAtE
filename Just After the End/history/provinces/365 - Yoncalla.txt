@@ -16,6 +16,6 @@ b_leona_2 = temple
 
 # Misc
 culture = willametteian
-religion = gaian
+religion = millenarian
 
 #History

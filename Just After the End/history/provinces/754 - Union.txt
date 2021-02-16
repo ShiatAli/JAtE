@@ -16,6 +16,6 @@ b_la_grande_2 = castle
 
 # Misc
 culture = bluemen
-religion = gaian
+religion = sovereignist
 
 #History

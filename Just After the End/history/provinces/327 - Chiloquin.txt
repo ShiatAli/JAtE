@@ -16,6 +16,6 @@ b_chiloquin = castle
 
 # Misc
 culture = eastsloper
-religion = cetic
+religion = millenarian
 
 #History

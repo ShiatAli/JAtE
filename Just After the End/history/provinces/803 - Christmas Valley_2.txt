@@ -16,6 +16,6 @@ b_silver_lake_2 = castle
 
 # Misc
 culture = eastsloper
-religion = gaian
+religion = sovereignist
 
 #History

@@ -16,6 +16,6 @@ b_burley = castle
 
 # Misc
 culture = snakemen
-religion = mormon
+religion = sovereignist
 
 #History

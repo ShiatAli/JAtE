@@ -16,6 +16,6 @@ b_glide = castle
 
 # Misc
 culture = willametteian
-religion = gaian
+religion = millenarian
 
 #History

@@ -45,6 +45,8 @@ c_amargosa;Amargosa;Amargosa;Amargosa;;Amargosa;;;;;;;;;x
 c_amargosa_adj;Amargosan;;amargoser;;;;;;;;;;;x
 c_anaheim;Anaheim;Anaheim;Anaheim;;Anaheim;;;;;;;;;x
 c_anaheim_adj;Anaheimian;;anaheimer;;;;;;;;;;;x
+c_anarchist_mountain;Anarchist Mountain;Anarchist Mountain;Anarchist Mountain;;Anarchist Mountain;;;;;;;;;x
+c_anarchist_mountain_adj;Anarchist Mountainian;;Anarchist Mountainer;;;;;;;;;;;x
 c_angostura;Angostura;Angostura;Angostura;;Angostura;;;;;;;;;x
 c_angostura_adj;Angosturan;;angosturer;;;;;;;;;;;x
 c_animas;Animas;Animas;Animas;;Animas;;;;;;;;;x
@@ -363,8 +365,6 @@ c_constitucion;Constitución;Constitución;Constitución;;Constitución;;;;;;;;;x
 c_constitucion_adj;Constituciónian;;constitucióner;;;;;;;;;;;x
 c_coos_bay;Coos Bay;Coos Bay;Coos Bay;;Coos Bay;;;;;;;;;x
 c_coos_bay_adj;Coos Baian;;Coos Baer;;;;;;;;;;;x
-c_coover;Coover;Coover;Coover;;Coover;;;;;;;;;x
-c_coover_adj;Cooverian;;cooverer;;;;;;;;;;;x
 c_copper_city;Copper City;Copper City;Copper City;;Copper City;;;;;;;;;x
 c_copper_city_adj;Copper Citian;;Copper Citer;;;;;;;;;;;x
 c_coquitlam;Coquitlam;Coquitlam;Coquitlam;;Coquitlam;;;;;;;;;x
@@ -445,8 +445,6 @@ c_delta_2;Delta;Delta;Delta;;Delta;;;;;;;;;x
 c_delta_2_adj;Deltan;;delter;;;;;;;;;;;x
 c_delta_3;Delta;Delta;Delta;;Delta;;;;;;;;;x
 c_delta_3_adj;Deltan;;delter;;;;;;;;;;;x
-c_deming;Deming;Deming;Deming;;Deming;;;;;;;;;x
-c_deming_adj;Demingian;;deminger;;;;;;;;;;;x
 c_denio;Denio;Denio;Denio;;Denio;;;;;;;;;x
 c_denio_adj;Denian;;dener;;;;;;;;;;;x
 c_denver;Denver;Denver;Denver;;Denver;;;;;;;;;x
@@ -791,8 +789,8 @@ c_huntington;Huntington;Huntington;Huntington;;Huntington;;;;;;;;;x
 c_huntington_adj;Huntingtonian;;huntingtoner;;;;;;;;;;;x
 c_idaho;Idaho;Idaho;Idaho;;Idaho;;;;;;;;;x
 c_idaho_adj;Idahian;;idaher;;;;;;;;;;;x
-c_idaho_city;Idaho city;Idaho city;Idaho city;;Idaho city;;;;;;;;;x
-c_idaho_city_adj;Idaho citian;;Idaho citer;;;;;;;;;;;x
+c_idaho_city;Idaho City;Idaho City;Idaho City;;Idaho City;;;;;;;;;x
+c_idaho_city_adj;Idaho Citian;;Idaho Citer;;;;;;;;;;;x
 c_idria;Idria;Idria;Idria;;Idria;;;;;;;;;x
 c_idria_adj;Idrian;;idrer;;;;;;;;;;;x
 c_idyllwild;Idyllwild;Idyllwild;Idyllwild;;Idyllwild;;;;;;;;;x
@@ -897,8 +895,6 @@ c_la_plata;La Plata;La Plata;La Plata;;La Plata;;;;;;;;;x
 c_la_plata_adj;La Platan;;La Plater;;;;;;;;;;;x
 c_la_poza_grande;La Poza Grande;La Poza Grande;La Poza Grande;;La Poza Grande;;;;;;;;;x
 c_la_poza_grande_adj;La Poza Grandean;;La Poza Grander;;;;;;;;;;;x
-c_la_push;La Push;La Push;La Push;;La Push;;;;;;;;;x
-c_la_push_adj;La Pushian;;La Pusher;;;;;;;;;;;x
 c_la_rumorosa;La Rumorosa;La Rumorosa;La Rumorosa;;La Rumorosa;;;;;;;;;x
 c_la_rumorosa_adj;La Rumorosan;;La Rumoroser;;;;;;;;;;;x
 c_la_yaqui;La Yaqui;La Yaqui;La Yaqui;;La Yaqui;;;;;;;;;x
@@ -1197,6 +1193,8 @@ c_no_return;No Return;No Return;No Return;;No Return;;;;;;;;;x
 c_no_return_adj;No Returnian;;No Returner;;;;;;;;;;;x
 c_nogales;Nogales;Nogales;Nogales;;Nogales;;;;;;;;;x
 c_nogales_adj;Nogalesian;;nogaleser;;;;;;;;;;;x
+c_nooksack;Nooksack;Nooksack;Nooksack;;Nooksack;;;;;;;;;x
+c_nooksack_adj;Nooksackian;;nooksacker;;;;;;;;;;;x
 c_north_bend;North Bend;North Bend;North Bend;;North Bend;;;;;;;;;x
 c_north_bend_adj;North Bendian;;North Bender;;;;;;;;;;;x
 c_north_lake;North Lake;North Lake;North Lake;;North Lake;;;;;;;;;x
@@ -1445,6 +1443,8 @@ c_punta_final;Punta Final;Punta Final;Punta Final;;Punta Final;;;;;;;;;x
 c_punta_final_adj;Punta Finalian;;Punta Finaler;;;;;;;;;;;x
 c_quilcene;Quilcene;Quilcene;Quilcene;;Quilcene;;;;;;;;;x
 c_quilcene_adj;Quilcenean;;quilcener;;;;;;;;;;;x
+c_quileute;Quileute;Quileute;Quileute;;Quileute;;;;;;;;;x
+c_quileute_adj;Quileutean;;quileuter;;;;;;;;;;;x
 c_quinault;Quinault;Quinault;Quinault;;Quinault;;;;;;;;;x
 c_quinault_adj;Quinaultian;;quinaulter;;;;;;;;;;;x
 c_quincy;Quincy;Quincy;Quincy;;Quincy;;;;;;;;;x
@@ -1823,8 +1823,6 @@ c_sulphur_springs;Sulphur Springs;Sulphur Springs;Sulphur Springs;;Sulphur Sprin
 c_sulphur_springs_adj;Sulphur Springsian;;Sulphur Springser;;;;;;;;;;;x
 c_summit;Summit;Summit;Summit;;Summit;;;;;;;;;x
 c_summit_adj;Summitian;;summiter;;;;;;;;;;;x
-c_sumpter;Sumpter;Sumpter;Sumpter;;Sumpter;;;;;;;;;x
-c_sumpter_adj;Sumpterian;;sumpterer;;;;;;;;;;;x
 c_sunnyside;Sunnyside;Sunnyside;Sunnyside;;Sunnyside;;;;;;;;;x
 c_sunnyside_adj;Sunnysidean;;sunnysider;;;;;;;;;;;x
 c_sunshine_valley;Sunshine Valley;Sunshine Valley;Sunshine Valley;;Sunshine Valley;;;;;;;;;x
@@ -1869,6 +1867,8 @@ c_teton;Teton;Teton;Teton;;Teton;;;;;;;;;x
 c_teton_adj;Tetonian;;tetoner;;;;;;;;;;;x
 c_tetonia;Tetonia;Tetonia;Tetonia;;Tetonia;;;;;;;;;x
 c_tetonia_adj;Tetonian;;tetoner;;;;;;;;;;;x
+c_the_couve;the Couve;the Couve;the Couve;;the Couve;;;;;;;;;x
+c_the_couve_adj;the Couvean;;the Couver;;;;;;;;;;;x
 c_the_dalles;The Dalles;The Dalles;The Dalles;;The Dalles;;;;;;;;;x
 c_the_dalles_adj;The Dallesian;;The Dalleser;;;;;;;;;;;x
 c_the_padres;The Padres;The Padres;The Padres;;The Padres;;;;;;;;;x

@@ -16,6 +16,6 @@ b_mountain_city = castle
 
 # Misc
 culture = north_paiute
-religion = mormon
+religion = peyotist
 
 #History

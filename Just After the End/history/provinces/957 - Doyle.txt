@@ -16,6 +16,6 @@ b_doyle = castle
 
 # Misc
 culture = renolander
-religion = cetic
+religion = millenarian
 
 #History

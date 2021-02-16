@@ -16,6 +16,6 @@ b_upper_soda = city
 
 # Misc
 culture = willametteian
-religion = gaian
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_black_rock_2 = city
 
 # Misc
 culture = black_rocker
-religion = cetic
+religion = sovereignist
 
 #History

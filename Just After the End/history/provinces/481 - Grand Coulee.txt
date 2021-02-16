@@ -16,6 +16,6 @@ b_electric_city = city
 
 # Misc
 culture = palouse
-religion = gaian
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_mt_shasta = castle
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = millenarian
 
 #History

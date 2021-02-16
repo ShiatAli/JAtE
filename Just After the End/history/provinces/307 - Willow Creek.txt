@@ -16,6 +16,6 @@ b_willow_creek_2 = castle
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = sovereignist
 
 #History

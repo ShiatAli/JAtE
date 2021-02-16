@@ -16,6 +16,6 @@ b_sutcliffe = castle
 
 # Misc
 culture = west_paiute
-religion = cetic
+religion = peyotist
 
 #History

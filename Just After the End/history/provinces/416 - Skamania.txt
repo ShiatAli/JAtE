@@ -16,6 +16,6 @@ b_skamania = city
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = millenarian
 
 #History

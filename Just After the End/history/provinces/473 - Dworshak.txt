@@ -16,6 +16,6 @@ b_deary = city
 
 # Misc
 culture = sawtooth
-religion = gaian
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_cherry_grove = city
 
 # Misc
 culture = willapan
-religion = gaian
+religion = millenarian
 
 #History

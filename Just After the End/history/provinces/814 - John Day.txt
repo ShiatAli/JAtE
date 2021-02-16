@@ -16,6 +16,6 @@ b_john_day = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = sovereignist
 
 #History

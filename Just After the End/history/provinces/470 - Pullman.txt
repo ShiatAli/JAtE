@@ -16,6 +16,6 @@ b_colfax = city
 
 # Misc
 culture = palouse
-religion = gaian
+religion = millenarian
 
 #History

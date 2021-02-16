@@ -16,6 +16,6 @@ b_baker_city = castle
 
 # Misc
 culture = bluemen
-religion = gaian
+religion = sovereignist
 
 #History

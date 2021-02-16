@@ -16,6 +16,6 @@ b_klamath = city
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = millenarian
 
 #History

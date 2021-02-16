@@ -16,6 +16,6 @@ b_finley_2 = city
 
 # Misc
 culture = tricitian
-religion = gaian
+religion = millenarian
 
 #History

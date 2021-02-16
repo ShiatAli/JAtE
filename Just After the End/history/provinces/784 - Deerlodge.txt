@@ -16,6 +16,6 @@ b_dillon_2 = castle
 
 # Misc
 culture = montanan
-religion = mormon
+religion = millenarian
 
 #History

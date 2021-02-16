@@ -16,6 +16,6 @@ b_fossil = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_wagonfire = castle
 
 # Misc
 culture = juniperian
-religion = cetic
+religion = sovereignist
 
 #History

@@ -16,6 +16,6 @@ b_mt_hebron = castle
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = sovereignist
 
 #History

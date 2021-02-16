@@ -16,6 +16,6 @@ b_idaho_city = castle
 
 # Misc
 culture = sawtooth
-religion = mormon
+religion = sovereignist
 
 #History

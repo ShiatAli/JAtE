@@ -16,6 +16,6 @@ b_milton_freewater = city
 
 # Misc
 culture = bluemen
-religion = gaian
+religion = millenarian
 
 #History

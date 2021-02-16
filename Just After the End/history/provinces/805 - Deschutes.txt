@@ -16,6 +16,6 @@ b_hampton = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = sovereignist
 
 #History

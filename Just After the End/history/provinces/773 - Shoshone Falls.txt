@@ -16,6 +16,6 @@ b_twin_falls = castle
 
 # Misc
 culture = snakemen
-religion = mormon
+religion = millenarian
 
 #History

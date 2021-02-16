@@ -16,6 +16,6 @@ b_janeville = city
 
 # Misc
 culture = black_rocker
-religion = cetic
+religion = sovereignist
 
 #History

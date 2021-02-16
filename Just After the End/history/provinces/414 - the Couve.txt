@@ -1,7 +1,7 @@
-# c_coover
+# c_the_couve
 
 # County Title
-title = c_coover
+title = c_the_couve
 
 # Settlements
 max_settlements = 3
@@ -15,7 +15,7 @@ b_minnehaha = city
 #b_washougal = castle
 
 # Misc
-culture = portlandian
-religion = gaian
+culture = gorgeon
+religion = millenarian
 
 #History

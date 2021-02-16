@@ -16,6 +16,6 @@ b_seneca = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = sovereignist
 
 #History

@@ -16,6 +16,6 @@ b_mccall = castle
 
 # Misc
 culture = sawtooth
-religion = gaian
+religion = sovereignist
 
 #History

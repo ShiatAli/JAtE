@@ -2645,7 +2645,7 @@ e_caledonia = {
 				}
 			}
 		}
-		d_cascade = {
+		d_boundary_country = {
 			color={ 153 84 99 }
 			color2={ 255 255 255 }
 			
@@ -2676,13 +2676,13 @@ e_caledonia = {
 				b_renata = {
 				}
 			}
-			c_sumpter = { # 570
+			c_anarchist_mountain = { # 570
 				color={ 184 144 144 }
 				color2={ 255 255 255 }
 				
-				b_sumpter = {
+				b_rock_creek = {
 				}
-				b_kettle_valley = {
+				b_anarchist_mountain = {
 				}
 				b_bridesville = {
 				}
@@ -9244,7 +9244,7 @@ e_idaho = {
 				color={ 185 204 93 }
 				color2={ 255 255 255 }
 				
-				b_sumpter_2 = {
+				b_sumpter = {
 				}
 				b_granite_3 = {
 				}
@@ -22949,25 +22949,6 @@ e_washington = {
 				b_chuckanut = {
 				}
 			}
-			c_deming = { # 406
-				color={ 140 59 139 }
-				color2={ 255 255 255 }
-				
-				b_deming = {
-				}
-				b_nugents_corner = {
-				}
-				b_van_zandt = {
-				}
-				b_acme_2 = {
-				}
-				b_saxon_2 = {
-				}
-				b_wickersham = {
-				}
-				b_kendall = {
-				}
-			}
 			c_lynden = { # 407
 				color={ 171 102 170 }
 				color2={ 255 255 255 }
@@ -22985,6 +22966,25 @@ e_washington = {
 				b_custer = {
 				}
 				b_laurel = {
+				}
+			}
+			c_nooksack = { # 406
+				color={ 140 59 139 }
+				color2={ 255 255 255 }
+				
+				b_deming = {
+				}
+				b_nugents_corner = {
+				}
+				b_van_zandt = {
+				}
+				b_acme_2 = {
+				}
+				b_saxon_2 = {
+				}
+				b_wickersham = {
+				}
+				b_kendall = {
 				}
 			}
 		}
@@ -23466,7 +23466,7 @@ e_washington = {
 				b_tulips = {
 				}
 			}
-			c_la_push = { # 431
+			c_quileute = { # 431
 				color={ 174 126 164 }
 				color2={ 255 255 255 }
 				
@@ -23510,8 +23510,8 @@ e_washington = {
 		color={ 74 214 112 }
 		color2={ 255 255 255 }
 		
-		capital = 414 # c_coover
-		culture = portlandian
+		capital = 414 # c_the_couve
+		culture = gorgeon
 		
 		d_clark = {
 			color={ 94 194 122 }
@@ -23523,9 +23523,9 @@ e_washington = {
 					any_demesne_province = { OR = { province_id = 414 province_id = 415 province_id = 416 } }
 				}
 			}
-			capital = 414 # c_coover
+			capital = 414 # c_the_couve
 			
-			c_coover = { # 414
+			c_the_couve = { # 414
 				color={ 104 184 127 }
 				color2={ 255 255 255 }
 				

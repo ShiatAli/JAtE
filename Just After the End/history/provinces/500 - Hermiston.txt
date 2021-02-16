@@ -16,6 +16,6 @@ b_charlestown = city
 
 # Misc
 culture = tricitian
-religion = gaian
+religion = millenarian
 
 #History

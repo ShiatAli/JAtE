@@ -16,6 +16,6 @@ b_christmas_valley = castle
 
 # Misc
 culture = eastsloper
-religion = cetic
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_crane_2 = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = sovereignist
 
 #History

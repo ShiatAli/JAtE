@@ -16,6 +16,6 @@ b_adel = castle
 
 # Misc
 culture = juniperian
-religion = cetic
+religion = sovereignist
 
 #History

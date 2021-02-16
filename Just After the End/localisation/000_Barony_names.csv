@@ -353,6 +353,8 @@ b_anaho;Anaho;Anaho;Anaho;;Anaho;;;;;;;;;x
 b_anaho_adj;Anahian;;anaher;;;;;;;;;;;x
 b_anahuac;Anáhuac;Anáhuac;Anáhuac;;Anáhuac;;;;;;;;;x
 b_anahuac_adj;Anáhuacian;;anáhuacer;;;;;;;;;;;x
+b_anarchist_mountain;Anarchist Mountain;Anarchist Mountain;Anarchist Mountain;;Anarchist Mountain;;;;;;;;;x
+b_anarchist_mountain_adj;Anarchist Mountainian;;Anarchist Mountainer;;;;;;;;;;;x
 b_anatone;Anatone;Anatone;Anatone;;Anatone;;;;;;;;;x
 b_anatone_adj;Anatonean;;anatoner;;;;;;;;;;;x
 b_ancho;Ancho;Ancho;Ancho;;Ancho;;;;;;;;;x
@@ -6711,8 +6713,6 @@ b_ketchum;Ketchum;Ketchum;Ketchum;;Ketchum;;;;;;;;;x
 b_ketchum_adj;Ketchumian;;ketchumer;;;;;;;;;;;x
 b_kettle_falls;Kettle Falls;Kettle Falls;Kettle Falls;;Kettle Falls;;;;;;;;;x
 b_kettle_falls_adj;Kettle Fallsian;;Kettle Fallser;;;;;;;;;;;x
-b_kettle_valley;Kettle Valley;Kettle Valley;Kettle Valley;;Kettle Valley;;;;;;;;;x
-b_kettle_valley_adj;Kettle Valleian;;Kettle Valleer;;;;;;;;;;;x
 b_kettleman;Kettleman;Kettleman;Kettleman;;Kettleman;;;;;;;;;x
 b_kettleman_adj;Kettlemanian;;kettlemaner;;;;;;;;;;;x
 b_kettleman_city;Kettleman City;Kettleman City;Kettleman City;;Kettleman City;;;;;;;;;x
@@ -11085,6 +11085,8 @@ b_rochester;Rochester;Rochester;Rochester;;Rochester;;;;;;;;;x
 b_rochester_adj;Rochesterian;;rochesterer;;;;;;;;;;;x
 b_rochester_2;Rochester;Rochester;Rochester;;Rochester;;;;;;;;;x
 b_rochester_2_adj;Rochesterian;;rochesterer;;;;;;;;;;;x
+b_rock_creek;Rock Creek;Rock Creek;Rock Creek;;Rock Creek;;;;;;;;;x
+b_rock_creek_adj;Rock Creekian;;Rock Creeker;;;;;;;;;;;x
 b_rock_front;Rock Front;Rock Front;Rock Front;;Rock Front;;;;;;;;;x
 b_rock_front_adj;Rock Frontian;;Rock Fronter;;;;;;;;;;;x
 b_rock_island;Rock Island;Rock Island;Rock Island;;Rock Island;;;;;;;;;x
@@ -12771,8 +12773,6 @@ b_sumner_hill;Sumner Hill;Sumner Hill;Sumner Hill;;Sumner Hill;;;;;;;;;x
 b_sumner_hill_adj;Sumner Hillian;;Sumner Hiller;;;;;;;;;;;x
 b_sumpter;Sumpter;Sumpter;Sumpter;;Sumpter;;;;;;;;;x
 b_sumpter_adj;Sumpterian;;sumpterer;;;;;;;;;;;x
-b_sumpter_2;Sumpter;Sumpter;Sumpter;;Sumpter;;;;;;;;;x
-b_sumpter_2_adj;Sumpterian;;sumpterer;;;;;;;;;;;x
 b_sun_city;Sun City;Sun City;Sun City;;Sun City;;;;;;;;;x
 b_sun_city_adj;Sun Citian;;Sun Citer;;;;;;;;;;;x
 b_sun_city_2;Sun City;Sun City;Sun City;;Sun City;;;;;;;;;x

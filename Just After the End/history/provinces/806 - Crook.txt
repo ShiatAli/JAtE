@@ -16,6 +16,6 @@ b_prineville = castle
 
 # Misc
 culture = eastsloper
-religion = gaian
+religion = millenarian
 
 #History

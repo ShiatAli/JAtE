@@ -1,7 +1,7 @@
-# c_la_push
+# c_quileute
 
 # County Title
-title = c_la_push
+title = c_quileute
 
 # Settlements
 max_settlements = 3

@@ -16,6 +16,6 @@ b_douglas_city = city
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = sovereignist
 
 #History

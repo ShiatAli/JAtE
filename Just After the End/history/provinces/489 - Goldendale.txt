@@ -16,6 +16,6 @@ b_goldendale = castle
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = millenarian
 
 #History

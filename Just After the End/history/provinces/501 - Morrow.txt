@@ -16,6 +16,6 @@ b_heppner = castle
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = millenarian
 
 #History

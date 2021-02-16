@@ -16,6 +16,6 @@ b_jordan_valley = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = sovereignist
 
 #History

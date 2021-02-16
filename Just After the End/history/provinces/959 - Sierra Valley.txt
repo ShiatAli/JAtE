@@ -16,6 +16,6 @@ b_beckworth = castle
 
 # Misc
 culture = renolander
-religion = cetic
+religion = millenarian
 
 #History

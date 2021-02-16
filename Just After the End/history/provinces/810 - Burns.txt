@@ -16,6 +16,6 @@ b_burns_2 = castle
 
 # Misc
 culture = north_paiute
-religion = gaian
+religion = peyotist
 
 #History

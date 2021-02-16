@@ -16,6 +16,6 @@ b_deadwood = castle
 
 # Misc
 culture = sawtooth
-religion = gaian
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_salmon = castle
 
 # Misc
 culture = sawtooth
-religion = mormon
+religion = millenarian
 
 #History

@@ -16,6 +16,6 @@ b_condon = castle
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = millenarian
 
 #History

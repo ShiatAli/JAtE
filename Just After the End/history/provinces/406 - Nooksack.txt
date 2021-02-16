@@ -1,7 +1,7 @@
-# c_deming
+# c_nooksack
 
 # County Title
-title = c_deming
+title = c_nooksack
 
 # Settlements
 max_settlements = 3

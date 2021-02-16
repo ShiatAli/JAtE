@@ -16,6 +16,6 @@ b_fort_jones = castle
 
 # Misc
 culture = siskiyouan
-religion = cetic
+religion = sovereignist
 
 #History

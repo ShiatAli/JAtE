@@ -16,6 +16,6 @@ b_long_creek = castle
 
 # Misc
 culture = juniperian
-religion = gaian
+religion = millenarian
 
 #History

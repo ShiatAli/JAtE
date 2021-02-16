@@ -16,6 +16,6 @@ b_bend_2 = castle
 
 # Misc
 culture = eastsloper
-religion = gaian
+religion = millenarian
 
 #History

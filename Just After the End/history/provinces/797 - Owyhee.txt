@@ -16,6 +16,6 @@ b_oreana = temple
 
 # Misc
 culture = juniperian
-religion = mormon
+religion = sovereignist
 
 #History
