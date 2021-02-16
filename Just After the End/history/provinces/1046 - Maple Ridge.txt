@@ -1,0 +1,21 @@
+# c_maple_ridge
+
+# County Title
+title = c_maple_ridge
+
+# Settlements
+max_settlements = 4
+
+b_maple_ridge = castle
+b_mission_2 = city
+#b_pitt_meadows = temple
+#b_golden_ears = castle
+#b_kanaka = city
+#b_stave_falls = temple
+#b_websters_corners = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

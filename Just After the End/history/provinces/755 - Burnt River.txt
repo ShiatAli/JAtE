@@ -8,7 +8,7 @@ max_settlements = 2
 
 b_unity = castle
 #b_durkee = city
-#b_bridgeport_2 = temple
+#b_bridgeport_3 = temple
 #b_hereford_2 = castle
 #b_weatherby = city
 #b_dixie_4 = temple

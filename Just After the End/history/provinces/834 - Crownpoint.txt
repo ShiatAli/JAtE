@@ -12,7 +12,7 @@ b_crownpoint = castle
 #b_nahodishgish = castle
 #b_becenti = city
 #b_lake_valley = temple
-#b_white_rock_4 = castle
+#b_white_rock_3 = castle
 
 # Misc
 culture = navajo

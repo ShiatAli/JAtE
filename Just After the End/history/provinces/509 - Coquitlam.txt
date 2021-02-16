@@ -7,12 +7,12 @@ title = c_coquitlam
 max_settlements = 3
 
 b_coquitlam = castle
-b_port_conquitlam = city
-b_maple_ridge = temple
-#b_pitt_meadows = castle
-#b_silver_valley = city
-#b_webster_corner = temple
-#b_ruskin = castle
+b_port_moody = city
+b_port_coquitlam = temple
+#b_belcarra = castle
+#b_kwikwetlem = city
+#b_minnekhnda = temple
+#b_mundy_park = castle
 
 # Misc
 culture = canuck

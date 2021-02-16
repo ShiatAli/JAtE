@@ -7,12 +7,12 @@ title = c_victoria
 max_settlements = 4
 
 b_victoria = castle
-b_cordova_bay = city
-b_oak_bay = temple
+b_sidney = city
+b_saanich = temple
 #b_esquimalt = castle
-#b_saanich = city
-#b_view_royal = temple
-#b_oakland_3 = castle
+#b_oak_bay = city
+#b_tsawout = temple
+#b_jimmy_chicken = castle
 
 # Misc
 culture = canuck

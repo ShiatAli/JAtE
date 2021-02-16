@@ -1,0 +1,21 @@
+# c_nitinat
+
+# County Title
+title = c_nitinat
+
+# Settlements
+max_settlements = 2
+
+b_ditidaht = castle
+#b_opatseeah = city
+#b_homitan = temple
+#b_iktuksasuk = castle
+#b_whyac = city
+#b_oyees = temple
+#b_doobah = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

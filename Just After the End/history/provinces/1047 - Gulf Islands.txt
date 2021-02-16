@@ -1,0 +1,21 @@
+# c_gulf_islands
+
+# County Title
+title = c_gulf_islands
+
+# Settlements
+max_settlements = 3
+
+b_ganges = castle
+#b_galiano = city
+#b_fulford_harbor = temple
+#b_mayne = castle
+#b_saturna = city
+#b_otter_bay = temple
+#b_gooch = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

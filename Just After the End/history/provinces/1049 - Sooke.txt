@@ -1,0 +1,21 @@
+# c_sooke
+
+# County Title
+title = c_sooke
+
+# Settlements
+max_settlements = 2
+
+b_sooke = castle
+#b_jordan_river = city
+#b_east_sooke = temple
+#b_leechtown = castle
+#b_saseenos = city
+#b_sooke_potholes = temple
+#b_milnes_landing = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

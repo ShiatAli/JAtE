@@ -1,0 +1,21 @@
+# c_burnaby
+
+# County Title
+title = c_burnaby
+
+# Settlements
+max_settlements = 5
+
+b_simon_fraser = castle
+b_new_westminister = city
+b_metrotown = temple
+#b_big_bend = castle
+#b_trans_mountain = city
+#b_burnaby_lake = temple
+#b_sapperton = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

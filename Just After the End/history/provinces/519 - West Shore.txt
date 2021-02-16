@@ -1,0 +1,21 @@
+# c_west_shore
+
+# County Title
+title = c_west_shore
+
+# Settlements
+max_settlements = 4
+
+b_langford = castle
+b_colwood = city
+#b_metchosin = temple
+#b_the_highlands = castle
+#b_view_royal = city
+#b_goldstream = temple
+#b_kwulchan = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

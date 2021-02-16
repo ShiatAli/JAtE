@@ -1,0 +1,20 @@
+# c_langley
+
+# County Title
+title = c_langley
+
+# Settlements
+max_settlements = 4
+
+b_langley_city = castle
+b_langely_town = city
+#b_fort_langely = temple
+#b_campbell_valley = castle
+#b_murrayville = city
+#b_campbell_heights = temple
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

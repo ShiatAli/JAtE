@@ -9,10 +9,10 @@ max_settlements = 3
 b_chilliwack = castle
 b_sardis = city
 #b_atchelitz = temple
-#b_deroche = castle
-#b_lake_errock = city
-#b_agassiz = temple
-#b_popkum = castle
+#b_cultus_lake = castle
+#b_cheam_view = city
+#b_popkum = temple
+#b_corn = castle
 
 # Misc
 culture = canuck

@@ -4,15 +4,15 @@
 title = c_port_mcniell
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
 b_port_mcniell = castle
 #b_sointula = city
-#b_alert_bay = temple
+#b_comorant_island = temple
 #b_telegraph_cove = castle
 #b_umista = city
 #b_kokish = temple
-#b_comorant = castle
+#b_beaver_cove = castle
 
 # Misc
 culture = canuck

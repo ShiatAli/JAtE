@@ -4,15 +4,15 @@
 title = c_surrey
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
-b_surrey = castle
-b_langley_city = city
-b_white_rock_2 = temple
-#b_walnut_grove = castle
-#b_cloverdale_4 = city
-#b_murrayville = temple
-#b_crescent_2 = castle
+b_whaley = castle
+b_newton_2 = city
+b_guildford = temple
+#b_port_mann = castle
+#b_johnson_heights = city
+#b_fleetwood = temple
+#b_barnston_island = castle
 
 # Misc
 culture = canuck

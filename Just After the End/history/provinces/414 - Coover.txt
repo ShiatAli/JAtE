@@ -1,7 +1,7 @@
-# c_columbia
+# c_coover
 
 # County Title
-title = c_columbia
+title = c_coover
 
 # Settlements
 max_settlements = 3

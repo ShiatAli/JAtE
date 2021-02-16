@@ -4,15 +4,15 @@
 title = c_harrison
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_hopetown = castle
-#b_nimmo_bay = city
-#b_turnbull_cove = temple
-#b_jennis_bay = castle
-#b_robinson = city
-#b_viola = temple
-#b_seymour = castle
+b_agassiz = castle
+#b_harrison_hot_springs = city
+#b_sasquatch = temple
+#b_lake_errock = castle
+#b_harrison_mills = city
+#b_echo_island = temple
+#b_seabird_island = castle
 
 # Misc
 culture = canuck

@@ -39,6 +39,8 @@ d_beartooth;Beartooth;Beartooth;Beartooth;;Beartooth;;;;;;;;;x
 d_beartooth_adj;Beartoothian;;beartoother;;;;;;;;;;;x
 d_beaverhead;Beaverhead;Beaverhead;Beaverhead;;Beaverhead;;;;;;;;;x
 d_beaverhead_adj;Beaverheadian;;beaverheader;;;;;;;;;;;x
+d_beyond_hope;Beyond Hope;Beyond Hope;Beyond Hope;;Beyond Hope;;;;;;;;;x
+d_beyond_hope_adj;Beyond Hopean;;Beyond Hoper;;;;;;;;;;;x
 d_big_bend;Big Bend;Big Bend;Big Bend;;Big Bend;;;;;;;;;x
 d_big_bend_adj;Big Bendian;;Big Bender;;;;;;;;;;;x
 d_big_morongo;Big Morongo;Big Morongo;Big Morongo;;Big Morongo;;;;;;;;;x
@@ -129,6 +131,8 @@ d_custer;Custer;Custer;Custer;;Custer;;;;;;;;;x
 d_custer_adj;Custerian;;custerer;;;;;;;;;;;x
 d_dead_mountains;Dead Mountains;Dead Mountains;Dead Mountains;;Dead Mountains;;;;;;;;;x
 d_dead_mountains_adj;Dead Mountainsian;;Dead Mountainser;;;;;;;;;;;x
+d_delta;Delta;Delta;Delta;;Delta;;;;;;;;;x
+d_delta_adj;Deltan;;delter;;;;;;;;;;;x
 d_denver;Denver;Denver;Denver;;Denver;;;;;;;;;x
 d_denver_adj;Denverian;;denverer;;;;;;;;;;;x
 d_deschutes;Deschutes;Deschutes;Deschutes;;Deschutes;;;;;;;;;x
@@ -139,8 +143,6 @@ d_duck_valley;Duck Valley;Duck Valley;Duck Valley;;Duck Valley;;;;;;;;;x
 d_duck_valley_adj;Duck Valleian;;Duck Valleer;;;;;;;;;;;x
 d_eastside;Eastside;Eastside;Eastside;;Eastside;;;;;;;;;x
 d_eastside_adj;Eastsidean;;eastsider;;;;;;;;;;;x
-d_edinburgh;Edinburgh;Edinburgh;Edinburgh;;Edinburgh;;;;;;;;;x
-d_edinburgh_adj;Edinburghian;;edinburgher;;;;;;;;;;;x
 d_el_paso;El Paso;El Paso;El Paso;;El Paso;;;;;;;;;x
 d_el_paso_adj;El Pasian;;El Paser;;;;;;;;;;;x
 d_el_picante;El Picante;El Picante;El Picante;;El Picante;;;;;;;;;x
@@ -215,6 +217,8 @@ d_green_river;Green River;Green River;Green River;;Green River;;;;;;;;;x
 d_green_river_adj;Green Riverian;;Green Riverer;;;;;;;;;;;x
 d_guasave;Guasave;Guasave;Guasave;;Guasave;;;;;;;;;x
 d_guasave_adj;Guasavean;;guasaver;;;;;;;;;;;x
+d_gulf_islands;Gulf Islands;Gulf Islands;Gulf Islands;;Gulf Islands;;;;;;;;;x
+d_gulf_islands_adj;Gulf Islandsian;;Gulf Islandser;;;;;;;;;;;x
 d_gunnison;Gunnison;Gunnison;Gunnison;;Gunnison;;;;;;;;;x
 d_gunnison_adj;Gunnisonian;;gunnisoner;;;;;;;;;;;x
 d_haihte;Haihte;Haihte;Haihte;;Haihte;;;;;;;;;x
@@ -373,6 +377,8 @@ d_newport;Newport;Newport;Newport;;Newport;;;;;;;;;x
 d_newport_adj;Newportian;;newporter;;;;;;;;;;;x
 d_nez_perce;Nez Perce;Nez Perce;Nez Perce;;Nez Perce;;;;;;;;;x
 d_nez_perce_adj;Nez Percean;;Nez Percer;;;;;;;;;;;x
+d_north_fraser;North Fraser;North Fraser;North Fraser;;North Fraser;;;;;;;;;x
+d_north_fraser_adj;North Fraserian;;North Fraserer;;;;;;;;;;;x
 d_nye;Nye;Nye;Nye;;Nye;;;;;;;;;x
 d_nye_adj;Nyean;;ner;;;;;;;;;;;x
 d_ochoco;Ochoco;Ochoco;Ochoco;;Ochoco;;;;;;;;;x
@@ -395,8 +401,6 @@ d_pacific;Pacific;Pacific;Pacific;;Pacific;;;;;;;;;x
 d_pacific_adj;Pacifician;;pacificer;;;;;;;;;;;x
 d_park;Park;Park;Park;;Park;;;;;;;;;x
 d_park_adj;Parkian;;parker;;;;;;;;;;;x
-d_parks;Parks;Parks;Parks;;Parks;;;;;;;;;x
-d_parks_adj;Parksian;;parkser;;;;;;;;;;;x
 d_pend_oreille;Pend Oreille;Pend Oreille;Pend Oreille;;Pend Oreille;;;;;;;;;x
 d_pend_oreille_adj;Pend Oreillean;;Pend Oreiller;;;;;;;;;;;x
 d_pendleton;Pendleton;Pendleton;Pendleton;;Pendleton;;;;;;;;;x
@@ -505,6 +509,8 @@ d_sonoma;Sonoma;Sonoma;Sonoma;;Sonoma;;;;;;;;;x
 d_sonoma_adj;Sonoman;;sonomer;;;;;;;;;;;x
 d_sophia;Sophia;Sophia;Sophia;;Sophia;;;;;;;;;x
 d_sophia_adj;Sophian;;sopher;;;;;;;;;;;x
+d_south_fraser;South Fraser;South Fraser;South Fraser;;South Fraser;;;;;;;;;x
+d_south_fraser_adj;South Fraserian;;South Fraserer;;;;;;;;;;;x
 d_spring_valley;Spring Valley;Spring Valley;Spring Valley;;Spring Valley;;;;;;;;;x
 d_spring_valley_adj;Spring Valleian;;Spring Valleer;;;;;;;;;;;x
 d_standley;Standley;Standley;Standley;;Standley;;;;;;;;;x

@@ -7,12 +7,12 @@ title = c_nanaimo
 max_settlements = 3
 
 b_nanaimo = castle
-b_colvilletown = city
-#b_cedar = temple
-#b_south_wellington = castle
+b_ladysmith = city
+#b_snuneymuxw = temple
+#b_extension = castle
 #b_lantzville = city
-#b_cassidy = temple
-#b_gabriola = castle
+#b_duke_point = temple
+#b_nrd_landfill = castle
 
 # Misc
 culture = canuck

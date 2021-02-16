@@ -1,0 +1,21 @@
+# c_north_shore_2
+
+# County Title
+title = c_north_shore_2
+
+# Settlements
+max_settlements = 3
+
+b_northvan = castle
+b_horseshoe_bay = city
+#b_british_properties = temple
+#b_capilano = castle
+#b_lonsdale = city
+#b_mt_seymour = temple
+#b_deep_cove = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

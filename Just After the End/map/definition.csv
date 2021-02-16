@@ -412,7 +412,7 @@ province;red;green;blue;x;x
 411;44;219;200;Tacoma;x
 412;49;157;146;Spanaway;x
 413;154;63;63;Enumclaw;x
-414;104;184;127;Columbia;x
+414;104;184;127;Coover;x
 415;98;210;130;Battle Ground;x
 416;81;157;102;Skamania;x
 417;75;162;100;Centralia;x
@@ -505,7 +505,7 @@ province;red;green;blue;x;x
 504;181;67;169;Gillam;x
 505;208;210;39;Vancouver;x
 506;249;251;75;Richmond_2;x
-507;190;191;65;Capilano;x
+507;190;191;65;North Shore_2;x
 508;193;195;53;Surrey;x
 509;224;225;108;Coquitlam;x
 510;153;154;106;Abbotsford;x
@@ -516,16 +516,16 @@ province;red;green;blue;x;x
 515;80;93;130;Gibsons;x
 516;116;129;164;Sechelt;x
 517;164;154;116;Victoria;x
-518;88;81;53;Sidney;x
-519;143;124;46;Langford;x
+518;88;81;53;Delta_2;x
+519;143;124;46;West Shore;x
 520;186;167;92;Nanaimo;x
 521;145;130;71;Duncan;x
-522;165;167;30;Port Renfrew;x
-523;149;150;40;Parksville;x
-524;156;157;89;Port Alberni;x
-525;219;220;116;Royston;x
+522;165;167;30;Juan de Fuca;x
+523;149;150;40;Lake Cowichan;x
+524;156;157;89;Alberni Valley;x
+525;219;220;116;Parksville;x
 526;171;124;124;Comox;x
-527;1;1;1;PLACEHOLDER527;x
+527;114;70;70;Campbell River;x
 528;119;63;63;Port Hardy;x
 529;128;76;76;Port Alice;x
 530;78;46;46;Port McNiell;x
@@ -533,15 +533,15 @@ province;red;green;blue;x;x
 532;164;47;47;Tofino;x
 533;181;114;114;Ahousat;x
 534;124;53;53;Yuquot;x
-535;145;98;98;Zeballos;x
+535;145;98;98;Sayward Valley;x
 536;102;133;115;Powell;x
 537;132;164;146;Maderia Park;x
 538;69;101;183;Lund;x
-539;44;70;136;Blind Channel;x
+539;44;70;136;Langley;x
 540;94;108;143;Port Neville;x
 541;134;142;162;Echo Bay;x
 542;57;64;83;Harrison;x
-543;100;125;188;Allison Harbor;x
+543;100;125;188;Gabriola;x
 544;231;188;188;Kelowna;x
 545;159;77;77;Keremeos;x
 546;143;77;159;Penticton;x
@@ -664,7 +664,7 @@ province;red;green;blue;x;x
 663;143;78;29;Teller;x
 664;209;127;65;Chaffee;x
 665;255;145;12;Mesa_2;x
-666;131;94;49;Delta_2;x
+666;131;94;49;Delta_3;x
 667;217;171;114;Montrose;x
 668;252;219;179;Ouray;x
 669;238;147;35;La Plata;x
@@ -1043,3 +1043,11 @@ province;red;green;blue;x;x
 1042;247;93;93;Ballard;x
 1043;46;157;77;Rancho Cucamonga;x
 1044;67;157;46;Sherman;x
+1045;228;229;45;Burnaby;x
+1046;106;106;25;Maple Ridge;x
+1047;179;92;92;Gulf Islands;x
+1048;127;127;19;Nitinat;x
+1049;132;113;37;Sooke;x
+1050;197;199;82;Fraser Canyon;x
+1051;164;165;52;Lytton;x
+1052;160;161;97;Coldwater;x

@@ -1,0 +1,21 @@
+# c_gabriola
+
+# County Title
+title = c_gabriola
+
+# Settlements
+max_settlements = 1
+
+b_the_commons = castle
+#b_false_narrows = city
+#b_gospel_cove = temple
+#b_valdes = castle
+#b_penalakut = city
+#b_thetis = temple
+#b_cloverdale_4 = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

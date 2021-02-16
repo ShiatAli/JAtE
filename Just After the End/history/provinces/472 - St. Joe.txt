@@ -16,6 +16,6 @@ b_harrison = city
 
 # Misc
 culture = panhandler
-religion = dominionist
+religion = gaian
 
 #History

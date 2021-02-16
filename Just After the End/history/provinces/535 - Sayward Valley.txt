@@ -1,0 +1,21 @@
+# c_sayward_valley
+
+# County Title
+title = c_sayward_valley
+
+# Settlements
+max_settlements = 3
+
+b_sayward = castle
+#b_sayward_junction = city
+#b_hkusam = temple
+#b_kelsey_bay = castle
+#b_salmon_river = city
+#b_helmcken = temple
+#b_newcastle_river = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

@@ -7,7 +7,7 @@ title = c_abbotsford
 max_settlements = 3
 
 b_abbotsford = castle
-b_mission_2 = city
+b_matsqui = city
 #b_clearbrook = temple
 #b_sumas = castle
 #b_aldergrove = city

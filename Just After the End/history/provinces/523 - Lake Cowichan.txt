@@ -1,0 +1,21 @@
+# c_lake_cowichan
+
+# County Title
+title = c_lake_cowichan
+
+# Settlements
+max_settlements = 3
+
+b_lake_cowichan = castle
+b_youbou = city
+#b_honeymoon_bay = temple
+#b_sahtlam = castle
+#b_caycuse = city
+#b_gordon_bay = temple
+#b_skutz = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

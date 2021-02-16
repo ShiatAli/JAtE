@@ -1,0 +1,21 @@
+# c_campbell_river
+
+# County Title
+title = c_campbell_river
+
+# Settlements
+max_settlements = 3
+
+b_campbell_river = castle
+b_quathiaski = city
+#b_bloedel = temple
+#b_boot_lake = castle
+#b_oyster_river = city
+#b_mouse_islet = temple
+#b_elk_falls = castle
+
+# Misc
+culture = canuck
+religion = gaian
+
+#History

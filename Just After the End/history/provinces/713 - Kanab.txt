@@ -15,7 +15,7 @@ b_kanab = castle
 #b_kaibab = castle
 
 # Misc
-culture = staircaser
+culture = utahn
 religion = mormon
 
 #History

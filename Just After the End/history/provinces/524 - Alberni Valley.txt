@@ -1,7 +1,7 @@
-# c_port_alberni
+# c_alberni_valley
 
 # County Title
-title = c_port_alberni
+title = c_alberni_valley
 
 # Settlements
 max_settlements = 2
@@ -11,7 +11,7 @@ b_port_alberni = castle
 #b_nahmint = temple
 #b_klidonan = castle
 #b_ecoole = city
-#b_bamfield = temple
+#b_bamfield_2 = temple
 #b_pachena_beach = castle
 
 # Misc

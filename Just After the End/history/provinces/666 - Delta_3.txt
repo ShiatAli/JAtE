@@ -1,7 +1,7 @@
-# c_delta_2
+# c_delta_3
 
 # County Title
-title = c_delta_2
+title = c_delta_3
 
 # Settlements
 max_settlements = 4

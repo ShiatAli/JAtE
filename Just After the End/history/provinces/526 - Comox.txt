@@ -4,15 +4,15 @@
 title = c_comox
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_comox = castle
-b_courtenay = city
-#b_grantham = temple
-#b_williams_beach = castle
-#b_black_creek = city
-#b_bates_beach = temple
-#b_merville = castle
+b_courtenay = castle
+b_comox = city
+b_hornby = temple
+#b_cumberland = castle
+#b_denman = city
+#b_saratoga_beach = temple
+#b_royston = castle
 
 # Misc
 culture = canuck

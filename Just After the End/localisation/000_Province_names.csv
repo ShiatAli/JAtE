@@ -411,7 +411,7 @@ PROV410;Orca;Orca;Orca;;;;;;;;;x
 PROV411;Tacoma;Tacoma;Tacoma;;;;;;;;;x
 PROV412;Spanaway;Spanaway;Spanaway;;;;;;;;;x
 PROV413;Enumclaw;Enumclaw;Enumclaw;;;;;;;;;x
-PROV414;Columbia;Columbia;Columbia;;;;;;;;;x
+PROV414;Coover;Coover;Coover;;;;;;;;;x
 PROV415;Battle Ground;Battle Ground;Battle Ground;;;;;;;;;x
 PROV416;Skamania;Skamania;Skamania;;;;;;;;;x
 PROV417;Centralia;Centralia;Centralia;;;;;;;;;x
@@ -504,7 +504,7 @@ PROV503;Warm Springs;Warm Springs;Warm Springs;;;;;;;;;x
 PROV504;Gillam;Gillam;Gillam;;;;;;;;;x
 PROV505;Vancouver;Vancouver;Vancouver;;;;;;;;;x
 PROV506;Richmond;Richmond;Richmond;;;;;;;;;x
-PROV507;Capilano;Capilano;Capilano;;;;;;;;;x
+PROV507;North Shore;North Shore;North Shore;;;;;;;;;x
 PROV508;Surrey;Surrey;Surrey;;;;;;;;;x
 PROV509;Coquitlam;Coquitlam;Coquitlam;;;;;;;;;x
 PROV510;Abbotsford;Abbotsford;Abbotsford;;;;;;;;;x
@@ -515,15 +515,16 @@ PROV514;Squamish;Squamish;Squamish;;;;;;;;;x
 PROV515;Gibsons;Gibsons;Gibsons;;;;;;;;;x
 PROV516;Sechelt;Sechelt;Sechelt;;;;;;;;;x
 PROV517;Victoria;Victoria;Victoria;;;;;;;;;x
-PROV518;Sidney;Sidney;Sidney;;;;;;;;;x
-PROV519;Langford;Langford;Langford;;;;;;;;;x
+PROV518;Delta;Delta;Delta;;;;;;;;;x
+PROV519;West Shore;West Shore;West Shore;;;;;;;;;x
 PROV520;Nanaimo;Nanaimo;Nanaimo;;;;;;;;;x
 PROV521;Duncan;Duncan;Duncan;;;;;;;;;x
-PROV522;Port Renfrew;Port Renfrew;Port Renfrew;;;;;;;;;x
-PROV523;Parksville;Parksville;Parksville;;;;;;;;;x
-PROV524;Port Alberni;Port Alberni;Port Alberni;;;;;;;;;x
-PROV525;Royston;Royston;Royston;;;;;;;;;x
+PROV522;Juan de Fuca;Juan de Fuca;Juan de Fuca;;;;;;;;;x
+PROV523;Lake Cowichan;Lake Cowichan;Lake Cowichan;;;;;;;;;x
+PROV524;Alberni Valley;Alberni Valley;Alberni Valley;;;;;;;;;x
+PROV525;Parksville;Parksville;Parksville;;;;;;;;;x
 PROV526;Comox;Comox;Comox;;;;;;;;;x
+PROV527;Campbell River;Campbell River;Campbell River;;;;;;;;;x
 PROV528;Port Hardy;Port Hardy;Port Hardy;;;;;;;;;x
 PROV529;Port Alice;Port Alice;Port Alice;;;;;;;;;x
 PROV530;Port McNiell;Port McNiell;Port McNiell;;;;;;;;;x
@@ -531,15 +532,15 @@ PROV531;Whistler;Whistler;Whistler;;;;;;;;;x
 PROV532;Tofino;Tofino;Tofino;;;;;;;;;x
 PROV533;Ahousat;Ahousat;Ahousat;;;;;;;;;x
 PROV534;Yuquot;Yuquot;Yuquot;;;;;;;;;x
-PROV535;Zeballos;Zeballos;Zeballos;;;;;;;;;x
+PROV535;Sayward Valley;Sayward Valley;Sayward Valley;;;;;;;;;x
 PROV536;Powell;Powell;Powell;;;;;;;;;x
 PROV537;Maderia Park;Maderia Park;Maderia Park;;;;;;;;;x
 PROV538;Lund;Lund;Lund;;;;;;;;;x
-PROV539;Blind Channel;Blind Channel;Blind Channel;;;;;;;;;x
+PROV539;Langley;Langley;Langley;;;;;;;;;x
 PROV540;Port Neville;Port Neville;Port Neville;;;;;;;;;x
 PROV541;Echo Bay;Echo Bay;Echo Bay;;;;;;;;;x
 PROV542;Harrison;Harrison;Harrison;;;;;;;;;x
-PROV543;Allison Harbor;Allison Harbor;Allison Harbor;;;;;;;;;x
+PROV543;Gabriola;Gabriola;Gabriola;;;;;;;;;x
 PROV544;Kelowna;Kelowna;Kelowna;;;;;;;;;x
 PROV545;Keremeos;Keremeos;Keremeos;;;;;;;;;x
 PROV546;Penticton;Penticton;Penticton;;;;;;;;;x
@@ -1041,3 +1042,11 @@ PROV1041;Chetco;Chetco;Chetco;;;;;;;;;x
 PROV1042;Ballard;Ballard;Ballard;;;;;;;;;x
 PROV1043;Rancho Cucamonga;Rancho Cucamonga;Rancho Cucamonga;;;;;;;;;x
 PROV1044;Sherman;Sherman;Sherman;;;;;;;;;x
+PROV1045;Burnaby;Burnaby;Burnaby;;;;;;;;;x
+PROV1046;Maple Ridge;Maple Ridge;Maple Ridge;;;;;;;;;x
+PROV1047;Gulf Islands;Gulf Islands;Gulf Islands;;;;;;;;;x
+PROV1048;Nitinat;Nitinat;Nitinat;;;;;;;;;x
+PROV1049;Sooke;Sooke;Sooke;;;;;;;;;x
+PROV1050;Fraser Canyon;Fraser Canyon;Fraser Canyon;;;;;;;;;x
+PROV1051;Lytton;Lytton;Lytton;;;;;;;;;x
+PROV1052;Coldwater;Coldwater;Coldwater;;;;;;;;;x

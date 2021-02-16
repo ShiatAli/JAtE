@@ -6,7 +6,7 @@ title = c_port_alice
 # Settlements
 max_settlements = 2
 
-b_port_alice = castle
+b_port_alice_2 = castle
 #b_rapid_beach = city
 #b_jeune_landing = temple
 #b_mahatta_river = castle

@@ -6,13 +6,13 @@ title = c_richmond_2
 # Settlements
 max_settlements = 4
 
-b_richmond_3 = castle
+b_sea_island = castle
 b_steveston = city
 b_southarm = temple
-#b_sea_island = castle
-#b_ladner = city
-#b_tsawwassen = temple
-#b_thompson_2 = castle
+#b_queensborough = castle
+#b_annacis = city
+#b_bridgeport_2 = temple
+#b_mitchell_island = castle
 
 # Misc
 culture = canuck

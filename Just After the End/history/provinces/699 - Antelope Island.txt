@@ -8,7 +8,7 @@ max_settlements = 2
 
 b_fielding_garr = castle
 #b_saltair = city
-#b_white_rock_3 = temple
+#b_white_rock_2 = temple
 #b_farmington_bay = castle
 #b_frary_peak = city
 #b_bridger_bay = temple

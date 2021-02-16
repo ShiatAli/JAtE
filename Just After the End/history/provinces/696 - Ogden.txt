@@ -15,7 +15,7 @@ b_ogden = city
 #b_pleasant_view = castle
 
 # Misc
-culture = salter
+culture = provo
 religion = mormon
 
 #History

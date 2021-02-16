@@ -15,7 +15,7 @@ b_republic = castle
 #b_cooper = castle
 
 # Misc
-culture = nez_perce
-religion = peyotist
+culture = inlander
+religion = dominionist
 
 #History
