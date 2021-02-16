@@ -15,7 +15,7 @@ b_pemberton = castle
 #b_seton_portage = castle
 
 # Misc
-culture = canuck
+culture = coastranger
 religion = gaian
 
 #History

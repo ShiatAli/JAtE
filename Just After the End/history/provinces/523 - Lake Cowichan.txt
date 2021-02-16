@@ -15,7 +15,7 @@ b_youbou = city
 #b_skutz = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_metrotown = temple
 #b_sapperton = castle
 
 # Misc
-culture = canuck
+culture = vancouverite
 religion = gaian
 
 #History

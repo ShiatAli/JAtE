@@ -14,7 +14,7 @@ b_langely_town = city
 #b_campbell_heights = temple
 
 # Misc
-culture = canuck
+culture = fraserian
 religion = gaian
 
 #History

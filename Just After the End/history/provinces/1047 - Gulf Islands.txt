@@ -15,7 +15,7 @@ b_ganges = castle
 #b_gooch = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

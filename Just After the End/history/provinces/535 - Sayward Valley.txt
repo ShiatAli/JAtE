@@ -15,7 +15,7 @@ b_sayward = castle
 #b_newcastle_river = castle
 
 # Misc
-culture = canuck
+culture = kwakwakawakw
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_britannia_bay = city
 #b_porteau = castle
 
 # Misc
-culture = canuck
+culture = coast_salish
 religion = gaian
 
 #History

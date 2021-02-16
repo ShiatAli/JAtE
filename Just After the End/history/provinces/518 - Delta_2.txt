@@ -15,7 +15,7 @@ b_ladner = city
 #b_landfill = castle
 
 # Misc
-culture = canuck
+culture = vancouverite
 religion = gaian
 
 #History

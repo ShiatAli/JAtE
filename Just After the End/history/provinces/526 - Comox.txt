@@ -15,7 +15,7 @@ b_hornby = temple
 #b_royston = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

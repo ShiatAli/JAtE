@@ -16,6 +16,6 @@ b_lewiston_2 = castle
 
 # Misc
 culture = palouse
-religion = sovereignist
+religion = millenarian
 
 #History

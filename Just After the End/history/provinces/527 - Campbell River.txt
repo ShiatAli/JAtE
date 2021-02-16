@@ -15,7 +15,7 @@ b_quathiaski = city
 #b_elk_falls = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

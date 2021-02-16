@@ -15,7 +15,7 @@ b_southarm = temple
 #b_mitchell_island = castle
 
 # Misc
-culture = canuck
+culture = vancouverite
 religion = gaian
 
 #History

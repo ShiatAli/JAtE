@@ -15,7 +15,7 @@ b_mission_2 = city
 #b_websters_corners = castle
 
 # Misc
-culture = canuck
+culture = fraserian
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_port_alice_2 = castle
 #b_atluck = castle
 
 # Misc
-culture = canuck
+culture = kwakwakawakw
 religion = gaian
 
 #History

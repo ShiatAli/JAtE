@@ -15,7 +15,7 @@ b_ladysmith = city
 #b_nrd_landfill = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

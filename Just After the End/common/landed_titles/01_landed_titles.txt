@@ -6697,14 +6697,14 @@ e_grand_vancouver = {
 	color2={ 255 255 20 }
 	
 	capital = 505 # c_vancouver
-	culture = canuck
+	culture = vancouverite
 	
 	k_vancouver = {
 		color={ 178 240 24 }
 		color2={ 255 255 255 }
 		
 		capital = 505 # c_vancouver
-		culture = canuck
+		culture = vancouverite
 		
 		d_lotusland = {
 			color={ 198 220 34 }
@@ -7213,7 +7213,7 @@ e_grand_vancouver = {
 		color2={ 255 255 255 }
 		
 		capital = 536 # c_powell
-		culture = canuck
+		culture = coastranger
 		
 		d_georgia_strait = {
 			color={ 112 123 120 }
@@ -7342,7 +7342,7 @@ e_grand_vancouver = {
 		color2={ 255 255 255 }
 		
 		capital = 528 # c_port_hardy
-		culture = canuck
+		culture = kwakwakawakw
 		
 		d_suquash = {
 			color={ 129 53 68 }
@@ -7522,7 +7522,7 @@ e_grand_vancouver = {
 		color2={ 255 255 255 }
 		
 		capital = 517 # c_victoria
-		culture = canuck
+		culture = islander
 		
 		d_chicktoria = {
 			color={ 154 164 111 }

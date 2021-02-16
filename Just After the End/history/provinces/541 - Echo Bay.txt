@@ -15,7 +15,7 @@ b_echo_bay = castle
 #b_eden = castle
 
 # Misc
-culture = canuck
+culture = kwakwakawakw
 religion = gaian
 
 #History

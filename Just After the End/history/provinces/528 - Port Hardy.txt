@@ -15,7 +15,7 @@ b_port_hardy = castle
 #b_quatsino = castle
 
 # Misc
-culture = canuck
+culture = kwakwakawakw
 religion = gaian
 
 #History

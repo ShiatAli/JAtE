@@ -15,7 +15,7 @@ b_port_mcniell = castle
 #b_beaver_cove = castle
 
 # Misc
-culture = canuck
+culture = kwakwakawakw
 religion = gaian
 
 #History

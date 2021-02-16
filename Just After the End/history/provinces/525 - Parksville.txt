@@ -15,7 +15,7 @@ b_parksville = castle
 #b_goats_on_roof = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

@@ -1,0 +1,450 @@
+###ÄNSI
+canuck = {
+	graphical_cultures = { whitepacificgfx westerngfx }
+	
+	canuck = {
+		graphical_cultures = { canadiangfx whitepacificgfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+
+		color = { 0.7 0.1 0.1 }
+
+		male_names = {
+			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
+			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
+			Damien_Damian Darien Davis Daya Devon Douglas Drake
+			Eason Easton Eckhart_Eckart Edison Elmore Evander Ezra
+			Fadi Filip_Philip Finnley Flynn Ford Francis_Francis Frank_Francis Fuller
+			Gage Galt Gary George Giuseppe_Joseph Gordon Graham Gregory Greyson
+			Hampden Harrison Hassan Hayden Heath Hendrix_Henry Herb Holden Hugh Hussain_Hussein Hy 
+			Ian_John Ikey Ingemar Innell Ire Ivan
+			Jacob_Jacob James Jaxon_Jackson Jayson Jazzy Jean-Luc_John-Luke Joel Jonah Jonathan Jordan Jorgito Joshua Justin
+			Kaden_Caden Kaleb_Caleb Keaton Keefer Kellan Kenneth Kevin Klem Knox Kristian_Christian
+			Lance Landon Layne Lee Leith Lewis_Louis Liam_William Linwood Loki Louis Luke_Luke Lynden Leif
+			Macdonald Mackenzie Madden Malakai_Malachai Marc_Mark Mario_Marius Masen_Mason Matthew Michael Milan Mohamed Moore Murad
+			Nelson Nicholas Nigel Nixon Nolan
+			Odin Olivier_Oliver Oren Orkin Osric
+			Pasquale_Pascal Percy_Percival Peter Picard Pybus
+			Quimper 
+			Rafe Raymond Reece Rhett Rhys Rocky Rodney Roger Ronin Ross Russell Ryan
+			Sage Salvador Santa Sawyer Scott Seth Shane Sheldon Sherwood Shinzo Smith Sperry Spider Stan_Stanley Stephen Sukhman Sullivan Suzuki Svend
+			Tanner Terry_Terence Trent Trevor Tristan Trutch Tyler Tyson
+			Ujjal 
+			Victor
+			Walker Wallace Wayne Wesley
+			Yannick 
+		}
+		female_names = {
+			Aaliyah Abbie Acacia Adelaide Adrianna Alaina Alexz_Alexandra Alicia_Alice Aliyah Amanda Angela Anne Arielle Ariya Ashleigh Aspyn Audrey Ayla
+			Beverley Bianca Blake Brenna Briar Brittney Brooklynn Brynna
+			Calla Camille Carina Carmen Carrie Carrie-Anne Cassidy Charlene Christina Claire Colette Cristina Cynthia
+			Daniela_Danielle Dayana Destiny Devyn Diane_Diana
+			Edith Eliana Eliza Elliana Elva Emery Emily Emmeline Erica Erin Evangeline Evelyn Everlee
+			Farrah Felicity
+			Gabriella_Gabriele Geneva Grimes
+			Hadley Harriet Haven Hayley Helen Helena Holle
+			Iona Iris Isabelle
+			Jennifer Jessica Jewel Jillian Jodelle Joyce Jude Julianne June
+			Kaia Kailey Karen Kathryn Kayi Kendall Kenzie Khloe Kiara Kim Kinsella Kirsten Kristin Kyla
+			Laura Linda Linden Livia Lucille Luna Lydia
+			Mabel Margaret Maryam Maxine Mckenna Meghan Melissa Merrie Milania Missy Monique Moss
+			Nancy Nelle Nora Norma Nyah
+			Paisley Pamela Parke Patricia Penelope Peregrin Phaedra
+			Rachel Raven Reet Ridley Robin Rochelle Rose_Rose Ryder Ryleigh
+			Sandra_Alexandra Sarah Saskia Serenity Shanaya Shay Sierra Simran Sofia_Sophia Sonia Stephanie
+			Tapping Taylor Teaga Tenley Teryl Tiffany
+			Vienna
+			Willow
+			Ying Yvonne
+			Zainab Zara Zoie_Zoe 
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	punjabi = {
+		graphical_cultures = { indiangfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+
+		color = { 0.89 0.60 0.38 }
+
+		male_names = {
+			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
+			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
+			Damien_Damian Darien Davis Daya Devon Douglas Drake
+			Eason Easton Eckhart_Eckart Edison Elmore Evander Ezra
+			Fadi Filip_Philip Finnley Flynn Ford Francis_Francis Frank_Francis Fuller
+			Gage Galt Gary George Giuseppe_Joseph Gordon Graham Gregory Greyson
+			Hampden Harrison Hassan Hayden Heath Hendrix_Henry Herb Holden Hugh Hussain_Hussein Hy 
+			Ian_John Ikey Ingemar Innell Ire Ivan
+			Jacob_Jacob James Jaxon_Jackson Jayson Jazzy Jean-Luc_John-Luke Joel Jonah Jonathan Jordan Jorgito Joshua Justin
+			Kaden_Caden Kaleb_Caleb Keaton Keefer Kellan Kenneth Kevin Klem Knox Kristian_Christian
+			Lance Landon Layne Lee Leith Lewis_Louis Liam_William Linwood Loki Louis Luke_Luke Lynden Leif
+			Macdonald Mackenzie Madden Malakai_Malachai Marc_Mark Mario_Marius Masen_Mason Matthew Michael Milan Mohamed Moore Murad
+			Nelson Nicholas Nigel Nixon Nolan
+			Odin Olivier_Oliver Oren Orkin Osric
+			Pasquale_Pascal Percy_Percival Peter Picard Pybus
+			Quimper 
+			Rafe Raymond Reece Rhett Rhys Rocky Rodney Roger Ronin Ross Russell Ryan
+			Sage Salvador Santa Sawyer Scott Seth Shane Sheldon Sherwood Shinzo Smith Sperry Spider Stan_Stanley Stephen Sukhman Sullivan Suzuki Svend
+			Tanner Terry_Terence Trent Trevor Tristan Trutch Tyler Tyson
+			Ujjal 
+			Victor
+			Walker Wallace Wayne Wesley
+			Yannick 
+		}
+		female_names = {
+			Aaliyah Abbie Acacia Adelaide Adrianna Alaina Alexz_Alexandra Alicia_Alice Aliyah Amanda Angela Anne Arielle Ariya Ashleigh Aspyn Audrey Ayla
+			Beverley Bianca Blake Brenna Briar Brittney Brooklynn Brynna
+			Calla Camille Carina Carmen Carrie Carrie-Anne Cassidy Charlene Christina Claire Colette Cristina Cynthia
+			Daniela_Danielle Dayana Destiny Devyn Diane_Diana
+			Edith Eliana Eliza Elliana Elva Emery Emily Emmeline Erica Erin Evangeline Evelyn Everlee
+			Farrah Felicity
+			Gabriella_Gabriele Geneva Grimes
+			Hadley Harriet Haven Hayley Helen Helena Holle
+			Iona Iris Isabelle
+			Jennifer Jessica Jewel Jillian Jodelle Joyce Jude Julianne June
+			Kaia Kailey Karen Kathryn Kayi Kendall Kenzie Khloe Kiara Kim Kinsella Kirsten Kristin Kyla
+			Laura Linda Linden Livia Lucille Luna Lydia
+			Mabel Margaret Maryam Maxine Mckenna Meghan Melissa Merrie Milania Missy Monique Moss
+			Nancy Nelle Nora Norma Nyah
+			Paisley Pamela Parke Patricia Penelope Peregrin Phaedra
+			Rachel Raven Reet Ridley Robin Rochelle Rose_Rose Ryder Ryleigh
+			Sandra_Alexandra Sarah Saskia Serenity Shanaya Shay Sierra Simran Sofia_Sophia Sonia Stephanie
+			Tapping Taylor Teaga Tenley Teryl Tiffany
+			Vienna
+			Willow
+			Ying Yvonne
+			Zainab Zara Zoie_Zoe 
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	
+	fraserian = {
+		graphical_cultures = { canadiangfx whitepacificgfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+
+		color = { 0.42 0.66 0.69 }
+
+		male_names = {
+			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
+			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
+			Damien_Damian Darien Davis Daya Devon Douglas Drake
+			Eason Easton Eckhart_Eckart Edison Elmore Evander Ezra
+			Fadi Filip_Philip Finnley Flynn Ford Francis_Francis Frank_Francis Fuller
+			Gage Galt Gary George Giuseppe_Joseph Gordon Graham Gregory Greyson
+			Hampden Harrison Hassan Hayden Heath Hendrix_Henry Herb Holden Hugh Hussain_Hussein Hy 
+			Ian_John Ikey Ingemar Innell Ire Ivan
+			Jacob_Jacob James Jaxon_Jackson Jayson Jazzy Jean-Luc_John-Luke Joel Jonah Jonathan Jordan Jorgito Joshua Justin
+			Kaden_Caden Kaleb_Caleb Keaton Keefer Kellan Kenneth Kevin Klem Knox Kristian_Christian
+			Lance Landon Layne Lee Leith Lewis_Louis Liam_William Linwood Loki Louis Luke_Luke Lynden Leif
+			Macdonald Mackenzie Madden Malakai_Malachai Marc_Mark Mario_Marius Masen_Mason Matthew Michael Milan Mohamed Moore Murad
+			Nelson Nicholas Nigel Nixon Nolan
+			Odin Olivier_Oliver Oren Orkin Osric
+			Pasquale_Pascal Percy_Percival Peter Picard Pybus
+			Quimper 
+			Rafe Raymond Reece Rhett Rhys Rocky Rodney Roger Ronin Ross Russell Ryan
+			Sage Salvador Santa Sawyer Scott Seth Shane Sheldon Sherwood Shinzo Smith Sperry Spider Stan_Stanley Stephen Sukhman Sullivan Suzuki Svend
+			Tanner Terry_Terence Trent Trevor Tristan Trutch Tyler Tyson
+			Ujjal 
+			Victor
+			Walker Wallace Wayne Wesley
+			Yannick 
+		}
+		female_names = {
+			Aaliyah Abbie Acacia Adelaide Adrianna Alaina Alexz_Alexandra Alicia_Alice Aliyah Amanda Angela Anne Arielle Ariya Ashleigh Aspyn Audrey Ayla
+			Beverley Bianca Blake Brenna Briar Brittney Brooklynn Brynna
+			Calla Camille Carina Carmen Carrie Carrie-Anne Cassidy Charlene Christina Claire Colette Cristina Cynthia
+			Daniela_Danielle Dayana Destiny Devyn Diane_Diana
+			Edith Eliana Eliza Elliana Elva Emery Emily Emmeline Erica Erin Evangeline Evelyn Everlee
+			Farrah Felicity
+			Gabriella_Gabriele Geneva Grimes
+			Hadley Harriet Haven Hayley Helen Helena Holle
+			Iona Iris Isabelle
+			Jennifer Jessica Jewel Jillian Jodelle Joyce Jude Julianne June
+			Kaia Kailey Karen Kathryn Kayi Kendall Kenzie Khloe Kiara Kim Kinsella Kirsten Kristin Kyla
+			Laura Linda Linden Livia Lucille Luna Lydia
+			Mabel Margaret Maryam Maxine Mckenna Meghan Melissa Merrie Milania Missy Monique Moss
+			Nancy Nelle Nora Norma Nyah
+			Paisley Pamela Parke Patricia Penelope Peregrin Phaedra
+			Rachel Raven Reet Ridley Robin Rochelle Rose_Rose Ryder Ryleigh
+			Sandra_Alexandra Sarah Saskia Serenity Shanaya Shay Sierra Simran Sofia_Sophia Sonia Stephanie
+			Tapping Taylor Teaga Tenley Teryl Tiffany
+			Vienna
+			Willow
+			Ying Yvonne
+			Zainab Zara Zoie_Zoe 
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	coastranger = {
+		graphical_cultures = { canadiangfx whitepacificgfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+
+		color = { 0.55 0.56 0.73 }
+
+		male_names = {
+			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
+			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
+			Damien_Damian Darien Davis Daya Devon Douglas Drake
+			Eason Easton Eckhart_Eckart Edison Elmore Evander Ezra
+			Fadi Filip_Philip Finnley Flynn Ford Francis_Francis Frank_Francis Fuller
+			Gage Galt Gary George Giuseppe_Joseph Gordon Graham Gregory Greyson
+			Hampden Harrison Hassan Hayden Heath Hendrix_Henry Herb Holden Hugh Hussain_Hussein Hy 
+			Ian_John Ikey Ingemar Innell Ire Ivan
+			Jacob_Jacob James Jaxon_Jackson Jayson Jazzy Jean-Luc_John-Luke Joel Jonah Jonathan Jordan Jorgito Joshua Justin
+			Kaden_Caden Kaleb_Caleb Keaton Keefer Kellan Kenneth Kevin Klem Knox Kristian_Christian
+			Lance Landon Layne Lee Leith Lewis_Louis Liam_William Linwood Loki Louis Luke_Luke Lynden Leif
+			Macdonald Mackenzie Madden Malakai_Malachai Marc_Mark Mario_Marius Masen_Mason Matthew Michael Milan Mohamed Moore Murad
+			Nelson Nicholas Nigel Nixon Nolan
+			Odin Olivier_Oliver Oren Orkin Osric
+			Pasquale_Pascal Percy_Percival Peter Picard Pybus
+			Quimper 
+			Rafe Raymond Reece Rhett Rhys Rocky Rodney Roger Ronin Ross Russell Ryan
+			Sage Salvador Santa Sawyer Scott Seth Shane Sheldon Sherwood Shinzo Smith Sperry Spider Stan_Stanley Stephen Sukhman Sullivan Suzuki Svend
+			Tanner Terry_Terence Trent Trevor Tristan Trutch Tyler Tyson
+			Ujjal 
+			Victor
+			Walker Wallace Wayne Wesley
+			Yannick 
+		}
+		female_names = {
+			Aaliyah Abbie Acacia Adelaide Adrianna Alaina Alexz_Alexandra Alicia_Alice Aliyah Amanda Angela Anne Arielle Ariya Ashleigh Aspyn Audrey Ayla
+			Beverley Bianca Blake Brenna Briar Brittney Brooklynn Brynna
+			Calla Camille Carina Carmen Carrie Carrie-Anne Cassidy Charlene Christina Claire Colette Cristina Cynthia
+			Daniela_Danielle Dayana Destiny Devyn Diane_Diana
+			Edith Eliana Eliza Elliana Elva Emery Emily Emmeline Erica Erin Evangeline Evelyn Everlee
+			Farrah Felicity
+			Gabriella_Gabriele Geneva Grimes
+			Hadley Harriet Haven Hayley Helen Helena Holle
+			Iona Iris Isabelle
+			Jennifer Jessica Jewel Jillian Jodelle Joyce Jude Julianne June
+			Kaia Kailey Karen Kathryn Kayi Kendall Kenzie Khloe Kiara Kim Kinsella Kirsten Kristin Kyla
+			Laura Linda Linden Livia Lucille Luna Lydia
+			Mabel Margaret Maryam Maxine Mckenna Meghan Melissa Merrie Milania Missy Monique Moss
+			Nancy Nelle Nora Norma Nyah
+			Paisley Pamela Parke Patricia Penelope Peregrin Phaedra
+			Rachel Raven Reet Ridley Robin Rochelle Rose_Rose Ryder Ryleigh
+			Sandra_Alexandra Sarah Saskia Serenity Shanaya Shay Sierra Simran Sofia_Sophia Sonia Stephanie
+			Tapping Taylor Teaga Tenley Teryl Tiffany
+			Vienna
+			Willow
+			Ying Yvonne
+			Zainab Zara Zoie_Zoe 
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	islander = {
+		graphical_cultures = { canadiangfx whitepacificgfx }
+		unit_graphical_cultures = { englishgfx saxongfx }
+
+		color = { 0.47 0.47 0.81 }
+
+		male_names = {
+			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
+			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
+			Damien_Damian Darien Davis Daya Devon Douglas Drake
+			Eason Easton Eckhart_Eckart Edison Elmore Evander Ezra
+			Fadi Filip_Philip Finnley Flynn Ford Francis_Francis Frank_Francis Fuller
+			Gage Galt Gary George Giuseppe_Joseph Gordon Graham Gregory Greyson
+			Hampden Harrison Hassan Hayden Heath Hendrix_Henry Herb Holden Hugh Hussain_Hussein Hy 
+			Ian_John Ikey Ingemar Innell Ire Ivan
+			Jacob_Jacob James Jaxon_Jackson Jayson Jazzy Jean-Luc_John-Luke Joel Jonah Jonathan Jordan Jorgito Joshua Justin
+			Kaden_Caden Kaleb_Caleb Keaton Keefer Kellan Kenneth Kevin Klem Knox Kristian_Christian
+			Lance Landon Layne Lee Leith Lewis_Louis Liam_William Linwood Loki Louis Luke_Luke Lynden Leif
+			Macdonald Mackenzie Madden Malakai_Malachai Marc_Mark Mario_Marius Masen_Mason Matthew Michael Milan Mohamed Moore Murad
+			Nelson Nicholas Nigel Nixon Nolan
+			Odin Olivier_Oliver Oren Orkin Osric
+			Pasquale_Pascal Percy_Percival Peter Picard Pybus
+			Quimper 
+			Rafe Raymond Reece Rhett Rhys Rocky Rodney Roger Ronin Ross Russell Ryan
+			Sage Salvador Santa Sawyer Scott Seth Shane Sheldon Sherwood Shinzo Smith Sperry Spider Stan_Stanley Stephen Sukhman Sullivan Suzuki Svend
+			Tanner Terry_Terence Trent Trevor Tristan Trutch Tyler Tyson
+			Ujjal 
+			Victor
+			Walker Wallace Wayne Wesley
+			Yannick 
+		}
+		female_names = {
+			Aaliyah Abbie Acacia Adelaide Adrianna Alaina Alexz_Alexandra Alicia_Alice Aliyah Amanda Angela Anne Arielle Ariya Ashleigh Aspyn Audrey Ayla
+			Beverley Bianca Blake Brenna Briar Brittney Brooklynn Brynna
+			Calla Camille Carina Carmen Carrie Carrie-Anne Cassidy Charlene Christina Claire Colette Cristina Cynthia
+			Daniela_Danielle Dayana Destiny Devyn Diane_Diana
+			Edith Eliana Eliza Elliana Elva Emery Emily Emmeline Erica Erin Evangeline Evelyn Everlee
+			Farrah Felicity
+			Gabriella_Gabriele Geneva Grimes
+			Hadley Harriet Haven Hayley Helen Helena Holle
+			Iona Iris Isabelle
+			Jennifer Jessica Jewel Jillian Jodelle Joyce Jude Julianne June
+			Kaia Kailey Karen Kathryn Kayi Kendall Kenzie Khloe Kiara Kim Kinsella Kirsten Kristin Kyla
+			Laura Linda Linden Livia Lucille Luna Lydia
+			Mabel Margaret Maryam Maxine Mckenna Meghan Melissa Merrie Milania Missy Monique Moss
+			Nancy Nelle Nora Norma Nyah
+			Paisley Pamela Parke Patricia Penelope Peregrin Phaedra
+			Rachel Raven Reet Ridley Robin Rochelle Rose_Rose Ryder Ryleigh
+			Sandra_Alexandra Sarah Saskia Serenity Shanaya Shay Sierra Simran Sofia_Sophia Sonia Stephanie
+			Tapping Taylor Teaga Tenley Teryl Tiffany
+			Vienna
+			Willow
+			Ying Yvonne
+			Zainab Zara Zoie_Zoe 
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+	vancouverite = {
+		graphical_cultures = { chinesegfx }
+		unit_graphical_cultures = { chinesegfx }
+
+		color = { 0.23 0.45 0.63 }
+
+		male_names = {
+			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
+			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
+			Damien_Damian Darien Davis Daya Devon Douglas Drake
+			Eason Easton Eckhart_Eckart Edison Elmore Evander Ezra
+			Fadi Filip_Philip Finnley Flynn Ford Francis_Francis Frank_Francis Fuller
+			Gage Galt Gary George Giuseppe_Joseph Gordon Graham Gregory Greyson
+			Hampden Harrison Hassan Hayden Heath Hendrix_Henry Herb Holden Hugh Hussain_Hussein Hy 
+			Ian_John Ikey Ingemar Innell Ire Ivan
+			Jacob_Jacob James Jaxon_Jackson Jayson Jazzy Jean-Luc_John-Luke Joel Jonah Jonathan Jordan Jorgito Joshua Justin
+			Kaden_Caden Kaleb_Caleb Keaton Keefer Kellan Kenneth Kevin Klem Knox Kristian_Christian
+			Lance Landon Layne Lee Leith Lewis_Louis Liam_William Linwood Loki Louis Luke_Luke Lynden Leif
+			Macdonald Mackenzie Madden Malakai_Malachai Marc_Mark Mario_Marius Masen_Mason Matthew Michael Milan Mohamed Moore Murad
+			Nelson Nicholas Nigel Nixon Nolan
+			Odin Olivier_Oliver Oren Orkin Osric
+			Pasquale_Pascal Percy_Percival Peter Picard Pybus
+			Quimper 
+			Rafe Raymond Reece Rhett Rhys Rocky Rodney Roger Ronin Ross Russell Ryan
+			Sage Salvador Santa Sawyer Scott Seth Shane Sheldon Sherwood Shinzo Smith Sperry Spider Stan_Stanley Stephen Sukhman Sullivan Suzuki Svend
+			Tanner Terry_Terence Trent Trevor Tristan Trutch Tyler Tyson
+			Ujjal 
+			Victor
+			Walker Wallace Wayne Wesley
+			Yannick 
+		}
+		female_names = {
+			Aaliyah Abbie Acacia Adelaide Adrianna Alaina Alexz_Alexandra Alicia_Alice Aliyah Amanda Angela Anne Arielle Ariya Ashleigh Aspyn Audrey Ayla
+			Beverley Bianca Blake Brenna Briar Brittney Brooklynn Brynna
+			Calla Camille Carina Carmen Carrie Carrie-Anne Cassidy Charlene Christina Claire Colette Cristina Cynthia
+			Daniela_Danielle Dayana Destiny Devyn Diane_Diana
+			Edith Eliana Eliza Elliana Elva Emery Emily Emmeline Erica Erin Evangeline Evelyn Everlee
+			Farrah Felicity
+			Gabriella_Gabriele Geneva Grimes
+			Hadley Harriet Haven Hayley Helen Helena Holle
+			Iona Iris Isabelle
+			Jennifer Jessica Jewel Jillian Jodelle Joyce Jude Julianne June
+			Kaia Kailey Karen Kathryn Kayi Kendall Kenzie Khloe Kiara Kim Kinsella Kirsten Kristin Kyla
+			Laura Linda Linden Livia Lucille Luna Lydia
+			Mabel Margaret Maryam Maxine Mckenna Meghan Melissa Merrie Milania Missy Monique Moss
+			Nancy Nelle Nora Norma Nyah
+			Paisley Pamela Parke Patricia Penelope Peregrin Phaedra
+			Rachel Raven Reet Ridley Robin Rochelle Rose_Rose Ryder Ryleigh
+			Sandra_Alexandra Sarah Saskia Serenity Shanaya Shay Sierra Simran Sofia_Sophia Sonia Stephanie
+			Tapping Taylor Teaga Tenley Teryl Tiffany
+			Vienna
+			Willow
+			Ying Yvonne
+			Zainab Zara Zoie_Zoe 
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		feminist = yes
+		modifier = default_culture_modifier
+	}
+}

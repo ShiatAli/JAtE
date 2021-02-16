@@ -16,6 +16,6 @@ b_wasco_3 = castle
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = millenarian
 
 #History

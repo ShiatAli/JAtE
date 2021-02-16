@@ -15,7 +15,7 @@ b_port_alberni = castle
 #b_pachena_beach = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

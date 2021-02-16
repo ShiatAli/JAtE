@@ -16,6 +16,6 @@ b_bickleton_2 = castle
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = millenarian
 
 #History

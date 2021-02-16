@@ -15,7 +15,7 @@ b_the_commons = castle
 #b_cloverdale_4 = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

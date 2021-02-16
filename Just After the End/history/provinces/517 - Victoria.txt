@@ -15,7 +15,7 @@ b_saanich = temple
 #b_jimmy_chicken = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_yuquot = castle
 #b_nuchatlitz = castle
 
 # Misc
-culture = canuck
+culture = nuuchahnulth
 religion = gaian
 
 #History

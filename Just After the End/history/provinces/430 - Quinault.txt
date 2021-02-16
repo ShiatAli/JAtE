@@ -15,7 +15,7 @@ b_quinault = castle
 #b_pacific_beach_2 = castle
 
 # Misc
-culture = olympite
+culture = coast_salish
 religion = gaian
 
 #History

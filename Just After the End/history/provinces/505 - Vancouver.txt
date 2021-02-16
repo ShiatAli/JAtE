@@ -15,7 +15,7 @@ b_musqueam = temple
 #b_granville = castle
 
 # Misc
-culture = canuck
+culture = vancouverite
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_agassiz = castle
 #b_seabird_island = castle
 
 # Misc
-culture = canuck
+culture = fraserian
 religion = gaian
 
 #History

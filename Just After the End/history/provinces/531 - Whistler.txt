@@ -15,7 +15,7 @@ b_ucluelet = castle
 #b_laylee = castle
 
 # Misc
-culture = canuck
+culture = coastranger
 religion = gaian
 
 #History

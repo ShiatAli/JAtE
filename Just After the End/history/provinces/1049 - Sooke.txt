@@ -15,7 +15,7 @@ b_sooke = castle
 #b_milnes_landing = castle
 
 # Misc
-culture = canuck
+culture = islander
 religion = gaian
 
 #History
