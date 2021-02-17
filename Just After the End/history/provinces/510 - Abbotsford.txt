@@ -15,7 +15,7 @@ b_matsqui = city
 #b_dewdney = castle
 
 # Misc
-culture = punjabi
-religion = gaian
+culture = vainakuvara'ita
+religion = sikh
 
 #History
