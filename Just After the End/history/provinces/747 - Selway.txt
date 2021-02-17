@@ -16,6 +16,6 @@ b_syringa = castle
 
 # Misc
 culture = sawtooth
-religion = millenarian
+religion = gaian
 
 #History
