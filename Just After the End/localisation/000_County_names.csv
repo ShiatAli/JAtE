@@ -21,8 +21,6 @@ c_ahousat;Ahousat;Ahousat;Ahousat;;Ahousat;;;;;;;;;x
 c_ahousat_adj;Ahousatian;;ahousater;;;;;;;;;;;x
 c_alamo;Alamo;Alamo;Alamo;;Alamo;;;;;;;;;x
 c_alamo_adj;Alamian;;alamer;;;;;;;;;;;x
-c_alamo_2;Alamo;Alamo;Alamo;;Alamo;;;;;;;;;x
-c_alamo_2_adj;Alamian;;alamer;;;;;;;;;;;x
 c_alamos;Álamos;Álamos;Álamos;;Álamos;;;;;;;;;x
 c_alamos_adj;Álamosian;;álamoser;;;;;;;;;;;x
 c_alamosa;Alamosa;Alamosa;Alamosa;;Alamosa;;;;;;;;;x
@@ -417,6 +415,8 @@ c_cumpas;Cumpas;Cumpas;Cumpas;;Cumpas;;;;;;;;;x
 c_cumpas_adj;Cumpasian;;cumpaser;;;;;;;;;;;x
 c_curecanti;Curecanti;Curecanti;Curecanti;;Curecanti;;;;;;;;;x
 c_curecanti_adj;Curecantian;;curecanter;;;;;;;;;;;x
+c_cuyama_valley;Cuyama Valley;Cuyama Valley;Cuyama Valley;;Cuyama Valley;;;;;;;;;x
+c_cuyama_valley_adj;Cuyama Valleian;;Cuyama Valleer;;;;;;;;;;;x
 c_dairyville;Dairyville;Dairyville;Dairyville;;Dairyville;;;;;;;;;x
 c_dairyville_adj;Dairyvillean;;dairyviller;;;;;;;;;;;x
 c_darrington;Darrington;Darrington;Darrington;;Darrington;;;;;;;;;x
@@ -1213,8 +1213,6 @@ c_oakland;Oakland;Oakland;Oakland;;Oakland;;;;;;;;;x
 c_oakland_adj;Oaklandian;;oaklander;;;;;;;;;;;x
 c_oasis;Oasis;Oasis;Oasis;;Oasis;;;;;;;;;x
 c_oasis_adj;Oasisian;;oasiser;;;;;;;;;;;x
-c_obispo;Obispo;Obispo;Obispo;;Obispo;;;;;;;;;x
-c_obispo_adj;Obispian;;obisper;;;;;;;;;;;x
 c_obregon;Obregón;Obregón;Obregón;;Obregón;;;;;;;;;x
 c_obregon_adj;Obregónian;;obregóner;;;;;;;;;;;x
 c_oceanshore;Oceanshore;Oceanshore;Oceanshore;;Oceanshore;;;;;;;;;x
@@ -1671,12 +1669,16 @@ c_santa_cruz_2;Santa Cruz;Santa Cruz;Santa Cruz;;Santa Cruz;;;;;;;;;x
 c_santa_cruz_2_adj;Santa Cruzian;;Santa Cruzer;;;;;;;;;;;x
 c_santa_fe;Santa Fe;Santa Fe;Santa Fe;;Santa Fe;;;;;;;;;x
 c_santa_fe_adj;Santa Fean;;Santa Fer;;;;;;;;;;;x
+c_santa_maria;Santa Maria;Santa Maria;Santa Maria;;Santa Maria;;;;;;;;;x
+c_santa_maria_adj;Santa Marian;;Santa Marer;;;;;;;;;;;x
 c_santa_rosa;Santa Rosa;Santa Rosa;Santa Rosa;;Santa Rosa;;;;;;;;;x
 c_santa_rosa_adj;Santa Rosan;;Santa Roser;;;;;;;;;;;x
 c_santa_rosalia;Santa Rosalía;Santa Rosalía;Santa Rosalía;;Santa Rosalía;;;;;;;;;x
 c_santa_rosalia_adj;Santa Rosalían;;Santa Rosalíer;;;;;;;;;;;x
 c_santa_rosas;Santa Rosas;Santa Rosas;Santa Rosas;;Santa Rosas;;;;;;;;;x
 c_santa_rosas_adj;Santa Rosasian;;Santa Rosaser;;;;;;;;;;;x
+c_santa_ynez;Santa Ynez;Santa Ynez;Santa Ynez;;Santa Ynez;;;;;;;;;x
+c_santa_ynez_adj;Santa Ynezian;;Santa Ynezer;;;;;;;;;;;x
 c_santiago;Santiago;Santiago;Santiago;;Santiago;;;;;;;;;x
 c_santiago_adj;Santiagian;;santiager;;;;;;;;;;;x
 c_santo_domingo;Santo Domingo;Santo Domingo;Santo Domingo;;Santo Domingo;;;;;;;;;x
@@ -1871,8 +1873,6 @@ c_the_couve;the Couve;the Couve;the Couve;;the Couve;;;;;;;;;x
 c_the_couve_adj;the Couvean;;the Couver;;;;;;;;;;;x
 c_the_dalles;The Dalles;The Dalles;The Dalles;;The Dalles;;;;;;;;;x
 c_the_dalles_adj;The Dallesian;;The Dalleser;;;;;;;;;;;x
-c_the_padres;The Padres;The Padres;The Padres;;The Padres;;;;;;;;;x
-c_the_padres_adj;The Padresian;;The Padreser;;;;;;;;;;;x
 c_the_reach;The Reach;The Reach;The Reach;;The Reach;;;;;;;;;x
 c_the_reach_adj;The Reachian;;The Reacher;;;;;;;;;;;x
 c_the_times;The Times;The Times;The Times;;The Times;;;;;;;;;x
