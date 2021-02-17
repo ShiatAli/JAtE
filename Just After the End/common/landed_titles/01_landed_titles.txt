@@ -1082,7 +1082,7 @@ e_arixo = {
 				b_apache_creek = {
 				}
 			}
-			c_alamo = { # 620
+			c_alamo_2 = { # 620
 				color={ 219 157 48 }
 				color2={ 255 255 255 }
 				
@@ -20500,63 +20500,6 @@ e_socal = {
 		capital = 182 # c_los_angeles
 		culture = angeleno
 		
-		c_cuyama_valley = { # 199
-			color={ 92 122 93 }
-			color2={ 255 255 255 }
-			
-			b_alamo_mountain = {
-			}
-			b_mount_pinos = {
-			}
-			b_pine_mountain = {
-			}
-			b_pinon = {
-			}
-			b_frazier = {
-			}
-			b_lake_owoods = {
-			}
-			b_ventucopa = {
-			}
-		}
-		c_santa_maria = { # 196
-			color={ 128 160 64 }
-			color2={ 255 255 255 }
-			
-			b_santa_maria = {
-			}
-			b_orcutt = {
-			}
-			b_nipomo_2 = {
-			}
-			b_edna_2 = {
-			}
-			b_baywood = {
-			}
-			b_morro_bay_2 = {
-			}
-			b_santa_margarita = {
-			}
-		}
-		c_santa_ynez = { # 197
-			color={ 22 88 26 }
-			color2={ 255 255 255 }
-			
-			b_santa_ynez_2 = {
-			}
-			b_solvang_2 = {
-			}
-			b_sisquoc = {
-			}
-			b_madulce = {
-			}
-			b_san_rafael_2 = {
-			}
-			b_cachuma = {
-			}
-			b_knapps_castle = {
-			}
-		}
 		d_los_angeles = {
 			color={ 124 165 198 }
 			color2={ 255 255 255 }
@@ -20834,15 +20777,15 @@ e_socal = {
 					any_demesne_province = { OR = { province_id = 196 province_id = 197 province_id = 198 province_id = 199 province_id = 200 } }
 				}
 			}
-			capital = 196 # c_santa_maria
+			capital = 196 # c_obispo
 			
-			c_santa_maria = { # 196
+			c_obispo = { # 196
 				color={ 128 160 64 }
 				color2={ 255 255 255 }
 				
-				b_santa_maria = {
+				b_san_luis_obispo_2 = {
 				}
-				b_orcutt = {
+				b_santa_maria = {
 				}
 				b_nipomo_2 = {
 				}
@@ -20855,7 +20798,7 @@ e_socal = {
 				b_santa_margarita = {
 				}
 			}
-			c_cuyama_valley = { # 199
+			c_alamo = { # 199
 				color={ 92 122 93 }
 				color2={ 255 255 255 }
 				
@@ -20872,25 +20815,6 @@ e_socal = {
 				b_lake_owoods = {
 				}
 				b_ventucopa = {
-				}
-			}
-			c_santa_ynez = { # 197
-				color={ 22 88 26 }
-				color2={ 255 255 255 }
-				
-				b_santa_ynez_2 = {
-				}
-				b_solvang_2 = {
-				}
-				b_sisquoc = {
-				}
-				b_madulce = {
-				}
-				b_san_rafael_2 = {
-				}
-				b_cachuma = {
-				}
-				b_knapps_castle = {
 				}
 			}
 			c_tejon_pass = { # 200
@@ -20910,6 +20834,25 @@ e_socal = {
 				b_grapevine_creek = {
 				}
 				b_digier = {
+				}
+			}
+			c_the_padres = { # 197
+				color={ 22 88 26 }
+				color2={ 255 255 255 }
+				
+				b_los_padres = {
+				}
+				b_cuyama = {
+				}
+				b_sisquoc = {
+				}
+				b_madulce = {
+				}
+				b_san_rafael_2 = {
+				}
+				b_cachuma = {
+				}
+				b_knapps_castle = {
 				}
 			}
 			c_wheeler = { # 198
@@ -24133,7 +24076,7 @@ e_yellowstone = {
 		color2={ 255 255 255 }
 		
 		capital = 893 # c_helena
-		culture = plainsman
+		culture = prairielander
 		
 		d_broadwater = {
 			color={ 176 133 118 }
