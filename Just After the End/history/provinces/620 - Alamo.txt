@@ -1,7 +1,7 @@
-# c_alamo_2
+# c_alamo
 
 # County Title
-title = c_alamo_2
+title = c_alamo
 
 # Settlements
 max_settlements = 2

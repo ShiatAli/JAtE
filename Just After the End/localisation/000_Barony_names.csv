@@ -3201,8 +3201,6 @@ b_cutten;Cutten;Cutten;Cutten;;Cutten;;;;;;;;;x
 b_cutten_adj;Cuttenian;;cuttener;;;;;;;;;;;x
 b_cutter;Cutter;Cutter;Cutter;;Cutter;;;;;;;;;x
 b_cutter_adj;Cutterian;;cutterer;;;;;;;;;;;x
-b_cuyama;Cuyama;Cuyama;Cuyama;;Cuyama;;;;;;;;;x
-b_cuyama_adj;Cuyaman;;cuyamer;;;;;;;;;;;x
 b_cuyamungue ;Cuyamungue ;Cuyamungue ;Cuyamungue ;;Cuyamungue ;;;;;;;;;x
 b_cuyamungue _adj;Cuyamungue ian;;cuyamungue er;;;;;;;;;;;x
 b_d_nine;D-Nine;D-Nine;D-Nine;;D-Nine;;;;;;;;;x
@@ -7695,8 +7693,6 @@ b_los_ojos;Los Ojos;Los Ojos;Los Ojos;;Los Ojos;;;;;;;;;x
 b_los_ojos_adj;Los Ojosian;;Los Ojoser;;;;;;;;;;;x
 b_los_olivos;Los Olivos;Los Olivos;Los Olivos;;Los Olivos;;;;;;;;;x
 b_los_olivos_adj;Los Olivosian;;Los Olivoser;;;;;;;;;;;x
-b_los_padres;Los Padres;Los Padres;Los Padres;;Los Padres;;;;;;;;;x
-b_los_padres_adj;Los Padresian;;Los Padreser;;;;;;;;;;;x
 b_los_ranchos;Los Ranchos;Los Ranchos;Los Ranchos;;Los Ranchos;;;;;;;;;x
 b_los_ranchos_adj;Los Ranchosian;;Los Ranchoser;;;;;;;;;;;x
 b_los_santitos;Los Santitos;Los Santitos;Los Santitos;;Los Santitos;;;;;;;;;x
@@ -9519,6 +9515,8 @@ b_orchard_city;Orchard City;Orchard City;Orchard City;;Orchard City;;;;;;;;;x
 b_orchard_city_adj;Orchard Citian;;Orchard Citer;;;;;;;;;;;x
 b_orchard_mesa;Orchard Mesa;Orchard Mesa;Orchard Mesa;;Orchard Mesa;;;;;;;;;x
 b_orchard_mesa_adj;Orchard Mesan;;Orchard Meser;;;;;;;;;;;x
+b_orcutt;Orcutt;Orcutt;Orcutt;;Orcutt;;;;;;;;;x
+b_orcutt_adj;Orcuttian;;orcutter;;;;;;;;;;;x
 b_ordbend;Ordbend;Ordbend;Ordbend;;Ordbend;;;;;;;;;x
 b_ordbend_adj;Ordbendian;;ordbender;;;;;;;;;;;x
 b_orderville;Orderville;Orderville;Orderville;;Orderville;;;;;;;;;x
@@ -11581,8 +11579,6 @@ b_san_luis_lake;San Luis Lake;San Luis Lake;San Luis Lake;;San Luis Lake;;;;;;;;
 b_san_luis_lake_adj;San Luis Lakean;;San Luis Laker;;;;;;;;;;;x
 b_san_luis_obispo;San Luis Obispo;San Luis Obispo;San Luis Obispo;;San Luis Obispo;;;;;;;;;x
 b_san_luis_obispo_adj;San Luis Obispian;;San Luis Obisper;;;;;;;;;;;x
-b_san_luis_obispo_2;San Luis Obispo;San Luis Obispo;San Luis Obispo;;San Luis Obispo;;;;;;;;;x
-b_san_luis_obispo_2_adj;San Luis Obispian;;San Luis Obisper;;;;;;;;;;;x
 b_san_luis_rey;San Luis Rey;San Luis Rey;San Luis Rey;;San Luis Rey;;;;;;;;;x
 b_san_luis_rey_adj;San Luis Reian;;San Luis Reer;;;;;;;;;;;x
 b_san_luis_rio_colorado;San Luis Rio Colorado;San Luis Rio Colorado;San Luis Rio Colorado;;San Luis Rio Colorado;;;;;;;;;x
@@ -11773,6 +11769,8 @@ b_santa_susana;Santa Susana;Santa Susana;Santa Susana;;Santa Susana;;;;;;;;;x
 b_santa_susana_adj;Santa Susanan;;Santa Susaner;;;;;;;;;;;x
 b_santa_ynez;Santa Ynez;Santa Ynez;Santa Ynez;;Santa Ynez;;;;;;;;;x
 b_santa_ynez_adj;Santa Ynezian;;Santa Ynezer;;;;;;;;;;;x
+b_santa_ynez_2;Santa Ynez;Santa Ynez;Santa Ynez;;Santa Ynez;;;;;;;;;x
+b_santa_ynez_2_adj;Santa Ynezian;;Santa Ynezer;;;;;;;;;;;x
 b_santaquin;Santaquin;Santaquin;Santaquin;;Santaquin;;;;;;;;;x
 b_santaquin_adj;Santaquinian;;santaquiner;;;;;;;;;;;x
 b_santee;Santee;Santee;Santee;;Santee;;;;;;;;;x
@@ -12347,6 +12345,8 @@ b_soledad;Soledad;Soledad;Soledad;;Soledad;;;;;;;;;x
 b_soledad_adj;Soledadian;;soledader;;;;;;;;;;;x
 b_solvang;Solvang;Solvang;Solvang;;Solvang;;;;;;;;;x
 b_solvang_adj;Solvangian;;solvanger;;;;;;;;;;;x
+b_solvang_2;Solvang;Solvang;Solvang;;Solvang;;;;;;;;;x
+b_solvang_2_adj;Solvangian;;solvanger;;;;;;;;;;;x
 b_somavia;Somavia;Somavia;Somavia;;Somavia;;;;;;;;;x
 b_somavia_adj;Somavian;;somaver;;;;;;;;;;;x
 b_somers;Somers;Somers;Somers;;Somers;;;;;;;;;x

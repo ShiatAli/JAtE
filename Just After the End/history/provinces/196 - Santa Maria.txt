@@ -1,13 +1,13 @@
-# c_obispo
+# c_santa_maria
 
 # County Title
-title = c_obispo
+title = c_santa_maria
 
 # Settlements
 max_settlements = 4
 
-b_san_luis_obispo_2 = castle
-b_santa_maria = city
+b_santa_maria = castle
+b_orcutt = city
 b_nipomo_2 = temple
 #b_edna_2 = castle
 #b_baywood = city

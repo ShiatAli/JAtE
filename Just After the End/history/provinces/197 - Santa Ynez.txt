@@ -1,13 +1,13 @@
-# c_the_padres
+# c_santa_ynez
 
 # County Title
-title = c_the_padres
+title = c_santa_ynez
 
 # Settlements
 max_settlements = 3
 
-b_los_padres = castle
-b_cuyama = city
+b_santa_ynez_2 = castle
+b_solvang_2 = city
 #b_sisquoc = temple
 #b_madulce = castle
 #b_san_rafael_2 = city
