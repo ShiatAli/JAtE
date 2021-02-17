@@ -76,9 +76,9 @@ canuck = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
-	punjabi = {
+	Vainakuvara'ita = {
 		graphical_cultures = { indiangfx }
-		unit_graphical_cultures = { englishgfx saxongfx }
+		unit_graphical_cultures = { indiangfx }
 
 		color = { 0.89 0.60 0.38 }
 
@@ -133,7 +133,7 @@ canuck = {
 			Zainab Zara Zoie_Zoe 
 		}
 
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "tom "
 		
 		prefix = no # The patronym is added as a suffix
 		
@@ -150,7 +150,6 @@ canuck = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
-	
 	fraserian = {
 		graphical_cultures = { canadiangfx whitepacificgfx }
 		unit_graphical_cultures = { englishgfx saxongfx }
@@ -208,7 +207,7 @@ canuck = {
 			Zainab Zara Zoie_Zoe 
 		}
 
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "of "
 		
 		prefix = no # The patronym is added as a suffix
 		
@@ -282,7 +281,7 @@ canuck = {
 			Zainab Zara Zoie_Zoe 
 		}
 
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "of "
 		
 		prefix = no # The patronym is added as a suffix
 		
@@ -356,7 +355,7 @@ canuck = {
 			Zainab Zara Zoie_Zoe 
 		}
 
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "of "
 		
 		prefix = no # The patronym is added as a suffix
 		
@@ -430,7 +429,7 @@ canuck = {
 			Zainab Zara Zoie_Zoe 
 		}
 
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "of "
 		
 		prefix = no # The patronym is added as a suffix
 		
