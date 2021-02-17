@@ -1,7 +1,7 @@
-# c_cuyama_valley
+# c_alamo
 
 # County Title
-title = c_cuyama_valley
+title = c_alamo
 
 # Settlements
 max_settlements = 2

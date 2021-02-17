@@ -194,10 +194,10 @@ province;red;green;blue;x;x
 193;64;160;128;Santa Barbara;x
 194;96;224;128;Las Crusces;x
 195;32;192;128;Lompoc;x
-196;128;160;64;Santa Maria;x
-197;22;88;26;Santa Ynez;x
+196;128;160;64;Obispo;x
+197;22;88;26;The Padres;x
 198;46;134;51;Wheeler;x
-199;92;122;93;Cuyama Valley;x
+199;92;122;93;Alamo;x
 200;109;201;114;Tejon Pass;x
 201;20;61;20;Santa Clarita;x
 202;88;126;88;Palmdale;x
@@ -618,7 +618,7 @@ province;red;green;blue;x;x
 617;225;195;177;East Sierra;x
 618;183;158;112;Mogollon;x
 619;230;185;105;San Agustin;x
-620;219;157;48;Alamo;x
+620;219;157;48;Alamo_2;x
 621;137;133;255;Bernalillo;x
 622;32;29;121;Torrance_2;x
 623;157;154;255;Valencia;x

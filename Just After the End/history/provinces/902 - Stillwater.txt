@@ -15,7 +15,7 @@ b_columbus_2 = castle
 #b_joilet = castle
 
 # Misc
-culture = plainsman
-religion = trailwalker
+culture = crow
+religion = peyotist
 
 #History

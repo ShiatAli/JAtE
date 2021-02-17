@@ -16,6 +16,6 @@ b_enterprise_3 = castle
 
 # Misc
 culture = bluemen
-religion = millenarian
+religion = gaian
 
 #History
