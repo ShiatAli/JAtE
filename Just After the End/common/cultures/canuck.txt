@@ -9,7 +9,7 @@ canuck = {
 		color = { 0.7 0.1 0.1 }
 
 		male_names = {
-			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
 			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
 			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
 			Damien_Damian Darien Davis Daya Devon Douglas Drake
@@ -76,14 +76,14 @@ canuck = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
-	Vainakuvara'ita = {
+	vainakuvara'ita = {
 		graphical_cultures = { indiangfx }
 		unit_graphical_cultures = { indiangfx }
 
 		color = { 0.89 0.60 0.38 }
 
 		male_names = {
-			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
 			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
 			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
 			Damien_Damian Darien Davis Daya Devon Douglas Drake
@@ -157,7 +157,7 @@ canuck = {
 		color = { 0.42 0.66 0.69 }
 
 		male_names = {
-			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
 			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
 			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
 			Damien_Damian Darien Davis Daya Devon Douglas Drake
@@ -231,7 +231,7 @@ canuck = {
 		color = { 0.55 0.56 0.73 }
 
 		male_names = {
-			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
 			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
 			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
 			Damien_Damian Darien Davis Daya Devon Douglas Drake
@@ -305,7 +305,7 @@ canuck = {
 		color = { 0.47 0.47 0.81 }
 
 		male_names = {
-			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
 			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
 			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
 			Damien_Damian Darien Davis Daya Devon Douglas Drake
@@ -379,7 +379,7 @@ canuck = {
 		color = { 0.23 0.45 0.63 }
 
 		male_names = {
-			Abel Adam Adolf Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
+			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
 			Balraj Barry Begbie Benedict Bennett Benson Bert_Albert Blackburn Blamire Brendan Brett Brian Bronson Bjarni_Beorn
 			Caius Cameron Capilano Carson Charlie_Charles Chartres Chase Chit Chris_Christopher Clevin Conner_Connor Cory Couper Cumberland
 			Damien_Damian Darien Davis Daya Devon Douglas Drake
