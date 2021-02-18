@@ -15,7 +15,7 @@ b_plummer = castle
 #b_de_smet = castle
 
 # Misc
-culture = palouse
+culture = skitswish
 religion = millenarian
 
 #History

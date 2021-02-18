@@ -16,6 +16,6 @@ b_lovelock = castle
 
 # Misc
 culture = north_paiute
-religion = atomicist
+religion = peyotist
 
 #History

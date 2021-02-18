@@ -15,7 +15,7 @@ b_fallon = castle
 #b_dead_camel = castle
 
 # Misc
-culture = west_paiute
+culture = renolander
 religion = atomicist
 
 #History
