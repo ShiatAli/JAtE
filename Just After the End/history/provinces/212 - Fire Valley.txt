@@ -15,7 +15,7 @@ b_crystal = city
 #b_moapa = castle
 
 # Misc
-culture = clarkard
+culture = south_paiute
 religion = cetic
 
 #History

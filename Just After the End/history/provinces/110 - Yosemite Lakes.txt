@@ -15,7 +15,7 @@ b_yosemite_lakes = castle
 #b_fine_gold = castle
 
 # Misc
-culture = valleyan
-religion = cetic
+culture = mono
+religion = peyotist
 
 #History
