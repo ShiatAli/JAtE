@@ -15,7 +15,7 @@ b_oalthkyim = city
 #b_wilson_creek_2 = castle
 
 # Misc
-culture = coastranger
+culture = coast_salish
 religion = gaian
 
 #History

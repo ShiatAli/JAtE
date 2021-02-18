@@ -76,7 +76,7 @@ canuck = {
 		feminist = yes
 		modifier = default_culture_modifier
 	}
-	vainakuvara'ita = {
+	vainakuvaraita = {
 		graphical_cultures = { indiangfx }
 		unit_graphical_cultures = { indiangfx }
 

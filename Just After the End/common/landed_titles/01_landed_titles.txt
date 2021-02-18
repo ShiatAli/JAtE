@@ -7657,7 +7657,7 @@ e_grand_vancouver = {
 			}
 		}
 	}
-	k_upisla_nd = {
+	k_upisland = {
 		color={ 141 154 109 }
 		color2={ 255 255 255 }
 		

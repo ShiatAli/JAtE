@@ -15,7 +15,7 @@ b_owyhee = castle
 #b_blue_creek = castle
 
 # Misc
-culture = north_paiute
+culture = shoshone
 religion = peyotist
 
 #History

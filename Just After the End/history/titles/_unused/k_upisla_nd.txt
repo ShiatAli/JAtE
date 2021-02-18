@@ -1,0 +1,5 @@
+# k_upisla_nd
+2000.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}

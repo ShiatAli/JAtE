@@ -15,7 +15,7 @@ b_hopkins_landing = city
 #b_the_poplar = castle
 
 # Misc
-culture = coastranger
+culture = fraserian
 religion = gaian
 
 #History

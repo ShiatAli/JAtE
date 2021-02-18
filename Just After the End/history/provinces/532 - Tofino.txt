@@ -15,7 +15,7 @@ b_tofino = castle
 #b_vargas_2 = castle
 
 # Misc
-culture = nuuchahnulth
-religion = gaian
+culture = islander
+religion = black_cross
 
 #History

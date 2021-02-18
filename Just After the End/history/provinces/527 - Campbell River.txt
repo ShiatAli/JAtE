@@ -15,7 +15,7 @@ b_quathiaski = city
 #b_elk_falls = castle
 
 # Misc
-culture = islander
+culture = coast_salish
 religion = gaian
 
 #History

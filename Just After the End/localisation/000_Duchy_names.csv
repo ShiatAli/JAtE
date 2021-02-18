@@ -83,8 +83,6 @@ d_channel_islands;Channel Islands;Channel Islands;Channel Islands;;Channel Islan
 d_channel_islands_adj;Channel Islandsian;;Channel Islandser;;;;;;;;;;;x
 d_chelan;Chelan;Chelan;Chelan;;Chelan;;;;;;;;;x
 d_chelan_adj;Chelanian;;chelaner;;;;;;;;;;;x
-d_chicktoria;Chicktoria;Chicktoria;Chicktoria;;Chicktoria;;;;;;;;;x
-d_chicktoria_adj;Chicktorian;;chicktorer;;;;;;;;;;;x
 d_chinle;Chinle;Chinle;Chinle;;Chinle;;;;;;;;;x
 d_chinle_adj;Chinlean;;chinler;;;;;;;;;;;x
 d_clackers;Clackers;Clackers;Clackers;;Clackers;;;;;;;;;x
@@ -117,8 +115,8 @@ d_coos;Coos;Coos;Coos;;Coos;;;;;;;;;x
 d_coos_adj;Coosian;;cooser;;;;;;;;;;;x
 d_coso;Coso;Coso;Coso;;Coso;;;;;;;;;x
 d_coso_adj;Cosian;;coser;;;;;;;;;;;x
-d_cowichan;Cowichan;Cowichan;Cowichan;;Cowichan;;;;;;;;;x
-d_cowichan_adj;Cowichanian;;cowichaner;;;;;;;;;;;x
+d_cowichan_valley;Cowichan Valley;Cowichan Valley;Cowichan Valley;;Cowichan Valley;;;;;;;;;x
+d_cowichan_valley_adj;Cowichan Valleian;;Cowichan Valleer;;;;;;;;;;;x
 d_cowlitz;Cowlitz;Cowlitz;Cowlitz;;Cowlitz;;;;;;;;;x
 d_cowlitz_adj;Cowlitzian;;cowlitzer;;;;;;;;;;;x
 d_crag;Crag;Crag;Crag;;Crag;;;;;;;;;x
@@ -169,6 +167,8 @@ d_flathead;Flathead;Flathead;Flathead;;Flathead;;;;;;;;;x
 d_flathead_adj;Flatheadian;;flatheader;;;;;;;;;;;x
 d_folsom_heights;Folsom Heights;Folsom Heights;Folsom Heights;;Folsom Heights;;;;;;;;;x
 d_folsom_heights_adj;Folsom Heightsian;;Folsom Heightser;;;;;;;;;;;x
+d_forest_trails;Forest Trails;Forest Trails;Forest Trails;;Forest Trails;;;;;;;;;x
+d_forest_trails_adj;Forest Trailsian;;Forest Trailser;;;;;;;;;;;x
 d_fort_defiance;Fort Defiance;Fort Defiance;Fort Defiance;;Fort Defiance;;;;;;;;;x
 d_fort_defiance_adj;Fort Defiancean;;Fort Defiancer;;;;;;;;;;;x
 d_franklin;Franklin;Franklin;Franklin;;Franklin;;;;;;;;;x
@@ -213,6 +213,8 @@ d_grays_harbor;Grays Harbor;Grays Harbor;Grays Harbor;;Grays Harbor;;;;;;;;;x
 d_grays_harbor_adj;Grays Harborian;;Grays Harborer;;;;;;;;;;;x
 d_great_coulee;Great Coulee;Great Coulee;Great Coulee;;Great Coulee;;;;;;;;;x
 d_great_coulee_adj;Great Couleean;;Great Couler;;;;;;;;;;;x
+d_greater_victoria;Greater Victoria;Greater Victoria;Greater Victoria;;Greater Victoria;;;;;;;;;x
+d_greater_victoria_adj;Greater Victorian;;Greater Victorer;;;;;;;;;;;x
 d_green_river;Green River;Green River;Green River;;Green River;;;;;;;;;x
 d_green_river_adj;Green Riverian;;Green Riverer;;;;;;;;;;;x
 d_guasave;Guasave;Guasave;Guasave;;Guasave;;;;;;;;;x
@@ -221,10 +223,6 @@ d_gulf_islands;Gulf Islands;Gulf Islands;Gulf Islands;;Gulf Islands;;;;;;;;;x
 d_gulf_islands_adj;Gulf Islandsian;;Gulf Islandser;;;;;;;;;;;x
 d_gunnison;Gunnison;Gunnison;Gunnison;;Gunnison;;;;;;;;;x
 d_gunnison_adj;Gunnisonian;;gunnisoner;;;;;;;;;;;x
-d_haihte;Haihte;Haihte;Haihte;;Haihte;;;;;;;;;x
-d_haihte_adj;Haihtean;;haihter;;;;;;;;;;;x
-d_halifax;Halifax;Halifax;Halifax;;Halifax;;;;;;;;;x
-d_halifax_adj;Halifaxian;;halifaxer;;;;;;;;;;;x
 d_harney;Harney;Harney;Harney;;Harney;;;;;;;;;x
 d_harney_adj;Harneian;;harneer;;;;;;;;;;;x
 d_henry;Henry;Henry;Henry;;Henry;;;;;;;;;x
@@ -399,6 +397,8 @@ d_pacheco;Pacheco;Pacheco;Pacheco;;Pacheco;;;;;;;;;x
 d_pacheco_adj;Pachecian;;pachecer;;;;;;;;;;;x
 d_pacific;Pacific;Pacific;Pacific;;Pacific;;;;;;;;;x
 d_pacific_adj;Pacifician;;pacificer;;;;;;;;;;;x
+d_pacific_rim;Pacific Rim;Pacific Rim;Pacific Rim;;Pacific Rim;;;;;;;;;x
+d_pacific_rim_adj;Pacific Rimian;;Pacific Rimer;;;;;;;;;;;x
 d_park;Park;Park;Park;;Park;;;;;;;;;x
 d_park_adj;Parkian;;parker;;;;;;;;;;;x
 d_pend_oreille;Pend Oreille;Pend Oreille;Pend Oreille;;Pend Oreille;;;;;;;;;x

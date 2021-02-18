@@ -14,7 +14,7 @@ b_langely_town = city
 #b_campbell_heights = temple
 
 # Misc
-culture = fraserian
+culture = vainakuvaraita
 religion = gaian
 
 #History

@@ -15,7 +15,7 @@ b_garden_bay = city
 #b_beaver_island = castle
 
 # Misc
-culture = coastranger
+culture = fraserian
 religion = gaian
 
 #History
