@@ -15,7 +15,7 @@ b_wendover = castle
 #b_toano = castle
 
 # Misc
-culture = shoshone
+culture = lonelyroader
 religion = atomicist
 
 #History

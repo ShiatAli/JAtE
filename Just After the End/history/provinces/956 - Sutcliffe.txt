@@ -15,7 +15,7 @@ b_sutcliffe = castle
 #b_warrior_point = castle
 
 # Misc
-culture = west_paiute
+culture = north_paiute
 religion = peyotist
 
 #History
