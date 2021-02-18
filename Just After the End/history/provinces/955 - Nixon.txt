@@ -15,7 +15,7 @@ b_nixon = castle
 #b_dead_ox = castle
 
 # Misc
-culture = north_paiute
+culture = west_paiute
 religion = peyotist
 
 #History

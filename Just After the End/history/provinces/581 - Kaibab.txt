@@ -15,7 +15,7 @@ b_north_rim = castle
 #b_summit_valley = castle
 
 # Misc
-culture = south_paiute
+culture = staircaser
 religion = atomicist
 
 #History

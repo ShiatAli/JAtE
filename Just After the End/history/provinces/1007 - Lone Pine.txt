@@ -15,7 +15,7 @@ b_reward_2 = temple
 #b_seven_pines = castle
 
 # Misc
-culture = mono
-religion = peyotist
+culture = monyo
+religion = atomicist
 terrain = desert
 #History

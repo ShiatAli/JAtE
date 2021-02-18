@@ -15,7 +15,7 @@ b_hawthorne = castle
 #b_excelsior_2 = castle
 
 # Misc
-culture = north_paiute
+culture = west_paiute
 religion = atomicist
 terrain = desert
 #History

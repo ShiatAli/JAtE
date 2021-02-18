@@ -15,7 +15,7 @@ b_winnemucca = castle
 #b_mt_edna = castle
 
 # Misc
-culture = north_paiute
-religion = peyotist
+culture = shoshone
+religion = atomicist
 
 #History

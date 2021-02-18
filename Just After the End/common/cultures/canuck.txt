@@ -1,6 +1,6 @@
 ###ÄNSI
 canuck = {
-	graphical_cultures = { whitepacificgfx westerngfx }
+	graphical_cultures = { pacificgfx westerngfx }
 	
 	canuck = {
 		graphical_cultures = { canadiangfx whitepacificgfx }
@@ -77,10 +77,11 @@ canuck = {
 		modifier = default_culture_modifier
 	}
 	vainakuvaraita = {
-		graphical_cultures = { indiangfx }
+		graphical_cultures = { indiangfx southindiangfx }
 		unit_graphical_cultures = { indiangfx }
 
 		color = { 0.89 0.60 0.38 }
+		vainakuvaraita = { parent = vancouverite }
 
 		male_names = {
 			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
@@ -151,10 +152,11 @@ canuck = {
 		modifier = default_culture_modifier
 	}
 	fraserian = {
-		graphical_cultures = { canadiangfx whitepacificgfx }
+		graphical_cultures = { canadiangfx pacificgfx chinesegfx }
 		unit_graphical_cultures = { englishgfx saxongfx }
 
-		color = { 0.42 0.66 0.69 }
+		color = { 0.6 0.5 0.8 }
+		fraserian = { parent = vancouverite }
 
 		male_names = {
 			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
@@ -303,6 +305,7 @@ canuck = {
 		unit_graphical_cultures = { englishgfx saxongfx }
 
 		color = { 0.47 0.47 0.81 }
+		character_modifier = { sex_appeal_opinion = 10 }
 
 		male_names = {
 			Abel Adam Adrien_Adrian Ahmed Aidan Aikam Ajay Alan Alexander_Alexander Alpin Amir Amuro Anders_Andrew Antony_Anthony Arran Arthur Attila Avan 
