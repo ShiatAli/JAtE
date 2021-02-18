@@ -65,7 +65,7 @@ northwest_coast = {
 		graphical_cultures = { haidagfx northernnativegfx }
 		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
 		
-		color = { 0.4 0.2 0.1 }
+		color = { 0.2 0.1 0.06 }
 
 		male_names = {
 			Baxbakwa'lanuxusiwe Bigaqla 			#names derived from Heiltsuk
@@ -235,7 +235,7 @@ northwest_coast = {
 	coast_salish = {
 		graphical_cultures = { haidagfx northernnativegfx }
 		
-		color = { 0.24 0.59 0.54 }
+		color = { 0.66 0.28 0.1 }
 		
 		male_names = {
 			Baxbakwa'lanuxusiwe Bigaqla 			#names derived from Heiltsuk
@@ -320,7 +320,7 @@ northwest_coast = {
 	nuuchahnulth = {
 		graphical_cultures = { haidagfx northernnativegfx }
 		
-		color = { 0.27 0.7 0.17 }
+		color = { 0.66 0.4 0.3 }
 		
 		male_names = {
 			Baxbakwa'lanuxusiwe Bigaqla 			#names derived from Heiltsuk
