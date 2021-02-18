@@ -15,7 +15,7 @@ b_lovelock = castle
 #b_woolsey = castle
 
 # Misc
-culture = renolander
+culture = north_paiute
 religion = atomicist
 
 #History

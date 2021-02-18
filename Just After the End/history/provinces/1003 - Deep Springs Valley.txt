@@ -1,13 +1,13 @@
-# c_oasis
+# c_deep_springs_valley
 
 # County Title
-title = c_oasis
+title = c_deep_springs_valley
 
 # Settlements
 max_settlements = 3
 
-b_oasis = castle
-b_deep_springs = city
+b_deep_springs = castle
+b_oasis = city
 #b_sylvania = temple
 #b_crater = castle
 #b_mount_nunn = city

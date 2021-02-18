@@ -1,7 +1,7 @@
-# c_dayton_2
+# c_molossia
 
 # County Title
-title = c_dayton_2
+title = c_molossia
 
 # Settlements
 max_settlements = 3

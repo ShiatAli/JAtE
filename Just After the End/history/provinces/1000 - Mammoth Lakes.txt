@@ -1,7 +1,7 @@
-# c_benton
+# c_mammoth_lakes
 
 # County Title
-title = c_benton
+title = c_mammoth_lakes
 
 # Settlements
 max_settlements = 3

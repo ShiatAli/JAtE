@@ -1,12 +1,12 @@
-# c_pine_grove
+# c_bridgeport_2
 
 # County Title
-title = c_pine_grove
+title = c_bridgeport_2
 
 # Settlements
 max_settlements = 2
 
-b_pine_grove_2 = castle
+b_bridgeport_4 = castle
 #b_wichman = city
 #b_bald_mountain = temple
 #b_belfort = castle

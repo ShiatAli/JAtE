@@ -8999,6 +8999,8 @@ b_neeley;Neeley;Neeley;Neeley;;Neeley;;;;;;;;;x
 b_neeley_adj;Neeleian;;neeleer;;;;;;;;;;;x
 b_neenach;Neenach;Neenach;Neenach;;Neenach;;;;;;;;;x
 b_neenach_adj;Neenachian;;neenacher;;;;;;;;;;;x
+b_negit_island;Negit Island;Negit Island;Negit Island;;Negit Island;;;;;;;;;x
+b_negit_island_adj;Negit Islandian;;Negit Islander;;;;;;;;;;;x
 b_nehalem;Nehalem;Nehalem;Nehalem;;Nehalem;;;;;;;;;x
 b_nehalem_adj;Nehalemian;;nehalemer;;;;;;;;;;;x
 b_neilton;Neilton;Neilton;Neilton;;Neilton;;;;;;;;;x
@@ -10081,8 +10083,6 @@ b_pine_creek_2;Pine Creek;Pine Creek;Pine Creek;;Pine Creek;;;;;;;;;x
 b_pine_creek_2_adj;Pine Creekian;;Pine Creeker;;;;;;;;;;;x
 b_pine_grove;Pine Grove;Pine Grove;Pine Grove;;Pine Grove;;;;;;;;;x
 b_pine_grove_adj;Pine Grovean;;Pine Grover;;;;;;;;;;;x
-b_pine_grove_2;Pine Grove;Pine Grove;Pine Grove;;Pine Grove;;;;;;;;;x
-b_pine_grove_2_adj;Pine Grovean;;Pine Grover;;;;;;;;;;;x
 b_pine_mountain;Pine Mountain;Pine Mountain;Pine Mountain;;Pine Mountain;;;;;;;;;x
 b_pine_mountain_adj;Pine Mountainian;;Pine Mountainer;;;;;;;;;;;x
 b_pinedale;Pinedale;Pinedale;Pinedale;;Pinedale;;;;;;;;;x

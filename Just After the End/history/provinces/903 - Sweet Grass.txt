@@ -15,7 +15,7 @@ b_big_timber = castle
 #b_nye = castle
 
 # Misc
-culture = crow
-religion = peyotist
+culture = plainsman
+religion = plainsman
 
 #History
