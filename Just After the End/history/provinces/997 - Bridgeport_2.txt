@@ -15,7 +15,7 @@ b_bridgeport_4 = castle
 #b_big_indian_mountain = castle
 
 # Misc
-culture = north_paiute
-religion = peyotist
+culture = renolander
+religion = atomicist
 terrain = desert
 #History

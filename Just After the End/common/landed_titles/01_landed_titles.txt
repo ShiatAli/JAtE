@@ -15343,7 +15343,7 @@ e_nevada = {
 		color2={ 255 255 255 }
 		
 		capital = 966 # c_elko
-		culture = lonelyroader
+		culture = north_paiute
 		
 		d_elko = {
 			color={ 127 204 60 }

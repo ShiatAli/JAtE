@@ -15,7 +15,7 @@ b_jackpot = castle
 #b_shoshone_creek = castle
 
 # Misc
-culture = north_paiute
-religion = peyotist
+culture = juniperian
+religion = sovereignist
 
 #History

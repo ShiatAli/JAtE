@@ -16,6 +16,6 @@ b_paradise_valley = castle
 
 # Misc
 culture = north_paiute
-religion = peyotist
+religion = atomicist
 
 #History

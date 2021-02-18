@@ -15,7 +15,7 @@ b_ruby_valley = castle
 #b_shanty = castle
 
 # Misc
-culture = shoshone
-religion = peyotist
+culture = north_paiute
+religion = atomicist
 
 #History

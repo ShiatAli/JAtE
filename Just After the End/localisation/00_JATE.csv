@@ -88,8 +88,7 @@ bighorner;Bighorner;;;;;;;;;;;;;x
 #Native Cultures
 yakama;Yakama;;;;;;;;;;;;;x
 north_paiute;North Paiute;;;;;;;;;;;;;x
-south_paiute;South Paiute;;;;;;;;;;;;;x
-mono;Mono;;;;;;;;;;;;;x
+west_paiute;West Paiute;;;;;;;;;;;;;x
 shoshone;Shoshone;;;;;;;;;;;;;x
 ute;Ute;;;;;;;;;;;;;x
 selish;Selish;;;;;;;;;;;;;x
@@ -173,7 +172,6 @@ GOD_JESUS;Jesus;;;;;;;;;;;;;x
 SATAN;Satan;;;;;;;;;;;;;x
 LUCIFER;Lucifer;;;;;;;;;;;;;x
 THE_DEVIL;the Devil;;;;;;;;;;;;;x
-
 #Mine Cultist
 mine_cultist;Mine Cultist;;;;;;;;;;;;;x
 mine_cultist_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines, and "lay off" their holy miners.;;;;;;;;;;;;;x
@@ -197,49 +195,3 @@ GOD_LUNG_BURNER;Lung Burner;;;;;;;;;;;;;x
 FOREMAN;Foreman;;;;;;;;;;;;;x
 THE_OPERATORS_MANUAL;The Operator's Manual;;;;;;;;;;;;;x
 PROSPECTION;Prospection;;;;;;;;;;;;;x
-
-#Conservationist
-conservationist;Conservationist;;;;;;;;;;;;;x
-conservationist_DESC;In the Wild Wilderness of California, lay the men and women of the Rangers of Muir, a dedicated force of individuals who continue to recite the ancient creed of "Conservation", to this they maintain ranger camps across the California watching for the siren calls of the Dark Cicada which will herald the fires that are believed to have consumed the old world.  As stated from one of their patron deities the Guardian of the Woods, Smokey "Only you can prevent Wildfires"...;;;;;;;;;;;;;x
-GOD_MUIR;Muir;;;;;;;;;;;;;x
-GOD_GENERAL_SHERMAN;Sherman;;;;;;;;;;;;;x
-GOD_HYPERION;Hyperion;;;;;;;;;;;;;x
-GOD_JUGGERNAUT;Juggernaut;;;;;;;;;;;;;x
-GOD_SMOKEY;Smokey;;;;;;;;;;;;;x
-GOD_FELLERS;Fellers;;;;;;;;;;;;;x
-GOD_TORCHERS;Torchers;;;;;;;;;;;;;x
-GOD_TERMITES;Termites;;;;;;;;;;;;;x
-GOD_THE_DARK_CICADA;The Dark Cicada;;;;;;;;;;;;;x
-RANGER;Ranger;;;;;;;;;;;;;x
-CHIEF_RANGERS_BOOK;Chief Ranger's Book;;;;;;;;;;;;;x
-
-#Keshian
-keshian;Keshian;;;;;;;;;;;;;x
-keshian_DESC;Followers of Guru Le Guin, The Keshians believe in the rejection of materiality and violence, and understanding the necessity of communion for the maintenance of universal peace. Even if the teachings of Guru Le Guin form the basis of their practices, followers often speak of many others.;;;;;;;;;;;;;x
-GOD_SHE-WHO-WATCHES;She-Who-Watches;;;;;;;;;;;;;x
-GOD_THE_UNBINDING;The Unbinding;;;;;;;;;;;;;x
-GOD_THE_CYCLE;The Cycle;;;;;;;;;;;;;x
-GOD_THE_MOUNTAIN_GRANDMOTHER;The Mountain Grandmother;;;;;;;;;;;;;x
-GOD_THE_COYOTE;The Coyote;;;;;;;;;;;;;x
-GOD_THE_CONDOR;The Condor;;;;;;;;;;;;;x
-GOD_SICKNESS_OF_MAN;The Sickness of Man;;;;;;;;;;;;;x
-GOD_GEBBETH;Gebbeth;;;;;;;;;;;;;x
-GOD_WAR-MAKER;War-maker;;;;;;;;;;;;;x
-THE_TELLINGS_AND_LISTENINGS;The Tellings and Listenings;;;;;;;;;;;;;x
-DRUID;DRUID;;;;;;;;;;;;;x
-
-#Refulgents
-refulgent;Refulgent;;;;;;;;;;;;;x
-refulgent_DESC;The Refulgents are a collection of groups that worship Fire in many forms, seeing it as the most powerful Force of Nature. Refulgents see themselves as stewards, seeking to maintain balance with the world around them by carefully tending to Fire, feeding it that which is necessary so that it may do its work but containing it from spreading wantonly. Fire destroys all in it's path but in doing so gives room for new life to grow strong, this cycle is vital to Refulgents, who see it as the truest law of nature, the old dies so that the new can thrive. They extend this law to themselves in the form of complex rituals, where they build effigies and temples and burn them to symbolically cleanse themselves as the land around them is cleansed.;;;;;;;;;;;;;x 
-GOD_THE_CLEANSING_FLAME;The Cleansing Flame;;;;;;;;;;;;;x
-GOD_THE_TORCHBEARER;The Torchbearer;;;;;;;;;;;;;x
-GOD_SMOKEY;Smokey;;;;;;;;;;;;;x
-GOD_THE_BURNING_MAN;The Burning Man;;;;;;;;;;;;;x
-GOD_HEARTH-MOTHER;Hearth-Mother;;;;;;;;;;;;;x
-GOD_PHOENIX;Phoenix;;;;;;;;;;;;;x
-GOD_THE_LONG_FROST;The Long Frost;;;;;;;;;;;;;x
-GOD_THE_CARELESS_SPARK;The Careless Spark;;;;;;;;;;;;;x
-GOD_OVERGROWTH;Overgrowth;;;;;;;;;;;;;x
-IGNITION;Ignition;;;;;;;;;;;;;x
-THE_FIRESIDE_TALES;The Fireside Tales;;;;;;;;;;;;;x
-FIREMAN;Fireman;;;;;;;;;;;;;x

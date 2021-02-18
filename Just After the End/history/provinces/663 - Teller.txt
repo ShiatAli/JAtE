@@ -16,6 +16,6 @@ b_cripple_creek = castle
 
 # Misc
 culture = coloradan
-religion = mine_cultist
+religion = neognostic
 
 #History
