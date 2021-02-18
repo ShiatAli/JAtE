@@ -15,7 +15,7 @@ b_elko_2 = castle
 #b_jiggs = castle
 
 # Misc
-culture = north_paiute
+culture = lonelyroader
 religion = atomicist
 
 #History

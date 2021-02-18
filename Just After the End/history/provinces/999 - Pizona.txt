@@ -15,7 +15,7 @@ b_pizona = castle
 #b_trafton_2 = castle
 
 # Misc
-culture = west_paiute
+culture = mono
 religion = peyotist
 terrain = desert
 #History
