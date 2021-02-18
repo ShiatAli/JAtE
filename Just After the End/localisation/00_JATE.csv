@@ -92,6 +92,7 @@ west_paiute;West Paiute;;;;;;;;;;;;;x
 shoshone;Shoshone;;;;;;;;;;;;;x
 ute;Ute;;;;;;;;;;;;;x
 selish;Selish;;;;;;;;;;;;;x
+skitswish;Skitswish;;;;;;;;;;;;;x
 
 ###########Titular Titles###########
 d_pikeplace;Pikeplace;;;;;;;;;;;;;x
@@ -171,4 +172,26 @@ GOD_JESUS;Jesus;;;;;;;;;;;;;x
 SATAN;Satan;;;;;;;;;;;;;x
 LUCIFER;Lucifer;;;;;;;;;;;;;x
 THE_DEVIL;the Devil;;;;;;;;;;;;;x
-
+#Mine Cultist
+mine_cultist;Mine Cultist;;;;;;;;;;;;;x
+mine_cultist_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines, and "lay off" their holy miners.;;;;;;;;;;;;;x
+mine_cultist_reformed;Mine Cultist;;;;;;;;;;;;;x
+mine_cultist_reformed_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines, and "lay off" their holy miners. The codes and traditions of the Mine Cultists have been codified into a book entitled "The Operator's Manual".;;;;;;;;;;;;;x
+GOD_THE_MOTHERLODE;The Motherlode;;;;;;;;;;;;;x
+GOD_HE_WHO_BOOMS;He Who Booms;;;;;;;;;;;;;x
+GOD_BIG_BAD_JOHN;Big Bad John;;;;;;;;;;;;;x
+GOD_THE_CANARY;The Canary;;;;;;;;;;;;;x
+GOD_THE_NOBLE_BLASTER;The Noble Blaster;;;;;;;;;;;;;x
+GOD_THE_TRAILGUIDE;The Trailguide;;;;;;;;;;;;;x
+GOD_THE_SUPREME_PLACER;The Supreme Placer;;;;;;;;;;;;;x
+GOD_THE_IRON_HORSE;The Iron Horse;;;;;;;;;;;;;x
+GOD_BLESSED_BULLARD;Blessed Bullard;;;;;;;;;;;;;x
+GOD_HE_WHO_BUSTS;He Who Busts;;;;;;;;;;;;;x
+GOD_EEEPAH;Eeepah;;;;;;;;;;;;;x
+GOD_THE_EARTHSHAKER;The Earthshaker;;;;;;;;;;;;;x
+GOD_THE_PINKERTON;The Pinkerton;;;;;;;;;;;;;x
+GOD_MONOXIDE;Monoxide;;;;;;;;;;;;;x
+GOD_LUNG_BURNER;Lung Burner;;;;;;;;;;;;;x
+FOREMAN;Foreman;;;;;;;;;;;;;x
+THE_OPERATORS_MANUAL;The Operator's Manual;;;;;;;;;;;;;x
+PROSPECTION;Prospection;;;;;;;;;;;;;x

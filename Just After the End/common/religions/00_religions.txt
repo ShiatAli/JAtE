@@ -3829,6 +3829,111 @@ pagan_group = {
 		intermarry = aria_de_machete_reformed
 		can_demand_religious_conversion = no
 	}
+	mine_cultist_reformed = { 
+		graphical_culture = norsegfx
+		alternate_start = { always = no }
+		
+		icon = 93
+		heresy_icon = 94
+		
+		ai_convert_other_group = 0
+		ai_convert_same_group = 2
+		
+		color = {134 131 124 }
+
+		high_god_name = GOD_THE_MOTHERLODE
+
+		god_names = {
+			GOD_HE_WHO_BOOMS GOD_BIG_BAD_JOHN GOD_THE_CANARY GOD_THE_NOBLE_BLASTER GOD_THE_TRAILGUIDE GOD_THE_SUPREME_PLACER GOD_THE_IRON_HORSE GOD_BLESSED_BULLARD
+		}
+		evil_god_names = {
+			GOD_HE_WHO_BUSTS GOD_EEEPAH GOD_THE_EARTHSHAKER GOD_THE_PINKERTON GOD_MONOXIDE GOD_LUNG_BURNER
+		}
+		
+		crusade_name = PROSPECTION
+		scripture_name = THE_OPERATORS_MANUAL
+		priest_title = FOREMAN
+
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		allow_in_ruler_designer = no
+		hard_to_convert = yes
+		attacking_same_religion_piety_loss = yes
+		
+		aggression = 1.5
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 2
+
+		intermarry = revelationist
+		intermarry = revelationist_reformed
+		intermarry = trailwalker_reformed
+		intermarry = trailwalker
+
+		intermarry = mine_cultist
+	}
+
+	mine_cultist = { 
+		graphical_culture = norsegfx
+
+		icon = 93
+		heresy_icon = 93
+		
+		color = { 98 98 98 }
+		
+		high_god_name = GOD_THE_MOTHERLODE
+
+		god_names = {
+			GOD_HE_WHO_BOOMS GOD_BIG_BAD_JOHN GOD_THE_CANARY GOD_THE_NOBLE_BLASTER GOD_THE_TRAILGUIDE GOD_THE_SUPREME_PLACER GOD_THE_IRON_HORSE GOD_BLESSED_BULLARD
+		}
+		evil_god_names = {
+			GOD_HE_WHO_BUSTS GOD_EEEPAH GOD_THE_EARTHSHAKER GOD_THE_PINKERTON GOD_MONOXIDE GOD_LUNG_BURNER
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "trailwalker"
+		}
+		
+		crusade_name = PROSPECTION
+		scripture_name = THE_OPERATORS_MANUAL
+		priest_title = FOREMAN
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		peace_prestige_loss = yes # Lose Prestige while at peace
+		raised_vassal_opinion_loss = no
+		allow_rivermovement = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = mine_cult_reformed
+		ignores_defensive_attrition = yes
+		
+		short_reign_opinion_year_mult = 1.5
+		
+		aggression = 2.0 # AI aggression factor
+
+		dislike_tribal_organization = yes
+		
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 2
+
+		intermarry = revelationist
+		intermarry = revelationist_reformed
+		intermarry = trailwalker_reformed
+		intermarry = trailwalker
+
+		intermarry = mine_cultist_reformed
+	}
 }
 
 nautical = {
