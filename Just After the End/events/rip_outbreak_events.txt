@@ -1,0 +1,2 @@
+#Disabled
+#Override bubonic plague events and notifications
