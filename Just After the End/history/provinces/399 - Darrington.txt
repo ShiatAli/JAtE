@@ -16,6 +16,6 @@ b_mansford = city
 
 # Misc
 culture = backcountry
-religion = gaian
+religion = conservationist
 
 #History

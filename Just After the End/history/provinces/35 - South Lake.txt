@@ -16,6 +16,6 @@ b_clearlake = temple
 
 # Misc
 culture = lakemen
-religion = cetic
+religion = keshian
 
 #History

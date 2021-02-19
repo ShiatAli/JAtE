@@ -16,6 +16,6 @@ b_pinedale_3 = castle
 
 # Misc
 culture = shoshone
-religion = gaian
+religion = peyotist
 
 #History

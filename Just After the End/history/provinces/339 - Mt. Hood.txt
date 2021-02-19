@@ -16,6 +16,6 @@ b_odell_2 = temple
 
 # Misc
 culture = gorgeon
-religion = millenarian
+religion = conservationist
 
 #History

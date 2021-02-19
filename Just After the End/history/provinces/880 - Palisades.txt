@@ -16,6 +16,6 @@ b_star_valley_ranch = city
 
 # Misc
 culture = ranger
-religion = mormon
+religion = conservationist
 
 #History

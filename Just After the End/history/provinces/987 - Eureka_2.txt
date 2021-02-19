@@ -8,7 +8,7 @@ max_settlements = 2
 
 b_eureka_4 = castle
 #b_ruby_hill = city
-#b_whistler_2 = temple
+#b_whistler_3 = temple
 #b_mt_richmond = castle
 #b_woodpeckers_peak = city
 #b_diamond_valley_2 = temple

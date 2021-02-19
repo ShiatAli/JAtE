@@ -16,6 +16,6 @@ b_grant_pass = castle
 
 # Misc
 culture = rogueite
-religion = cetic
+religion = keshian
 
 #History

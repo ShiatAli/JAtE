@@ -16,6 +16,6 @@ b_hornbrook = castle
 
 # Misc
 culture = siskiyouan
-religion = sovereignist
+religion = refulgent
 
 #History

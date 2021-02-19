@@ -16,6 +16,6 @@ b_grover = city
 
 # Misc
 culture = ranger
-religion = mormon
+religion = conservationist
 
 #History

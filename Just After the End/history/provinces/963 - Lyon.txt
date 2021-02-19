@@ -16,6 +16,6 @@ b_mason = city
 
 # Misc
 culture = renolander
-religion = cetic
+religion = conservationist
 terrain = desert
 #History

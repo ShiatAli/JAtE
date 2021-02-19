@@ -16,6 +16,6 @@ b_grantdale = castle
 
 # Misc
 culture = montanan
-religion = gaian
+religion = conservationist
 
 #History

@@ -16,6 +16,6 @@ b_glenbrook_2 = temple
 
 # Misc
 culture = renolander
-religion = cetic
+religion = conservationist
 terrain = desert
 #History

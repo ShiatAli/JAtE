@@ -16,6 +16,6 @@ b_canyon_village = city
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

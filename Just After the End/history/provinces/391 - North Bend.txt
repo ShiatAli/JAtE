@@ -16,6 +16,6 @@ b_ellisville = city
 
 # Misc
 culture = backcountry
-religion = gaian
+religion = conservationist
 
 #History

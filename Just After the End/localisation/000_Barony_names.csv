@@ -13471,6 +13471,8 @@ b_truxton;Truxton;Truxton;Truxton;;Truxton;;;;;;;;;x
 b_truxton_adj;Truxtonian;;truxtoner;;;;;;;;;;;x
 b_tsaile;Tsaile;Tsaile;Tsaile;;Tsaile;;;;;;;;;x
 b_tsaile_adj;Tsailean;;tsailer;;;;;;;;;;;x
+b_tsawassen;Tsawassen;Tsawassen;Tsawassen;;Tsawassen;;;;;;;;;x
+b_tsawassen_adj;Tsawassenian;;tsawassener;;;;;;;;;;;x
 b_tsawout;Tsawout;Tsawout;Tsawout;;Tsawout;;;;;;;;;x
 b_tsawout_adj;Tsawoutian;;tsawouter;;;;;;;;;;;x
 b_tse_bonito;Tse Bonito;Tse Bonito;Tse Bonito;;Tse Bonito;;;;;;;;;x
@@ -13485,8 +13487,6 @@ b_tsikumu_village;Tsikumu Village;Tsikumu Village;Tsikumu Village;;Tsikumu Villa
 b_tsikumu_village_adj;Tsikumu Villagean;;Tsikumu Villager;;;;;;;;;;;x
 b_tsin_yaa_ninti;Tsin Yaa Ninti;Tsin Yaa Ninti;Tsin Yaa Ninti;;Tsin Yaa Ninti;;;;;;;;;x
 b_tsin_yaa_ninti_adj;Tsin Yaa Nintian;;Tsin Yaa Ninter;;;;;;;;;;;x
-b_tswwassen;Tswwassen;Tswwassen;Tswwassen;;Tswwassen;;;;;;;;;x
-b_tswwassen_adj;Tswwassenian;;tswwassener;;;;;;;;;;;x
 b_tualatin;Tualatin;Tualatin;Tualatin;;Tualatin;;;;;;;;;x
 b_tualatin_adj;Tualatinian;;tualatiner;;;;;;;;;;;x
 b_tuba_city;Tuba City;Tuba City;Tuba City;;Tuba City;;;;;;;;;x
@@ -13605,8 +13605,6 @@ b_tyrone;Tyrone;Tyrone;Tyrone;;Tyrone;;;;;;;;;x
 b_tyrone_adj;Tyronean;;tyroner;;;;;;;;;;;x
 b_ubehebe;Ubehebe;Ubehebe;Ubehebe;;Ubehebe;;;;;;;;;x
 b_ubehebe_adj;Ubehebean;;ubeheber;;;;;;;;;;;x
-b_ucluelet;Ucluelet;Ucluelet;Ucluelet;;Ucluelet;;;;;;;;;x
-b_ucluelet_adj;Uclueletian;;uclueleter;;;;;;;;;;;x
 b_ucolo;Ucolo;Ucolo;Ucolo;;Ucolo;;;;;;;;;x
 b_ucolo_adj;Ucolian;;ucoler;;;;;;;;;;;x
 b_ucon;Ucon;Ucon;Ucon;;Ucon;;;;;;;;;x
@@ -14227,6 +14225,8 @@ b_whistler;Whistler;Whistler;Whistler;;Whistler;;;;;;;;;x
 b_whistler_adj;Whistlerian;;whistlerer;;;;;;;;;;;x
 b_whistler_2;Whistler;Whistler;Whistler;;Whistler;;;;;;;;;x
 b_whistler_2_adj;Whistlerian;;whistlerer;;;;;;;;;;;x
+b_whistler_3;Whistler;Whistler;Whistler;;Whistler;;;;;;;;;x
+b_whistler_3_adj;Whistlerian;;whistlerer;;;;;;;;;;;x
 b_whitaker;Whitaker;Whitaker;Whitaker;;Whitaker;;;;;;;;;x
 b_whitaker_adj;Whitakerian;;whitakerer;;;;;;;;;;;x
 b_whitcomb;Whitcomb;Whitcomb;Whitcomb;;Whitcomb;;;;;;;;;x

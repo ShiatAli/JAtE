@@ -16,6 +16,6 @@ b_medford = castle
 
 # Misc
 culture = rogueite
-religion = cetic
+religion = keshian
 
 #History

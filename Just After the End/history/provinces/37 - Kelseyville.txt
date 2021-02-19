@@ -16,6 +16,6 @@ b_buckingham_park = temple
 
 # Misc
 culture = lakemen
-religion = cetic
+religion = keshian
 
 #History

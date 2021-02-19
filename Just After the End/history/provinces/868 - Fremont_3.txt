@@ -16,6 +16,6 @@ b_wilford = city
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

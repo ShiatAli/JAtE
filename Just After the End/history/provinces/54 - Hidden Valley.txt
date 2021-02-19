@@ -16,6 +16,6 @@ b_jack_ranch = city
 
 # Misc
 culture = solitarios
-religion = cetic
+religion = conservationist
 
 #History

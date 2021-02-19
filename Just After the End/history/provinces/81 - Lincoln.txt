@@ -16,6 +16,6 @@ b_cedar_grove = city
 
 # Misc
 culture = valleyan
-religion = cetic
+religion = conservationist
 
 #History

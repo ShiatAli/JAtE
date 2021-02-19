@@ -16,6 +16,6 @@ b_irwin_2 = castle
 
 # Misc
 culture = ranger
-religion = mormon
+religion = conservationist
 
 #History

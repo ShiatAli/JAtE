@@ -16,6 +16,6 @@ b_missoula = castle
 
 # Misc
 culture = montanan
-religion = sovereignist
+religion = refulgent
 
 #History
