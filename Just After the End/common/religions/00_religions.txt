@@ -4597,6 +4597,188 @@ pagan_group = {
 		intermarry = mine_cultist_reformed
 	}
 }
+high_cults = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	#crusade_cb = crusade
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2
+	ai_convert_other_group = 1
+	
+	color = { 0.1 0.7 0.1 }
+	
+	interface_skin = { oldworld_interface }
+	
+	bohemian = { #3spooky5u
+		graphical_culture = hellenicgfx
+		
+		icon = 8 #placeholder
+		heresy_icon = 9
+		
+		color = { 176 110 32 }
+		
+		interface_skin = { pagan_interface oldworld_interface }
+
+		
+		character_modifier = {
+			intrigue = 2
+		}
+
+		god_names = {
+			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+		}
+
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		uses_jizya_tax = no
+		
+		max_consorts = 3
+		
+		religious_clothing_head = 18
+		religious_clothing_priest = 18
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+		
+		intermarry = atomicist
+		intermarry = aphite
+		intermarry = rust_cultist
+		intermarry = chrome_cultist
+		intermarry = consumerist
+	}
+	fortunist = { #$$$
+		graphical_culture = hellenicgfx
+		
+		icon = 17
+		heresy_icon = 18
+		
+		color = { 1.0 0.84 0.0 }
+		
+		interface_skin = { consumerist_interface oldworld_interface }
+
+		character_modifier = {
+			stewardship = 2
+		}
+
+		god_names = {
+			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+		}
+
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		uses_jizya_tax = yes
+		max_wives = 3
+		
+		religious_clothing_head = 18
+		religious_clothing_priest = 18
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+		
+		intermarry = atomicist
+		intermarry = aphite
+		intermarry = rust_cultist
+		intermarry = chrome_cultist
+		intermarry = consumerist
+	}
+	haysian = { #...
+		graphical_culture = hellenicgfx
+		
+		icon = 17
+		heresy_icon = 18
+		
+		color = { 0.48 0.15 0.21 }
+		
+		interface_skin = { consumerist_interface oldworld_interface }
+
+		character_modifier = {
+			intrigue = 2
+		}
+
+		god_names = {
+			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+		}
+
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		uses_jizya_tax = no
+		max_wives = 4
+		
+		religious_clothing_head = 18
+		religious_clothing_priest = 18
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+		
+		intermarry = atomicist
+		intermarry = aphite
+		intermarry = rust_cultist
+		intermarry = chrome_cultist
+		intermarry = consumerist
+	}
+	siliconist = { #$$$
+		graphical_culture = hellenicgfx
+		
+		icon = 17
+		heresy_icon = 18
+		
+		color = { 0.7 0.7 0.62 } # Chrome Cultist
+		
+		interface_skin = { consumerist_interface oldworld_interface }
+
+
+		god_names = {
+			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+		}
+
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		uses_jizya_tax = yes
+		max_wives = 4
+		
+		religious_clothing_head = 18
+		religious_clothing_priest = 18
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+		
+		intermarry = atomicist
+		intermarry = aphite
+		intermarry = rust_cultist
+		intermarry = chrome_cultist
+		intermarry = consumerist
+	}
+}
 
 nautical = {
 	has_coa_on_barony_only = no
@@ -4895,6 +5077,148 @@ indian_group = {
 		
 		intermarry = espiritista
 		intermarry = candomble
+	}
+}
+eastern = {
+	has_coa_on_barony_only = yes
+	graphical_culture = indiangfx
+	playable = yes
+	color = { 1.0 0.82 0.3 }
+	interface_skin = { indian_interface muslim_interface }
+	
+	three_paths = {
+		graphical_culture = chinesegfx
+
+		icon = 47 #shinto icon - placeholder
+		heresy_icon = 47
+		
+		color = { 1.0 0.82 0.3 }
+		
+		scripture_name = MAHAYANA_SUTRAS
+		priest_title = B_BHIKSHU
+		
+		high_god_name = GOD_DHARMA
+		
+		god_names = {
+			 GOD_BUDDHA GOD_BODDHISATTVA GOD_AVALOKITESHVARA GOD_AMITABHA
+		}
+		
+		evil_god_names = {
+			NARAKA MARA
+		}
+		
+		piety_name = KARMA
+		character_modifier = { learning = 2 }
+		short_reign_opinion_year_mult = 0
+		
+		intermarry = cetic
+		intermarry = gaian
+		
+		feminist = yes
+		#female_temple_holders = yes
+		priests_can_inherit = no
+		can_retire_to_monastery = yes 
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+	}
+	zenist = { #salmon-yoga-buddhism
+		graphical_culture = chinesegfx
+
+		icon = 47 #shinto icon - placeholder
+		heresy_icon = 47
+		
+		color = { 1.0 0.75 0.9 } 
+		
+		scripture_name = MAHAYANA_SUTRAS
+		priest_title = B_BHIKSHU
+		high_god_name = GOD_DHARMA
+		
+		god_names = {
+			 GOD_BUDDHA GOD_BODDHISATTVA GOD_AVALOKITESHVARA GOD_AMITABHA
+		}
+		
+		evil_god_names = {
+			NARAKA MARA
+		}
+		
+		piety_name = KARMA
+		short_reign_opinion_year_mult = 0
+		
+		intermarry = cetic
+		intermarry = gaian
+		
+		feminist = yes
+		female_temple_holders = yes
+		priests_can_inherit = no
+		can_retire_to_monastery = yes 
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+	}
+	nirodhist = { #redpill-buddhism
+		graphical_culture = chinesegfx
+
+		icon = 47 #shinto icon - placeholder
+		heresy_icon = 47
+		
+		color = { 0.8 0.2 0.1 }
+		
+		scripture_name = BOOK_SUTRAS
+		
+		high_god_name = GOD_BODDHISATTVA
+		
+		god_names = {
+			GOD_AVALOKITESHVARA GOD_AMITABHA
+		}
+		
+		evil_god_names = {
+			SAMSARA HUNGRY_GHOST
+		}
+		
+		piety_name = KARMA
+		character_modifier = { learning = 1 }
+		short_reign_opinion_year_mult = 0
+		
+		intermarry = cetic
+		intermarry = gaian
+		
+		priests_can_inherit = yes
+		can_retire_to_monastery = yes 
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+	}
+	sikh = { #not buddhism
+		graphical_culture = chinesegfx
+
+		icon = 65 #hindu icon placeholder - forgive me sikhs = =w
+		heresy_icon = 65
+		color = { 0 153 153 }
+		
+		scripture_name = GURU_GRANTH_SAHIB
+		
+		high_god_name = GOD_IK_ONKAAR
+		
+		god_names = {
+			 NAAM AKAL HARI BAGHAVAN GOD_ALLAH WAHEGURU
+		}
+		evil_god_names = {
+			PREET ASUR
+		}
+		
+		piety_name = KARMA
+		character_modifier = { learning = 1 }
+		short_reign_opinion_year_mult = 0
+		
+		intermarry = cetic
+		intermarry = gaian
+		
+		priests_can_inherit = yes
+		can_retire_to_monastery = yes 
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 5
 	}
 }
 
