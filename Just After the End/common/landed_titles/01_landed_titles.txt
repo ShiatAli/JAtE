@@ -6881,7 +6881,7 @@ e_grand_vancouver = {
 				color={ 88 81 53 }
 				color2={ 255 255 255 }
 				
-				b_tswwassen = {
+				b_tsawassen = {
 				}
 				b_ladner = {
 				}
@@ -7053,7 +7053,7 @@ e_grand_vancouver = {
 				color={ 200 54 54 }
 				color2={ 255 255 255 }
 				
-				b_ucluelet = {
+				b_whistler_2 = {
 				}
 				b_port_albion = {
 				}
@@ -14369,37 +14369,18 @@ e_nevada = {
 				}
 			}
 		}
-		d_tahoe = {
-			color={ 110 190 195 }
+		d_carson = {
+			color={ 168 8 26 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 79 province_id = 80 province_id = 81 province_id = 960 province_id = 961 province_id = 962 province_id = 963 } }
+					any_demesne_province = { OR = { province_id = 960 province_id = 961 province_id = 962 province_id = 963 } }
 				}
 			}
-			capital = 79 # c_olympic_valley
+			capital = 960 # c_carson
 			
-			c_olympic_valley = { # 79
-				color={ 120 180 200 }
-				color2={ 255 255 255 }
-				
-				b_tahoe_city = {
-				}
-				b_tahoma = {
-				}
-				b_ridgewood = {
-				}
-				b_rampart = {
-				}
-				b_truckee = {
-				}
-				b_polaris = {
-				}
-				b_donner = {
-				}
-			}
 			c_carson = { # 960
 				color={ 158 18 21 }
 				color2={ 255 255 255 }
@@ -14417,25 +14398,6 @@ e_nevada = {
 				b_meyers_2 = {
 				}
 				b_fredericksburg = {
-				}
-			}
-			c_lincoln = { # 81
-				color={ 120 160 175 }
-				color2={ 255 255 255 }
-				
-				b_camino = {
-				}
-				b_cedar_grove = {
-				}
-				b_fresh_pond = {
-				}
-				b_riverton = {
-				}
-				b_white_hall = {
-				}
-				b_kyburz = {
-				}
-				b_short_place = {
 				}
 			}
 			c_lyon = { # 963
@@ -14476,25 +14438,6 @@ e_nevada = {
 				b_amazon_gulch = {
 				}
 			}
-			c_monument = { # 80
-				color={ 120 160 195 }
-				color2={ 255 255 255 }
-				
-				b_meyers = {
-				}
-				b_camp_richardson = {
-				}
-				b_round_hill_village = {
-				}
-				b_phillip = {
-				}
-				b_strawberry = {
-				}
-				b_nebelhorn = {
-				}
-				b_echo_lake = {
-				}
-			}
 			c_topaz_2 = { # 962
 				color={ 135 13 0 }
 				color2={ 255 255 255 }
@@ -14512,6 +14455,76 @@ e_nevada = {
 				b_wild_horse_2 = {
 				}
 				b_desert_creek = {
+				}
+			}
+		}
+		d_tahoe = {
+			color={ 110 190 195 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 79 province_id = 80 province_id = 81 } }
+				}
+			}
+			capital = 79 # c_olympic_valley
+			
+			c_olympic_valley = { # 79
+				color={ 120 180 200 }
+				color2={ 255 255 255 }
+				
+				b_tahoe_city = {
+				}
+				b_tahoma = {
+				}
+				b_ridgewood = {
+				}
+				b_rampart = {
+				}
+				b_truckee = {
+				}
+				b_polaris = {
+				}
+				b_donner = {
+				}
+			}
+			c_lincoln = { # 81
+				color={ 120 160 175 }
+				color2={ 255 255 255 }
+				
+				b_camino = {
+				}
+				b_cedar_grove = {
+				}
+				b_fresh_pond = {
+				}
+				b_riverton = {
+				}
+				b_white_hall = {
+				}
+				b_kyburz = {
+				}
+				b_short_place = {
+				}
+			}
+			c_monument = { # 80
+				color={ 120 160 195 }
+				color2={ 255 255 255 }
+				
+				b_meyers = {
+				}
+				b_camp_richardson = {
+				}
+				b_round_hill_village = {
+				}
+				b_phillip = {
+				}
+				b_strawberry = {
+				}
+				b_nebelhorn = {
+				}
+				b_echo_lake = {
 				}
 			}
 		}
@@ -15511,7 +15524,7 @@ e_nevada = {
 				}
 				b_ruby_hill = {
 				}
-				b_whistler_2 = {
+				b_whistler_3 = {
 				}
 				b_mt_richmond = {
 				}

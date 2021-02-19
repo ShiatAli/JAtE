@@ -16,6 +16,6 @@ b_lyman = city
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = conservationist
 
 #History

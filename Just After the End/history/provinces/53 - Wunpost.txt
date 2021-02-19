@@ -16,6 +16,6 @@ b_san_lucas = city
 
 # Misc
 culture = solitarios
-religion = cetic
+religion = conservationist
 
 #History

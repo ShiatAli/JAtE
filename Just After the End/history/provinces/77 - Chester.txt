@@ -16,6 +16,6 @@ b_westwood = city
 
 # Misc
 culture = black_rocker
-religion = cetic
+religion = conservationist
 
 #History

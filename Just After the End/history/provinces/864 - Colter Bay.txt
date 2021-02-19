@@ -16,6 +16,6 @@ b_colter_bay_village = castle
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

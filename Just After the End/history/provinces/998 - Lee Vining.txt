@@ -16,6 +16,6 @@ b_mono_mills = city
 
 # Misc
 culture = monyo
-religion = atomicist
+religion = conservationist
 terrain = desert
 #History

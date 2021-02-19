@@ -134,3 +134,6 @@
 3000002 = { name="Butler" culture=cascadian }
 3000003 = { name="Moran" culture=cascadian }
 3000004 = { name="Gatzert" culture=cascadian }
+
+
+#Dynatsties in SoCal

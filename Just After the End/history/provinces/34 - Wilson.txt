@@ -16,6 +16,6 @@ b_wilsons_camp = castle
 
 # Misc
 culture = ysidro
-religion = cetic
+religion = conservationist
 
 #History

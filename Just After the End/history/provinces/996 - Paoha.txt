@@ -16,6 +16,6 @@ b_mono_city = castle
 
 # Misc
 culture = monyo
-religion = atomicist
+religion = conservationist
 terrain = desert
 #History

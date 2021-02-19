@@ -16,6 +16,6 @@ b_maury = city
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = conservationist
 
 #History

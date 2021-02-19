@@ -16,6 +16,6 @@ b_gardiner_3 = castle
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

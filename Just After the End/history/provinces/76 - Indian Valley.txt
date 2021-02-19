@@ -16,6 +16,6 @@ b_berden = city
 
 # Misc
 culture = valleyan
-religion = cetic
+religion = conservationist
 
 #History

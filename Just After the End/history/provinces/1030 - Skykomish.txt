@@ -16,6 +16,6 @@ b_skykomish = castle
 
 # Misc
 culture = leavenworther
-religion = gaian
+religion = conservationist
 
 #History

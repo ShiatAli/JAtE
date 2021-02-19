@@ -16,6 +16,6 @@ b_cassel = city
 
 # Misc
 culture = siskiyouan
-religion = sovereignist
+religion = refulgent
 
 #History

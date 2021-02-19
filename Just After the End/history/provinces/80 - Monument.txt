@@ -16,6 +16,6 @@ b_camp_richardson = city
 
 # Misc
 culture = renolander
-religion = cetic
+religion = conservationist
 
 #History

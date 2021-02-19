@@ -16,6 +16,6 @@ b_fort_goff = castle
 
 # Misc
 culture = siskiyouan
-religion = sovereignist
+religion = refulgent
 
 #History

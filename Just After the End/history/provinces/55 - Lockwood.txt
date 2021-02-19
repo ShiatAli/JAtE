@@ -16,6 +16,6 @@ b_jolon = city
 
 # Misc
 culture = solitarios
-religion = cetic
+religion = conservationist
 
 #History

@@ -16,6 +16,6 @@ b_victor_4 = city
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

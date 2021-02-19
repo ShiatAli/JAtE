@@ -16,6 +16,6 @@ b_tahoma = city
 
 # Misc
 culture = renolander
-religion = cetic
+religion = conservationist
 
 #History

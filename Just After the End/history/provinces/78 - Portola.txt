@@ -16,6 +16,6 @@ b_iron_horse = city
 
 # Misc
 culture = renolander
-religion = cetic
+religion = conservationist
 
 #History

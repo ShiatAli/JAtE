@@ -16,6 +16,6 @@ b_alder_creek = temple
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = conservationist
 
 #History

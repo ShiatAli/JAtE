@@ -16,6 +16,6 @@ b_shady_cove = castle
 
 # Misc
 culture = rogueite
-religion = cetic
+religion = conservationist
 
 #History

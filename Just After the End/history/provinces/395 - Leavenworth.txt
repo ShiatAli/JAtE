@@ -16,6 +16,6 @@ b_cashmere = city
 
 # Misc
 culture = leavenworther
-religion = gaian
+religion = conservationist
 
 #History

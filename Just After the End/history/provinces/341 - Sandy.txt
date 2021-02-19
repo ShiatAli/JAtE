@@ -16,6 +16,6 @@ b_boring = city
 
 # Misc
 culture = gorgeon
-religion = gaian
+religion = conservationist
 
 #History

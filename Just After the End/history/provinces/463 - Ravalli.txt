@@ -16,6 +16,6 @@ b_hamilton_2 = castle
 
 # Misc
 culture = montanan
-religion = sovereignist
+religion = refulgent
 
 #History

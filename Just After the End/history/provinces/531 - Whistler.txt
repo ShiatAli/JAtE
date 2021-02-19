@@ -6,7 +6,7 @@ title = c_whistler
 # Settlements
 max_settlements = 2
 
-b_ucluelet = castle
+b_whistler_2 = castle
 #b_port_albion = city
 #b_kennedy_2 = temple
 #b_maggie = castle

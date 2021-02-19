@@ -16,6 +16,6 @@ b_carlsborg = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = conservationist
 
 #History

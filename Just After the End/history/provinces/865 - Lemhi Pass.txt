@@ -16,6 +16,6 @@ b_west_yellowstone = castle
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

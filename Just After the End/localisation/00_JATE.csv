@@ -243,3 +243,60 @@ GOD_OVERGROWTH;Overgrowth;;;;;;;;;;;;;x
 IGNITION;Ignition;;;;;;;;;;;;;x
 THE_FIRESIDE_TALES;The Fireside Tales;;;;;;;;;;;;;x
 FIREMAN;Fireman;;;;;;;;;;;;;x
+
+#Constitutionalism
+constitutionalism;Constitutionalism;;;;;;;;;;;;;x
+constitutionalism_DESC;Constitutionalists are not a religion in the traditional sense. The remnants of federal, military and state authorities are trying to preserve the small remnants of order that have remained in America. Fighting against the various sects and movements that raised their heads after the event, the constitutionalists seek to restore the old way of life.;;;;;;;;;;;;;x
+GOD_THE_CONSTITUTION;The Constitution;;;;;;;;;;;;;x
+GOD_AMERICA;America;;;;;;;;;;;;;x
+GOD_THE_LAW;The Law;;;;;;;;;;;;;x
+GOD_THE_ORDER;The Order;;;;;;;;;;;;;x
+GOD_THE_STATE;The State;;;;;;;;;;;;;x
+GOD_CHAOS;Chaos;;;;;;;;;;;;;x
+GOD_THE_ENEMY;The Enemy;;;;;;;;;;;;;x
+PATRIOTISM;Patriotism;;;;;;;;;;;;;x
+RESTORATION_OF_ORDER;Restoration of Order;;;;;;;;;;;;;x
+SERGEANT;Sergeant;;;;;;;;;;;;;x
+THE_CONSTITUTION;The Constitution;;;;;;;;;;;;;x
+
+#Adventist
+#Their localization exists elsewhere already so yee haw
+adventist;Adventist;;;;;;;;;;;;;x
+adventist_DESC;These are the followers of a most unusual Guru, Guru Miller. They believe that Christ is judging all people actively, and has been since before the event, in preparation of his coming. Unlike the Postadventists, whose movement swept through the lands of the far east, these Adventists do not believe that the Event was Christ’s judgement of the world – and denounce the concept as a most vile deception. They also observe the Sabbath of the Jews, instead of that of their fellow Christians, and believe that death is a dreamless sleep, that only the faithful will ever awaken from.;;;;;;;;;;;;;x
+
+#Maso Bwikwam
+maso_bwikwam;Maso Bwikwam;;;;;;;;;;;;;x
+maso_bwikwam_DESC;The ancient faith of the Yaqui is heavily syncretized with Catholicism, but retains many native inspired beliefs centered around their duty to prevent the end of the world through rituals, which have absorbed the Christian practice of Easter and Lent. The Deer Songs are heavily communal events, and some of the Yaqui believe that should they cease the very world itself will soon follow. Other unique beliefs include the idea that flowers grew from the blood shed at crucifixion, making them highly revered in Yaqui society, and the many societies which each have their own part in the rituals.;;;;;;;;;;;;;x
+GOD_GOD;;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+GOD_ANSELMO_VALENCIA_TORI;Anselmo Valencia Tori;;;;;;;;;;;;;x
+GOD_MARIA;Maria;;;;;;;;;;;;;x
+GOD_THE_HOLY_SPIRIT;The Holy Spirit;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+GOD_PORFIRIO_DIAS;Porfirio Dias;;;;;;;;;;;;;x
+GOD_COLUMBUS;Columbus;;;;;;;;;;;;;x
+
+#Baptist
+#Their localization exists elsewhere already so yee haw
+baptist;Baptist;;;;;;;;;;;;;x
+baptist_DESC;The Baptists have always held a prominent position in America, and they persisted in their beliefs through the apocalypse. Their defining creed being that one must choose to follow Christ – they cannot simply be born into it. They practice baptism, by immersion, but only for the believer – and can an infant be said to be a believer in anything? The teachings of many Gurus are allowed within their walls, to help every man find their own path to Christ, through their own reading of scripture.;;;;;;;;;;;;;x
+
+#Congregationalist
+#Their localization exists elsewhere already so yee haw
+congregationalist;Conregationalist;;;;;;;;;;;;;x
+congregationalist_DESC;These Congregationalists reject the Baptist church, and all organized churches, as inherently being infringements on the believer’s ability to find their own path to Christ in the scriptures alone.;;;;;;;;;;;;;x
+
+#Pentecostal
+#Their localization exists elsewhere already
+pentecostal;Pentecostal;;;;;;;;;;;;;x
+pentecostal_DESC;In the wake of the event, a Guru lost to time spoke of the need for those who recognized the Charismata of the modern day to band together in their time of crisis, founding a unified church for the faithful. Rebirth, Sanctification, and for many of the lucky faithful, the True Baptism of Fire would evidence a man’s journey towards perfection in God.;;;;;;;;;;;;;x
+
+#Oneness
+#Their localization exists elsewhere already
+oneness;Oneness;;;;;;;;;;;;;x
+oneness_DESC;Some who profess faith in the modern Charismata rejected the Holy Trinity, held fast to by the vast majority of Christian faithful, as little more than polytheism. They believe that Christ is One, not Three, and that the Father, Son, and Holy Spirit are merely titles, not “persons.” They were rejected by the Charismatic Guru’s new church, and so they have formed their own.;;;;;;;;;;;;;x
+
+#Holiness
+#Their localization exists elsewhere already
+holiness;Holiness;;;;;;;;;;;;;x
+holiness_DESC;Some who initially followed the Charismatic Guru would stray from their path, rejecting the Charismata and the Baptism of Fire as little more than false sorcery.;;;;;;;;;;;;;x

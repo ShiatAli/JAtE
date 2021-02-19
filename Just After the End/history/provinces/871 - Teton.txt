@@ -16,6 +16,6 @@ b_wilson_2 = city
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

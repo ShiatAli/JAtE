@@ -16,6 +16,6 @@ b_marysville_3 = city
 
 # Misc
 culture = ranger
-religion = gaian
+religion = conservationist
 
 #History

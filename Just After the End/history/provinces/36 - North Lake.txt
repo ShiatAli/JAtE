@@ -16,6 +16,6 @@ b_north_lakeport = temple
 
 # Misc
 culture = lakemen
-religion = cetic
+religion = keshian
 
 #History

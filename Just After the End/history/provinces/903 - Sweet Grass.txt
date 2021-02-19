@@ -16,6 +16,6 @@ b_big_timber = castle
 
 # Misc
 culture = plainsman
-religion = plainsman
+religion = conservationist
 
 #History

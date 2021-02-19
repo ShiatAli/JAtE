@@ -16,6 +16,6 @@ b_coe_ranch = castle
 
 # Misc
 culture = ysidro
-religion = cetic
+religion = conservationist
 
 #History
