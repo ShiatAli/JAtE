@@ -300,3 +300,34 @@ oneness_DESC;Some who profess faith in the modern Charismata rejected the Holy T
 #Their localization exists elsewhere already
 holiness;Holiness;;;;;;;;;;;;;x
 holiness_DESC;Some who initially followed the Charismatic Guru would stray from their path, rejecting the Charismata and the Baptism of Fire as little more than false sorcery.;;;;;;;;;;;;;x
+
+#Freighter
+freighter;Freighter;;;;;;;;;;;;;x
+freighter_DESC;Long before the Event sank old America into the state of warfare and infighting that is witnessed today, the Freighters stood guard over the ports of the West Coast, and protected the exotic goods and tools from around the world that allowed the old Americans to live their luxurious, pampered lives. However, even as the lives of untold millions are unsteadied in the current age, nobles and commoners alike still depend on the flow of trade, however fickle, trickling in from across the Pacific to improve their meager livelihoods. Thus, the Freighters stubbornly hold onto their old posts, claiming that they alone possess the knowledge and skills to protect the ocean trade, for they have done so since time immemorial.;;;;;;;;;;;;;x
+GOD_SEA_MA;Sea Ma;;;;;;;;;;;;;x
+GOD_APOSTLE_PETER;Apostle Peter;;;;;;;;;;;;;x
+GOD_MARAD;Marad;;;;;;;;;;;;;x
+GOD_EL_NINO;El Niño;;;;;;;;;;;;;x
+GOD_THE_ROGUE_WAVE;The Rogue Wave;;;;;;;;;;;;;x
+GOD_DAVY_JONES;Davy Jones;;;;;;;;;;;;;x
+THE_MARINERS_GUIDE;The Mariners Guide;;;;;;;;;;;;;x
+PRIEST;Priest;;;;;;;;;;;;;x
+
+#Kuksu
+kuksu;Kuksu;;;;;;;;;;;;;x
+kuksu_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more.;;;;;;;;;;;;;x
+kuksu_reformed;Kuksu;;;;;;;;;;;;;x
+kuksu_reformed_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more. The Traditions of the Kuksu people have been codified into a series of sacred stories.;;;;;;;;;;;;;x
+GOD_KUKSU;Kuksu;;;;;;;;;;;;;x
+GOD_KUNULA;Kunula;;;;;;;;;;;;;x
+GOD_CALNUS;Calnus;;;;;;;;;;;;;x
+GOD_SUPPADAX;Suppadax;;;;;;;;;;;;;x
+GOD_HATANUTAL;Hatanutal;;;;;;;;;;;;;x
+GOD_STONE;Stone;;;;;;;;;;;;;x
+GOD_KELSEY;Kelsey;;;;;;;;;;;;;x
+GOD_DAVIDSON;Davidson;;;;;;;;;;;;;x
+GOD_LYON;Lyon;;;;;;;;;;;;;x
+THE_ORAL_HISTORIES;The Oral Histories;;;;;;;;;;;;;x
+REVERENCE;Reverence;;;;;;;;;;;;;x
+SHAMAN;Shaman;;;;;;;;;;;;;x
+

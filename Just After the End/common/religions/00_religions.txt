@@ -424,6 +424,121 @@ american_native = {
 		intermarry = raven_tales_reformed
 		intermarry = orthodox
 	}
+
+	kuksu_reformed = {
+		graphical_culture = mesoamericangfx #norsegfx
+
+		icon = 62
+		heresy_icon = 63
+		
+		ai_convert_other_group = 0
+		ai_convert_same_group = 0
+		
+		color = { 178 112 62 }
+		scripture_name = THE_ORAL_HISTORIES
+		priest_title = SHAMAN
+		piety_name = REVERENCE
+
+		high_god_name = GOD_KUKSU
+		
+		god_names = {
+			GOD_KUNULA GOD_CALNUS GOD_SUPPADAX GOD_HATANUTAL
+		}
+		evil_god_names = {
+			GOD_STONE GOD_KELSEY GOD_DAVIDSON GOD_LYON
+		}
+		
+		can_call_crusade = no
+		allow_rivermovement = yes
+		max_consorts = 3
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		pacifist = yes
+		peace_piety_gain = 1.0
+		allow_in_ruler_designer = no
+		
+		aggression = 0.1
+
+		religious_clothing_head = 15
+		religious_clothing_priest = 15
+		intermarry = raven_tales
+		intermarry = raven_tales_reformed
+		intermarry = peyotist
+		intermarry = exovedate
+		intermarry = midewiwin
+		intermarry = orthodox
+
+		alternate_start = { always = no }
+	}
+	
+	kuksu = {
+		graphical_culture = mesoamericangfx #norsegfx
+
+		icon = 40
+		heresy_icon = 63
+		
+		color = { 222 140 78 }
+		scripture_name = THE_ORAL_HISTORIES
+		priest_title = SHAMAN
+		piety_name = REVERENCE
+
+		high_god_name = GOD_KUKSU
+		
+		god_names = {
+			GOD_KUNULA GOD_CALNUS GOD_SUPPADAX GOD_HATANUTAL
+		}
+		evil_god_names = {
+			GOD_STONE GOD_KELSEY GOD_DAVIDSON GOD_LYON
+		}
+		
+		unit_modifier = {		
+			garrison_size = 0.3
+			levy_size = 0.1
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
+			mushers_defensive = 0.8
+			ballestero_defensive = 0.8
+			cossacks_defensive = 0.8
+			cowboys_defensive = 0.8
+			pike_cavalry_defensive = 0.8
+			samurai_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+
+		defensive_attrition = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		max_consorts = 3
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		can_demand_religious_conversion = no
+
+		reformed = kuksu_reformed
+		
+		religious_clothing_head = 15
+		religious_clothing_priest = 15
+		intermarry = raven_tales
+		intermarry = raven_tales_reformed
+		intermarry = peyotist
+		intermarry = exovedate
+		intermarry = midewiwin_reformed
+		intermarry = orthodox
+	}
 }
 amero_syncretic = {
 	has_coa_on_barony_only = yes
@@ -4885,6 +5000,53 @@ nautical = {
 		
 		intermarry = occultist
 		intermarry = occultist_reformed
+	}
+
+	freighter = { 
+		graphical_culture = norsegfx
+
+		icon = 82
+		heresy_icon = 82
+		
+		color = { 4 99 154 }
+
+		high_god_name = GOD_SEA_MA
+
+		god_names = {
+			GOD_APOSTLE_PETER GOD_MARAD 
+		}
+		evil_god_names = {
+			GOD_EL_NINO GOD_THE_ROGUE_WAVE GOD_DAVY_JONES
+		}
+		
+		scripture_name = THE_MARINERS_GUIDE
+		priest_title = PRIEST
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		seafarer = yes
+		raised_vassal_opinion_loss = no
+		peace_prestige_loss = yes
+		defensive_attrition = yes
+		aggression = 2.0 # AI aggression factor
+		has_heir_designation = yes
+		
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			archers_defensive = 0.8
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		religious_clothing_head = 17
+		religious_clothing_priest = 17
+		
+		intermarry = pelagic
 	}
 }
 
