@@ -331,3 +331,44 @@ THE_ORAL_HISTORIES;The Oral Histories;;;;;;;;;;;;;x
 REVERENCE;Reverence;;;;;;;;;;;;;x
 SHAMAN;Shaman;;;;;;;;;;;;;x
 
+#Eastern religion group
+three_paths;Three Paths;;;;;;;;;;;;;
+three_paths_DESC;America has always been a melting pot of culture and ideas, nowhere is this more true than Southern California where people from across the sea brought the three great teachings of Confucius, Buddha, and Laozi.  Despite a diverse background, the similarities in doctrine and ethics allowed a harmonious coexistance.  All follow the way of their respective teacher representing a path to enlightenment.  As such, worship of gods and deities is secondary to self-improvement and pursuit of perfection.;;;;;;;;;;;;;
+BOOK_THREE_PATHS;The Three Books;;;;;;;;;;;;;
+GOD_THREE_PATHS_WAYS;The Way;;;;;;;;;;;;;
+GOD_BUDDHA;Buddha;;;;;;;;;;;;;
+GOD_LAOZI;Laozi;;;;;;;;;;;;;
+GOD_CONFUCIUS;Confucius;;;;;;;;;;;;;
+GOD_JADE_EMPEROR;Jade Emperor;;;;;;;;;;;;;
+GOD_TIAN;Tian;;;;;;;;;;;;;
+MARA;Mara;;;;;;;;;;;;;
+WENSHEN;Wenshen;;;;;;;;;;;;;
+zenist;Zenist;;;;;;;;;;;;;
+zenist_DESC;America has always been a melting pot of culture and ideas, nowhere is this more true than Southern California. However, as some new concepts were introduced, so too is the reinterpretation and repurposing of these ideas. However this movements arise is beyond our understanding. They are a spiritual group that excessively Yoga and collecting their Chi. Okay?;;;;;;;;;;;;;
+BOOK_NEW_YOGA_SUTRAS;New Yogasutra;;;;;;;;;;;;;
+GOD_MINDFULNESS;Mindfulness;;;;;;;;;;;;;
+GOD_ZENIST_BUDDHA;Buddha;;;;;;;;;;;;;
+GOD_YOGA;Yogasutra;;;;;;;;;;;;;
+GOD_GURU;The Gurus;;;;;;;;;;;;;
+NARAKA;Naraka;;;;;;;;;;;;;
+STAT_PIETY_CHI;Chi;;;;;;;;;;;;;
+nirodhist;Nirodhist;;;;;;;;;;;;;
+nirodhist_DESC;As The Event rippled throughout the Land, a new spiritual movement gain traction as the way to "liberate" all people from the "suffering". Nirodhist movement identify the world as Samsara, a machination of a greater being, where everyone live in a circle of constant rebirth. Their villification of the world, and nihilistic practices drew harsh criticism from other followers of Buddha.;;;;;;;;;;;;;
+GOD_NIRODHIST_WAYS;The Way Out;;;;;;;;;;;;;
+GOD_NOBLE_TRUTH;Noble Truths;;;;;;;;;;;;;
+GOD_STRICT_WAY;The Strict Way;;;;;;;;;;;;;
+SAMSARA;Samsara;;;;;;;;;;;;;
+HUNGRY_GHOST;Hungry Ghosts;;;;;;;;;;;;;
+IGNORANCE;Ignorance;;;;;;;;;;;;;
+#sikh
+sikh;Sikh;;;;;;;;;;;;;
+sikh_DESC;Coming from the land of the Punjab in the distant land of Bharata, the Sikh religion sees itself as the universal religion that teaches the ultimate truth of god and unifies all believers, freeing them from falsehood.  The Sikhs follow a succession of 10 Gurus, with the line ending at the living guru in the form of the Guru Granth Sahib. Sikhs uphold a rigid code of conduct which includes wearing symbolic articles called the "five K's" and following the four prohibitions which make one into a Khalsa, a true member of the Sikh community.  By stressing universality and outreach, the Sikhs brought many into their fold noting the same, one god was worshiped by all from Bharata.;;;;;;;;;;;;;
+GURU_GRANTH_SAHIB;Guru Granth Sahib;;;;;;;;;;;;;
+GOD_IK_ONKAAR;Ik Onkaar;;;;;;;;;;;;;
+NAAM;Naam;;;;;;;;;;;;;
+AKAL;Akal;;;;;;;;;;;;;
+HARI;Hari;;;;;;;;;;;;;
+BAGHAVAN;Baghavan;;;;;;;;;;;;;
+WAHEGURU;Waheguru;;;;;;;;;;;;;
+PREET;Preet;;;;;;;;;;;;;
+ASUR;Asur;;;;;;;;;;;;;
