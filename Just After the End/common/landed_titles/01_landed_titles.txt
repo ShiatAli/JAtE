@@ -3147,6 +3147,8 @@ e_colorado = {
 			c_collins = { # 642
 				color={ 33 148 33 }
 				color2={ 255 255 255 }
+				holy_site = mine_cultist
+				holy_site = mine_cultist_reformed
 				
 				b_fort_collins = {
 				}
@@ -3594,6 +3596,8 @@ e_colorado = {
 			c_teller = { # 663
 				color={ 143 78 29 }
 				color2={ 255 255 255 }
+				holy_site = mine_cultist
+				holy_site = mine_cultist_reformed
 				
 				b_cripple_creek = {
 				}
@@ -5266,6 +5270,7 @@ e_gran_francisco = {
 		d_san_francisco = {
 			color={ 9 251 10 }
 			color2={ 255 255 255 }
+				holy_site = sovereignist
 			
 			allow = {
 				OR = {
@@ -7886,6 +7891,8 @@ e_idaho = {
 			c_ada = { # 732
 				color={ 4 91 186 }
 				color2={ 255 255 255 }
+				holy_site = dominionist
+				holy_site = sovereignist
 				
 				b_boise = {
 				}
@@ -7975,6 +7982,7 @@ e_idaho = {
 			c_baker = { # 752
 				color={ 165 69 19 }
 				color2={ 255 255 255 }
+				holy_site = sovereignist
 				
 				b_baker_city = {
 				}
@@ -9829,6 +9837,7 @@ e_jefferson = {
 		d_redding = {
 			color={ 173 123 153 }
 			color2={ 255 255 255 }
+			holy_site = dominionist
 			
 			allow = {
 				OR = {
@@ -10912,6 +10921,7 @@ e_jefferson = {
 		d_yreka = {
 			color={ 170 130 153 }
 			color2={ 255 255 255 }
+			holy_site = sovereignist
 			
 			allow = {
 				OR = {
@@ -11220,6 +11230,8 @@ e_lincoln = {
 			c_spokane = { # 441
 				color={ 99 13 13 }
 				color2={ 255 255 255 }
+				holy_site = dominionist
+				holy_site = la_hermandad
 				
 				b_spokane = {
 				}
@@ -11445,6 +11457,7 @@ e_lincoln = {
 		d_wallawalla = {
 			color={ 67 39 217 }
 			color2={ 255 255 255 }
+			holy_site = la_hermandad
 			
 			allow = {
 				OR = {
@@ -11783,6 +11796,7 @@ e_lincoln = {
 			c_boundary = { # 458
 				color={ 179 119 89 }
 				color2={ 255 255 255 }
+				holy_site = sovereignist
 				
 				b_bonners_ferry = {
 				}
@@ -12133,6 +12147,9 @@ e_lincoln = {
 			c_silver_valley = { # 459
 				color={ 114 95 128 }
 				color2={ 255 255 255 }
+				holy_site = mine_cultist
+				holy_site = mine_cultist_reformed
+				holy_site = dominionist
 				
 				b_wallace = {
 				}
@@ -12811,6 +12828,8 @@ e_lincoln = {
 			c_yakima = { # 486
 				color={ 224 109 109 }
 				color2={ 255 255 255 }
+				holy_site = dominionist
+				holy_site = la_hermandad
 				
 				b_yakima = {
 				}
@@ -16721,6 +16740,7 @@ e_oregon = {
 			c_woodburn = { # 355
 				color={ 193 142 208 }
 				color2={ 255 255 255 }
+				holy_site = la_hermandad
 				
 				b_woodburn = {
 				}
@@ -17927,6 +17947,8 @@ e_sacramento = {
 			c_placerville = { # 70
 				color={ 85 170 170 }
 				color2={ 255 255 255 }
+				holy_site = mine_cultist
+				holy_site = mine_cultist_reformed
 				
 				b_placerville = {
 				}
@@ -18900,6 +18922,7 @@ e_san_joaquin = {
 			c_alpaugh = { # 128
 				color={ 56 196 41 }
 				color2={ 255 255 255 }
+				holy_site = la_hermandad
 				
 				b_alpaugh = {
 				}
@@ -24585,6 +24608,8 @@ e_yellowstone = {
 			c_fossil = { # 878
 				color={ 255 188 188 }
 				color2={ 255 255 255 }
+				holy_site = mine_cultist
+				holy_site = mine_cultist_reformed
 				
 				b_kemmerer = {
 				}
