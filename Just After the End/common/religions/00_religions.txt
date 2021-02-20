@@ -5275,6 +5275,7 @@ eastern = {
 		
 		intermarry = cetic
 		intermarry = gaian
+		intermarry = shinto
 		
 		feminist = yes
 		#female_temple_holders = yes
@@ -5292,7 +5293,7 @@ eastern = {
 		
 		color = { 1.0 0.75 0.9 } 
 		
-		scripture_name = MAHAYANA_SUTRAS
+		scripture_name = BOOK_SUTRAS
 		priest_title = B_BHIKSHU
 		high_god_name = GOD_DHARMA
 		
@@ -5309,6 +5310,7 @@ eastern = {
 		
 		intermarry = cetic
 		intermarry = gaian
+		intermarry = shinto
 		
 		feminist = yes
 		female_temple_holders = yes
@@ -5344,9 +5346,11 @@ eastern = {
 		
 		intermarry = cetic
 		intermarry = gaian
+		intermarry = shinto
 		
 		priests_can_inherit = yes
 		can_retire_to_monastery = yes 
+		aggression = 1.5
 		
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
