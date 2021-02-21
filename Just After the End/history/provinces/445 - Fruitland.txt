@@ -15,7 +15,7 @@ b_hunters = castle
 #b_tumtum = castle
 
 # Misc
-culture = panhandler
-religion = dominionist
+culture = selish
+religion = peyotist
 
 #History

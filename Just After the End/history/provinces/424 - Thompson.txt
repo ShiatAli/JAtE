@@ -16,6 +16,6 @@ b_lacey = city
 
 # Misc
 culture = olympite
-religion = black_cross
+religion = gaian
 
 #History

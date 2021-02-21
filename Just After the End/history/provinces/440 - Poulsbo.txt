@@ -16,6 +16,6 @@ b_keyport = city
 
 # Misc
 culture = vestmenn
-religion = gaian
+religion = norse
 
 #History

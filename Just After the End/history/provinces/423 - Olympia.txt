@@ -16,6 +16,6 @@ b_lamberts_corner = temple
 
 # Misc
 culture = olympite
-religion = gaian
+religion = black_cross
 
 #History

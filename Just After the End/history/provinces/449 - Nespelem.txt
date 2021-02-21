@@ -15,7 +15,7 @@ b_nespelem = castle
 #b_aeneas = castle
 
 # Misc
-culture = selish
+culture = nez_perce
 religion = peyotist
 
 #History
