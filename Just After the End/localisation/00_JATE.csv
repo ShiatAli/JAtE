@@ -343,6 +343,8 @@ GOD_JADE_EMPEROR;Jade Emperor;;;;;;;;;;;;;
 GOD_TIAN;Tian;;;;;;;;;;;;;
 MARA;Mara;;;;;;;;;;;;;
 WENSHEN;Wenshen;;;;;;;;;;;;;
+
+#Zenist
 zenist;Zenist;;;;;;;;;;;;;
 zenist_DESC;America has always been a melting pot of culture and ideas, nowhere is this more true than Southern California. However, as some new concepts were introduced, so too is the reinterpretation and repurposing of these ideas. However this movements arise is beyond our understanding. They are a spiritual group that excessively Yoga and collecting their Chi. Okay?;;;;;;;;;;;;;
 BOOK_NEW_YOGA_SUTRAS;New Yogasutra;;;;;;;;;;;;;
@@ -360,6 +362,7 @@ GOD_STRICT_WAY;The Strict Way;;;;;;;;;;;;;
 SAMSARA;Samsara;;;;;;;;;;;;;
 HUNGRY_GHOST;Hungry Ghosts;;;;;;;;;;;;;
 IGNORANCE;Ignorance;;;;;;;;;;;;;
+
 #sikh
 sikh;Sikh;;;;;;;;;;;;;
 sikh_DESC;Coming from the land of the Punjab in the distant land of Bharata, the Sikh religion sees itself as the universal religion that teaches the ultimate truth of god and unifies all believers, freeing them from falsehood.  The Sikhs follow a succession of 10 Gurus, with the line ending at the living guru in the form of the Guru Granth Sahib. Sikhs uphold a rigid code of conduct which includes wearing symbolic articles called the "five K's" and following the four prohibitions which make one into a Khalsa, a true member of the Sikh community.  By stressing universality and outreach, the Sikhs brought many into their fold noting the same, one god was worshiped by all from Bharata.;;;;;;;;;;;;;
@@ -372,3 +375,107 @@ BAGHAVAN;Baghavan;;;;;;;;;;;;;
 WAHEGURU;Waheguru;;;;;;;;;;;;;
 PREET;Preet;;;;;;;;;;;;;
 ASUR;Asur;;;;;;;;;;;;;
+
+
+#Mainline
+mainline;Mainline;;;;;;;;;;;;;x
+mainline_DESC;The Mainline church is the union of several ancient churches, whose sisterhood dates to the founding of America itself. Many creeds and Gurus coexist within this church, following Gurus as diverse as Luther, Calvin, and Wesley. The binding doctrines holding these churches together is the need for the church to uplift all men, eliminating the evils of the world and bring everyone to the teachings of Christ, and for all men to be personally involved in their church.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+LUCIFER;Lucifer;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+THE_BIBLE;The Bible;;;;;;;;;;;;;x
+
+#Puritan
+puritan;Puritan;;;;;;;;;;;;;x
+puritan_DESC;Followers of Guru Calvin. Believing that cooperating with false Gurus is a fraudulent virtue, and that the Mainline church has fallen into the heresy of Modernism, the post-Event Puritans reject ecumenism and have set up their own Presbyteries.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+LUCIFER;Lucifer;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+THE_BIBLE;The Bible;;;;;;;;;;;;;x
+
+#Pietist
+pietist;Pietist;;;;;;;;;;;;;x
+pietist_DESC;Followers of Guru Luther. Rejecting ritualism, and the need to focus outwards, Pietists instead focus internally, on those already faithful and on their own circumstances, spiritual and physical, instead of those outside the faith.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+LUCIFER;Lucifer;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+THE_BIBLE;The Bible;;;;;;;;;;;;;x
+
+#Apostolic
+apostolic;Apostolic;;;;;;;;;;;;;x
+apostolic_DESC;The Armenian Apostolic Faith is one of the oldest faiths in Christendom, founded by the Apostles Bartholomew and Thaddeus. They are miaphysite believing Christ to have one nature where both the divine and human are united. After the event the Armenian Apostolic Community of California found itself separated from the Mother Church. In an attempt to stay united a church council was held in the Cathedral of Saint Leon and the Catholicosate of Los Angeles was established.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+GOD_THE_THEOTOKOS;The Theotokos;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+LUCIFER;Lucifer;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+THE_BIBLE;The Bible;;;;;;;;;;;;;x
+KHACHIHAMAR;Kach'ihamar;;;;;;;;;;;;;x
+
+#Paraktelic
+paraktelic;Paraktelic;;;;;;;;;;;;;x
+paraktelic_DESC;After the Council of Cathedral of Saint Leon was held some Armenian Apostolics refused to acknowledge its decision, proclaiming the reigning Catholicos unworthy of leading the faithful. The Armenian Paraktelics see their faith as the true conintuation of the church founded by the Apostles Bartholomew and Thaddeus. All those outside the church are hetanosner and are not to be asscociated with.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+GOD_THE_THEOTOKOS;The Theotokos;;;;;;;;;;;;;x
+SATAN;Satan;;;;;;;;;;;;;x
+LUCIFER;Lucifer;;;;;;;;;;;;;x
+THE_DEVIL;the Devil;;;;;;;;;;;;;x
+THE_BIBLE;The Bible;;;;;;;;;;;;;x
+KHACHIHAMAR;Kach'ihamar;;;;;;;;;;;;;x
+
+#Cosmist
+cosmist;Cosmist;;;;;;;;;;;;;x
+cosmist_DESC;The Cosmists revere the divine spirit of the Universe. They see "Mother Earth" as but a small fragment of humanity's true benefactor. The vast expanse surrounding humanity all plays a role in giving Earth light, heat, minerals, energy, direction, inspiration, and imagination. The Physicists -- those who could truly understand and appreciate its vastness, and learn the secrets hidden within -- were great men who lived before the Event. They are gone now, only their words remain.;;;;;;;;;;;;;x
+GOD_THE_UNIVERSE;The Universe;;;;;;;;;;;;;x
+GOD_SPACE;Space;;;;;;;;;;;;;x
+GOD_SAGAN;Sagan;;;;;;;;;;;;;x
+GOD_HAWKING;Hawking;;;;;;;;;;;;;x
+GOD_FEYNMAN;Feynman;;;;;;;;;;;;;x
+GOD_THE_DEVOURER;The Devourer;;;;;;;;;;;;;x
+GOD_THE_COLD_DISORDER;The Cold Disorder;;;;;;;;;;;;;x
+GOD_CONVERGENCE;Convergence;;;;;;;;;;;;;x
+GOD_THE_TEAR;The Tear;;;;;;;;;;;;;x
+ACCRETION;Accretion;;;;;;;;;;;;;x
+THE_LUMINARIES;The Luminaries;;;;;;;;;;;;;x
+
+#Legislative
+legislative;Legislative;;;;;;;;;;;;;x
+legislative_DESC;After the event, those who sought to maintain the structures of the old provincial government became know as the Legislators. They maintain some semblance of democratic processes in Victoria out of their old seat of government, The Ledge. Despite their relative stability and dominance on the islands, they have had troubles bringing the many fractured realms and peoples of old Bee-Sea back into the fold. Legislators believe that only through the authority and mandate derived from The Crown can they find stability and prosperity. Legislative realms focus many of their resources on their fleets and navies, seeing the Salish Sea as the lifeblood of their civilization. They tend to be very decentralized in their way of life; leaving individual communities largely to govern themselves, and valuing the diversity within their lands.;;;;;;;;;;;;;x
+GOD_THE_CROWN;The Crown;;;;;;;;;;;;;x
+GOD_THE_MANDATE;The Mandate;;;;;;;;;;;;;x
+GOD_THE_COALITION;The Coalition;;;;;;;;;;;;;x
+GOD_WACKY;Wacky;;;;;;;;;;;;;x
+GOD_OTTAWA;Ottawa;;;;;;;;;;;;;x
+GOD_THE_YANKS;The Yanks;;;;;;;;;;;;;x
+GOD_THE_FRENCH;The French;;;;;;;;;;;;;x
+PREMIER;Premier;;;;;;;;;;;;;x
+THE_CHARTER;The Charter;;;;;;;;;;;;;x
+RECLAMATION;Reclamation;;;;;;;;;;;;;x
+
+#Theosophy
+theosophy;Theosophy;;;;;;;;;;;;;x
+theosophy_DESC;The Theosophists are the followers of the Guru Krishnamurti, a renowned sage who was said to be the last in a long line of Masters that shepherded the spiritual and intellectual development of humanity. According to their teachings, it was when the world closed their hearts to the lessons of Krishnamurti that mankind grew distant from Nature and Truth, relying more and more upon the various systems that they used to build the Old World, before collapsing under the burden of ignorance and desire that it carried upon its back. Numerous legends even hold that Krishnamurti himself was alive to witness the Event, spending his final years guiding the Theosophists through those dark days of turmoil and uncertainty. The Theosophists de emphasize the importance of organized religion, scripture, ritual, and hierarchy as a source of direct enlightenment, viewing them simply as roads for every individual to access the source of Truth. ;;;;;;;;;;;;;x
+GOD_TRUTH;Truth;;;;;;;;;;;;;x
+GOD_THE_MASTERS;The Masters;;;;;;;;;;;;;x
+GOD_KRISHNAMURTI;Krishnamurti;;;;;;;;;;;;;x
+GOD_SUFFERING;Suffering;;;;;;;;;;;;;x
+GOD_THE_SYSTEMS_OF_MAN;The Systems of Man;;;;;;;;;;;;;x
+KRISHNAMURTIS_NOTEBOOK;Krishnamurti's Notebook;;;;;;;;;;;;;x
