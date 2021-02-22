@@ -1,0 +1,21 @@
+# c_pescadero
+
+# County Title
+title = c_pescadero
+
+# Settlements
+max_settlements = 2
+
+b_pescadero_2 = castle
+#b_san_gregorio_2 = city
+#b_loma_mar = temple
+#b_ano_nuevo = castle
+#b_la_honda_2 = city
+#b_davenport = temple
+#b_butano_park = castle
+
+# Misc
+culture = carmelite
+religion = conservationist
+
+#History

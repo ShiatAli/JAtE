@@ -16,6 +16,6 @@ b_burlington_2 = city
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = evangelical
 
 #History

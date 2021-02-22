@@ -16,6 +16,6 @@ b_rochester = city
 
 # Misc
 culture = olympite
-religion = millenarian
+religion = black_cross
 
 #History

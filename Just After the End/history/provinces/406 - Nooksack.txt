@@ -16,6 +16,6 @@ b_nugents_corner = city
 
 # Misc
 culture = coast_salish
-religion = gaian
+religion = evangelical
 
 #History

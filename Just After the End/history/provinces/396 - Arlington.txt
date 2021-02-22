@@ -16,6 +16,6 @@ b_granite_falls = temple
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = sedevacantist
 
 #History

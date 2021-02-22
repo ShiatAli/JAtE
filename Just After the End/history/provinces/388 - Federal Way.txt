@@ -16,6 +16,6 @@ b_auburn_2 = city
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = black_cross
 
 #History

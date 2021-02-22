@@ -1,0 +1,21 @@
+# c_tehachapi
+
+# County Title
+title = c_tehachapi
+
+# Settlements
+max_settlements = 4
+
+b_tehachapi_2 = castle
+b_keene_2 = city
+#b_monolith_2 = temple
+#b_woodford = castle
+#b_caliente_3 = city
+#b_bealville = temple
+#b_walong_2 = castle
+
+# Misc
+culture = valleyan
+religion = la_hermandad
+
+#History

@@ -16,6 +16,6 @@ b_greenwood = temple
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = evangelical
 
 #History

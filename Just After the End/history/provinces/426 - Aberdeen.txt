@@ -16,6 +16,6 @@ b_melbourne = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = black_cross
 
 #History

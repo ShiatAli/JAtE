@@ -32,7 +32,7 @@ province;red;green;blue;x;x
 31;37;210;171;Los Gatos;x
 32;53;159;135;Coe Ranch;x
 33;42;124;106;Ohlone;x
-34;60;176;150;Wilson;x
+34;60;176;150;Pescadero;x
 35;144;255;0;South Lake;x
 36;138;188;73;North Lake;x
 37;171;222;105;Kelseyville;x
@@ -173,7 +173,7 @@ province;red;green;blue;x;x
 172;56;139;80;Pauma;x
 173;69;120;45;Ramona;x
 174;41;126;65;Salton;x
-175;24;108;47;Palm Desert;x
+175;24;108;47;Coachella;x
 176;28;73;41;El Centro;x
 177;40;118;62;Borrego;x
 178;51;124;72;Anza;x
@@ -220,7 +220,7 @@ province;red;green;blue;x;x
 219;224;160;192;Palo Verde;x
 220;224;64;192;North Shore;x
 221;224;128;192;Desert Center;x
-222;221;70;146;Old Dale;x
+222;221;70;146;Palm Springs;x
 223;130;85;121;Bagdad;x
 224;206;221;122;Searchlight;x
 225;221;177;209;Goodsprings;x
@@ -1025,7 +1025,7 @@ province;red;green;blue;x;x
 1024;60;144;84;Yelm;x
 1025;45;111;64;Kelso;x
 1026;194;40;172;Pomeroy;x
-1027;183;30;55;Skull Valley;x
+1027;90;153;59;Colorado City;x
 1028;221;169;169;White Swan;x
 1029;172;41;41;Cle Elum;x
 1030;181;35;183;Skykomish;x
@@ -1051,3 +1051,13 @@ province;red;green;blue;x;x
 1050;197;199;82;Fraser Canyon;x
 1051;164;165;52;Lytton;x
 1052;160;161;97;Coldwater;x
+1053;74;122;137;Tollhouse;x
+1054;9;121;76;Tule River;x
+1055;5;107;79;Tehachapi;x
+1056;53;79;139;The Valley;x
+1057;30;46;81;Santa Monica;x
+1058;51;119;51;Malibu;x
+1059;125;148;201;Buena Park;x
+1060;42;160;75;The Redlands;x
+1061;131;138;35;Twentynine Palms;x
+1062;104;110;29;Joshua Tree;x

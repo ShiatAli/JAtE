@@ -1,0 +1,21 @@
+# c_tollhouse
+
+# County Title
+title = c_tollhouse
+
+# Settlements
+max_settlements = 3
+
+b_tollhouse_2 = castle
+#b_shaver_lake = city
+#b_cold_springs_2 = temple
+#b_big_sandy = castle
+#b_meadow_lakes = city
+#b_auberry_2 = temple
+#b_ockenden = castle
+
+# Misc
+culture = mono
+religion = kuksu
+
+#History

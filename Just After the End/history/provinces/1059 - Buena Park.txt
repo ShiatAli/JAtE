@@ -1,0 +1,21 @@
+# c_buena_park
+
+# County Title
+title = c_buena_park
+
+# Settlements
+max_settlements = 6
+
+b_buena_park_2 = castle
+b_lakewood_4 = city
+#b_norwalk_2 = temple
+#b_bellflower = castle
+#b_cypress = city
+#b_la_mirada = temple
+#b_artesia_2 = castle
+
+# Misc
+culture = angeleno
+religion = catholic
+
+#History

@@ -16,6 +16,6 @@ b_dewey_2 = temple
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = freighter
 
 #History

@@ -6,7 +6,7 @@ title = c_davenport
 # Settlements
 max_settlements = 3
 
-b_davenport_2 = castle
+b_davenport_3 = castle
 b_seven_bays = city
 #b_harrington_2 = temple
 #b_wilbur_2 = castle

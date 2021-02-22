@@ -1,0 +1,21 @@
+# c_colorado_city
+
+# County Title
+title = c_colorado_city
+
+# Settlements
+max_settlements = 2
+
+b_colorado_city_3 = castle
+#b_hildale = city
+#b_cane_beds = temple
+#b_mount_trumbill = castle
+#b_point_of_rocks_2 = city
+#b_dutchman_draw = temple
+#b_antelope_cave = castle
+
+# Misc
+culture = staircaser
+religion = wooleyite
+
+#History

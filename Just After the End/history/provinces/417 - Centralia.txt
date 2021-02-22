@@ -16,6 +16,6 @@ b_chehalis = city
 
 # Misc
 culture = willapan
-religion = gaian
+religion = sedevacantist
 
 #History

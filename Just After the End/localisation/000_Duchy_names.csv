@@ -21,6 +21,8 @@ d_aqueduct;Aqueduct;Aqueduct;Aqueduct;;Aqueduct;;;;;;;;;x
 d_aqueduct_adj;Aqueductian;;aqueducter;;;;;;;;;;;x
 d_arcata;Arcata;Arcata;Arcata;;Arcata;;;;;;;;;x
 d_arcata_adj;Arcatan;;arcater;;;;;;;;;;;x
+d_arizona_strip;Arizona Strip;Arizona Strip;Arizona Strip;;Arizona Strip;;;;;;;;;x
+d_arizona_strip_adj;Arizona Stripian;;Arizona Striper;;;;;;;;;;;x
 d_artemisia;Artemisia;Artemisia;Artemisia;;Artemisia;;;;;;;;;x
 d_artemisia_adj;Artemisian;;artemiser;;;;;;;;;;;x
 d_ashford;Ashford;Ashford;Ashford;;Ashford;;;;;;;;;x
@@ -489,6 +491,8 @@ d_selkirk;Selkirk;Selkirk;Selkirk;;Selkirk;;;;;;;;;x
 d_selkirk_adj;Selkirkian;;selkirker;;;;;;;;;;;x
 d_sequoia;Sequoia;Sequoia;Sequoia;;Sequoia;;;;;;;;;x
 d_sequoia_adj;Sequoian;;seqer;;;;;;;;;;;x
+d_sheephole;Sheephole;Sheephole;Sheephole;;Sheephole;;;;;;;;;x
+d_sheephole_adj;Sheepholean;;sheepholer;;;;;;;;;;;x
 d_shiprock;Shiprock;Shiprock;Shiprock;;Shiprock;;;;;;;;;x
 d_shiprock_adj;Shiprockian;;shiprocker;;;;;;;;;;;x
 d_shoshone;Shoshone;Shoshone;Shoshone;;Shoshone;;;;;;;;;x

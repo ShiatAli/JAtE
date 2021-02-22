@@ -16,6 +16,6 @@ b_addy = city
 
 # Misc
 culture = panhandler
-religion = dominionist
+religion = evangelical
 
 #History

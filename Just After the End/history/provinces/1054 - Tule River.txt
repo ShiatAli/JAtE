@@ -1,0 +1,21 @@
+# c_tule_river
+
+# County Title
+title = c_tule_river
+
+# Settlements
+max_settlements = 3
+
+b_tule_river = castle
+#b_worth_2 = city
+#b_springville_2 = temple
+#b_california_hot_springs = castle
+#b_east_porterville = city
+#b_lake_success = temple
+#b_pine_flat = castle
+
+# Misc
+culture = yokut
+religion = kuksu
+
+#History

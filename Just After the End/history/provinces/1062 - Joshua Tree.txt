@@ -1,0 +1,21 @@
+# c_joshua_tree
+
+# County Title
+title = c_joshua_tree
+
+# Settlements
+max_settlements = 1
+
+b_eagle_mountain_3 = castle
+#b_keys_ranch = city
+#b_pinto_wye = temple
+#b_cow_camp = castle
+#b_ryan_house = city
+#b_desert_queen = temple
+#b_barker_dam = castle
+
+# Misc
+culture = angeleno
+religion = catholic
+
+#History

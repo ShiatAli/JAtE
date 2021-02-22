@@ -16,6 +16,6 @@ b_long_beach_2 = city
 
 # Misc
 culture = willapan
-religion = gaian
+religion = freighter
 
 #History

@@ -7,7 +7,7 @@ title = c_scotts_valley
 max_settlements = 4
 
 b_scotts_valley = castle
-b_davenport = city
+b_davenport_2 = city
 b_felton = temple
 #b_ben_lomond = castle
 #b_brookdale = city

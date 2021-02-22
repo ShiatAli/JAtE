@@ -16,6 +16,6 @@ b_clinton = city
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = fidelii
 
 #History

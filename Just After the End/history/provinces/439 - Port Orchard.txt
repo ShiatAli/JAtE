@@ -16,6 +16,6 @@ b_parkwood = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = fidelii
 
 #History

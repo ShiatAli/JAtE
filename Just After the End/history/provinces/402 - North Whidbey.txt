@@ -16,6 +16,6 @@ b_coupeville = city
 
 # Misc
 culture = skagitan
-religion = gaian
+religion = fidelii
 
 #History

@@ -16,6 +16,6 @@ b_brinnon = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = evangelical
 
 #History

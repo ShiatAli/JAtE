@@ -1,12 +1,12 @@
-# c_old_dale
+# c_palm_springs
 
 # County Title
-title = c_old_dale
+title = c_palm_springs
 
 # Settlements
 max_settlements = 3
 
-b_old_dale = castle
+b_palm_springs = castle
 b_sunfair = city
 #b_cleghorn = temple
 #b_bush = castle
