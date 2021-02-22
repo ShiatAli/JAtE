@@ -74,6 +74,7 @@ boxer;Boxer;;;;;;;;;;;;;x
 utah;Utah;;;;;;;;;;;;;x
 canyonlander;Canyonlander;;;;;;;;;;;;;x
 provo;Provo;;;;;;;;;;;;;x
+salter;Salter;;;;;;;;;;;;;x
 
 #Prairelander Cultures
 montanan;Montanan;;;;;;;;;;;;;x
@@ -105,6 +106,8 @@ e_celestial_harmony_adj;Nortonites;;;;;;;;;;;;;x
 landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palouse River into the gorge to the Snake. Although the sight is beautiful, more than a few travelers have met their end falling off the sheer cliffs.;;;;;;;;;;;;;x
 
 ############## JATE Religions ###########
+
+eastern;Eastern;;;;;;;;;;;;;x
 
 #Black Cross
 black_cross;Black Cross;;;;;;;;;;;;;x
