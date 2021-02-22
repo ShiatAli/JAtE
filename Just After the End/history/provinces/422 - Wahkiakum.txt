@@ -16,6 +16,6 @@ b_cathlamet = castle
 
 # Misc
 culture = willapan
-religion = gaian
+religion = evangelical
 
 #History

@@ -16,6 +16,6 @@ b_west_linn = temple
 
 # Misc
 culture = portlandian
-religion = gaian
+religion = evangelical
 
 #History

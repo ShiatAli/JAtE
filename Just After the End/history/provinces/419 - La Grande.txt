@@ -16,6 +16,6 @@ b_la_grande = castle
 
 # Misc
 culture = backcountry
-religion = gaian
+religion = conservationist
 
 #History

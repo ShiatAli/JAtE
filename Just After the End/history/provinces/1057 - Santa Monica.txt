@@ -1,0 +1,21 @@
+# c_santa_monica
+
+# County Title
+title = c_santa_monica
+
+# Settlements
+max_settlements = 5
+
+b_santa_monica = castle
+b_marina_del_rey = city
+#b_mar_vista = temple
+#b_venice_3 = castle
+#b_pacific_palisades = city
+#b_rustic_canyon = temple
+#b_playa_del_rey = castle
+
+# Misc
+culture = angeleno
+religion = catholic
+
+#History

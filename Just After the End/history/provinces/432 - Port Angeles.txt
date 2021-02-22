@@ -16,6 +16,6 @@ b_elwha = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = freighter
 
 #History

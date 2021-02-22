@@ -16,6 +16,6 @@ b_clatskanie = city
 
 # Misc
 culture = willapan
-religion = gaian
+religion = evangelical
 
 #History

@@ -16,6 +16,6 @@ b_agate = city
 
 # Misc
 culture = olympite
-religion = refulgent
+religion = evangelical
 
 #History

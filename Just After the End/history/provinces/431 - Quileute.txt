@@ -16,6 +16,6 @@ b_la_push = castle
 
 # Misc
 culture = makah
-religion = gaian
+religion = raven_tales
 
 #History

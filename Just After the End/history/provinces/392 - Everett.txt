@@ -16,6 +16,6 @@ b_jetty = temple
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = freighter
 
 #History

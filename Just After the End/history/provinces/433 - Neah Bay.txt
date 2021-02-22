@@ -16,6 +16,6 @@ b_neah_bay = castle
 
 # Misc
 culture = makah
-religion = gaian
+religion = raven_tales
 
 #History

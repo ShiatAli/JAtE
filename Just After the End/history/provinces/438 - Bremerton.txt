@@ -16,6 +16,6 @@ b_erlands_point = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = fidelii
 
 #History

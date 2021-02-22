@@ -16,6 +16,6 @@ b_tukwila = temple
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = black_cross
 
 #History

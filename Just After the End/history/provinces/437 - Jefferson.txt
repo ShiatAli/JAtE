@@ -16,6 +16,6 @@ b_glen_cove = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = freighter
 
 #History

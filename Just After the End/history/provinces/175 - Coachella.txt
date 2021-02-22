@@ -1,0 +1,21 @@
+# c_coachella
+
+# County Title
+title = c_coachella
+
+# Settlements
+max_settlements = 4
+
+b_indio = castle
+b_coachella = city
+b_mecca = temple
+#b_desert_shores = castle
+#b_thermal = city
+#b_la_quinta = temple
+#b_one_hundred_palms = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

@@ -3781,7 +3781,7 @@ oldworld = {
 		
 	}
 
-	constitutionalism = {
+	fidelii = {
 		graphical_culture = hellenicgfx
 		
 		icon = 4

@@ -16,6 +16,6 @@ b_monroe = city
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = sedevacantist
 
 #History

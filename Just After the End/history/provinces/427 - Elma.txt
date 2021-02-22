@@ -16,6 +16,6 @@ b_elma = castle
 
 # Misc
 culture = olympite
-religion = gaian
+religion = evangelical
 
 #History

@@ -16,6 +16,6 @@ b_ocosta = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = freighter
 
 #History

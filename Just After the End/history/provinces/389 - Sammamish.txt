@@ -16,6 +16,6 @@ b_klahanie = city
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = evangelical
 
 #History

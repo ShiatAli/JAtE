@@ -16,6 +16,6 @@ b_ocean_city = city
 
 # Misc
 culture = olympite
-religion = gaian
+religion = evangelical
 
 #History

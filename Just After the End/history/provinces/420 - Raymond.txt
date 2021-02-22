@@ -16,6 +16,6 @@ b_south_bend = city
 
 # Misc
 culture = willapan
-religion = gaian
+religion = evangelical
 
 #History

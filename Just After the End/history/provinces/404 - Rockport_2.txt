@@ -16,6 +16,6 @@ b_corkindale = city
 
 # Misc
 culture = backcountry
-religion = conservationist
+religion = sovereignist
 
 #History

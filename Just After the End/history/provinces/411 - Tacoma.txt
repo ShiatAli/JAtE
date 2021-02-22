@@ -16,6 +16,6 @@ b_lakewood_2 = temple
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = fidelii
 
 #History

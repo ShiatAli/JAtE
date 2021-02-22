@@ -1,0 +1,21 @@
+# c_twentynine_palms
+
+# County Title
+title = c_twentynine_palms
+
+# Settlements
+max_settlements = 3
+
+b_twentynine_palms_2 = castle
+#b_wonder_valley = city
+#b_sunfair_2 = temple
+#b_desert_heights_2 = castle
+#b_sunfair_heights = city
+#b_hidden_river_2 = temple
+#b_cleghorn_lakes = castle
+
+# Misc
+culture = angeleno
+religion = catholic
+
+#History

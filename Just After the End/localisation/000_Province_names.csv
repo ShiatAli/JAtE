@@ -31,7 +31,7 @@ PROV30;San Felipe;San Felipe;San Felipe;;;;;;;;;x
 PROV31;Los Gatos;Los Gatos;Los Gatos;;;;;;;;;x
 PROV32;Coe Ranch;Coe Ranch;Coe Ranch;;;;;;;;;x
 PROV33;Ohlone;Ohlone;Ohlone;;;;;;;;;x
-PROV34;Wilson;Wilson;Wilson;;;;;;;;;x
+PROV34;Pescadero;Pescadero;Pescadero;;;;;;;;;x
 PROV35;South Lake;South Lake;South Lake;;;;;;;;;x
 PROV36;North Lake;North Lake;North Lake;;;;;;;;;x
 PROV37;Kelseyville;Kelseyville;Kelseyville;;;;;;;;;x
@@ -172,7 +172,7 @@ PROV171;Morongo;Morongo;Morongo;;;;;;;;;x
 PROV172;Pauma;Pauma;Pauma;;;;;;;;;x
 PROV173;Ramona;Ramona;Ramona;;;;;;;;;x
 PROV174;Salton;Salton;Salton;;;;;;;;;x
-PROV175;Palm Desert;Palm Desert;Palm Desert;;;;;;;;;x
+PROV175;Coachella;Coachella;Coachella;;;;;;;;;x
 PROV176;El Centro;El Centro;El Centro;;;;;;;;;x
 PROV177;Borrego;Borrego;Borrego;;;;;;;;;x
 PROV178;Anza;Anza;Anza;;;;;;;;;x
@@ -219,7 +219,7 @@ PROV218;Slab City;Slab City;Slab City;;;;;;;;;x
 PROV219;Palo Verde;Palo Verde;Palo Verde;;;;;;;;;x
 PROV220;North Shore;North Shore;North Shore;;;;;;;;;x
 PROV221;Desert Center;Desert Center;Desert Center;;;;;;;;;x
-PROV222;Old Dale;Old Dale;Old Dale;;;;;;;;;x
+PROV222;Palm Springs;Palm Springs;Palm Springs;;;;;;;;;x
 PROV223;Bagdad;Bagdad;Bagdad;;;;;;;;;x
 PROV224;Searchlight;Searchlight;Searchlight;;;;;;;;;x
 PROV225;Goodsprings;Goodsprings;Goodsprings;;;;;;;;;x
@@ -1024,7 +1024,7 @@ PROV1023;Redmond;Redmond;Redmond;;;;;;;;;x
 PROV1024;Yelm;Yelm;Yelm;;;;;;;;;x
 PROV1025;Kelso;Kelso;Kelso;;;;;;;;;x
 PROV1026;Pomeroy;Pomeroy;Pomeroy;;;;;;;;;x
-PROV1027;Skull Valley;Skull Valley;Skull Valley;;;;;;;;;x
+PROV1027;Colorado City;Colorado City;Colorado City;;;;;;;;;x
 PROV1028;White Swan;White Swan;White Swan;;;;;;;;;x
 PROV1029;Cle Elum;Cle Elum;Cle Elum;;;;;;;;;x
 PROV1030;Skykomish;Skykomish;Skykomish;;;;;;;;;x
@@ -1050,3 +1050,13 @@ PROV1049;Sooke;Sooke;Sooke;;;;;;;;;x
 PROV1050;Fraser Canyon;Fraser Canyon;Fraser Canyon;;;;;;;;;x
 PROV1051;Lytton;Lytton;Lytton;;;;;;;;;x
 PROV1052;Coldwater;Coldwater;Coldwater;;;;;;;;;x
+PROV1053;Tollhouse;Tollhouse;Tollhouse;;;;;;;;;x
+PROV1054;Tule River;Tule River;Tule River;;;;;;;;;x
+PROV1055;Tehachapi;Tehachapi;Tehachapi;;;;;;;;;x
+PROV1056;The Valley;The Valley;The Valley;;;;;;;;;x
+PROV1057;Santa Monica;Santa Monica;Santa Monica;;;;;;;;;x
+PROV1058;Malibu;Malibu;Malibu;;;;;;;;;x
+PROV1059;Buena Park;Buena Park;Buena Park;;;;;;;;;x
+PROV1060;The Redlands;The Redlands;The Redlands;;;;;;;;;x
+PROV1061;Twentynine Palms;Twentynine Palms;Twentynine Palms;;;;;;;;;x
+PROV1062;Joshua Tree;Joshua Tree;Joshua Tree;;;;;;;;;x
