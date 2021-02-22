@@ -1,5 +1,96 @@
 ###ÄNSI
 
+##Utah
+1831001 = { name="Young" culture=salter }
+1831002 = { name="Sand" culture=salter }
+1831003 = { name="Careless" culture=salter }
+1831004 = { name="Cornwall" culture=salter }
+1831005 = { name="Woodruff" culture=salter }
+1831006 = { name="Smith" culture=salter }
+1831007 = { name="Grant" culture=salter }
+1831008 = { name="Kimball" culture=salter }
+1831009 = { name="Robinson" culture=salter }
+1831010 = { name="Romney" culture=salter }
+1831011 = { name="McLean" culture=salter }
+1831012 = { name="Benson" culture=salter }
+1831013 = { name="Snow" culture=salter }
+1831014 = { name="Thatcher" culture=salter }
+1831015 = { name="Lund" culture=salter }
+1831016 = { name="Cannon" culture=salter }
+1831017 = { name="Penrose" culture=salter }
+1831018 = { name="Whitney" culture=salter }
+1831019 = { name="Windtsoe" culture=salter }
+1831020 = { name="Ashton" culture=salter }
+1831021 = { name="McConkie" culture=salter }
+1831022 = { name="Holland" culture=salter }
+1831023 = { name="Bennion" culture=salter }
+1831024 = { name="Talmage" culture=salter }
+1831025 = { name="Merrill" culture=salter }
+
+1831081 = { name="Duncan" culture=ute }
+1831082 = { name="Arrive" culture=ute }
+1831083 = { name="Wopsock" culture=ute }
+1831084 = { name="Secakuku" culture=ute }
+1831085 = { name="Chapoose" culture=ute }
+1831086 = { name="Cuthair" culture=ute }
+1831087 = { name="Pike-Cuch" culture=ute }
+1831088 = { name="Cesspooch" culture=ute }
+1831089 = { name="Redfoot" culture=ute }
+
+1831101 = { name="Young" culture=provo }
+1831102 = { name="Sand" culture=provo }
+1831103 = { name="Careless" culture=provo }
+1831104 = { name="Cornwall" culture=provo }
+1831105 = { name="Woodruff" culture=provo }
+1831106 = { name="Smith" culture=provo }
+1831107 = { name="Grant" culture=provo }
+1831108 = { name="Kimball" culture=provo }
+1831109 = { name="Robinson" culture=provo }
+1831110 = { name="Romney" culture=provo }
+1831111 = { name="McLean" culture=provo }
+1831112 = { name="Benson" culture=provo }
+1831113 = { name="Snow" culture=provo }
+1831114 = { name="Thatcher" culture=provo }
+1831115 = { name="Lund" culture=provo }
+1831116 = { name="Cannon" culture=provo }
+1831117 = { name="Penrose" culture=provo }
+1831118 = { name="Whitney" culture=provo }
+1831119 = { name="Windtsoe" culture=provo }
+1831120 = { name="Ashton" culture=provo }
+1831121 = { name="McConkie" culture=provo }
+1831122 = { name="Holland" culture=provo }
+1831123 = { name="Bennion" culture=provo }
+1831124 = { name="Talmage" culture=provo }
+1831125 = { name="Merrill" culture=provo }
+
+1831201 = { name="Young" culture=middleman }
+1831202 = { name="Sand" culture=middleman }
+1831203 = { name="Careless" culture=middleman }
+1831204 = { name="Cornwall" culture=middleman }
+1831205 = { name="Woodruff" culture=middleman }
+1831206 = { name="Smith" culture=middleman }
+1831207 = { name="Grant" culture=middleman }
+1831208 = { name="Kimball" culture=middleman }
+1831209 = { name="Robinson" culture=middleman }
+1831210 = { name="Romney" culture=middleman }
+1831211 = { name="McLean" culture=middleman }
+1831212 = { name="Benson" culture=middleman }
+1831213 = { name="Snow" culture=middleman }
+1831214 = { name="Thatcher" culture=middleman }
+1831215 = { name="Lund" culture=middleman }
+1831216 = { name="Cannon" culture=middleman }
+1831217 = { name="Penrose" culture=middleman }
+1831218 = { name="Whitney" culture=middleman }
+1831219 = { name="Windtsoe" culture=middleman }
+1831220 = { name="Ashton" culture=middleman }
+1831221 = { name="McConkie" culture=middleman }
+1831222 = { name="Holland" culture=middleman }
+1831223 = { name="Bennion" culture=middleman }
+1831224 = { name="Talmage" culture=middleman }
+1831225 = { name="Merrill" culture=middleman }
+
+
+
 
 2044001 = { name="Power" culture=meseteno }
 2044002 = { name="Pluviano" culture=meseteno }
