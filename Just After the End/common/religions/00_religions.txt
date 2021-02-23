@@ -685,7 +685,8 @@ amero_syncretic = {
 		intermarry = raven_tales_reformed
 		intermarry = orthodox
 	}
-	maso_bwikwam = {
+
+	kojtumbrem = {
 		graphical_culture = mesoamericangfx #norsegfx
 		
 		icon = 64
@@ -694,16 +695,16 @@ amero_syncretic = {
 		color = { 225 168 36 }
 		
 		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
+		scripture_name = THE_LEGENDS
 		priest_title = PRIEST
 		
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_JESUS GOD_ANSELMO_VALENCIA_TORI GOD_MARIA GOD_THE_HOLY_SPIRIT
+			GOD_ITOM_ACHAI GOD_JESUS GOD_YUKU GOD_THE_SUREM
 		}
 		evil_god_names = {
-			SATAN GOD_PORFIRIO_DIAS GOD_COLUMBUS
+			 GOD_BEBEJEERI GOD_JUURAS GOD_THE_CHAPAVEKAM
 		}
 		
 		can_call_crusade = no
@@ -2695,6 +2696,47 @@ cult_of_saints= {
 		priest_title = PADRE
 		
 		intermarry = sacred_heart
+		
+		intermarry = apostolic
+		intermarry = celeste
+		intermarry = falling_star
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = catholic
+		
+		intermarry = qabantajik
+	}
+
+	misional = {
+		graphical_culture = westerngfx
+
+		icon = 32
+		heresy_icon = 32
+		
+		color = { 229 87 43 }
+
+		high_god_name = GOD_DIOS
+		
+		god_names = {
+			GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			THE_DEVIL GOD_PERSHING GOD_LOS_FEDERALES
+		}
+		
+		can_grant_divorce = yes
+		priests_can_inherit = yes
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+
+		intermarry = patria_grande
 		
 		intermarry = apostolic
 		intermarry = celeste
@@ -5081,6 +5123,7 @@ high_cults = {
 		intermarry = chrome_cultist
 		intermarry = consumerist
 	}
+
 	fortunist = { #$$$
 		graphical_culture = hellenicgfx
 		
@@ -5123,6 +5166,7 @@ high_cults = {
 		intermarry = chrome_cultist
 		intermarry = consumerist
 	}
+
 	haysian = { #...
 		graphical_culture = hellenicgfx
 		
@@ -5165,6 +5209,7 @@ high_cults = {
 		intermarry = chrome_cultist
 		intermarry = consumerist
 	}
+
 	siliconist = { #$$$
 		graphical_culture = hellenicgfx
 		
@@ -5203,6 +5248,47 @@ high_cults = {
 		intermarry = rust_cultist
 		intermarry = chrome_cultist
 		intermarry = consumerist
+	}
+
+	triangulo_dorado = {
+		graphical_culture = westerngfx
+
+		icon = 32
+		heresy_icon = 32
+		
+		color = { 73 59 55 }
+
+		high_god_name = GOD_EL_JEFE_DE_JEFE
+		
+		god_names = {
+			GOD_CUERNO_DE_CHIVO GOD_MALVERDE GOD_HIERBA_MALA
+		}
+		
+		evil_god_names = {
+			THE_DEVIL GOD_LOS_FEDERALES GOD_LOS_RINCHES
+		}
+		
+		can_grant_divorce = yes
+		priests_can_inherit = yes
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		scripture_name = LOS_CORRIDOS
+		priest_title = PADRE
+
+		intermarry = patria_grande
+		
+		intermarry = apostolic
+		intermarry = celeste
+		intermarry = falling_star
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = catholic
+		
+		intermarry = qabantajik
 	}
 }
 
@@ -5331,6 +5417,53 @@ nautical = {
 		}
 		
 		scripture_name = THE_MARINERS_GUIDE
+		priest_title = PRIEST
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		seafarer = yes
+		raised_vassal_opinion_loss = no
+		peace_prestige_loss = yes
+		defensive_attrition = yes
+		aggression = 2.0 # AI aggression factor
+		has_heir_designation = yes
+		
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			archers_defensive = 0.8
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		religious_clothing_head = 17
+		religious_clothing_priest = 17
+		
+		intermarry = pelagic
+	}
+
+	navegante = { 
+		graphical_culture = norsegfx
+
+		icon = 82
+		heresy_icon = 82
+		
+		color = { 176 173 203 }
+
+		high_god_name = GOD_THE_FISHER_OF_MEN
+
+		god_names = {
+			GOD_ICHTYS GOD_LIVING_WATER GOD_SALVADOR_GAVIOTA
+		}
+		evil_god_names = {
+			GOD_THE_DEVIL GOD_TEMPEST GOD_EL_MECHUDO
+		}
+		
+		scripture_name = THE_GOSPEL
 		priest_title = PRIEST
 		priests_can_marry = yes
 		allow_rivermovement = yes

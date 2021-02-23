@@ -267,18 +267,6 @@ THE_CONSTITUTION;The Constitution;;;;;;;;;;;;;x
 adventist;Adventist;;;;;;;;;;;;;x
 adventist_DESC;These are the followers of a most unusual Guru, Guru Miller. They believe that Christ is judging all people actively, and has been since before the event, in preparation of his coming. Unlike the Postadventists, whose movement swept through the lands of the far east, these Adventists do not believe that the Event was Christ’s judgement of the world – and denounce the concept as a most vile deception. They also observe the Sabbath of the Jews, instead of that of their fellow Christians, and believe that death is a dreamless sleep, that only the faithful will ever awaken from.;;;;;;;;;;;;;x
 
-#Maso Bwikwam
-maso_bwikwam;Maso Bwikwam;;;;;;;;;;;;;x
-maso_bwikwam_DESC;The ancient faith of the Yaqui is heavily syncretized with Catholicism, but retains many native inspired beliefs centered around their duty to prevent the end of the world through rituals, which have absorbed the Christian practice of Easter and Lent. The Deer Songs are heavily communal events, and some of the Yaqui believe that should they cease the very world itself will soon follow. Other unique beliefs include the idea that flowers grew from the blood shed at crucifixion, making them highly revered in Yaqui society, and the many societies which each have their own part in the rituals.;;;;;;;;;;;;;x
-GOD_GOD;;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_ANSELMO_VALENCIA_TORI;Anselmo Valencia Tori;;;;;;;;;;;;;x
-GOD_MARIA;Maria;;;;;;;;;;;;;x
-GOD_THE_HOLY_SPIRIT;The Holy Spirit;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-GOD_PORFIRIO_DIAS;Porfirio Dias;;;;;;;;;;;;;x
-GOD_COLUMBUS;Columbus;;;;;;;;;;;;;x
-
 #Baptist
 #Their localization exists elsewhere already so yee haw
 baptist;Baptist;;;;;;;;;;;;;x
@@ -482,3 +470,51 @@ GOD_KRISHNAMURTI;Krishnamurti;;;;;;;;;;;;;x
 GOD_SUFFERING;Suffering;;;;;;;;;;;;;x
 GOD_THE_SYSTEMS_OF_MAN;The Systems of Man;;;;;;;;;;;;;x
 KRISHNAMURTIS_NOTEBOOK;Krishnamurti's Notebook;;;;;;;;;;;;;x
+
+#Navegante
+navegante;Navegante;;;;;;;;;;;;;x
+navegante_DESC;Navigants believe those who are brave, those who are patient, are blessed by the sea. Legends warn of the dangers and curses of the sea, but also speak of miracles and blessings from he who multiplies the fish. Our Savior and provider, call us to walk over the waters with you. And give us Our Daily Fish, Amen.;;;;;;;;;;;;;x
+GOD_THE_FISHER_OF_MEN;The Fisher of Men;;;;;;;;;;;;;x
+GOD_ICHTYS;Ichtys;;;;;;;;;;;;;x
+GOD_LIVING_WATER;Living Water;;;;;;;;;;;;;x
+GOD_SALVADOR_GAVIOTA;Salvador Gaviota;;;;;;;;;;;;;x
+GOD_THE_DEVIL;The Devil;;;;;;;;;;;;;x
+GOD_TEMPEST;Tempest;;;;;;;;;;;;;x
+GOD_EL_MECHUDO;El Mechudo;;;;;;;;;;;;;x
+THE_GOSPEL;The Gosepel;;;;;;;;;;;;;x
+
+#Triangulo Dorado
+triangulo_dorado;Triángulo Dorado;;;;;;;;;;;;;x
+triangulo_dorado_DESC;Proclaiming being the true lords of Mexico the days before the event, Contrabandistas cling to hubs of power and isolated fortresses. They believe laws and morals were suggestions, their honor and pride shapes them, and they are exempt if some good is done. They’re a brutal caste of tyrants, idolizing feats of bravery as sung in Los Corridos. But the Event robbed their trade routes and their clients, and now their power wanes. Are they really the lords of the land?;;;;;;;;;;;;;x
+GOD_EL_JEFE_DE_JEFE;El Jefe de Jefes;;;;;;;;;;;;;x
+GOD_CUERNO_DE_CHIVO;Cuerno de Chivo;;;;;;;;;;;;;x
+GOD_MALVERDE;Malverde;;;;;;;;;;;;;x
+GOD_HIERBA_MALA;Hierba Mala;;;;;;;;;;;;;x
+THE_DEVIL;The Devil;;;;;;;;;;;;;x
+GOD_LOS_FEDERALES;Los Federales;;;;;;;;;;;;;x
+GOD_LOS_RINCHES;Los Rinches;;;;;;;;;;;;;x
+LOS_CORRIDOS;Los Corridos;;;;;;;;;;;;;x
+
+#Misional
+misional;Misional;;;;;;;;;;;;;x
+misional_DESC;As Jesus and the Apostles healed by faith, those gifted can work wonders through prayer and  intercession from El Niño Fidencio and San Chárbel. A wide range of beliefs, but united by miracles and signs.;;;;;;;;;;;;;x
+GOD_DIOS;Dios;;;;;;;;;;;;;x
+GOD_THE_LORD;The Lord;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+GOD_THE_BLESSED_VIRGIN;The Blessed Virgin;;;;;;;;;;;;;x
+THE_DEVIL;The Devil;;;;;;;;;;;;;x
+GOD_PERSHING;Pershing;;;;;;;;;;;;;x
+GOD_LOS_FEDERALES;Los Federales;;;;;;;;;;;;;x
+
+#Kojtumbrem (Yaqui Faith)
+kojtumbrem;Kojtumbrem;;;;;;;;;;;;;x
+kojtumbrem_DESC;Among the Yaqui, the heirs of the Sun, an ancient tradition met the Gospel. Believing that at the end of the world those who were baptized were the only to be saved and inherit the world. These chosen are the proud Yaqui, free from the colonists yet armed with their catholic traditions.;;;;;;;;;;;;;x
+GOD_GOD;God;;;;;;;;;;;;;x
+GOD_ITOM_ACHAI;'Itom 'Achai;;;;;;;;;;;;;x
+GOD_JESUS;Jesus;;;;;;;;;;;;;x
+GOD_YUKU;Yuku;;;;;;;;;;;;;x
+GOD_THE_SUREM;The Surem;;;;;;;;;;;;;x
+GOD_BEBEJEERI;Bebeje'eri;;;;;;;;;;;;;x
+GOD_JUURAS;Juuras;;;;;;;;;;;;;x
+GOD_THE_CHAPAVEKAM;The Chapavekam;;;;;;;;;;;;;x
+THE_LEGENDS;The Legends;;;;;;;;;;;;;x
