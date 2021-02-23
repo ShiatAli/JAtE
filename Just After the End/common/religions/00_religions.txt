@@ -5362,10 +5362,10 @@ nautical = {
 		high_god_name = GOD_THE_BLACKFISH
 
 		god_names = {
-			THE_SWELLS THE_TIDES THE_GYRE
+			GOD_THE_SWELLS GOD_THE_TIDES GOD_THE_GYRE
 		}
 		evil_god_names = {
-			THE_BASKET_WOMAN THE_BIG_ONE
+			GOD_THE_BASKET_WOMAN GOD_THE_BIG_ONE
 		}
 		
 		scripture_name = THE_CHARTS
