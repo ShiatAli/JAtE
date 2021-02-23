@@ -15,7 +15,7 @@ b_tranquility = city
 #b_elm_view = castle
 
 # Misc
-culture = valleyan
+culture = hmong
 religion = cetic
 
 #History
