@@ -15,7 +15,7 @@ b_sunnyvale = temple
 #b_mather = castle
 
 # Misc
-culture = valleyan
+culture = hmong
 religion = cetic
 
 #History

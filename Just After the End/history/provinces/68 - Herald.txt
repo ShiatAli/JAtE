@@ -15,7 +15,7 @@ b_wilton = city
 #b_valensin = castle
 
 # Misc
-culture = valleyan
+culture = hmong
 religion = cetic
 
 #History

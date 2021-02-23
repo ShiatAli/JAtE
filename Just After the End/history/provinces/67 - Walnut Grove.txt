@@ -15,7 +15,7 @@ b_rydes = city
 #b_courtland = castle
 
 # Misc
-culture = valleyan
+culture = hmong
 religion = cetic
 
 #History
