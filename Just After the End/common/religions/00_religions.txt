@@ -5302,8 +5302,8 @@ nautical = {
 	
 	interface_skin = { pirate_interface pagan_interface }
 	
-	ai_convert_same_group = 2 # try to convert if ai_zeal is high
-	ai_convert_other_group = 1	# only if zealous
+	ai_convert_same_group = 0 
+	ai_convert_other_group = 2
 	
 	brethren = { # pirates!
 		graphical_culture = norsegfx
@@ -5351,38 +5351,48 @@ nautical = {
 		
 		intermarry = voodoo
 	}
-	pelagic = { # whalers!
+	blackfish = { # reskinned pelagic
 		graphical_culture = norsegfx
 
 		icon = 82
 		heresy_icon = 82
 		
-		color = { 0.8 0.8 0.8 }
+		color = { 0.6 0.7 0.8 }
 
-		high_god_name = GOD_SEDNA
+		high_god_name = GOD_THE_BLACKFISH
 
 		god_names = {
-			GOD_SEDNA GOD_JONAH GOD_LEVIATHAN GOD_ANGUTA GOD_AGLOOIK
+			THE_SWELLS THE_TIDES THE_GYRE
 		}
 		evil_god_names = {
-			GOD_SEDNA THE_WHITE_WHALE KRAKEN
+			THE_BASKET_WOMAN THE_BIG_ONE
 		}
 		
-		scripture_name = THE_ETCHINGS
-		priest_title = PRIEST
+		scripture_name = THE_CHARTS
+		priest_title = LIGHTKEEPER
+		piety_name = LAMP_OIL
 		priests_can_marry = yes
 		allow_rivermovement = yes
-		allow_viking_invasion = yes
+		allow_viking_invasion = no
 		allow_looting = yes
 		female_temple_holders = yes
-		max_consorts = 3
 		seafarer = yes
 		raised_vassal_opinion_loss = no
-		peace_prestige_loss = yes
 		defensive_attrition = yes
-		aggression = 2.0 # AI aggression factor
+		aggression = 1.0 # AI aggression factor
 		has_heir_designation = yes
-		
+		feminist = yes
+		can_retire_to_monastery = yes
+		intermarry = legislative
+		intermarry = freighter
+		intermarry = three_path
+		intermarry = raven_tales
+		intermarry = raven_tales_reformed
+		character_modifier = { sex_appeal_opinion = 15 }
+		men_can_take_consorts = yes
+		women_can_take_consorts = yes
+		max_consorts = 1
+
 		unit_home_modifier = {
 			land_morale = 0.8
 			light_infantry_defensive = 0.8
