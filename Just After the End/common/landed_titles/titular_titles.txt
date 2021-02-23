@@ -7,6 +7,18 @@ d_pikeplace = {
 	allow = { is_republic = yes }
 	culture = cascadian
 }
+
+d_saltwater_city = {
+	color = { 126 99 209 }
+	color2 = { 92 68 169 }
+
+	capital = 505 #Vancouver
+	allow = { is_republic = yes }
+	culture = vancouverite vainakuvaraita
+	religion = three_paths
+	primary = yes
+	short_name
+}
 ###################THE PING LORD########################
 e_celestial_harmony = {
 	color = { 255 255 255 }
