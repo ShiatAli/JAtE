@@ -16,6 +16,6 @@ b_penticton = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History

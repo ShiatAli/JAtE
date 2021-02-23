@@ -16,6 +16,6 @@ b_sardis = city
 
 # Misc
 culture = fraserian
-religion = gaian
+religion = sikh
 
 #History

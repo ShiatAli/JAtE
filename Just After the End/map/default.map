@@ -1,4 +1,6 @@
 max_provinces = 1126
+# stats:  1124 provinces
+# unused:
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -17,22 +19,17 @@ seasons = "seasons.txt"
 externals = {
 }
 
-sea_zones = { 1063 1072 }
-# 1 Around Van Isle
-sea_zones = { 1076 1097 }
-# 2 the rest of the fucking ocean 
+sea_zones = { 1064 1097 }
 
-ocean_region = { 
-		sea_zones = { 1 2 }
+ocean_region = {	# Pacific Ocean
+	sea_zones = { 1 }
 }
-
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
 
-major_rivers = {
-		1073 1074 1075 #Fraser
-		1098 1099 1100 1101 #Colorado
-		1102 1103 1104 1105 1106 1107 1108 1109 #San Fran system
-		1110 1111 1112 1113 1114 1115 1116 1117 1118 1119 1120 1121 1122 1123 1124 1125 #Columbia System
+major_rivers = 
+{
+	# Pacific Ocean
+	
 }

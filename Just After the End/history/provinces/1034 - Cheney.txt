@@ -15,7 +15,7 @@ b_cheney_2 = castle
 #b_tyler = castle
 
 # Misc
-culture = palouse
-religion = millenarian
+culture = fraserian
+religion = fidelii
 
 #History

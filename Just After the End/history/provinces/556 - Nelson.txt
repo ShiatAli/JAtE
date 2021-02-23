@@ -16,6 +16,6 @@ b_nelson = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = anabaptist
 
 #History

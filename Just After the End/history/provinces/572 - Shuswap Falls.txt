@@ -16,6 +16,6 @@ b_shuswap_falls = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History

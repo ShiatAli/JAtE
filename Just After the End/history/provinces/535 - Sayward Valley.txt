@@ -16,6 +16,6 @@ b_sayward = castle
 
 # Misc
 culture = kwakwakawakw
-religion = gaian
+religion = raven_tales
 
 #History

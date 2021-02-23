@@ -16,6 +16,6 @@ b_kalispell = castle
 
 # Misc
 culture = ktunaxa
-religion = gaian
+religion = conservationist
 
 #History

@@ -16,6 +16,6 @@ b_keremos = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History

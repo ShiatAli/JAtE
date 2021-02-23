@@ -16,6 +16,6 @@ b_west_glacier = castle
 
 # Misc
 culture = ktunaxa
-religion = gaian
+religion = conservationist
 
 #History

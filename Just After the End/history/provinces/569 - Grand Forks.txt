@@ -16,6 +16,6 @@ b_grand_forks = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History

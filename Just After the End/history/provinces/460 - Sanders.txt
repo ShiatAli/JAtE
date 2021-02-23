@@ -16,6 +16,6 @@ b_plains = city
 
 # Misc
 culture = panhandler
-religion = refulgent
+religion = sovereignist
 
 #History

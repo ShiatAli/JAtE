@@ -16,6 +16,6 @@ b_cottage_lake = city
 
 # Misc
 culture = emeraldian
-religion = gaian
+religion = siliconist
 
 #History

@@ -16,6 +16,6 @@ b_yelm = castle
 
 # Misc
 culture = willapan
-religion = gaian
+religion = sedevacantist
 
 #History

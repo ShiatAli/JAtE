@@ -16,6 +16,6 @@ b_fernie = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = conservationist
 
 #History

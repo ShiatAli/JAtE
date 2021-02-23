@@ -16,6 +16,6 @@ b_troy_2 = city
 
 # Misc
 culture = palouse
-religion = millenarian
+religion = evangelical
 
 #History

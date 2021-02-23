@@ -16,6 +16,6 @@ b_sprague = castle
 
 # Misc
 culture = palouse
-religion = millenarian
+religion = fidelii
 
 #History

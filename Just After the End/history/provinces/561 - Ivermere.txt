@@ -16,6 +16,6 @@ b_ivermere = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = anabaptist
 
 #History

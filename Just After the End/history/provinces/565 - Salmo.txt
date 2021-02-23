@@ -16,6 +16,6 @@ b_salmo = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = anabaptist
 
 #History

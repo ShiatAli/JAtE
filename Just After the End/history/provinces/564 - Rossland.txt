@@ -16,6 +16,6 @@ b_warfield = city
 
 # Misc
 culture = inlander
-religion = gaian
+religion = anabaptist
 
 #History

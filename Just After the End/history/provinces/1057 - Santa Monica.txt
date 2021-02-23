@@ -16,6 +16,6 @@ b_marina_del_rey = city
 
 # Misc
 culture = angeleno
-religion = catholic
+religion = sedevacantist
 
 #History

@@ -1061,9 +1061,9 @@ province;red;green;blue;x;x
 1060;42;160;75;The Redlands;x
 1061;131;138;35;Twentynine Palms;x
 1062;104;110;29;Joshua Tree;x
-1063;80;15;243;North Pacific;x
+1063;1;1;1;PLACEHOLDER1063;x
 1064;99;41;243;Wild Coast;x
-1065;119;71;240;Juan De Fuca Strait;x
+1065;119;71;240;Juan de Fuca Strait;x
 1066;137;97;238;Barkley Sound;x
 1067;164;138;229;West Salish Sea;x
 1068;113;68;229;East Salish Sea;x
@@ -1083,11 +1083,11 @@ province;red;green;blue;x;x
 1082;71;57;248;Grays Harbour;x
 1083;93;81;247;Nahcotto Channel;x
 1084;12;33;250;Siuslaw Coast;x
-1085;34;53;248;St George Reef;x
+1085;34;53;248;St. George Reef;x
 1086;52;69;247;Cordell Bank;x
 1087;70;85;245;Monterey Bay;x
-1088;77;90;227;Santa Barbara;x
-1089;6;25;225;Guadalupe Bank;x
+1088;77;90;227;Guadelupe Bank;x
+1089;6;25;225;Santa Barbara;x
 1090;58;73;228;Baja One;x
 1091;40;56;226;Baja Two;x
 1092;22;39;225;Baja Three;x
@@ -1107,19 +1107,19 @@ province;red;green;blue;x;x
 1106;161;168;238;Sacremento Deep Channel;x
 1107;149;156;226;American River;x
 1108;134;142;227;Folsom Lake;x
-1109;95;107;227;Sacremento River
+1109;95;107;227;Sacremento River;x
 1110;112;101;247;Columbia Outflow;x
 1111;131;123;245;Willamette River;x
-1112;143;136;244;Mt Hood Slope;x
+1112;143;136;244;Mt. Hood Slope;x
 1113;160;154;243;Oregon Dunes Channel;x
 1114;47;14;247;Hanford Reach;x
-1115;64;34;247;Okanogan Linkup;x
+1115;64;34;247;Okanogan Lineup;x
 1116;85;59;246;Devils Punch Bowl;x
 1117;108;86;244;Columbia North Arm;x
 1118;124;105;241;Spokane River;x
 1119;171;166;242;West Snake;x
 1120;157;153;223;Clearwater River;x
-1121;140;135;223;Dworshak Resevoir;x
+1121;140;135;223;Dworshark Resevoir;x
 1122;131;127;209;South Snake;x
 1123;135;130;224;East Snake;x
 1124;114;107;223;Minidoka Lake;x

@@ -16,6 +16,6 @@ b_cle_elum = castle
 
 # Misc
 culture = backcountry
-religion = gaian
+religion = conservationist
 
 #History

@@ -1,0 +1,1126 @@
+province;red;green;blue;x;x
+1,255,5,5,San Francisco,x
+2,255,55,55,San Mateo,x
+3,255,73,73,Redwood City,x
+4,255,98,98,Half Moon Bay,x
+5,255,144,1,San Rafael,x
+6,229,148,44,Novato,x
+7,208,129,26,Point Reyes,x
+8,210,157,64,Santa Rosa,x
+9,255,179,46,Petaluma,x
+10,222,152,30,Bodega Bay,x
+11,191,141,54,Windsor,x
+12,103,199,177,Napa,x
+13,60,164,140,St. Helena,x
+14,78,190,165,Spanish Flat,x
+15,183,67,67,Vallejo,x
+16,208,97,97,Vacaville,x
+17,243,49,49,Rio Vista,x
+18,0,255,240,Richmond,x
+19,70,255,244,Concord,x
+20,65,198,190,Walnut Creek,x
+21,42,225,214,Antioch,x
+22,158,67,222,Berkeley,x
+23,48,57,169,Oakland,x
+24,123,131,246,Fremont,x
+25,174,179,249,Pleasanton,x
+26,63,172,148,San Jose,x
+27,18,207,165,Mountain View,x
+28,80,219,188,Santa Clara,x
+29,177,225,214,Gilroy,x
+30,171,210,201,San Felipe,x
+31,37,210,171,Los Gatos,x
+32,53,159,135,Coe Ranch,x
+33,42,124,106,Ohlone,x
+34,60,176,150,Pescadero,x
+35,144,255,0,South Lake,x
+36,138,188,73,North Lake,x
+37,171,222,105,Kelseyville,x
+38,246,0,255,Santa Cruz,x
+39,191,80,195,Watsonville,x
+40,147,60,150,Scotts Valley,x
+41,0,255,60,Hollister,x
+42,132,171,81,San Benito,x
+43,142,184,87,Idria,x
+44,114,178,184,Salinas,x
+45,113,197,205,Monterey,x
+46,100,215,225,Carmel-By-The-Sea,x
+47,66,111,179,Big Sur,x
+48,104,147,212,Slates Hot Spring,x
+49,66,120,179,Gorda,x
+50,90,153,160,King City,x
+51,103,164,171,Soledad,x
+52,92,147,154,Gonzales,x
+53,57,134,143,Wunpost,x
+54,71,161,171,Hidden Valley,x
+55,155,217,224,Lockwood,x
+56,222,166,48,San Luis Obispo,x
+57,241,190,79,Atascadero,x
+58,210,179,111,San Simeon,x
+59,239,206,134,Pozo,x
+60,201,206,134,Topaz,x
+61,166,40,40,Sacramento,x
+62,181,57,57,Rancho Cordova,x
+63,190,57,57,Elk Grove,x
+64,190,30,30,Folsom,x
+65,210,30,30,Arden-Arcade,x
+66,200,40,40,Rio Linda,x
+67,184,45,45,Walnut Grove,x
+68,184,70,70,Herald,x
+69,190,65,65,Rancho Murieta,x
+70,85,170,170,Placerville,x
+71,95,165,165,Roseville,x
+72,95,180,180,Nevada City,x
+73,95,200,200,Oroville,x
+74,95,220,200,Oliverhurst,x
+75,95,220,220,Pleasant Grove,x
+76,100,200,200,Indian Valley,x
+77,105,200,200,Chester,x
+78,120,200,200,Portola,x
+79,120,180,200,Olympic Valley,x
+80,120,160,195,Monument,x
+81,120,160,175,Lincoln,x
+82,96,181,79,Yuba,x
+83,96,220,90,Robbins,x
+84,96,190,90,Butte,x
+85,96,200,79,Chico,x
+86,80,200,90,Los Molinos,x
+87,96,220,79,Dairyville,x
+88,220,79,175,Davis,x
+89,220,90,175,Cottonwood,x
+90,220,100,175,Rumsey,x
+91,220,100,190,Colusa,x
+92,220,120,190,Arbuckle,x
+93,220,120,200,Willow,x
+94,220,140,200,Artois,x
+95,220,150,200,Hamilton City,x
+96,220,160,200,Elk Creek,x
+97,220,190,200,Red Bluff,x
+98,220,180,200,Corning,x
+99,220,200,200,Rosewood,x
+100,0,255,96,Stockton,x
+101,0,230,96,Lodi,x
+102,0,215,96,Amador,x
+103,0,200,96,Modesto,x
+104,0,190,96,Le Grange,x
+105,0,180,96,San Andreas,x
+106,0,170,96,Merced,x
+107,0,160,96,Mariposa,x
+108,0,150,96,Toulumnes,x
+109,0,140,96,Madera,x
+110,0,130,96,Yosemite Lakes,x
+111,0,120,96,Chowchilla,x
+112,9,188,140,Bakersfield,x
+113,5,107,79,Bear Valley,x
+114,97,255,0,Mojave,x
+115,111,242,203,Tupman,x
+116,130,186,170,Mettler,x
+117,9,137,86,Visalia,x
+118,17,255,163,Kings Canyon,x
+119,38,160,69,Terra Bella,x
+120,17,255,77,Halfway House,x
+121,12,181,54,Isabella,x
+122,182,255,0,Twin Oaks,x
+123,42,145,61,Taft,x
+124,121,142,91,McKittrick,x
+125,111,175,54,Annette,x
+126,206,255,163,Buttonwillow,x
+127,12,255,190,Lost Hills,x
+128,56,196,41,Alpaugh,x
+129,91,142,118,Hanford,x
+130,11,168,121,Shafter,x
+131,114,178,200,Fresno,x
+132,84,130,145,Millerton,x
+133,42,145,159,Kerman,x
+134,60,205,224,Helm,x
+135,133,193,189,Selma,x
+136,84,173,148,Centerville,x
+137,165,182,103,Tracy,x
+138,211,255,38,Diablo Grande,x
+139,71,178,13,Cottonwood_2,x
+140,71,86,13,Newman,x
+141,182,224,118,Mendota,x
+142,139,198,49,Los Banos,x
+143,152,224,44,Wood Ranch,x
+144,98,142,35,Cantua,x
+145,60,205,105,Riverdale,x
+146,74,183,116,Kettleman,x
+147,152,224,151,Coalinga,x
+148,73,255,53,Five Points,x
+149,86,152,54,Balboa,x
+150,73,70,12,Coronado,x
+151,113,157,93,Otay Lakes,x
+152,104,185,66,Torrey,x
+153,69,122,44,El Cajon,x
+154,134,201,101,Palomar,x
+155,125,206,45,Poway,x
+156,172,210,91,Pendleton,x
+157,149,196,53,San Clemente,x
+158,13,53,25,Santiago,x
+159,82,202,47,Irvine,x
+160,192,225,77,Huntington,x
+161,77,106,171,Anaheim,x
+162,42,56,88,Fullerton,x
+163,29,43,77,The Times,x
+164,32,69,153,Chino,x
+165,52,170,85,Riverside,x
+166,46,122,67,Mathews,x
+167,48,129,70,San Bernardino,x
+168,34,90,50,Moreno,x
+169,18,88,38,Temecula,x
+170,78,161,102,Diamond Valley,x
+171,30,97,49,Morongo,x
+172,56,139,80,Pauma,x
+173,69,120,45,Ramona,x
+174,41,126,65,Salton,x
+175,24,108,47,Coachella,x
+176,28,73,41,El Centro,x
+177,40,118,62,Borrego,x
+178,51,124,72,Anza,x
+179,66,111,78,Idyllwild,x
+180,143,174,247,Catalina Island,x
+181,65,122,255,Channel Islands,x
+182,134,155,203,Los Angeles,x
+183,90,115,173,Long Beach,x
+184,35,59,113,Compton,x
+185,35,51,88,Torrance,x
+186,57,83,143,Hollywood,x
+187,42,69,131,Glendale,x
+188,61,81,126,Pasadena,x
+189,64,128,64,Thousand Oaks,x
+190,96,192,128,Oxnard,x
+191,128,160,128,Simi,x
+192,96,192,192,Ventura,x
+193,64,160,128,Santa Barbara,x
+194,96,224,128,Las Crusces,x
+195,32,192,128,Lompoc,x
+196,128,160,64,Santa Maria,x
+197,22,88,26,Santa Ynez,x
+198,46,134,51,Wheeler,x
+199,92,122,93,Cuyama Valley,x
+200,109,201,114,Tejon Pass,x
+201,20,61,20,Santa Clarita,x
+202,88,126,88,Palmdale,x
+203,95,130,66,Lancaster,x
+204,149,152,104,Rosamond,x
+205,59,88,35,Fairmont,x
+206,80,82,43,Victorville,x
+207,65,107,65,Hesperia,x
+208,110,115,34,El Mirage,x
+209,145,151,62,Yucca,x
+210,97,99,57,Helendale,x
+211,221,0,118,Las Vegas,x
+212,224,64,128,Fire Valley,x
+213,221,67,15,Ash Springs,x
+214,192,128,128,Indian Springs,x
+215,224,64,64,Pahrump,x
+216,160,32,64,Imperial,x
+217,224,96,128,Picacho,x
+218,128,64,64,Slab City,x
+219,224,160,192,Palo Verde,x
+220,224,64,192,North Shore,x
+221,224,128,192,Desert Center,x
+222,221,70,146,Palm Springs,x
+223,130,85,121,Bagdad,x
+224,206,221,122,Searchlight,x
+225,221,177,209,Goodsprings,x
+226,207,0,221,Boulder City,x
+227,192,32,0,Halloran,x
+228,96,32,128,Vidal,x
+229,255,208,170,Blythe,x
+230,193,60,126,Needles,x
+231,191,123,101,Barstow,x
+232,234,58,117,Afton,x
+233,234,164,129,Siberia,x
+234,191,54,9,Johnson Valley,x
+235,206,119,128,Paz,x
+236,241,84,116,El Quelele,x
+237,207,94,232,San Juan de Los Planes,x
+238,241,22,148,Todos Santos,x
+239,236,89,159,San Pedro,x
+240,245,175,216,Cabo Pulmo,x
+241,236,89,173,San Jose del Cabo,x
+242,255,70,131,Cabo San Lucas,x
+243,165,10,99,Carrizalito,x
+244,88,57,232,Cresciente,x
+245,130,43,225,Hiray,x
+246,123,99,237,Banderitas,x
+247,224,188,245,Constitucion,x
+248,156,44,224,Matancita,x
+249,173,80,209,San Evaristo,x
+250,235,33,220,Timbabichi,x
+251,206,14,254,Huatamote,x
+252,201,169,231,Liguei,x
+253,206,201,233,Loreto,x
+254,224,86,114,Heroica Mulege,x
+255,242,83,171,La Poza Grande,x
+256,218,50,84,La Yaqui,x
+257,228,181,54,Isla Guadalupe,x
+258,228,172,54,Isla de Cedros,x
+259,254,158,173,Bahia Tortugas,x
+260,244,168,244,Guerrero Negro,x
+261,228,41,228,El Marasal,x
+262,251,162,249,Santa Rosalia,x
+263,164,249,244,Punta Abreojos,x
+264,245,191,27,Tijuana,x
+265,245,228,129,Tecate,x
+266,219,189,17,Guadalupe,x
+267,252,241,37,La Rumorosa,x
+268,234,94,0,Mexicali,x
+269,224,135,69,Progreso,x
+270,255,167,108,Morelos,x
+271,151,79,26,Delta,x
+272,230,226,100,El Indiviso,x
+273,75,54,10,Lazaro Cardenas,x
+274,245,236,122,San Felipe_2,x
+275,253,205,115,Puertecitos,x
+276,219,157,158,El Rosario,x
+277,190,80,83,Rancho los Pinos,x
+278,139,100,18,Ensenada,x
+279,240,209,145,Santo Tomas,x
+280,139,100,20,Camalu,x
+281,234,170,21,Rosarito,x
+282,221,206,17,Bahia de los Angeles,x
+283,147,136,11,Punta Final,x
+284,183,113,158,Redding,x
+285,160,100,158,Round Mountain,x
+286,160,140,158,Platina,x
+287,160,160,158,Burney,x
+288,140,100,158,Weaverville,x
+289,140,80,158,Hayfork,x
+290,140,120,158,Ridgeville,x
+291,160,150,140,Mt. Shasta,x
+292,180,150,140,Pondosa,x
+293,180,150,120,Lakehead-Lakeshore,x
+294,152,36,36,Ukiah,x
+295,152,45,45,Hopland,x
+296,152,60,60,Boonville,x
+297,152,70,70,Willits,x
+298,170,70,70,Mendocino,x
+299,170,90,90,Fort Bragg,x
+300,170,50,50,Point Arena,x
+301,170,100,100,Rockport,x
+302,150,100,100,Laytonville,x
+303,150,120,100,Leggett,x
+304,150,120,120,Dos Rios,x
+305,150,100,120,Covelo,x
+306,196,55,148,Eureka,x
+307,196,65,148,Willow Creek,x
+308,196,75,148,Trinidad,x
+309,196,90,148,Del Norte,x
+310,196,40,160,Fortuna,x
+311,196,40,180,Garberville,x
+312,196,40,140,Dinsmore,x
+313,180,120,158,Yreka,x
+314,180,80,158,Fort Jones,x
+315,180,135,158,Mt. Hebron,x
+316,180,140,158,Hornbrook,x
+317,180,160,170,Fort Goff,x
+318,180,160,190,Cottage Grove,x
+319,160,127,127,Alturas,x
+320,160,140,127,Canby,x
+321,160,140,110,Mammoth,x
+322,143,126,100,Susanville,x
+323,143,126,80,Termo,x
+324,143,110,80,Little Valley,x
+325,70,73,176,Klamath Falls,x
+326,70,50,176,Bonaza,x
+327,70,80,176,Chiloquin,x
+328,70,100,176,Chemult,x
+329,40,100,176,Medford,x
+330,100,100,176,Josephine,x
+331,100,120,176,Upper Rogue,x
+332,60,70,180,Lakeview,x
+333,51,53,180,Wagonfire,x
+334,40,44,247,Christmas Valley,x
+335,240,0,255,Portland,x
+336,146,75,150,Gresham,x
+337,172,75,150,Forest Park,x
+338,184,82,161,Oswego,x
+339,185,75,150,Mt. Hood,x
+340,185,75,130,Towering Village,x
+341,185,75,110,Sandy,x
+342,150,50,255,Oregon City,x
+343,138,61,143,Clackamas,x
+344,150,50,180,Wilsonville,x
+345,160,20,161,Hillsboro,x
+346,184,20,161,Beaverton,x
+347,200,120,201,Forest Grove,x
+348,200,120,150,Wilkesboro,x
+349,150,120,150,St.Helens,x
+350,103,120,150,Pittsburg,x
+351,103,120,180,Clatskanie,x
+352,209,155,224,Salem,x
+353,188,135,203,Yamhill,x
+354,202,155,215,Polks,x
+355,193,142,208,Woodburn,x
+356,170,146,177,Albany,x
+357,197,174,203,Sweet Home,x
+358,104,100,176,Corvallis,x
+359,111,122,148,Eugene,x
+360,112,60,0,Springfield,x
+361,0,60,0,Old Territorial,x
+362,112,60,180,Saginaw,x
+363,236,192,239,Roseburg,x
+364,33,147,73,Glide,x
+365,95,255,151,Yoncalla,x
+366,212,205,206,Elkton,x
+367,120,80,123,Myrtle Creek,x
+368,186,136,189,Winston,x
+369,198,68,175,Myrtle Point,x
+370,112,106,80,Florence,x
+371,112,60,80,Reedsport,x
+372,112,60,200,Mapleton,x
+373,43,241,164,Coos Bay,x
+374,9,145,92,Port Orford,x
+375,145,9,9,Gold Beach,x
+376,255,61,134,Tillamook,x
+377,255,20,134,Pacific City,x
+378,58,83,95,Manzanita,x
+379,164,164,164,Newport,x
+380,180,170,164,Lincoln City,x
+381,180,170,120,Eddyville,x
+382,103,100,160,Astoria,x
+383,60,100,160,Jewell,x
+384,60,100,120,Warrenton,x
+385,255,110,110,Seattle,x
+386,198,94,94,Bellevue,x
+387,167,126,126,Renton,x
+388,179,151,151,Federal Way,x
+389,154,86,86,Sammamish,x
+390,195,157,157,Carnation,x
+391,177,133,133,North Bend,x
+392,116,57,57,Everett,x
+393,130,100,100,Lynnwood,x
+394,252,0,255,Snohomish,x
+395,158,60,159,Leavenworth,x
+396,204,112,205,Arlington,x
+397,150,62,62,Mt.Vernon,x
+398,154,89,89,Fidalgo,x
+399,154,45,153,Darrington,x
+400,174,123,123,Camano,x
+401,125,100,130,South Whidbey,x
+402,128,72,140,North Whidbey,x
+403,119,104,119,Lyman,x
+404,124,89,124,Rockport_2,x
+405,176,110,175,Bellingham,x
+406,140,59,139,Nooksack,x
+407,171,102,170,Lynden,x
+408,255,54,253,San Juan,x
+409,201,69,199,Lopez,x
+410,138,198,192,Orca,x
+411,44,219,200,Tacoma,x
+412,49,157,146,Spanaway,x
+413,154,63,63,Enumclaw,x
+414,104,184,127,the Couve,x
+415,98,210,130,Battle Ground,x
+416,81,157,102,Skamania,x
+417,75,162,100,Centralia,x
+418,49,118,69,Longview,x
+419,44,97,59,La Grande,x
+420,114,235,253,Raymond,x
+421,52,120,130,Ilwaco,x
+422,59,125,135,Wahkiakum,x
+423,59,96,135,Olympia,x
+424,99,133,167,Thompson,x
+425,82,122,162,Grand Mound,x
+426,41,71,102,Aberdeen,x
+427,63,100,138,Elma,x
+428,113,135,157,Westport,x
+429,217,163,162,Oceanshore,x
+430,217,136,201,Quinault,x
+431,174,126,164,Quileute,x
+432,148,58,58,Port Angeles,x
+433,112,37,37,Neah Bay,x
+434,188,80,80,Sequim,x
+435,196,146,146,Shelton,x
+436,147,110,110,Quilcene,x
+437,189,129,129,Jefferson,x
+438,203,92,92,Bremerton,x
+439,166,44,44,Port Orchard,x
+440,203,128,128,Poulsbo,x
+441,99,13,13,Spokane,x
+442,188,94,94,Spokane Valley,x
+443,188,100,100,Deer Park,x
+444,120,100,100,Steven,x
+445,190,110,100,Fruitland,x
+446,140,60,37,Newport_2,x
+447,149,100,100,Republic,x
+448,200,100,100,Marcus,x
+449,150,20,100,Nespelem,x
+450,183,39,39,Okanogan,x
+451,196,59,59,Tonasket,x
+452,150,20,20,Oroville_2,x
+453,184,95,95,Wenatchee,x
+454,119,41,41,Chelan,x
+455,123,31,31,Winthrop,x
+456,140,37,37,Coeur dAlene,x
+457,140,60,20,Ponderay,x
+458,179,119,89,Boundary,x
+459,114,95,128,Silver Valley,x
+460,167,5,5,Sanders,x
+461,219,16,16,Superior,x
+462,162,126,126,Missoula,x
+463,176,157,157,Ravalli,x
+464,255,197,197,Sellway,x
+465,13,88,99,Kalispell,x
+466,20,135,152,Glacier,x
+467,80,124,131,Polson,x
+468,29,107,119,Lincoln_2,x
+469,123,71,67,Moscow,x
+470,35,200,155,Pullman,x
+471,78,179,152,Skitswish,x
+472,150,30,20,St. Joe,x
+473,96,41,37,Dworshak,x
+474,97,46,42,Orofino,x
+475,140,5,5,Pasco,x
+476,155,86,86,Washtucna,x
+477,108,193,232,Royal City,x
+478,80,111,126,Quincy,x
+479,80,92,126,Douglas,x
+480,136,144,167,Bridgeport,x
+481,204,76,212,Grand Coulee,x
+482,150,86,154,Odessa,x
+483,150,111,152,Davenport,x
+484,115,186,167,Reardan,x
+485,60,142,120,Sprague,x
+486,224,109,109,Yakima,x
+487,188,50,50,Ellensburg,x
+488,188,122,122,The Reach,x
+489,179,93,93,Goldendale,x
+490,162,114,114,Toppenish,x
+491,106,60,60,Sunnyside,x
+492,59,97,174,Kennewick,x
+493,114,130,162,Prosser,x
+494,57,49,212,Walla Walla,x
+495,65,49,218,Tollgate,x
+496,164,70,154,Burbank,x
+497,212,49,195,Clarkston,x
+498,202,49,180,Dayton,x
+499,119,35,110,Pendleton_2,x
+500,124,42,115,Hermiston,x
+501,208,87,195,Morrow,x
+502,88,181,67,The Dalles,x
+503,77,114,69,Warm Springs,x
+504,181,67,169,Gillam,x
+505,208,210,39,Vancouver,x
+506,249,251,75,Richmond_2,x
+507,190,191,65,North Shore_2,x
+508,193,195,53,Surrey,x
+509,224,225,108,Coquitlam,x
+510,153,154,106,Abbotsford,x
+511,245,246,167,Chilliwack,x
+512,178,179,121,Hope,x
+513,137,138,60,Pemberton,x
+514,121,136,179,Squamish,x
+515,80,93,130,Gibsons,x
+516,116,129,164,Sechelt,x
+517,164,154,116,Victoria,x
+518,88,81,53,Delta_2,x
+519,143,124,46,West Shore,x
+520,186,167,92,Nanaimo,x
+521,145,130,71,Duncan,x
+522,165,167,30,Juan de Fuca,x
+523,149,150,40,Lake Cowichan,x
+524,156,157,89,Alberni Valley,x
+525,219,220,116,Parksville,x
+526,171,124,124,Comox,x
+527,114,70,70,Campbell River,x
+528,119,63,63,Port Hardy,x
+529,128,76,76,Port Alice,x
+530,78,46,46,Port McNiell,x
+531,200,54,54,Whistler,x
+532,164,47,47,Tofino,x
+533,181,114,114,Ahousat,x
+534,124,53,53,Yuquot,x
+535,145,98,98,Sayward Valley,x
+536,102,133,115,Powell,x
+537,132,164,146,Maderia Park,x
+538,69,101,183,Lund,x
+539,44,70,136,Langley,x
+540,94,108,143,Port Neville,x
+541,134,142,162,Echo Bay,x
+542,57,64,83,Harrison,x
+543,100,125,188,Gabriola,x
+544,231,188,188,Kelowna,x
+545,159,77,77,Keremeos,x
+546,143,77,159,Penticton,x
+547,241,159,159,Kamloops,x
+548,167,102,102,Skeetchestn,x
+549,43,121,41,Lillooet,x
+550,162,121,121,Merritt,x
+551,152,75,75,Princeton,x
+552,191,143,143,Falkland,x
+553,212,142,142,Vernon,x
+554,204,205,128,Salmon Arm,x
+555,179,128,205,Sorrento,x
+556,248,103,103,Nelson,x
+557,251,111,111,Kaslo,x
+558,171,68,68,Crawford,x
+559,154,155,95,Creston,x
+560,140,140,99,Cranbrook,x
+561,140,99,99,Ivermere,x
+562,208,84,84,Fernie,x
+563,137,138,45,Castlegar,x
+564,164,104,159,Rossland,x
+565,135,32,126,Salmo,x
+566,190,191,122,South Slocan,x
+567,139,140,87,New Denver,x
+568,115,116,67,Nakusp,x
+569,143,94,94,Grand Forks,x
+570,184,144,144,Anarchist Mountain,x
+571,255,140,140,Revelstoke,x
+572,125,171,183,Shuswap Falls,x
+573,66,233,126,Phoenix,x
+574,41,198,98,Mesa,x
+575,59,199,142,Harquahala,x
+576,41,145,78,Pinal,x
+577,61,123,83,Maricopa,x
+578,116,204,72,Flagstaff,x
+579,69,107,50,Gateway,x
+580,49,123,12,Grand Canyon,x
+581,101,168,68,Kaibab,x
+582,164,248,122,Havasupai,x
+583,141,255,84,Prescott,x
+584,85,255,0,Verde,x
+585,174,230,147,Aquarius,x
+586,15,102,47,Tonto,x
+587,73,127,92,Fort Apache,x
+588,45,184,95,San Carlos,x
+589,6,138,54,Graham,x
+590,83,248,143,Apache Forest,x
+591,79,255,143,San Pedro_2,x
+592,111,192,70,Kingman,x
+593,133,235,82,Hualapai,x
+594,75,163,31,Wikiup,x
+595,37,75,19,Mesquite,x
+596,57,112,30,Hoover,x
+597,108,156,84,Parashant,x
+598,121,171,151,La Paz,x
+599,94,172,58,Bullhead,x
+600,148,187,129,Sacramento Valley,x
+601,122,246,63,Havasu,x
+602,74,163,127,Plomosa,x
+603,147,201,74,Yuma,x
+604,187,233,126,Kofa,x
+605,227,255,147,Pima,x
+606,152,191,41,Organ Pipe,x
+607,206,247,93,Jupin Tohono,x
+608,111,132,51,Tohono Jevud,x
+609,186,204,114,Santa Cruz_2,x
+610,139,173,42,Sierra Vista,x
+611,203,250,67,Sulphur Springs,x
+612,196,225,110,San Simon,x
+613,199,103,47,Animas,x
+614,166,74,20,Bootheel,x
+615,217,166,136,Luna,x
+616,171,128,103,Grant,x
+617,225,195,177,East Sierra,x
+618,183,158,112,Mogollon,x
+619,230,185,105,San Agustin,x
+620,219,157,48,Alamo,x
+621,137,133,255,Bernalillo,x
+622,32,29,121,Torrance_2,x
+623,157,154,255,Valencia,x
+624,177,246,111,Sandia,x
+625,64,60,183,Socorro,x
+626,104,101,197,Valley of Fires,x
+627,85,84,116,Chupadera,x
+628,142,158,238,Santa Fe,x
+629,27,19,241,Pojoaque,x
+630,95,102,140,Galiesto,x
+631,96,36,24,El Paso,x
+632,175,33,4,Juarez,x
+633,161,40,15,Dona Ana,x
+634,164,78,59,Otero,x
+635,204,75,48,West Sierra,x
+636,205,253,205,Denver,x
+637,33,110,33,Arapahoe,x
+638,108,248,108,Jefferson_2,x
+639,113,150,113,Adams,x
+640,73,214,73,Boulder,x
+641,45,98,45,Longmont,x
+642,33,148,33,Collins,x
+643,67,112,67,Weld,x
+644,97,230,97,Boyd,x
+645,75,203,75,Larimie,x
+646,34,165,34,Albany_2,x
+647,104,133,104,Colorado,x
+648,41,107,41,Fountain Valley,x
+649,5,182,5,Douglas_2,x
+650,23,166,23,Pueblo,x
+651,78,204,78,Fremont_2,x
+652,183,120,15,Alamosa,x
+653,250,184,74,Costilla,x
+654,118,87,37,Conejos,x
+655,223,195,148,Rio Grande,x
+656,126,113,90,Saguache,x
+657,129,94,38,Taos,x
+658,206,143,41,Picuris,x
+659,143,126,98,Sunshine Valley,x
+660,188,115,59,Huerfano,x
+661,133,75,30,Wet Mountain,x
+662,97,64,40,Park,x
+663,143,78,29,Teller,x
+664,209,127,65,Chaffee,x
+665,255,145,12,Mesa_2,x
+666,131,94,49,Delta_3,x
+667,217,171,114,Montrose,x
+668,252,219,179,Ouray,x
+669,238,147,35,La Plata,x
+670,233,176,105,Montezuma,x
+671,154,87,5,San Miguel,x
+672,183,130,64,Gunnison,x
+673,231,156,64,Curecanti,x
+674,184,123,47,Hinsdale,x
+675,229,190,104,Twin Lakes,x
+676,165,121,23,Pitkin,x
+677,194,147,44,Garfield,x
+678,115,99,63,Eagle,x
+679,171,124,18,Granby,x
+680,255,104,18,North Park,x
+681,77,57,10,Dillon,x
+682,171,69,10,Moffat,x
+683,250,168,121,Routt,x
+684,221,126,73,Rio Blanco,x
+685,31,208,31,Salt Lake City,x
+686,132,236,108,Bountiful,x
+687,64,215,132,West Valley,x
+688,158,238,29,Murray,x
+689,123,225,11,Jordan,x
+690,42,241,32,Sandy_2,x
+691,252,123,19,Provo,x
+692,230,169,37,Lehi,x
+693,208,110,29,Spanish Fork,x
+694,188,91,11,Lake Mountain,x
+695,248,149,68,Goshen,x
+696,186,222,37,Ogden,x
+697,213,235,115,Cache,x
+698,212,195,57,Box Elder,x
+699,158,151,29,Antelope Island,x
+700,238,225,59,Park Valley,x
+701,163,195,17,Blue Creek,x
+702,250,192,68,Grouse Creek,x
+703,126,210,241,Morgan,x
+704,36,168,200,Summit,x
+705,7,106,142,Pineview,x
+706,205,92,54,Millard,x
+707,155,7,31,Juab,x
+708,217,92,112,Little Sahara,x
+709,205,25,54,Tooele,x
+710,200,112,133,Washington,x
+711,176,0,43,Iron,x
+712,229,58,100,Beaver,x
+713,162,28,75,Kanab,x
+714,249,92,84,Dixie Forest,x
+715,249,15,97,Glen Canyon,x
+716,146,106,120,Grand Staircase,x
+717,241,29,81,Manti,x
+718,241,85,81,Sanpete,x
+719,110,18,16,Sevier,x
+720,237,147,145,Piute,x
+721,162,31,27,Bryce,x
+722,192,44,136,San Rafael_2,x
+723,161,44,136,Carbon,x
+724,161,44,85,Capitol Reef,x
+725,88,15,13,Wayne,x
+726,123,14,100,San Juan_2,x
+727,249,120,222,Grand,x
+728,127,20,127,Canyonland,x
+729,68,14,100,Duchesne,x
+730,118,73,242,Uintah,x
+731,36,200,200,Soldier Creek,x
+732,4,91,186,Ada,x
+733,81,131,182,Deer Flat,x
+734,62,148,241,Canyon,x
+735,160,204,225,Homedale,x
+736,134,148,239,Payette,x
+737,119,91,187,Weiser,x
+738,129,92,170,Cascade Valley,x
+739,109,250,120,East Salmon,x
+740,105,221,114,West Salmon,x
+741,88,203,141,Riggins,x
+742,115,255,115,Deadwood,x
+743,199,182,87,Lewis,x
+744,163,203,141,Idaho,x
+745,163,203,87,Nez Perce,x
+746,194,177,141,Elk,x
+747,232,192,106,Selway,x
+748,221,158,49,Silver Lake,x
+749,149,129,17,Grande Rond,x
+750,191,153,87,Whitman,x
+751,165,112,22,Wallowa,x
+752,165,69,19,Baker,x
+753,199,129,17,Pine Creek,x
+754,199,129,92,Union,x
+755,245,134,76,Burnt River,x
+756,87,193,231,Bonneville,x
+757,83,134,217,Mud Lake,x
+758,12,94,124,Ricks,x
+759,70,163,197,Swan Valley,x
+760,14,66,81,Pocatello,x
+761,55,136,159,Power,x
+762,36,163,199,Fort Hall,x
+763,8,121,154,Blackfoot,x
+764,91,215,250,Springfield_2,x
+765,36,192,199,Franklin,x
+766,61,217,184,Malad,x
+767,62,139,135,Portneuf,x
+768,93,244,236,Arbon,x
+769,179,236,166,Rockland,x
+770,66,245,162,Burley,x
+771,37,197,162,Malta,x
+772,120,204,165,Salmon Falls,x
+773,21,194,113,Shoshone Falls,x
+774,114,102,159,Craters of the Moon,x
+775,101,168,246,Minidoka,x
+776,143,223,108,Jerome,x
+777,58,150,17,Gooding,x
+778,199,241,180,Lincoln_3,x
+779,148,217,66,Challis,x
+780,11,153,109,Butte_2,x
+781,31,158,41,Pahsimeroi,x
+782,14,208,29,Salmon,x
+783,1,84,8,Lemhi,x
+784,58,119,233,Deerlodge,x
+785,33,106,112,Odell,x
+786,22,179,192,Madison,x
+787,132,240,249,Red Rock,x
+788,187,24,187,Idaho City,x
+789,246,104,246,No Return,x
+790,139,80,139,Sawtooth,x
+791,81,8,81,Blaine,x
+792,250,17,250,Camas,x
+793,108,51,108,Mid Fork,x
+794,81,182,182,Mountain Home,x
+795,81,108,90,Three Island,x
+796,81,182,141,Strike,x
+797,69,187,245,Owyhee,x
+798,3,59,37,Duck Valley,x
+799,21,194,114,Wild Horse,x
+800,33,135,87,Clover,x
+801,36,80,62,Dickshooter,x
+802,240,229,13,Bend,x
+803,40,44,247,Christmas Valley_2,x
+804,223,213,13,Ochoco,x
+805,250,242,72,Deschutes,x
+806,241,235,104,Crook,x
+807,236,96,44,Ontario,x
+808,172,73,21,McDermitt,x
+809,118,60,29,Cow Lake,x
+810,186,130,65,Burns,x
+811,230,173,105,Blitzen Valley,x
+812,186,180,65,Harper,x
+813,240,177,13,Upper Silves,x
+814,129,134,13,John Day,x
+815,185,204,93,Rock Creek,x
+816,109,151,13,Wheeler_2,x
+817,134,114,73,Grant_2,x
+818,52,119,194,Window Rock,x
+819,111,136,184,Dilkon,x
+820,55,92,162,Ganado,x
+821,66,104,147,Houck,x
+822,84,86,135,Twin Lakes_2,x
+823,11,47,110,Tuba,x
+824,92,136,214,Monument Valley,x
+825,35,85,174,Navajo Mountain,x
+826,110,151,224,Kaibito,x
+827,11,204,230,Canyon de Chelly,x
+828,0,74,224,Pinon,x
+829,11,148,175,Chuska,x
+830,135,74,211,Shiprock,x
+831,116,86,153,Red Mesas,x
+832,98,14,201,Fruitland_2,x
+833,182,112,247,Animas_2,x
+834,88,26,168,Crownpoint,x
+835,128,37,241,Gallup,x
+836,153,78,247,Chaco,x
+837,112,112,247,Crow Mesa,x
+838,189,97,59,Third Mesa,x
+839,245,116,62,Second Mesa,x
+840,178,64,16,First Mesa,x
+841,206,138,110,Moenkopi,x
+842,203,83,34,Petrified Forest,x
+843,248,145,102,Canyon Diablo,x
+844,216,110,66,Snowflake,x
+845,239,83,19,Lyman_2,x
+846,194,236,68,Zuni,x
+847,164,207,31,Ramah,x
+848,197,236,79,Jicarilla,x
+849,111,141,19,Archuleta,x
+850,216,244,129,Heron,x
+851,112,145,11,Cuba,x
+852,110,254,82,San Felipe_3,x
+853,61,224,29,Santo Domingo,x
+854,134,221,117,Jemez,x
+855,147,184,110,Los Alamos,x
+856,150,252,130,San Juan_3,x
+857,131,201,62,Abiquiu,x
+858,164,172,100,Acoma,x
+859,164,172,51,Grants,x
+860,152,164,123,Laguna,x
+861,152,206,123,Isleta,x
+862,154,134,134,Yellowstone,x
+863,179,147,147,Monument_2,x
+864,150,107,107,Colter Bay,x
+865,174,106,106,Lemhi Pass,x
+866,231,97,97,Mammoth_2,x
+867,157,92,92,Cowen,x
+868,222,71,71,Fremont_3,x
+869,164,59,59,Tetonia,x
+870,128,26,26,Ashton,x
+871,140,65,65,Teton,x
+872,225,97,97,Breccia,x
+873,131,68,68,Sublette,x
+874,118,44,44,Montpelier,x
+875,193,70,70,Paris,x
+876,251,170,170,Grays Lake,x
+877,150,86,86,Uinta,x
+878,255,188,188,Fossil,x
+879,217,146,146,Silver Eagle,x
+880,77,54,54,Palisades,x
+881,169,110,110,Star Valley,x
+882,160,122,122,Flaming Gorge,x
+883,229,97,97,Pilot Butte,x
+884,201,134,134,Red Desert,x
+885,208,152,152,Wind River,x
+886,220,66,66,Hot Spring,x
+887,147,100,100,Natrona,x
+888,166,23,23,Washakie,x
+889,195,150,150,Big Horn,x
+890,128,20,20,Meeteetse,x
+891,237,186,186,Albany_3,x
+892,112,48,48,Carbon_2,x
+893,186,123,123,Helena,x
+894,112,69,69,Missouri,x
+895,229,195,195,Jefferson_3,x
+896,114,9,9,Powell_2,x
+897,124,56,56,Granite,x
+898,200,135,135,Swan,x
+899,142,99,99,Gallatin,x
+900,224,116,116,Silver Bow,x
+901,255,89,89,Park_2,x
+902,177,59,59,Stillwater,x
+903,198,72,72,Sweet Grass,x
+904,148,221,104,Pitic,x
+905,122,233,55,Ures,x
+906,125,180,92,Carbo,x
+907,92,243,56,La Colorada,x
+908,124,169,41,Rio Sonora,x
+909,223,249,94,Bahia Kino,x
+910,160,187,27,Isla Tiburon,x
+911,180,216,71,Agua Prieta,x
+912,134,216,71,Cananea,x
+913,212,245,117,Bacerac,x
+914,226,223,73,Nacori Chico,x
+915,171,169,41,Cumpas,x
+916,119,185,68,Nogales,x
+917,158,185,68,Saric,x
+918,172,223,78,Santa Ana,x
+919,126,161,26,Arizpe,x
+920,137,16,16,Caborca,x
+921,153,63,63,Caborca Occidental,x
+922,205,21,21,San Luis,x
+923,166,56,56,Puerto Penasco,x
+924,240,98,98,Calles,x
+925,26,50,207,Obregon,x
+926,100,134,187,Guaymas,x
+927,43,78,131,Suaqui Grande,x
+928,106,124,244,Navojoa,x
+929,41,47,85,Alamos,x
+930,106,160,244,Rosario,x
+931,170,177,228,Sahuaripa,x
+932,127,133,172,Tepache,x
+933,127,63,205,Ahome,x
+934,91,27,170,El Fuerte,x
+935,125,54,213,Choix,x
+936,75,3,163,Guasave,x
+937,124,24,154,Salvador Alvarado,x
+938,97,30,117,Angostura,x
+939,69,30,117,Sinaloa,x
+940,133,42,161,Badiraguato,x
+941,173,71,204,Mocorito,x
+942,172,15,220,Culiacan,x
+943,216,124,244,Pabellones,x
+944,119,28,147,Navolato,x
+945,159,79,182,Cosala,x
+946,123,72,139,Mazatlan,x
+947,143,96,157,San Ignacio,x
+948,176,109,196,Elota,x
+949,79,32,93,Concordia,x
+950,103,34,124,Rosario_2,x
+951,160,127,170,Escuinapa,x
+952,28,59,138,Reno,x
+953,86,116,193,Washoe City,x
+954,142,161,208,Fernley,x
+955,75,125,253,Nixon,x
+956,95,108,142,Sutcliffe,x
+957,117,148,227,Doyle,x
+958,55,111,255,Black Rock,x
+959,23,42,88,Sierra Valley,x
+960,158,18,21,Carson,x
+961,112,78,79,Molossia,x
+962,135,13,0,Topaz_2,x
+963,124,69,63,Lyon,x
+964,29,59,138,Surprise Valley,x
+965,59,82,140,Hart Mountain,x
+966,137,194,65,Elko,x
+967,102,154,35,Wells,x
+968,182,255,87,Wendover,x
+969,64,91,30,Montello,x
+970,134,238,0,Carlin,x
+971,60,77,37,Ruby Valley,x
+972,98,15,104,Ely,x
+973,70,50,72,West White Pine,x
+974,174,49,182,Steptoe,x
+975,152,93,156,Osceloa,x
+976,241,73,253,Eskdale,x
+977,102,47,47,Pioche,x
+978,85,22,22,Caliente,x
+979,112,55,55,Pahranagat,x
+980,195,95,95,Rachel,x
+981,153,27,27,Lund_2,x
+982,87,92,100,Tonopah,x
+983,139,127,145,Railroad Valley,x
+984,54,62,74,Smokey Valley,x
+985,164,136,25,Austin,x
+986,255,219,73,New Pass,x
+987,211,238,0,Eureka_2,x
+988,89,45,2,Battle Mountain,x
+989,112,81,52,Reese River,x
+990,166,117,70,Crescent Valley,x
+991,247,193,139,Winnemucca,x
+992,134,88,42,Santa Rosas,x
+993,195,105,14,Lovelock,x
+994,255,156,56,Fallon,x
+995,38,59,111,Denio,x
+996,255,117,119,Paoha,x
+997,168,110,104,Bridgeport_2,x
+998,255,255,43,Lee Vining,x
+999,174,244,0,Pizona,x
+1000,253,255,173,Mammoth Lakes,x
+1001,157,158,107,Chalfant Valley,x
+1002,255,208,0,Big Pine,x
+1003,255,153,0,Deep Springs Valley,x
+1004,255,33,89,Coaldale,x
+1005,181,159,61,Tokop,x
+1006,255,231,193,Mineral,x
+1007,255,102,0,Lone Pine,x
+1008,255,215,124,Haiwee,x
+1009,255,111,71,Ballarat,x
+1010,255,211,109,Skytop,x
+1011,255,33,0,Stovepipe,x
+1012,181,159,61,Grapevine,x
+1013,255,72,0,Chloride,x
+1014,255,148,0,Ryan,x
+1015,242,175,42,Amargosa,x
+1016,255,199,0,Ridgecrest,x
+1017,255,136,25,Copper City,x
+1018,186,137,91,Fremont Valley,x
+1019,255,2,32,Mars,x
+1020,255,221,0,Badwater,x
+1021,174,0,0,Ashford Meadows,x
+1022,153,36,36,Vashon,x
+1023,137,72,72,Redmond,x
+1024,60,144,84,Yelm,x
+1025,45,111,64,Kelso,x
+1026,194,40,172,Pomeroy,x
+1027,90,153,59,Colorado City,x
+1028,221,169,169,White Swan,x
+1029,172,41,41,Cle Elum,x
+1030,181,35,183,Skykomish,x
+1031,31,77,99,Ephrata,x
+1032,54,90,107,Moses Lake,x
+1033,87,175,216,Othello,x
+1034,37,122,99,Cheney,x
+1035,183,140,194,Lebanon,x
+1036,216,152,152,Trout Lake,x
+1037,59,148,190,Mattawa,x
+1038,151,84,84,Horse Heaven,x
+1039,70,165,209,Connell,x
+1040,33,87,155,Ashland,x
+1041,125,23,23,Chetco,x
+1042,247,93,93,Ballard,x
+1043,46,157,77,Rancho Cucamonga,x
+1044,67,157,46,Sherman,x
+1045,228,229,45,Burnaby,x
+1046,106,106,25,Maple Ridge,x
+1047,179,92,92,Gulf Islands,x
+1048,127,127,19,Nitinat,x
+1049,132,113,37,Sooke,x
+1050,197,199,82,Fraser Canyon,x
+1051,164,165,52,Lytton,x
+1052,160,161,97,Coldwater,x
+1053,74,122,137,Tollhouse,x
+1054,9,121,76,Tule River,x
+1055,5,107,79,Tehachapi,x
+1056,53,79,139,The Valley,x
+1057,30,46,81,Santa Monica,x
+1058,51,119,51,Malibu,x
+1059,125,148,201,Buena Park,x
+1060,42,160,75,The Redlands,x
+1061,131,138,35,Twentynine Palms,x
+1062,104,110,29,Joshua Tree,x
+1063,80,15,243,North Pacific,x
+1064,99,41,243,Wild Coast,x
+1065,119,71,240,Juan De Fuca Strait,x
+1066,137,97,238,Barkley Sound,x
+1067,164,138,229,West Salish Sea,x
+1068,113,68,229,East Salish Sea,x
+1069,103,55,227,Fraser Outflow,x
+1070,117,74,226,Desolation Sound,x
+1071,149,116,233,Nitinat Lake,x
+1072,80,25,216,Burrard Inlet,x
+1073,93,43,217,Fraser Estuary,x
+1074,91,44,207,Fraser River,x
+1075,105,61,216,Harrison Lake,x
+1076,159,132,228,Hood Canal,x
+1077,127,87,230,North Puget,x
+1078,142,109,227,South Puget,x
+1079,113,68,230,Lake Washington,x
+1080,29,11,251,Olympic Coast,x
+1081,46,29,249,Oregon Coast,x
+1082,71,57,248,Grays Harbour,x
+1083,93,81,247,Nahcotto Channel,x
+1084,12,33,250,Siuslaw Coast,x
+1085,34,53,248,St George Reef,x
+1086,52,69,247,Cordell Bank,x
+1087,70,85,245,Monterey Bay,x
+1088,77,90,227,Santa Barbara,x
+1089,6,25,225,Guadalupe Bank,x
+1090,58,73,228,Baja One,x
+1091,40,56,226,Baja Two,x
+1092,22,39,225,Baja Three,x
+1093,19,36,216,Baja Four,x
+1094,33,48,213,Baja Five,x
+1095,53,66,213,Baja Six,x
+1096,70,82,211,Baja Seven,x
+1097,13,106,245,Baja Eight,x
+1098,62,136,245,Colorado Outflow,x
+1099,84,148,243,Colorado River,x
+1100,103,159,242,Lake Mead,x
+1101,127,173,241,Lake Powell,x
+1102,88,101,244,San Francisco Bay,x
+1103,102,114,242,Suisun Bay,x
+1104,121,131,240,San Joaquin River,x
+1105,141,149,239,San Joaquin Tributaries,x
+1106,161,168,238,Sacremento Deep Channel,x
+1107,149,156,226,American River,x
+1108,134,142,227,Folsom Lake,x
+1109,95,107,227,Sacremento River
+1110,112,101,247,Columbia Outflow,x
+1111,131,123,245,Willamette River,x
+1112,143,136,244,Mt Hood Slope,x
+1113,160,154,243,Oregon Dunes Channel,x
+1114,47,14,247,Hanford Reach,x
+1115,64,34,247,Okanogan Linkup,x
+1116,85,59,246,Devils Punch Bowl,x
+1117,108,86,244,Columbia North Arm,x
+1118,124,105,241,Spokane River,x
+1119,171,166,242,West Snake,x
+1120,157,153,223,Clearwater River,x
+1121,140,135,223,Dworshak Resevoir,x
+1122,131,127,209,South Snake,x
+1123,135,130,224,East Snake,x
+1124,114,107,223,Minidoka Lake,x
+1125,93,86,223,American Falls Resevoir,x

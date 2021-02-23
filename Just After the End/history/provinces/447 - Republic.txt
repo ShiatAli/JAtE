@@ -16,6 +16,6 @@ b_republic = castle
 
 # Misc
 culture = backcountry
-religion = dominionist
+religion = evangelical
 
 #History

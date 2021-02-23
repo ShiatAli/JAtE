@@ -16,6 +16,6 @@ b_kaslo = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = anabaptist
 
 #History

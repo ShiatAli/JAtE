@@ -16,6 +16,6 @@ b_malibu_2 = castle
 
 # Misc
 culture = angeleno
-religion = catholic
+religion = sedevacantist
 
 #History

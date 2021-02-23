@@ -16,6 +16,6 @@ b_chase_2 = city
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History

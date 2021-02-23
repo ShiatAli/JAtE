@@ -16,6 +16,6 @@ b_lakewood_4 = city
 
 # Misc
 culture = angeleno
-religion = catholic
+religion = sedevacantist
 
 #History

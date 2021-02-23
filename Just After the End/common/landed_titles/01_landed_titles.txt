@@ -5629,25 +5629,6 @@ e_gran_francisco = {
 		capital = 34 # c_pescadero
 		culture = carmelite
 		
-		c_pescadero = { # 34
-			color={ 60 176 150 }
-			color2={ 255 255 255 }
-			
-			b_pescadero_2 = {
-			}
-			b_san_gregorio_2 = {
-			}
-			b_loma_mar = {
-			}
-			b_ano_nuevo = {
-			}
-			b_la_honda_2 = {
-			}
-			b_davenport = {
-			}
-			b_butano_park = {
-			}
-		}
 		d_santa_cruz = {
 			color={ 50 186 145 }
 			color2={ 255 255 255 }
@@ -19276,25 +19257,6 @@ e_socal = {
 		capital = 149 # c_balboa
 		culture = angeleno
 		
-		c_coachella = { # 175
-			color={ 24 108 47 }
-			color2={ 255 255 255 }
-			
-			b_indio = {
-			}
-			b_coachella = {
-			}
-			b_mecca = {
-			}
-			b_desert_shores = {
-			}
-			b_thermal = {
-			}
-			b_la_quinta = {
-			}
-			b_one_hundred_palms = {
-			}
-		}
 		d_san_diego = {
 			color={ 96 142 59 }
 			color2={ 255 255 255 }

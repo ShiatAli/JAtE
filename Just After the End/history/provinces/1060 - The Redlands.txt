@@ -16,6 +16,6 @@ b_lomalinda = city
 
 # Misc
 culture = angeleno
-religion = catholic
+religion = sedevacantist
 
 #History

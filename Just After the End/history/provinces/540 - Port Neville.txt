@@ -16,6 +16,6 @@ b_port_neville = castle
 
 # Misc
 culture = kwakwakawakw
-religion = gaian
+religion = raven_tales
 
 #History

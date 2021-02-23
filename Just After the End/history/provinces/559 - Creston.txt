@@ -16,6 +16,6 @@ b_creston_4 = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = conservationist
 
 #History

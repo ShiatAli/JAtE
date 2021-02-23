@@ -16,6 +16,6 @@ b_port_hardy = castle
 
 # Misc
 culture = kwakwakawakw
-religion = gaian
+religion = raven_tales
 
 #History

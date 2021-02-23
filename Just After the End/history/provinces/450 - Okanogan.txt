@@ -16,6 +16,6 @@ b_omak = city
 
 # Misc
 culture = backcountry
-religion = millenarian
+religion = evangelical
 
 #History

@@ -16,6 +16,6 @@ b_musqueam = temple
 
 # Misc
 culture = vancouverite
-religion = gaian
+religion = three_paths
 
 #History

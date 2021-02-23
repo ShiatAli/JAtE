@@ -16,6 +16,6 @@ b_crawford_bay = castle
 
 # Misc
 culture = inlander
-religion = gaian
+religion = anabaptist
 
 #History

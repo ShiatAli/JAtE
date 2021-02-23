@@ -16,6 +16,6 @@ b_polson = castle
 
 # Misc
 culture = selish
-religion = gaian
+religion = conservationist
 
 #History

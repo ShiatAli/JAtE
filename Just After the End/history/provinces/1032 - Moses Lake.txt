@@ -16,6 +16,6 @@ b_cascade_valley = city
 
 # Misc
 culture = meseteno
-religion = la_hermandad
+religion = fidelii
 
 #History

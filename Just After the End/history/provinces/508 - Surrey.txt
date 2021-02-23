@@ -16,6 +16,6 @@ b_guildford = temple
 
 # Misc
 culture = vainakuvaraita
-religion = gaian
+religion = sikh
 
 #History

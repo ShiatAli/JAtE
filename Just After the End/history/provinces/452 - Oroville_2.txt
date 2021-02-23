@@ -16,6 +16,6 @@ b_oroville_2 = castle
 
 # Misc
 culture = inlander
-religion = millenarian
+religion = evangelical
 
 #History

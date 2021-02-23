@@ -16,6 +16,6 @@ b_eagle_mountain_3 = castle
 
 # Misc
 culture = angeleno
-religion = catholic
+religion = sedevacantist
 
 #History

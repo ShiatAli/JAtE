@@ -15,6 +15,6 @@ b_langely_town = city
 
 # Misc
 culture = vainakuvaraita
-religion = gaian
+religion = sikh
 
 #History

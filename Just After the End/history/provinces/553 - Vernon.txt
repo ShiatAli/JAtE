@@ -16,6 +16,6 @@ b_lavington = city
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History

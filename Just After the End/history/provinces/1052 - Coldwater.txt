@@ -16,6 +16,6 @@ b_coldwater = castle
 
 # Misc
 culture = canuck
-religion = gaian
+religion = conservationist
 
 #History

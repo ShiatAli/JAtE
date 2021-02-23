@@ -16,6 +16,6 @@ b_colfax = city
 
 # Misc
 culture = palouse
-religion = millenarian
+religion = evangelical
 
 #History

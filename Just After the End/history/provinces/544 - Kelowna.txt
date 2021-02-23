@@ -16,6 +16,6 @@ b_traders_cove = temple
 
 # Misc
 culture = inlander
-religion = gaian
+religion = evangelical
 
 #History
