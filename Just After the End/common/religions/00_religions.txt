@@ -1626,131 +1626,6 @@ christian = {
 		intermarry = wormwoodist
 		intermarry = celeste
 	}
-	
-	apostolic = { #Brazilian Christianity
-		graphical_culture = westerngfx
-		
-		icon = 74
-		heresy_icon = 83
-		
-		color = { 0.7 0.7 0.1 }
-		
-		high_god_name = GOD_DEUS
-		
-		god_names = {
-			GOD_DEUS GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN GOD_THE_SAINTS
-		}
-		
-		evil_god_names = {
-			THE_DEVIL SATAN LUCIFER 
-		}
-		
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_grant_claim = yes
-		priests_can_inherit = no
-		priests_can_marry = yes
-		allow_rivermovement = yes
-		can_retire_to_monastery = yes
-		aggression = 0.5 # not as likely to expand
-		
-		religious_clothing_head = 2
-		religious_clothing_priest = 2
-		
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = PADRE
-		
-		intermarry = catholic
-		intermarry = evangelical
-		intermarry = ursuline
-		intermarry = high_church
-		intermarry = anabaptist
-		intermarry = falling_star
-		#intermarry = apostolic
-
-		intermarry = neognostic
-		intermarry = sedevacantist
-		intermarry = nestorian
-		intermarry = charismatic
-		intermarry = antinomian
-		intermarry = postadventist
-		intermarry = angeline
-		intermarry = nonconformist
-		intermarry = batenburger
-		intermarry = moravian
-		intermarry = wormwoodist
-		intermarry = celeste
-		
-		intermarry = sacred_heart
-		intermarry = patria_grande
-		intermarry = espiritista
-		intermarry = candomble
-	}
-	
-	celeste = { #Gaucho Christianity
-		graphical_culture = westerngfx
-		
-		icon = 74
-		heresy_icon = 83
-		
-		color = { 0.65 0.7 0.1 }
-		
-		parent = apostolic
-		
-		high_god_name = GOD_DEUS
-		
-		god_names = {
-			GOD_DEUS GOD_JESUS GOD_CRISTO_MOCA THE_MONGES GOD_THE_BLESSED_VIRGIN
-		}
-		
-		evil_god_names = {
-			THE_DEVIL SATAN LUCIFER
-		}
-		
-		piety_name = PURITY
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		priests_can_inherit = yes
-		priests_can_marry = yes
-		allow_rivermovement = yes
-		female_temple_holders = yes
-		
-		religious_clothing_head = 2
-		religious_clothing_priest = 2
-		
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = MONGE
-		
-		intermarry = catholic
-		intermarry = evangelical
-		intermarry = ursuline
-		intermarry = high_church
-		intermarry = anabaptist
-		intermarry = falling_star
-		intermarry = apostolic
-
-
-		intermarry = neognostic
-		intermarry = sedevacantist
-		intermarry = nestorian
-		intermarry = charismatic
-		intermarry = antinomian
-		intermarry = postadventist
-		intermarry = angeline
-		intermarry = nonconformist
-		intermarry = batenburger
-		intermarry = moravian
-		intermarry = wormwoodist
-		# intermarry = celeste
-		
-		intermarry = sacred_heart
-		intermarry = patria_grande
-		intermarry = espiritista
-		intermarry = candomble
-	}
 
 	dominionist = {
 		graphical_culture = westerngfx
@@ -2254,7 +2129,7 @@ christian = {
 		heresy_icon = 11
 		
 		color = { 245 141 152 }
-		parent = pentecostal
+		parent = millenarian
 
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
@@ -2312,6 +2187,353 @@ christian = {
 		intermarry = oneness
 		intermarry = pentecostal
 		intermarry = holiness
+	}
+
+	mainline = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 11
+		
+		color = { 105 120 255 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		autocephaly = yes
+		pentarchy = yes
+		can_excommunicate = no
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		allow_rivermovement = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 2
+		
+		intermarry = catholic
+		intermarry = evangelical
+		intermarry = ursuline
+		intermarry = high_church
+		intermarry = anabaptist
+		intermarry = falling_star
+		intermarry = apostolic
+		
+		intermarry = neognostic
+		intermarry = sedevacantist
+		intermarry = nestorian
+		intermarry = charismatic
+		intermarry = antinomian
+		intermarry = postadventist
+		intermarry = angeline
+		intermarry = nonconformist
+		intermarry = batenburger
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = celeste
+
+		intermarry = millenarian
+		intermarry = adventist
+		intermarry = congregationalist
+		intermarry = baptist
+		intermarry = oneness
+		intermarry = pentecostal
+		intermarry = holiness
+		intermarry = puritan
+		intermarry = pietist
+	}
+
+	puritan = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 11
+		
+		color = { 147 154 219 }
+
+		parent = mainline
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		autocephaly = yes
+		pentarchy = yes
+		can_excommunicate = no
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		allow_rivermovement = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 2
+		
+		intermarry = catholic
+		intermarry = evangelical
+		intermarry = ursuline
+		intermarry = high_church
+		intermarry = anabaptist
+		intermarry = falling_star
+		intermarry = apostolic
+		
+		intermarry = neognostic
+		intermarry = sedevacantist
+		intermarry = nestorian
+		intermarry = charismatic
+		intermarry = antinomian
+		intermarry = postadventist
+		intermarry = angeline
+		intermarry = nonconformist
+		intermarry = batenburger
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = celeste
+
+		intermarry = millenarian
+		intermarry = adventist
+		intermarry = congregationalist
+		intermarry = baptist
+		intermarry = oneness
+		intermarry = pentecostal
+		intermarry = holiness
+		intermarry = mainline
+		intermarry = pietist
+	}
+
+	pietist = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 11
+		
+		color = { 64 74 165 }
+
+		parent = mainline
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		autocephaly = yes
+		pentarchy = yes
+		can_excommunicate = no
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		allow_rivermovement = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 2
+		
+		intermarry = catholic
+		intermarry = evangelical
+		intermarry = ursuline
+		intermarry = high_church
+		intermarry = anabaptist
+		intermarry = falling_star
+		intermarry = apostolic
+		
+		intermarry = neognostic
+		intermarry = sedevacantist
+		intermarry = nestorian
+		intermarry = charismatic
+		intermarry = antinomian
+		intermarry = postadventist
+		intermarry = angeline
+		intermarry = nonconformist
+		intermarry = batenburger
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = celeste
+
+		intermarry = millenarian
+		intermarry = adventist
+		intermarry = congregationalist
+		intermarry = baptist
+		intermarry = oneness
+		intermarry = pentecostal
+		intermarry = holiness
+		intermarry = mainline
+		intermarry = puritan
+	}
+
+	apostolic = { #Armenian Christianity
+		graphical_culture = westerngfx
+		
+		icon = 74
+		heresy_icon = 83
+		
+		color = { 0.7 0.7 0.1 }
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_THEOTOKOS
+		}
+		
+		evil_god_names = {
+			THE_DEVIL SATAN LUCIFER 
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		can_retire_to_monastery = yes
+		aggression = 1
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+		crusade_name = KHACHIHAMAR
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		intermarry = catholic
+		intermarry = evangelical
+		intermarry = ursuline
+		intermarry = high_church
+		intermarry = anabaptist
+		intermarry = falling_star
+		intermarry = apostolic
+
+		intermarry = neognostic
+		intermarry = sedevacantist
+		intermarry = nestorian
+		intermarry = charismatic
+		intermarry = antinomian
+		intermarry = postadventist
+		intermarry = angeline
+		intermarry = nonconformist
+		intermarry = batenburger
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = celeste
+
+		intermarry = millenarian
+		intermarry = adventist
+		intermarry = congregationalist
+		intermarry = baptist
+		intermarry = oneness
+		intermarry = pentecostal
+		intermarry = holiness
+		intermarry = mainline
+		intermarry = puritan
+	}
+
+	paraktelic = { #Armenian Christianity
+		graphical_culture = westerngfx
+		
+		icon = 74
+		heresy_icon = 83
+		
+		color = { 179 148 25 }
+
+		parent = apostolic
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_THEOTOKOS
+		}
+		
+		evil_god_names = {
+			THE_DEVIL SATAN LUCIFER 
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		can_retire_to_monastery = yes
+		aggression = 1
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+		crusade_name = KHACHIHAMAR
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		intermarry = catholic
+		intermarry = evangelical
+		intermarry = ursuline
+		intermarry = high_church
+		intermarry = anabaptist
+		intermarry = falling_star
+		intermarry = apostolic
+
+		intermarry = neognostic
+		intermarry = sedevacantist
+		intermarry = nestorian
+		intermarry = charismatic
+		intermarry = antinomian
+		intermarry = postadventist
+		intermarry = angeline
+		intermarry = nonconformist
+		intermarry = batenburger
+		intermarry = moravian
+		intermarry = wormwoodist
+		intermarry = celeste
+
+		intermarry = millenarian
+		intermarry = adventist
+		intermarry = congregationalist
+		intermarry = baptist
+		intermarry = oneness
+		intermarry = pentecostal
+		intermarry = holiness
+		intermarry = mainline
+		intermarry = puritan
 	}
 }
 
@@ -3812,6 +4034,95 @@ oldworld = {
 		can_grant_invasion_cb = invasion
 		allow_rivermovement = yes
 		peace_piety_gain = 1.5
+		aggression = 1.25 # AI aggression factor
+		attacking_same_religion_piety_loss = yes
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 11
+		religious_clothing_priest = 11
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+	}
+
+	cosmist = {
+		graphical_culture = hellenicgfx
+		
+		icon = 105
+		heresy_icon = 106
+		
+		color = { 0 7 100 }
+		
+		interface_skin = { atomicist_interface oldworld_interface }
+
+		crusade_name = ACCRETION
+		scripture_name = THE_LUMINARIES
+		priest_title = PRIEST
+		piety_name = PIETY
+		
+		high_god_name = GOD_THE_UNIVERSE
+		
+		god_names = { 
+			GOD_SPACE GOD_SAGAN GOD_HAWKING GOD_FEYNMAN
+		}
+		evil_god_names = { 
+			GOD_THE_DEVOURER GOD_THE_COLD_DISORDER GOD_CONVERGENCE GOD_THE_TEAR
+		}
+		
+		can_excommunicate = yes
+		can_grant_claim = yes
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		peace_piety_gain = 1.5
+		aggression = 1.25 # AI aggression factor
+		attacking_same_religion_piety_loss = yes
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 11
+		religious_clothing_priest = 11
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+	}
+
+	legislative = {
+		graphical_culture = hellenicgfx
+		
+		icon = 107
+		heresy_icon = 108
+		
+		color = { 255 0 0 }
+		
+		interface_skin = { americanist_interface oldworld_interface }
+
+		crusade_name = RECLAMATION
+		scripture_name = THE_CHARTER
+		priest_title = PREMIER
+		piety_name = PATRIOTISM
+		
+		high_god_name = GOD_THE_CROWN
+		
+		god_names = { 
+			GOD_THE_MANDATE GOD_THE_COALITION GOD_WACKY
+		}
+		evil_god_names = { 
+			GOD_OTTAWA GOD_THE_YANKS GOD_THE_FRENCH
+		}
+		
+		can_excommunicate = yes
+		can_grant_claim = yes
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
 		aggression = 1.25 # AI aggression factor
 		attacking_same_religion_piety_loss = yes
 		
@@ -5388,6 +5699,40 @@ eastern = {
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
+	}
+	theosophy = { 
+		graphical_culture = chinesegfx
+
+		icon = 109
+		heresy_icon = 109
+		
+		color = { 255 119 0 } 
+		
+		scripture_name = KRISHNAMURTIS_NOTEBOOK
+		priest_title = PRIEST
+		high_god_name = GOD_TRUTH
+		
+		god_names = {
+			 GOD_KRISHNAMURTI GOD_THE_MASTERS
+		}
+		
+		evil_god_names = {
+			GOD_SUFFERING GOD_THE_SYSTEMS_OF_MAN
+		}
+		
+		piety_name = KARMA
+		short_reign_opinion_year_mult = 0
+		
+		intermarry = cetic
+		intermarry = gaian
+		
+		feminist = yes
+		female_temple_holders = yes
+		priests_can_inherit = no
+		can_retire_to_monastery = yes 
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
 	}
 }
 
