@@ -15,7 +15,7 @@ b_rolinda = temple
 #b_pratton = castle
 
 # Misc
-culture = hmong
+culture = valleyan
 religion = cetic
 
 #History
