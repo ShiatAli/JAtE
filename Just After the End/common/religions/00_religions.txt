@@ -4141,9 +4141,9 @@ oldworld = {
 		icon = 107
 		heresy_icon = 108
 		
-		color = { 255 0 0 }
+		color = { 26 116 239 }
 		
-		interface_skin = { americanist_interface oldworld_interface }
+		interface_skin = { oldworld_interface }
 
 		crusade_name = RECLAMATION
 		scripture_name = THE_CHARTER
@@ -4173,10 +4173,10 @@ oldworld = {
 		religious_clothing_head = 11
 		religious_clothing_priest = 11
 		
-		intermarry = americanist
-		intermarry = hamiltonian
-		intermarry = jeffersonian
-		intermarry = libertarian
+		intermarry = blackfish
+		intermarry = sikh
+		intermarry = three_path
+		intermarry = raven_tales
 	}
 }
 
@@ -5727,9 +5727,11 @@ eastern = {
 		character_modifier = { learning = 2 }
 		short_reign_opinion_year_mult = 0
 		
-		intermarry = cetic
-		intermarry = gaian
+		intermarry = legislative
+		intermarry = sikh
 		intermarry = shinto
+		intermarry = blackfish
+		intermarry = raven_tales
 		
 		feminist = yes
 		#female_temple_holders = yes
@@ -5834,8 +5836,8 @@ eastern = {
 		character_modifier = { learning = 1 }
 		short_reign_opinion_year_mult = 0
 		
-		intermarry = cetic
-		intermarry = gaian
+		intermarry = legislative
+		intermarry = three_path
 		
 		priests_can_inherit = yes
 		can_retire_to_monastery = yes 
