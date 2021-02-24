@@ -68,69 +68,42 @@ northwest_coast = {
 		color = { 0.4 0.2 0.1 }
 
 		male_names = {
-			Baxbakwa'lanuxusiwe Bigaqla 			#names derived from Heiltsuk
-			Cumshewa
-			Gaxatusla Gnislzua G'spgolox Gvim Gvui
-			Hazilba He'maskas Hliqv Hlxinuxv Hlahliyasila
-			Laukvimas Lileplait Luqvas
-			Mawak Mia
-			Naci Nuaqawa Nulis 
-			Qait Qanekelak Qvuqvs
-			Sala Sua
-			Tixlas Ts'ooda Ts'lta Txlkvs
-			Wa W'ac Wakidis Wusgmi Wuxvsiwls
-			Zola
-			Aani 									#names derived from English
-			Ba'bi Be'ti Bili
-			Camin Chali
-			Fanki
-			Jani Jimi
-			'Echi
-			'Aasic A'tuu 							#names derived from Nuu-chah-nulth
-			Chaapi C'imt'uu C'ixwatin
-			Hiiyii Hin'qu'as Hwaash'hwiip
-			Iihtuup
-			Kakawin K'ayu K'ayuumin K'ee'in K'itlanuus
-			Muwach
-			Naana
-			Puu'i
-			Qu'ushin Qwayac'iik Qwinii
-			Saasin
-			Titluup Tlitlik'im Ts'ims T'ut'upts'as Tluunim
-			Waa'it
+			Abaditpaul Aditch Ahdeaktooah Ahpesup Aliskah Alloh Aschadaback
+			Bahtseditl Bichtook Billukwhtl Bootseka
+			Chidhedick Claclak Clecheeb Chied Cheeshoo Chippay Colowe Cooahlelub Chetzhe Cheyaba Cirswetakah Cootsa
+			Dashmeto Dahtleek
+			Echucatook
+			Haatse Hahyohwa Hashie Harivesub Heclelup Hedahtitl Hiax Hishaquit Horobi Hushlup Hutcody 
+			Ishka Itandaha 
+			Kahbachsat Kahkwtlitha Kahtsahtwha Kaiklchissum Kalchote Kashaqua Kehchook Ketskussum Keucktodub Klahkupihl Kliar Klahpeanhie Klahttediyuke Klattsowsehp Klehtliquatstl Kletuha Kloathhabut Klubcheacha Koshub Kwahtooqualh Kwetow'tl
+			Nenchoop
+			Oobick
+			Pahhat Paiyeh Pesa
+			Qualatlie Quedessa
+			Sahditleuad Slecheep 
+			Tahahowtl Taatich Tatacatar Tahtskin Tahola Tchooquutlah Tsalaboos Tsahwehsup Tsbah Toowhaiitan Tsaiwiz Tsealetook Tsekauwtl Tulule
+			Wackshie Wallucky Wachsukpakt Wakkeptup Watununet Wispoo
+			Yaicksup Yatsea Yoochboott Yupridhed
 		}
 		
 		female_names = {
-			Cu Cumqlaqs								#names derived from Heiltsuk
-			Gul
-			Hena Hixstus Hilxs
-			Lanemraeit 
-			Mazaiqvla Mia
-			Nena N'usi Nuaqawa
-			Qaqnc Qiat Qvuikv Qvus
-			Sala Sixsgvis
-			Ts'lta Tuwala
-			"Wualas Hukv"
-			Yilistis
-			Aliis 									#names derived from English
-			Chesi
-			Esi
-			Kati
-			Lishi
-			Magi
-			Pegi
-			Weni
-			Aanus Aatus A'tuu						#names derived from Nuu-chah-nulth
-			'Aasic
-			Chaapi Chastims C'imt'uu
-			Hin'qu'as Huqsim
-			K'aatskamin K'ayu K'ee'in K'itlanuus
-			Muwach
-			Puu'i Puutspu'inwa
-			Qaqup Qu'ushin Qwinii
-			Saasin
-			Titluup Tsiixaa'takxinx T'ut'upts'as
-			Waaxni
+			Achththum Ahoaw Akaboosch Alaquitz Aucooitslab Auquay
+			Badubie Borsatta Boquish
+			Charbullie Classa Clahubyitch Chethlosquiatub Cleahooks Chechubit Cheepooath Chechechute Chelub Cheaclub Chosloho Chuchabit Chutsk
+			Eteeks Ewhuthlola
+			Haachte Halesuks Hastebuth Halaoh Hedisahoit Heduppe Hebose Hesowhist Hewalzn Hotsallup Hoputsup Howwashbe
+			Iaa
+			Kakook Kakehadesuck Kawhalostith Kawatalup Kasaqunchuk Klalawhite Klatcleia Klutaout Kluchiquolt Kookcesucks Koolooostub
+			Lutibe 
+			Neisieb Neisub
+			Obatclee O'ootaputh Ooahte Ooishsule Oiquesucks
+			Parlo Parquarsucks Phowht Pulkea
+			Seahoah Shuwhe Sheastedo Shoochabootl Shutzbi Sniviquate 
+			Quardie Quedowe
+			Teebaath Tete Tetewhis Tooktook Toobooye Tosback Tsekuk Tsekad Tulub
+			Wamushnal Weic Weitsub Wilshea
+			Yaday Yewyow Yeguaholt Yetado Yooctowoitl Youckkalu
+			Zeat
 		}
 		
 		pat_grf_name_chance = 25
