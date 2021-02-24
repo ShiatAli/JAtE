@@ -350,7 +350,7 @@ american_native = {
 		icon = 55
 		heresy_icon = 56
 		
-		color = { 0.7 0 0 }
+		color = { 1 0.4 0 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_GREAT_TOTEM
 		priest_title = SHAMAN
@@ -389,7 +389,7 @@ american_native = {
 		icon = 46
 		heresy_icon = 56
 		
-		color = { 0.5 0.1 0.1 }
+		color = { 0.4 0.3 0.2 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_TALES
 		priest_title = SHAMAN
@@ -423,6 +423,8 @@ american_native = {
 		intermarry = exovedate
 		intermarry = raven_tales_reformed
 		intermarry = orthodox
+		intermarry = blackfish
+
 	}
 
 	kuksu_reformed = {
@@ -868,7 +870,7 @@ christian = {
 		icon = 1
 		heresy_icon = 10
 		
-		color = { 0.7 0.7 0.75 }
+		color = { 1 0.8 0.06 }
 		parent = catholic
 		
 		crusade_name = CRUSADE
@@ -4141,7 +4143,7 @@ oldworld = {
 		icon = 107
 		heresy_icon = 108
 		
-		color = { 26 116 239 }
+		color = { 0.2 1.0 0.9 }
 		
 		interface_skin = { oldworld_interface }
 
@@ -5293,7 +5295,7 @@ high_cults = {
 }
 
 nautical = {
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = norsegfx
 	playable = yes
 	hostile_within_group = yes
@@ -5357,7 +5359,7 @@ nautical = {
 		icon = 82
 		heresy_icon = 82
 		
-		color = { 0.6 0.7 0.8 }
+		color = { 0.6 0.9 1.0 }
 
 		high_god_name = GOD_THE_BLACKFISH
 
@@ -5533,7 +5535,6 @@ jewish_group = {
 		heresy_icon = 67
 		
 		color = { 0.1 0.7 1.0 }
-		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_TORAH
 		priest_title = RABBI
 		
@@ -5547,7 +5548,6 @@ jewish_group = {
 		}
 		
 		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
 		allow_rivermovement = yes
 		priests_can_marry = yes
 		priests_can_inherit = yes
@@ -5576,11 +5576,8 @@ jewish_group = {
 		god_names = {
 			GOD_GOD GOD_THE_LORD ADONAI
 		}
-		
-		crusade_name = GREAT_HOLY_WAR
 
 		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
 		allow_rivermovement = yes
 		priests_can_marry = yes
 		female_temple_holders = yes
@@ -5610,10 +5607,8 @@ jewish_group = {
 			GOD_GOD GOD_HASHEM PROPHET_MOSCHIACH
 		}
 		
-		crusade_name = GREAT_HOLY_WAR
 
 		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
 		allow_rivermovement = yes
 		priests_can_marry = yes
 		priests_can_inherit = yes
@@ -5630,11 +5625,11 @@ jewish_group = {
 }
 
 indian_group = {
-	#has_coa_on_barony_only = no
+	#has_coa_on_barony_only = yes
 	graphical_culture = indiangfx
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
-	hostile_within_group = yes
+	hostile_within_group = no
 	
 	ai_convert_same_group = 2 # try to convert if ai_zeal is high
 	ai_convert_other_group = 2	# always try to convert
@@ -5708,7 +5703,7 @@ eastern = {
 		icon = 47 #shinto icon - placeholder
 		heresy_icon = 47
 		
-		color = { 1.0 0.82 0.3 }
+		color = { 1.0 0 0 }
 		
 		scripture_name = BOOK_THREE_PATHS
 		priest_title = B_BHIKSHU
@@ -5816,15 +5811,11 @@ eastern = {
 	}
 	sikh = { #not buddhism
 		graphical_culture = indiangfx
-
 		icon = 65 #hindu icon placeholder - forgive me sikhs = =w
 		heresy_icon = 65
-		color = { 0.93 0.45 0.14 }
-		
+		color = { 1 0.6 0 }
 		scripture_name = GURU_GRANTH_SAHIB
-		
 		high_god_name = GOD_IK_ONKAAR
-		
 		god_names = {
 			NAAM AKAL HARI BAGHAVAN GOD_ALLAH WAHEGURU
 		}
@@ -5832,6 +5823,8 @@ eastern = {
 			PREET ASUR
 		}
 		
+		ai_convert_same_group = 1
+		ai_convert_other_group = 2
 		piety_name = KARMA
 		character_modifier = { learning = 1 }
 		short_reign_opinion_year_mult = 0
