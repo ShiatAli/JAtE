@@ -89,9 +89,315 @@
 1831224 = { name="Talmage" culture=middleman }
 1831225 = { name="Merrill" culture=middleman }
 
+##Canada
+1886000 = { name="Malcolmson" culture=islander }
+1886001 = { name="Tyrwhitt" culture=islander }
+1886002 = { name="Pendray" culture=islander }
+1886003 = { name="Lou-Poy" culture=islander }
+1886004 = { name="Houghton" culture=islander }
+1886005 = { name="Vickrey" culture=islander }
+1886006 = { name="Stilwell" culture=islander }
+1886007 = { name="Fraser" culture=islander }
+1886008 = { name="Underhill" culture=islander }
+1886009 = { name="Fredheim" culture=islander }
+1886010 = { name="Hammersley" culture=islander }
+1886011 = { name="Connolly" culture=islander }
+1886012 = { name="Ney" culture=islander }
+1886013 = { name="Hardcastle" culture=islander }
+1886014 = { name="Gogo" culture=islander }
+1886015 = { name="Tully" culture=islander }
+1886016 = { name="Kukulowicz" culture=islander }
+1886017 = { name="Ferland" culture=islander }
+1886018 = { name="Haro-Woods" culture=islander }
+1886019 = { name="Carrasco" culture=islander }
+1886020 = { name="Brownoff" culture=islander }
+1886021 = { name="Roulstone" culture=islander }
+1886022 = { name="Craddock" culture=islander }
+1886023 = { name="Dunsmuir" culture=islander }
+1886024 = { name="Sihota" culture=islander }
+1886025 = { name="Helmcken" culture=islander }
+1886026 = { name="Cuylenborg" culture=islander }
+1886027 = { name="Kitagawa" culture=islander }
+1886028 = { name="Kazanowski" culture=islander }
+1886029 = { name="Elrod" culture=islander }
+1886030 = { name="Carpentier" culture=islander }
+1886031 = { name="Courtnall" culture=islander }
+1886032 = { name="Nessman" culture=islander }
+1886033 = { name="Higashi" culture=islander }
+1886034 = { name="Berrecloth" culture=islander }
+1886035 = { name="Savage" culture=islander }
+1886036 = { name="Wylie" culture=islander }
+1886037 = { name="Baichwal" culture=islander }
+1886038 = { name="Rattenbury" culture=islander }
+1886039 = { name="Wilkinson" culture=islander }
+1886040 = { name="Farquhar" culture=islander }
 
+1887000 = { name="Yip" culture=vancouverite }
+1887001 = { name="Wong" culture=vancouverite }
+1887002 = { name="Fung" culture=vancouverite }
+1887003 = { name="Tan" culture=vancouverite }
+1887004 = { name="Wen" culture=vancouverite }
+1887005 = { name="Lee" culture=vancouverite }
+1887006 = { name="Lam" culture=vancouverite }
+1887007 = { name="Lim" culture=vancouverite }
+1887008 = { name="Kwan" culture=vancouverite }
+1887009 = { name="Dou" culture=vancouverite }
+1887010 = { name="Ho" culture=vancouverite }
+1887011 = { name="Yiu" culture=vancouverite }
+1887012 = { name="Ye" culture=vancouverite }
+1887013 = { name="Mah" culture=vancouverite }
+1887014 = { name="To" culture=vancouverite }
+1887015 = { name="Leong" culture=vancouverite }
+1887016 = { name="Tong" culture=vancouverite }
+1887017 = { name="Cai" culture=vancouverite }
+1887018 = { name="Yen" culture=vancouverite }
+1887019 = { name="Huang" culture=vancouverite }
+1887020 = { name="Chu" culture=vancouverite }
+1887021 = { name="Jung" culture=vancouverite }
+1887022 = { name="Sun" culture=vancouverite }
+1887023 = { name="Wing" culture=vancouverite }
+1887024 = { name="Chan" culture=vancouverite }
+1887025 = { name="Loo" culture=vancouverite }
+1887026 = { name="Chow" culture=vancouverite }
+1887027 = { name="Goh" culture=vancouverite }
+1887028 = { name="Xu" culture=vancouverite }
+1887029 = { name="Lui" culture=vancouverite }
+1887030 = { name="Chiu" culture=vancouverite }
+1887031 = { name="Cheung" culture=vancouverite }
+1887032 = { name="Leung" culture=vancouverite }
+1887033 = { name="Chong" culture=vancouverite }
+1887035 = { name="Kwong" culture=vancouverite }
+1887036 = { name="Yap" culture=vancouverite }
+1887037 = { name="Wat" culture=vancouverite }
+1887038 = { name="Wang" culture=vancouverite }
+1887039 = { name="Chen" culture=vancouverite }
+1887040 = { name="Fong" culture=vancouverite }
+1887041 = { name="Hsiao" culture=vancouverite }
+1887042 = { name="Choi" culture=vancouverite }
+1887043 = { name="Wu" culture=vancouverite }
+1887044 = { name="Lau" culture=vancouverite }
+1887045 = { name="Qu" culture=vancouverite }
+1887046 = { name="Sam" culture=vancouverite }
+1887047 = { name="Sung" culture=vancouverite }
+1887048 = { name="Yau" culture=vancouverite }
+1887049 = { name="Tse" culture=vancouverite }
+1887050 = { name="Yu" culture=vancouverite }
+1887051 = { name="Teng" culture=vancouverite }
+1887052 = { name="Qu" culture=vancouverite }
 
+1888000 = { name="Bloodoff" culture=kootenayer }
+1888001 = { name="McEwan" culture=kootenayer }
+1888002 = { name="Friesen" culture=kootenayer }
+1888003 = { name="Nesteroff" culture=kootenayer }
+1888004 = { name="Schreiber" culture=kootenayer }
+1888005 = { name="Sorensen" culture=kootenayer }
+1888006 = { name="Dubielewicz" culture=kootenayer }
+1888007 = { name="Thomsen" culture=kootenayer }
+1888008 = { name="Horcoff" culture=kootenayer }
+1888009 = { name="Blackmore" culture=kootenayer }
+1888010 = { name="Krogg" culture=kootenayer }
+1888011 = { name="Shewchuck" culture=kootenayer }
+1888012 = { name="McKowan" culture=kootenayer }
+1888013 = { name="LeNeveu" culture=kootenayer }
+1888014 = { name="Hauser" culture=kootenayer }
+1888015 = { name="Woytkiw" culture=kootenayer }
+1888016 = { name="Moller" culture=kootenayer }
+1888017 = { name="Kalesnikoff" culture=kootenayer }
+1888018 = { name="DeGrace" culture=kootenayer }
+1888019 = { name="Denisoff" culture=kootenayer }
+1888020 = { name="Malakoff" culture=kootenayer }
+1888021 = { name="Deadmarsh" culture=kootenayer }
+1888022 = { name="Saprikin" culture=kootenayer }
+1888023 = { name="Postnikoff" culture=kootenayer }
+1888024 = { name="Chernenkoff" culture=kootenayer }
+1888025 = { name="Middleditch" culture=kootenayer }
+1888026 = { name="Salekin" culture=kootenayer }
+1888027 = { name="Belczyk" culture=kootenayer }
+1888028 = { name="Kostynski" culture=kootenayer }
+1888029 = { name="Stoochnoff" culture=kootenayer }
+1888030 = { name="Plotnikoff" culture=kootenayer }
+1888031 = { name="Junker" culture=kootenayer }
+1888032 = { name="MacKay" culture=kootenayer }
+1888033 = { name="Huscroft" culture=kootenayer }
+1888034 = { name="Jensen" culture=kootenayer }
+1888035 = { name="Regehr" culture=kootenayer }
+1888036 = { name="Stojak" culture=kootenayer }
+1888037 = { name="Shypitka" culture=kootenayer }
+1888038 = { name="Yzerman" culture=kootenayer }
+1888039 = { name="Byram" culture=kootenayer }
+1888040 = { name="Huska" culture=kootenayer }
+1888041 = { name="Lukowich" culture=kootenayer }
+1888042 = { name="McAneeley" culture=kootenayer }
+1888043 = { name="Andrusak" culture=kootenayer }
+1888044 = { name="Wagner" culture=kootenayer }
+1888045 = { name="Todhunter" culture=kootenayer }
+1888046 = { name="Kopeck" culture=kootenayer }
+1888047 = { name="Dooley" culture=kootenayer }
+1888048 = { name="Velisek" culture=kootenayer }
+1888049 = { name="DeLong" culture=kootenayer }
+1888050 = { name="Popoff" culture=kootenayer }
+1888051 = { name="Hargreaves" culture=kootenayer }
+1888052 = { name="McPeek" culture=kootenayer }
+1888053 = { name="Feraro" culture=kootenayer }
+1888054 = { name="Kromm" culture=kootenayer }
+1888055 = { name="Wright" culture=kootenayer }
+1888056 = { name="Vedder" culture=kootenayer }
+1888057 = { name="Blaylock" culture=kootenayer }
+1888058 = { name="Zeleznik" culture=kootenayer }
+1888059 = { name="Copes" culture=kootenayer }
+1888060 = { name="Larsen" culture=kootenayer }
 
+1889000 = { name="MacDonald" culture=okanagan }
+1889001 = { name="Bennett" culture=okanagan }
+1889002 = { name="Blanchard" culture=okanagan }
+1889003 = { name="Letnick" culture=okanagan }
+1889004 = { name="Johansson" culture=okanagan }
+1889005 = { name="Whyte" culture=okanagan }
+1889006 = { name="Cannings" culture=okanagan }
+1889007 = { name="Ellis" culture=okanagan }
+1889008 = { name="Bowering" culture=okanagan }
+1889009 = { name="McLelland" culture=okanagan }
+1889010 = { name="Morrison" culture=okanagan }
+1889011 = { name="Hewitt" culture=okanagan }
+1889012 = { name="Marriott" culture=okanagan }
+1889013 = { name="Day" culture=okanagan }
+1889014 = { name="Welsman" culture=okanagan }
+1889015 = { name="Basran" culture=okanagan }
+1889016 = { name="Cavendish" culture=okanagan }
+1889017 = { name="Rycroft" culture=okanagan }
+1889018 = { name="Zimmerman" culture=okanagan }
+1889019 = { name="Ebbett" culture=okanagan }
+1889020 = { name="Caetani" culture=okanagan }
+1889021 = { name="Foster" culture=okanagan }
+1889022 = { name="Leir" culture=okanagan }
+1889023 = { name="O'Rourke" culture=okanagan }
+1889024 = { name="Shatford" culture=okanagan }
+1889025 = { name="Richardson" culture=okanagan }
+1889026 = { name="Fritz" culture=okanagan }
+1889027 = { name="Martin" culture=okanagan }
+1889028 = { name="Esselmont" culture=okanagan }
+1889029 = { name="Osbaldeston" culture=okanagan }
+1889030 = { name="Ussher" culture=okanagan }
+1889031 = { name="Grimson" culture=okanagan }
+1889032 = { name="Pendrel" culture=okanagan }
+1889033 = { name="Dowding" culture=okanagan }
+1889034 = { name="Ayers" culture=okanagan }
+1889035 = { name="Corsbie" culture=okanagan }
+1889036 = { name="Tegart" culture=okanagan }
+1889037 = { name="Leech" culture=okanagan }
+1889038 = { name="McKortoff" culture=okanagan }
+1889039 = { name="Fitzpatrick" culture=okanagan }
+1889040 = { name="Finnerty" culture=okanagan }
+1889041 = { name="Messmer" culture=okanagan }
+1889042 = { name="McKenzie" culture=okanagan }
+1889043 = { name="Whittaker" culture=okanagan }
+1889044 = { name="Galgardi" culture=okanagan }
+1889045 = { name="Matson" culture=okanagan }
+1889046 = { name="Laird" culture=okanagan }
+1889047 = { name="McDougall" culture=okanagan }
+1889048 = { name="McLeod" culture=okanagan }
+1889049 = { name="Chamberlin" culture=okanagan }
+1889050 = { name="Soberlak" culture=okanagan }
+
+1890000 = { name="Ito" culture=fraserian }
+1890001 = { name="Taher" culture=fraserian }
+1890002 = { name="Raybould" culture=fraserian }
+1890003 = { name="Elmore" culture=fraserian }
+1890004 = { name="Sakich" culture=fraserian }
+1890005 = { name="Doohan" culture=fraserian }
+1890006 = { name="Wolfhard" culture=fraserian }
+1890007 = { name="Shimizu" culture=fraserian }
+1890008 = { name="Odlum" culture=fraserian }
+1890009 = { name="Magnusson" culture=fraserian }
+1890010 = { name="Oh" culture=fraserian }
+1890011 = { name="Reynolds" culture=fraserian }
+1890012 = { name="Mochrie" culture=fraserian }
+1890013 = { name="Lett" culture=fraserian }
+1890014 = { name="Henriquez" culture=fraserian }
+1890015 = { name="Nguyen" culture=fraserian }
+1890016 = { name="Filbrandt" culture=fraserian }
+1890017 = { name="Estrada" culture=fraserian }
+1890018 = { name="Wasbrough" culture=fraserian }
+1890019 = { name="Miyazaki" culture=fraserian }
+1890020 = { name="Christensen" culture=fraserian }
+1890021 = { name="Kogawa" culture=fraserian }
+1890022 = { name="Kaminishi" culture=fraserian }
+1890023 = { name="Van der Gulik" culture=fraserian }
+1890024 = { name="Ranallo" culture=fraserian }
+1890025 = { name="Gough" culture=fraserian }
+1890026 = { name="Warawa" culture=fraserian }
+1890027 = { name="Burrard" culture=fraserian }
+1890028 = { name="Toderian" culture=fraserian }
+1890029 = { name="De Jaeger" culture=fraserian }
+1890030 = { name="Skonberg" culture=fraserian }
+1890031 = { name="Eyres" culture=fraserian }
+1890032 = { name="Tryggvason" culture=fraserian }
+1890033 = { name="Cvitanovich" culture=fraserian }
+1890034 = { name="D'Aeth" culture=fraserian }
+1890035 = { name="Bell-Irving" culture=fraserian }
+1890036 = { name="Gage" culture=fraserian }
+1890037 = { name="Lothian" culture=fraserian }
+1890038 = { name="Rafii" culture=fraserian }
+1890039 = { name="Philpot" culture=fraserian }
+1890040 = { name="Eveleigh" culture=fraserian }
+1890041 = { name="Lopushinsky" culture=fraserian }
+1890042 = { name="MacSorley" culture=fraserian }
+1890043 = { name="Van Ruyven" culture=fraserian }
+1890044 = { name="Yamamoto" culture=fraserian }
+1890045 = { name="Mahood" culture=fraserian }
+1890046 = { name="Zayonc" culture=fraserian }
+1890047 = { name="Mandeville" culture=fraserian }
+1890048 = { name="Kudaba" culture=fraserian }
+1890049 = { name="Dobrovolny" culture=fraserian }
+1890050 = { name="Qualtrough" culture=fraserian }
+1890051 = { name="DesLauriers" culture=fraserian }
+1890052 = { name="Nylund" culture=fraserian }
+1890053 = { name="Wiercioch" culture=fraserian }
+1890054 = { name="Abunnadi" culture=fraserian }
+1890055 = { name="Virtanen" culture=fraserian }
+1890057 = { name="Wakabayashi" culture=fraserian }
+1890058 = { name="Funk" culture=fraserian }
+1890059 = { name="Lefevre" culture=fraserian }
+1890060 = { name="Sadaghdar" culture=fraserian }
+1890061 = { name="Suzuki" culture=fraserian }
+1890062 = { name="Zahara" culture=fraserian }
+1890063 = { name="Skalbania" culture=fraserian }
+1890064 = { name="Lenarduzzi" culture=fraserian }
+1890065 = { name="Jaccard" culture=fraserian }
+
+1891000 = { name="Sajjan" culture=vainakuvaraita }
+1891001 = { name="Dhaliwal" culture=vainakuvaraita }
+1891002 = { name="Dosanjh" culture=vainakuvaraita }
+1891003 = { name="Grewal" culture=vainakuvaraita }
+1891004 = { name="Bhullar" culture=vainakuvaraita }
+1891005 = { name="Singh" culture=vainakuvaraita }
+1891006 = { name="Bains" culture=vainakuvaraita }
+1891007 = { name="Sarai" culture=vainakuvaraita }
+1891008 = { name="Sandhu" culture=vainakuvaraita }
+1891009 = { name="Sundher" culture=vainakuvaraita }
+1891010 = { name="Khaira" culture=vainakuvaraita }
+1891011 = { name="Johal" culture=vainakuvaraita }
+1891012 = { name="Nagra" culture=vainakuvaraita }
+1891013 = { name="Atwal" culture=vainakuvaraita }
+1891014 = { name="Thind" culture=vainakuvaraita }
+1891015 = { name="Saklikar" culture=vainakuvaraita }
+1891016 = { name="Nurali" culture=vainakuvaraita }
+1891017 = { name="Hayer" culture=vainakuvaraita }
+1891018 = { name="Chouhan" culture=vainakuvaraita }
+1891019 = { name="Gill" culture=vainakuvaraita }
+1891020 = { name="Grewal" culture=vainakuvaraita }
+1891021 = { name="Nijjar" culture=vainakuvaraita }
+1891022 = { name="Sahota" culture=vainakuvaraita }
+1891023 = { name="Oppal" culture=vainakuvaraita }
+1891024 = { name="Chopra" culture=vainakuvaraita }
+1891025 = { name="Brar" culture=vainakuvaraita }
+1891026 = { name="Cheema" culture=vainakuvaraita }
+1891027 = { name="Lali" culture=vainakuvaraita }
+1891028 = { name="Parmar" culture=vainakuvaraita }
+1891029 = { name="Bagri" culture=vainakuvaraita }
+1891030 = { name="Dhinsa" culture=vainakuvaraita }
+
+##Meseteno
 2044001 = { name="Power" culture=meseteno }
 2044002 = { name="Pluviano" culture=meseteno }
 2044003 = { name="Aguadulce" culture=meseteno }
@@ -219,6 +525,34 @@
 2045064 = { name="Ray" culture=emeraldian }
 2045065 = { name="Fry" culture=emeraldian }
 
+##Makah
+2046001	 = { name="Cobollie" culture=makah}
+2046002	 = { name="Claplanhoo" culture=makah}
+2046003	 = { name="Wispoo" culture=makah}
+2046004	 = { name="Weasum" culture=makah}
+2046005	 = { name="Wouderhard" culture=makah}
+2046006	 = { name="Quashabut" culture=makah}
+2046007	 = { name="Squib" culture=makah}
+2046008	 = { name="Cheeka" culture=makah}
+2046009	 = { name="Klokope" culture=makah}
+2046010	 = { name="Kallapa" culture=makah}
+2046011	 = { name="Yarkshup" culture=makah}
+2046012	 = { name="Wuedessa" culture=makah}
+2046013	 = { name="Quedassa" culture=makah}
+2046014	 = { name="Bowachup" culture=makah}
+2046015	 = { name="Allabush" culture=makah}
+2046016	 = { name="Annae" culture=makah}
+2046017	 = { name="Markishtum" culture=makah}
+2046018	 = { name="Solucks" culture=makah}
+2046019	 = { name="Heay" culture=makah}
+2046020	 = { name="Waddish" culture=makah}
+2046021	 = { name="Laccoo" culture=makah}
+2046022	 = { name="Kobetsi" culture=makah}
+2046023	 = { name="Kowoosh" culture=makah}
+2046024	 = { name="Cobollie" culture=makah}
+2046025	 = { name="Wiitsahwilhim" culture=makah}
+2046026	 = { name="Harshlah" culture=makah}
+
 #Dynasties in Pike place
 3000000 = { name="Berry" culture=cascadian }
 3000001 = { name="Ito" culture=cascadian }
@@ -226,5 +560,4 @@
 3000003 = { name="Moran" culture=cascadian }
 3000004 = { name="Gatzert" culture=cascadian }
 
-
-#Dynatsties in SoCal
+#Dynasties in SoCal

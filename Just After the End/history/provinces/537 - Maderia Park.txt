@@ -16,6 +16,6 @@ b_garden_bay = city
 
 # Misc
 culture = fraserian
-religion = gaian
+religion = legislative
 
 #History

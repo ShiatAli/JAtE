@@ -16,6 +16,6 @@ b_port_alberni = castle
 
 # Misc
 culture = islander
-religion = gaian
+religion = legislative
 
 #History

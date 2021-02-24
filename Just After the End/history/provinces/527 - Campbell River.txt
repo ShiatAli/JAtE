@@ -16,6 +16,6 @@ b_quathiaski = city
 
 # Misc
 culture = coast_salish
-religion = gaian
+religion = legislative
 
 #History

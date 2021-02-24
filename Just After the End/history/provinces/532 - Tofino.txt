@@ -16,6 +16,6 @@ b_tofino = castle
 
 # Misc
 culture = islander
-religion = black_cross
+religion = legislative
 
 #History

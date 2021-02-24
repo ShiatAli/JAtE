@@ -16,6 +16,6 @@ b_matsqui = city
 
 # Misc
 culture = vainakuvaraita
-religion = gaian
+religion = sikh
 
 #History

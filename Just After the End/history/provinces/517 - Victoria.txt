@@ -16,6 +16,6 @@ b_saanich = temple
 
 # Misc
 culture = islander
-religion = gaian
+religion = legislative
 
 #History

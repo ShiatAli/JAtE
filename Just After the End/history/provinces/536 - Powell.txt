@@ -16,6 +16,6 @@ b_powell_river = castle
 
 # Misc
 culture = islander
-religion = gaian
+religion = legislative
 
 #History

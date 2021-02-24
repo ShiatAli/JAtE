@@ -109,7 +109,11 @@
 # 1869 Metis
 # 1876 Coloradan
 # 1886 Canuck
-# 1889 Mountainer
+# 1887 Vancouverite
+# 1888 Kootenayer
+# 1889 Okanagan
+# 1890 Fraserian
+# 1891 Vainakuvaraita
 # 1895 Creole
 # 1899 Gocho
 # 1901 bolivarense
@@ -171,5 +175,6 @@
 
 # 2044 Meseteno
 # 2045 Emeraldian
+# 2046 Makah
 
 # 3000 Special Dynasties (for event-generated characters)

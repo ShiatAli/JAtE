@@ -16,6 +16,6 @@ b_metrotown = temple
 
 # Misc
 culture = vancouverite
-religion = gaian
+religion = legislative
 
 #History

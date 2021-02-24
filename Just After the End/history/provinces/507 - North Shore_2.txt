@@ -16,6 +16,6 @@ b_horseshoe_bay = city
 
 # Misc
 culture = vancouverite
-religion = gaian
+religion = legislative
 
 #History

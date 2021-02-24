@@ -16,6 +16,6 @@ b_port_alice_2 = castle
 
 # Misc
 culture = kwakwakawakw
-religion = raven_tales
+religion = blackfish
 
 #History

@@ -16,6 +16,6 @@ b_mission_2 = city
 
 # Misc
 culture = fraserian
-religion = gaian
+religion = legislative
 
 #History

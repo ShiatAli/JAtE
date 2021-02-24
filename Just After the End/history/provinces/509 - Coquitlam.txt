@@ -16,6 +16,6 @@ b_port_coquitlam = temple
 
 # Misc
 culture = fraserian
-religion = gaian
+religion = legislative
 
 #History

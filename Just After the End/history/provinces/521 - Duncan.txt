@@ -15,7 +15,7 @@ b_shawnigan_lake = city
 #b_cobble_hill = castle
 
 # Misc
-culture = islander
-religion = gaian
+culture = coast_salish
+religion = legislative
 
 #History

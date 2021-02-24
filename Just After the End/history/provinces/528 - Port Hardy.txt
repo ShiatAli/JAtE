@@ -16,6 +16,6 @@ b_port_hardy = castle
 
 # Misc
 culture = kwakwakawakw
-religion = raven_tales
+religion = legislative
 
 #History

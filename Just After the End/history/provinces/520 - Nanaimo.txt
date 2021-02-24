@@ -16,6 +16,6 @@ b_ladysmith = city
 
 # Misc
 culture = islander
-religion = gaian
+religion = legislative
 
 #History

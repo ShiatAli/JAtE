@@ -15,7 +15,7 @@ b_pemberton = castle
 #b_seton_portage = castle
 
 # Misc
-culture = coastranger
-religion = gaian
+culture = fraserian
+religion = legislative
 
 #History

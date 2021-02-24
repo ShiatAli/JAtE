@@ -16,6 +16,6 @@ b_hope = castle
 
 # Misc
 culture = fraserian
-religion = gaian
+religion = legislative
 
 #History

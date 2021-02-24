@@ -16,6 +16,6 @@ b_ahousat = castle
 
 # Misc
 culture = nuuchahnulth
-religion = gaian
+religion = blackfish
 
 #History

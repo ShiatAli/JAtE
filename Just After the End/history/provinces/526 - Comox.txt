@@ -16,6 +16,6 @@ b_hornby = temple
 
 # Misc
 culture = islander
-religion = gaian
+religion = legislative
 
 #History

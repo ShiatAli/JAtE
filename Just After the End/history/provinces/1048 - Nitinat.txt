@@ -16,6 +16,6 @@ b_ditidaht = castle
 
 # Misc
 culture = nuuchahnulth
-religion = gaian
+religion = blackfish
 
 #History

@@ -15,7 +15,7 @@ b_sooke = castle
 #b_milnes_landing = castle
 
 # Misc
-culture = islander
-religion = gaian
+culture = coast_salish
+religion = legislative
 
 #History

@@ -6980,6 +6980,76 @@ e_grand_vancouver = {
 				}
 			}
 		}
+		d_georgia_strait = {
+			color={ 112 123 120 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 536 province_id = 537 province_id = 538 } }
+				}
+			}
+			capital = 536 # c_powell
+			
+			c_powell = { # 536
+				color={ 102 133 115 }
+				color2={ 255 255 255 }
+				
+				b_powell_river = {
+				}
+				b_lang_bay = {
+				}
+				b_blubber_bay = {
+				}
+				b_van_ande = {
+				}
+				b_gilles_bay = {
+				}
+				b_saltery_bay = {
+				}
+				b_myrtle_point_2 = {
+				}
+			}
+			c_lund = { # 538
+				color={ 69 101 183 }
+				color2={ 255 255 255 }
+				
+				b_lund = {
+				}
+				b_goat_island = {
+				}
+				b_tlaamin = {
+				}
+				b_larsons_landing = {
+				}
+				b_okeover = {
+				}
+				b_savary = {
+				}
+				b_pulo_sa = {
+				}
+			}
+			c_maderia_park = { # 537
+				color={ 132 164 146 }
+				color2={ 255 255 255 }
+				
+				b_maderia_park = {
+				}
+				b_garden_bay = {
+				}
+				b_kleindale = {
+				}
+				b_halfmoon_bay = {
+				}
+				b_earls_cove = {
+				}
+				b_irvines_landing = {
+				}
+				b_beaver_island = {
+				}
+			}
+		}
 		d_north_fraser = {
 			color={ 214 235 103 }
 			color2={ 255 255 255 }
@@ -7217,135 +7287,6 @@ e_grand_vancouver = {
 				b_davis_bay = {
 				}
 				b_wilson_creek_2 = {
-				}
-			}
-		}
-	}
-	k_desolation = {
-		color={ 132 103 130 }
-		color2={ 255 255 255 }
-		
-		capital = 536 # c_powell
-		culture = islander
-		
-		d_georgia_strait = {
-			color={ 112 123 120 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 536 province_id = 537 province_id = 538 } }
-				}
-			}
-			capital = 536 # c_powell
-			
-			c_powell = { # 536
-				color={ 102 133 115 }
-				color2={ 255 255 255 }
-				
-				b_powell_river = {
-				}
-				b_lang_bay = {
-				}
-				b_blubber_bay = {
-				}
-				b_van_ande = {
-				}
-				b_gilles_bay = {
-				}
-				b_saltery_bay = {
-				}
-				b_myrtle_point_2 = {
-				}
-			}
-			c_lund = { # 538
-				color={ 69 101 183 }
-				color2={ 255 255 255 }
-				
-				b_lund = {
-				}
-				b_goat_island = {
-				}
-				b_tlaamin = {
-				}
-				b_larsons_landing = {
-				}
-				b_okeover = {
-				}
-				b_savary = {
-				}
-				b_pulo_sa = {
-				}
-			}
-			c_maderia_park = { # 537
-				color={ 132 164 146 }
-				color2={ 255 255 255 }
-				
-				b_maderia_park = {
-				}
-				b_garden_bay = {
-				}
-				b_kleindale = {
-				}
-				b_halfmoon_bay = {
-				}
-				b_earls_cove = {
-				}
-				b_irvines_landing = {
-				}
-				b_beaver_island = {
-				}
-			}
-		}
-		d_johnstone = {
-			color={ 104 98 148 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 540 province_id = 541 } }
-				}
-			}
-			capital = 540 # c_port_neville
-			
-			c_port_neville = { # 540
-				color={ 94 108 143 }
-				color2={ 255 255 255 }
-				
-				b_port_neville = {
-				}
-				b_matilpi = {
-				}
-				b_jackson_bay = {
-				}
-				b_glendale_cove = {
-				}
-				b_roy_2 = {
-				}
-				b_cracroft = {
-				}
-				b_lagoon_cove = {
-				}
-			}
-			c_echo_bay = { # 541
-				color={ 134 142 162 }
-				color2={ 255 255 255 }
-				
-				b_echo_bay = {
-				}
-				b_scott_cove = {
-				}
-				b_simoon_sound = {
-				}
-				b_health_bay = {
-				}
-				b_boonwick = {
-				}
-				b_mars = {
-				}
-				b_eden = {
 				}
 			}
 		}
@@ -7725,6 +7666,57 @@ e_grand_vancouver = {
 				b_mouse_islet = {
 				}
 				b_elk_falls = {
+				}
+			}
+		}
+		d_johnstone = {
+			color={ 104 98 148 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 540 province_id = 541 } }
+				}
+			}
+			capital = 540 # c_port_neville
+			
+			c_port_neville = { # 540
+				color={ 94 108 143 }
+				color2={ 255 255 255 }
+				
+				b_port_neville = {
+				}
+				b_matilpi = {
+				}
+				b_jackson_bay = {
+				}
+				b_glendale_cove = {
+				}
+				b_roy_2 = {
+				}
+				b_cracroft = {
+				}
+				b_lagoon_cove = {
+				}
+			}
+			c_echo_bay = { # 541
+				color={ 134 142 162 }
+				color2={ 255 255 255 }
+				
+				b_echo_bay = {
+				}
+				b_scott_cove = {
+				}
+				b_simoon_sound = {
+				}
+				b_health_bay = {
+				}
+				b_boonwick = {
+				}
+				b_mars = {
+				}
+				b_eden = {
 				}
 			}
 		}

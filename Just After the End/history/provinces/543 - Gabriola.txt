@@ -16,6 +16,6 @@ b_the_commons = castle
 
 # Misc
 culture = islander
-religion = gaian
+religion = legislative
 
 #History
