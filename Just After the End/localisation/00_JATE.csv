@@ -109,6 +109,7 @@ landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palous
 ############## JATE Religions ###########
 
 eastern;Eastern;;;;;;;;;;;;;x
+high_cults;High Cults;;;;;;;;;;;;;x
 
 #Black Cross
 black_cross;Black Cross;;;;;;;;;;;;;x
@@ -532,6 +533,60 @@ GOD_BEBEJEERI;Bebeje'eri;;;;;;;;;;;;;x
 GOD_JUURAS;Juuras;;;;;;;;;;;;;x
 GOD_THE_CHAPAVEKAM;The Chapavekam;;;;;;;;;;;;;x
 THE_LEGENDS;The Legends;;;;;;;;;;;;;x
+
+#Bohemian
+bohemian;Bohemian;;;;;;;;;;;;;x
+bohemian_DESC;Long has the name been known that even the Weavings Spiders wish not tread the ground of the Bohemians, a secret society of grove-captains across the wooded estates of the powerful men of Pre-Event California it is said that their wise and terrible guardian the screeching owl of the Grove protects their proceedings for those that wish to pry within their most holy of holies. Those that do are said to meet their maker drowned in circumstances that have been lost to time.;;;;;;;;;;;;;x
+GOD_STANFORD;Stanford;;;;;;;;;;;;;x
+GOD_EDWARD;Edward;;;;;;;;;;;;;x
+GOD_IRWIN;Irwin;;;;;;;;;;;;;x
+GOD_JOHN;John;;;;;;;;;;;;;x
+GOD_WISE_OWL;Wise Owl;;;;;;;;;;;;;x
+GOD_THOSE-WHO-WATCH;Those-Who-Watch;;;;;;;;;;;;;x
+GOD_THE_BEGGAR;The Beggar;;;;;;;;;;;;;x
+GOD_THE_PHANTOM_PATRIOT;The Phantom Patriot;;;;;;;;;;;;;x
+SIGNIFICANT_OTHER;Significant Other;;;;;;;;;;;;;x
+
+#Fortunist
+fortunist;Fortunist;;;;;;;;;;;;;x
+fortunist_DESC;Without risk, there is no reward. Those who refuse are destined to fade into obscurity, never to join the High Rollers of old, never to drink, party, and gamble forever in the splendor of the House. Wealth is the ultimate form of fortune, the manifestation of Lady Luck’s favor. An extension of this premise, any can rise to greatness if the Odds are in their favor, from an all-conquering king to a peasant in the right place at the right time. The roll of the dice, the luck of the draw, and the spin of the wheel. All are signs of Lady Luck’s presence, and all are proof that our way is right.;;;;;;;;;;;;;x
+GOD_LADY_LUCK;Lady Luck;;;;;;;;;;;;;x
+GOD_THE_ODDS;The Odds;;;;;;;;;;;;;x
+GOD_NIKE;Nike;;;;;;;;;;;;;x
+GOD_JACK_OF_HEARTS;Jack of Hearts;;;;;;;;;;;;;x
+GOD_THE_HOUSE;The House;;;;;;;;;;;;;x
+GOD_ACE;Ace;;;;;;;;;;;;;x
+GOD_THE_ONE_ARMED_BANDIT;The One Armed Bandit;;;;;;;;;;;;;x
+GOD_THE_SAFE_BET;The Safe Bet;;;;;;;;;;;;;x
+THE_CARDS;The Cards;;;;;;;;;;;;;x
+
+#Haysian
+haysian;Haysian;;;;;;;;;;;;;x
+haysian_DESC;The great prophet Hays was a pre-Event man who revealed his Code to the people of Hollywood. Strict adherence to his laws could see a man saved from being struck down by the Censor, a karmic force of punishment. His laws are many, but the punishment for failure is great…;;;;;;;;;;;;;x
+GOD_HAYS;Hays;;;;;;;;;;;;;x
+GOD_THALBERG;Thalberg;;;;;;;;;;;;;x
+GOD_WURTZEL;Wurtzel;;;;;;;;;;;;;x
+GOD_ALLEN;Allen;;;;;;;;;;;;;x
+GOD_QUIGLEY;Quigley;;;;;;;;;;;;;x
+GOD_LORD;Lord;;;;;;;;;;;;;x
+GOD_JOHN_WATERS;John Waters;;;;;;;;;;;;;x
+GOD_PREMINGER;Preminger;;;;;;;;;;;;;x
+THE_HAYS_CODE;The Hays Code;;;;;;;;;;;;;x
+
+#Siliconist
+siliconist;Siliconist;;;;;;;;;;;;;x
+siliconist_DESC;Long before the first spark, It was said that all was a part of the grand accordance of the All-Go-Rhythm, the song of the Universe composed by the Great Tek, the law which binds all together. The Code for which is as old as it is arcane performed as a secret and sacred rite of “transfer” (Divination). Men who have heard the All-Go-Rhythm, Diviners known as Eye-Tee, are said to cravenly hold the secrets of the song inside their giant temples called “Mainframes” which house idols of “dayta” said to be spirits in service to Tek.;;;;;;;;;;;;;x
+GOD_TEK;Tek;;;;;;;;;;;;;x
+GOD_ALL-GO-RYTHM;All-Go-Rythm;;;;;;;;;;;;;x
+GOD_CHIPTUNE;Chiptune;;;;;;;;;;;;;x
+GOD_TECHNI;Techni;;;;;;;;;;;;;x
+GOD_DAYTA;Dayta;;;;;;;;;;;;;x
+GOD_DISCORDANCE;Discordance;;;;;;;;;;;;;x
+GOD_TROJAN;Trojan;;;;;;;;;;;;;x
+GOD_WRINGING_BUGS;Wringing Bugs;;;;;;;;;;;;;x
+ASSIMILATION;Assimilation;;;;;;;;;;;;;x
+THE_ACCORDANCE;The Accordance;;;;;;;;;;;;;x
+TECH_PRIEST;Tech Priest;;;;;;;;;;;;;x
 
 ###TITLE NAMES
 count_makah;Cha-batth;;;;;;;;;;;;;x

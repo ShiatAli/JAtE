@@ -5081,7 +5081,7 @@ high_cults = {
 	
 	interface_skin = { oldworld_interface }
 	
-	bohemian = { #3spooky5u
+	bohemian = { 
 		graphical_culture = hellenicgfx
 		
 		icon = 8 #placeholder
@@ -5096,9 +5096,19 @@ high_cults = {
 			intrigue = 2
 		}
 
+		high_god_name = GOD_STANFORD
+
 		god_names = {
-			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+			GOD_EDWARD GOD_IRWIN GOD_JOHN GOD_WISE_OWL
 		}
+
+		evil_god_names = {
+			GOD_THOSE-WHO-WATCH GOD_THE_BEGGAR GOD_THE_PHANTOM_PATRIOT
+		}
+	
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = SIGNIFICANT_OTHER
+		priest_title = PRIEST
 
 		can_grant_divorce = yes
 		allow_viking_invasion = yes
@@ -5126,7 +5136,7 @@ high_cults = {
 		intermarry = consumerist
 	}
 
-	fortunist = { #$$$
+	fortunist = { #VIVA-AAAAAAAAAAA LAASS VEGGAAASS
 		graphical_culture = hellenicgfx
 		
 		icon = 17
@@ -5140,9 +5150,21 @@ high_cults = {
 			stewardship = 2
 		}
 
+		high_god_name = GOD_LADY_LUCK
+
 		god_names = {
-			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+			GOD_LADY_LUCK GOD_THE_ODDS GOD_NIKE GOD_JACK_OF_HEARTS GOD_THE_HOUSE GOD_ACE
 		}
+
+		evil_god_names = {
+			GOD_THE_ONE_ARMED_BANDIT GOD_THE_SAFE_BET
+		}
+	
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_CARDS
+		priest_title = PRIEST
+
+		aggression = 2.0 # AI aggression factor
 
 		can_grant_divorce = yes
 		allow_viking_invasion = yes
@@ -5183,9 +5205,19 @@ high_cults = {
 			intrigue = 2
 		}
 
+		high_god_name = GOD_HAYS
+
 		god_names = {
-			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+			GOD_THALBERG GOD_WURTZEL GOD_ALLEN GOD_QUIGLEY GOD_LORD
 		}
+
+		evil_god_names = {
+			GOD_JOHN_WATERS GOD_PREMINGER
+		}
+
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_HAYS_CODE
+		priest_title = PRIEST
 
 		can_grant_divorce = yes
 		allow_viking_invasion = yes
@@ -5222,10 +5254,19 @@ high_cults = {
 		
 		interface_skin = { consumerist_interface oldworld_interface }
 
+		high_god_name = GOD_TEK
 
 		god_names = {
-			GOD_THE_DOLLAR GOD_THE_INVISIBLE_HAND GOD_THE_FREE_MARKET GOD_MAMMON
+			GOD_ALL-GO-RYTHM GOD_CHIPTUNE GOD_TECHNI GOD_DAYTA
 		}
+
+		evil_god_names = {
+			GOD_DISCORDANCE GOD_TROJAN GOD_WRINGING_BUGS
+		}
+
+		crusade_name = ASSIMILATION
+		scripture_name = THE_ACCORDANCE
+		priest_title = TECH_PRIEST
 
 		can_grant_divorce = yes
 		allow_viking_invasion = yes
