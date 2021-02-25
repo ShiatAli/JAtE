@@ -1,7 +1,6 @@
 # e_gran_francisco
 1990.1.1={
 	law = agnatic_succession
-	law = succ_gavelkind
 }
 2049.1.1={
 	holder=1

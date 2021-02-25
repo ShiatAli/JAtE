@@ -3,9 +3,6 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-1990.1.1={
-	liege=k_goldengate
-}
-2055.1.1={
+2048.1.1={
 	holder=1
 }
