@@ -1,6 +1,6 @@
-#1937 - Goldengate
+#37 - Goldengate
 
-1937000={ #Dalton Areus
+37000={ #Dalton Areus
 	name="Dalton"
 	dynasty=1849096 #Areus
 	culture=bayfolk
