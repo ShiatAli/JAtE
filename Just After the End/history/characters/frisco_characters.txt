@@ -1,4 +1,10 @@
-#37 - Goldengate
+## 37xxx - Gran Francisco
+#370xx - Goldengate
+#371xx - East Bay
+#372xx - Wineland + The Lake
+#373xx - 
+#374xx - Salina (North)
+#375xx - Salina (South)
 
 37000={ #Silic Areus, Dad of Dalton
 	name="Silic"
@@ -15,6 +21,9 @@
 	trait=brave
 	trait=content
 	2015.1.20={birth=yes}
+	2036.1.1={
+		add_spouse = 37020
+	}
 	2056.1.1={death=yes}
 }
 
@@ -37,8 +46,11 @@
 	trait=brave
 	trait=ambitious
 	father=37000
-	mother=37050
+	mother=37020
 	2041.12.21={birth=yes}
+	2059.1.1={
+		add_trait=midas_touched
+	}
 	2070.2.14={death=yes}
 }
 37002={ #Brutus Areus
@@ -51,17 +63,19 @@
 	stewardship=6
 	intrigue=6
 	learning=5
-	#trait=thrifty_clerk
 	father=37001
 	2065.10.31={birth=yes}
+	2082.1.1={
+		add_trait=midas_touched
+	}
 	2132.1.1={death=yes}
 }
 
-37050={ #Deidre Areus. Mom of Dalton
+37020={ #Deidre Areus. Mom of Dalton
 	name="Deidre"
-	dynasty=1849093 #idk
-	culture=bayfolk #placeholder
-	female=yes
+	dynasty=1849093
+	culture=bayfolk
+	female=yes #placeholder
 	religion=cetic  
 	diplomacy=9
 	martial=4
@@ -70,5 +84,73 @@
 	learning=7
 	trait=charismatic_negotiator
 	2012.12.21={birth=yes}
+	2072.1.1={death=yes}
+}
+
+#Sanjo
+
+37100={ #Oswaldo Moraga - Sanjo?
+	name="Oswaldo"
+	dynasty=1818043 #
+	culture=bayfolk #placeholder
+	religion=cetic
+	martial=7
+	intrigue=5
+	trait=tough_soldier
+	trait=giant
+	2022.2.22={birth=yes}
+	2068.1.1={death=yes}
+}
+
+#Wineland
+
+37200={ #William Altermira - Wineland
+	name="William"
+	#dynasty='Altermira' #Altermira - not in dynasty list
+	culture=bayfolk 
+	religion=cetic #placeholder
+	diplomacy=9
+	trait=hedonist
+	trait=drunkard
+	trait=sloth
+	trait=charismatic_negotiator
+	2030.12.21={birth=yes}
+	2067.1.1={death=yes}
+}
+37201={ #William Altermira - Wineland
+	name="Mariano"
+	dynasty="Altermira" #Altermira - not in dynasty list
+	culture=bayfolk #placeholder
+	religion=cetic
+	martial=5
+	intrigue=5
+	trait=charismatic_negotiator
+	father=37200
+	2052.7.28={birth=yes}
+	2091.1.1={death=yes}
+}
+37210={ #Maria Vallejo - dad
+	name="Alexis"
+	dynasty=1851057 #Vallejo
+	culture=bayfolk #placeholder
+	religion=cetic  
+	diplomacy=9
+	trait=content
+	trait=fair
+	2021.1.1={birth=yes}
+	2072.1.1={death=yes}
+}
+37211={ #Maria Vallejo
+	name="Maria"
+	dynasty=1851057 #Vallejo
+	culture=bayfolk #placeholder
+	female=yes
+	religion=cetic  
+	diplomacy=9
+	intrigue=7
+	trait=fair
+	trait=harelip
+	father=37210
+	2045.1.1={birth=yes}
 	2072.1.1={death=yes}
 }

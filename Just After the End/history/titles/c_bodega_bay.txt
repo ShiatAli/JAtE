@@ -6,3 +6,6 @@
 1990.1.1={
 	liege=k_wineland
 }
+2051.1.1={
+	holder=37200
+}
