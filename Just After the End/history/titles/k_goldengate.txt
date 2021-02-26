@@ -3,12 +3,3 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2012.1.1={
-	holder=0
-}
-2067.1.1={
-	holder=37001
-}
-2070.2.14={
-	holder=37002
-}
