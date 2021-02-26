@@ -2807,6 +2807,7 @@ pacific = {
 		intermarry = aphite
 		intermarry = qingzhen
 		intermarry = imamite
+		intermarry = three_paths
 	}
 	black_cross = {
 		graphical_culture = norsegfx
@@ -4177,7 +4178,7 @@ oldworld = {
 		
 		intermarry = blackfish
 		intermarry = sikh
-		intermarry = three_path
+		intermarry = three_paths
 		intermarry = raven_tales
 	}
 }
@@ -5428,7 +5429,7 @@ nautical = {
 		can_retire_to_monastery = yes
 		intermarry = legislative
 		intermarry = freighter
-		intermarry = three_path
+		intermarry = three_paths
 		intermarry = raven_tales
 		intermarry = raven_tales_reformed
 		character_modifier = { sex_appeal_opinion = 15 }
@@ -5763,6 +5764,7 @@ eastern = {
 		character_modifier = { learning = 2 }
 		short_reign_opinion_year_mult = 0
 		
+		intermarry = cetic
 		intermarry = legislative
 		intermarry = sikh
 		intermarry = shinto
@@ -5785,16 +5787,16 @@ eastern = {
 		
 		color = { 1.0 0.8 0.9 } 
 		
-		scripture_name = BOOK_NEW_YOGA_SUTRAS
+		scripture_name = BOOK_AWAKENING
 		priest_title = B_TEACHER
-		high_god_name = GOD_MINDFULNESS
+		high_god_name = GOD_CHI_ESSENCE
 		
 		god_names = {
-			GOD_ZENIST_BUDDHA GOD_YOGA GOD_GURU
+			GOD_GOMEZ GOD_BIKRAM GOD_ZENIST_BUDDHA GOD_SIMMONS GOD_SWAMI
 		}
 		
 		evil_god_names = {
-			NARAKA
+			NEGA_DHARMA HAKAMAYA RED_DRAGON
 		}
 		
 		piety_name = CHI
@@ -5803,6 +5805,7 @@ eastern = {
 		intermarry = cetic
 		intermarry = gaian
 		intermarry = shinto
+		intermarry = sikh
 		
 		feminist = yes
 		female_temple_holders = yes
@@ -5871,7 +5874,7 @@ eastern = {
 		short_reign_opinion_year_mult = 0
 		
 		intermarry = legislative
-		intermarry = three_path
+		intermarry = three_paths
 		
 		priests_can_inherit = yes
 		can_retire_to_monastery = yes 
