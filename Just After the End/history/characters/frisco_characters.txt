@@ -4,17 +4,17 @@
 	name="Silic"
 	dynasty=1849096 #Areus
 	culture=bayfolk
-	religion=cetic  #until we get his religion in
+	religion=cetic  #placeholder
 	diplomacy=4
-	martial=7
-	stewardship=5
+	martial=8
+	stewardship=7
 	intrigue=4
 	learning=6
-	trait=thrifty_clerk
+	trait=fortune_builder
 	trait=aggressive_leader
 	trait=brave
 	trait=content
-	2012.1.20={birth=yes}
+	2015.1.20={birth=yes}
 	2056.1.1={death=yes}
 }
 
@@ -22,7 +22,7 @@
 	name="Dalton"
 	dynasty=1849096 #Areus
 	culture=bayfolk
-	religion=cetic  #until we get his religion in
+	religion=cetic  #placeholder
 	diplomacy=6
 	martial=11
 	stewardship=6
@@ -45,7 +45,7 @@
 	name="Brutus"
 	dynasty=1849096 #Areus
 	culture=bayfolk
-	religion=cetic  #until we get his religion in
+	religion=cetic  #placeholder
 	diplomacy=6
 	martial=7
 	stewardship=6
@@ -59,15 +59,16 @@
 
 37050={ #Deidre Areus. Mom of Dalton
 	name="Deidre"
-	dynasty=1849095 #idk
-	culture=bayfolk
-	religion=cetic  #until we get his religion in
+	dynasty=1849093 #idk
+	culture=bayfolk #placeholder
+	female=yes
+	religion=cetic  
 	diplomacy=9
 	martial=4
 	stewardship=6
 	intrigue=8
 	learning=7
 	trait=charismatic_negotiator
-	2008.3.3={birth=yes}
+	2012.12.21={birth=yes}
 	2072.1.1={death=yes}
 }
