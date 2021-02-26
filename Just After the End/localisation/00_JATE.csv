@@ -110,6 +110,8 @@ landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palous
 
 eastern;Eastern;;;;;;;;;;;;;x
 high_cults;High Cults;;;;;;;;;;;;;x
+occultist;Occultist;;;;;;;;;;;;;x
+proto-gaian;Proto-Gaian;;;;;;;;;;;;;x
 
 #Black Cross
 black_cross;Black Cross;;;;;;;;;;;;;x
@@ -593,6 +595,37 @@ GOD_WRINGING_BUGS;Wringing Bugs;;;;;;;;;;;;;x
 ASSIMILATION;Assimilation;;;;;;;;;;;;;x
 THE_ACCORDANCE;The Accordance;;;;;;;;;;;;;x
 TECH_PRIEST;Tech Priest;;;;;;;;;;;;;x
+
+#Wiccan
+wiccan;Wiccan;;;;;;;;;;;;;x
+wiccan_DESC;Wiccans are a diverse collection of occultist covens who, while emerging shortly before the event, claim to originate from a tradition of witchcraft who reach back to ancient times. While every coven has different practices, the Wiccan faithful share a belief in the power of magic and in the Wiccan Rede - "An it harm none, do what ye will";;;;;;;;;;;;;x
+THE_BOOK_OF_SHADOWS;The Book of Shadows;;;;;;;;;;;;;x
+GOD_DRYGHTEN;Dryghten;;;;;;;;;;;;;x
+GOD_THE_DARK_SPIRITS;The Dark Spirits;;;;;;;;;;;;;x
+GOD_MALICE;Malice;;;;;;;;;;;;;x
+GOD_THE_HORNED_GOD;The Horned God;;;;;;;;;;;;;x
+GOD_THE_TRIPLE_GODDESS;The Triple Goddess;;;;;;;;;;;;;x
+GOD_WYRD;Wyrd;;;;;;;;;;;;;x
+GOD_THE_SPIRITS;The Spirits;;;;;;;;;;;;;x
+HIGH_PRIEST;High Priest;;;;;;;;;;;;;x
+
+#Cowpoke
+cowpoke;Cowpoke;;;;;;;;;;;;;x
+cowpoke_DESC;The Cowpokes worship a broad syncretic pantheon of deities redolent of the heroes of the ancient west of America, headed by the Spirit of the West, a transcendent being responsible for shepherding mankind to the Last Roundup, though wicked souls are condemned to ride the skies forever, chasing a herd of accursed cattle.;;;;;;;;;;;;;x
+cowpoke_reformed;Cowpoke;;;;;;;;;;;;;x
+cowpoke_reformed_DESC;The Cowpokes worship a broad syncretic pantheon of deities redolent of the heroes of the ancient west of America, headed by the Spirit of the West, a transcendent being responsible for shepherding mankind to the Last Roundup, though wicked souls are condemned to ride the skies forever, chasing a herd of accursed cattle. Their traditions and heritage have been officially collected into a holy and codifying scripture.;;;;;;;;;;;;;x
+GOD_THE_SPIRIT_OF_THE_WEST;The Spirit of the West;;;;;;;;;;;;;x
+GOD_BUFFALO;Buffalo;;;;;;;;;;;;;x
+GOD_COYOTE;Coyote;;;;;;;;;;;;;x
+GOD_IRON_HORSE;Iron Horse;;;;;;;;;;;;;x
+GOD_EASTWOOD;Eastwood;;;;;;;;;;;;;x
+GOD_MISSUS_SURESHOT;Missus Sureshot;;;;;;;;;;;;;x
+GOD_THE_GHOST_RIDERS;The Ghost Riders;;;;;;;;;;;;;x
+GOD_COYOTE;Coyote;;;;;;;;;;;;;x
+GOD_THE_MAN_IN_BLACK;The Man in Black;;;;;;;;;;;;;x
+POSSE_BOSS;Posse Boss;;;;;;;;;;;;;x
+THE_TRAIL_GUIDE;The Trail Guide;;;;;;;;;;;;;x
+GREAT_DRIVE;Great Drive;;;;;;;;;;;;;x
 
 ###TITLE NAMES
 count_makah;Cha-batth;;;;;;;;;;;;;x
