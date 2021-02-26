@@ -19,6 +19,7 @@ lakemen;Lakemen;;;;;;;;;;;;;x
 #Valleyan Cultures
 kettleman;Kettleman;;;;;;;;;;;;;x
 hmong;Hmong;;;;;;;;;;;;;x
+thai_cali;Tai Tangdaen;;;;;;;;;;;;;x
 
 #PNW Cultures
 portlandian;Portlandian;;;;;;;;;;;;;x
@@ -354,14 +355,20 @@ WENSHEN;Wenshen;;;;;;;;;;;;;
 
 #Zenist
 zenist;Zenist;;;;;;;;;;;;;
-zenist_DESC;America has always been a melting pot of culture and ideas, nowhere is this more true than Southern California. However, as some new concepts were introduced, so too is the reinterpretation and repurposing of these ideas. However this movements arise is beyond our understanding. They are a spiritual group that excessively Yoga and collecting their Chi. Okay?;;;;;;;;;;;;;
-BOOK_NEW_YOGA_SUTRAS;New Yogasutra;;;;;;;;;;;;;
-GOD_MINDFULNESS;Mindfulness;;;;;;;;;;;;;
-GOD_ZENIST_BUDDHA;Buddha;;;;;;;;;;;;;
-GOD_YOGA;Yogasutra;;;;;;;;;;;;;
-GOD_GURU;The Gurus;;;;;;;;;;;;;
-NARAKA;Naraka;;;;;;;;;;;;;
+zenist_DESC;Under its many great teachers rose the powerful yoga arts supposed effort to master the many arts from: Fire Yoga, Buddhafield, Karmic, and Aerobics can grant you powerful aura of "Nirvana" and raises your spirit to high levels of Chi. They claim Chi can only be achieved by strictly adhering to these tenets.;;;;;;;;;;;;;
+BOOK_AWAKENING;Awakening;;;;;;;;;;;;;
+GOD_CHI_ESSENCE;Chi-Essence;;;;;;;;;;;;;
+GOD_ZENIST_BUDDHA;Bodhi-Sama;;;;;;;;;;;;;
+GOD_GOMEZ;Gomez;;;;;;;;;;;;;
+GOD_BIKRAM;Bikram;;;;;;;;;;;;;
+GOD_SIMMONS;Simmons;;;;;;;;;;;;;
+GOD_SWAMI;Swami;;;;;;;;;;;;;
+NEGA_DHARMA;Nega-Dharma;;;;;;;;;;;;;
+HAKAMAYA;Hakamaya;;;;;;;;;;;;;
+RED_DRAGON;Dong;;;;;;;;;;;;;
 STAT_PIETY_CHI;Chi;;;;;;;;;;;;;
+
+#Nirodhist
 nirodhist;Nirodhist;;;;;;;;;;;;;
 nirodhist_DESC;As The Event rippled throughout the Land, a new spiritual movement gain traction as the way to "liberate" all people from the "suffering". Nirodhist movement identify the world as Samsara, a machination of a greater being, where everyone live in a circle of constant rebirth. Their villification of the world, and nihilistic practices drew harsh criticism from other followers of Buddha.;;;;;;;;;;;;;
 GOD_NIRODHIST_WAYS;The Way Out;;;;;;;;;;;;;
