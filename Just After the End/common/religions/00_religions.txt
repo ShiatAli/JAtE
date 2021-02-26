@@ -5715,16 +5715,16 @@ eastern = {
 		
 		color = { 1.0 0.8 0.9 } 
 		
-		scripture_name = BOOK_AWAKENING
+		scripture_name = BOOK_NEW_YOGA_SUTRAS
 		priest_title = B_TEACHER
-		high_god_name = GOD_CHI_ESSENCE
+		high_god_name = GOD_MINDFULNESS
 		
 		god_names = {
-			GOD_GOMEZ GOD_BIKRAM GOD_ZENIST_BUDDHA GOD_SIMMONS GOD_SWAMI
+			GOD_ZENIST_BUDDHA GOD_YOGA GOD_GURU
 		}
 		
 		evil_god_names = {
-			NEGA_DHARMA HAKAMAYA RED_DRAGON
+			NARAKA
 		}
 		
 		piety_name = CHI
