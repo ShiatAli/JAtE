@@ -1,21 +1,73 @@
 #37 - Goldengate
 
-37000={ #Dalton Areus
+37000={ #Silic Areus, Dad of Dalton
+	name="Silic"
+	dynasty=1849096 #Areus
+	culture=bayfolk
+	religion=cetic  #until we get his religion in
+	diplomacy=4
+	martial=7
+	stewardship=5
+	intrigue=4
+	learning=6
+	trait=thrifty_clerk
+	trait=aggressive_leader
+	trait=brave
+	trait=content
+	2012.1.20={birth=yes}
+	2056.1.1={death=yes}
+}
+
+37001={ #Dalton Areus
 	name="Dalton"
 	dynasty=1849096 #Areus
 	culture=bayfolk
 	religion=cetic  #until we get his religion in
 	diplomacy=6
 	martial=11
-	stewardship=4
+	stewardship=6
 	intrigue=6
 	learning=5
-	trait=thrifty_clerk
+	#trait=thrifty_clerk
 	trait=wroth
 	trait=aggressive_leader
+	trait=trickster
 	trait=scholar
+	trait=cruel
 	trait=brave
 	trait=ambitious
-	2012.12.21={birth=yes}
-	2075.1.1={death=yes}
+	father=37000
+	mother=37050
+	2041.12.21={birth=yes}
+	2070.2.14={death=yes}
+}
+37002={ #Brutus Areus
+	name="Brutus"
+	dynasty=1849096 #Areus
+	culture=bayfolk
+	religion=cetic  #until we get his religion in
+	diplomacy=6
+	martial=7
+	stewardship=6
+	intrigue=6
+	learning=5
+	#trait=thrifty_clerk
+	father=37001
+	2065.10.31={birth=yes}
+	2132.1.1={death=yes}
+}
+
+37050={ #Deidre Areus. Mom of Dalton
+	name="Deidre"
+	dynasty=1849095 #idk
+	culture=bayfolk
+	religion=cetic  #until we get his religion in
+	diplomacy=9
+	martial=4
+	stewardship=6
+	intrigue=8
+	learning=7
+	trait=charismatic_negotiator
+	2008.3.3={birth=yes}
+	2072.1.1={death=yes}
 }
