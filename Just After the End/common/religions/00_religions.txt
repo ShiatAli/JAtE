@@ -4421,132 +4421,6 @@ pagan_group = {
 		intermarry = libertarian
 	}
 
-	occultist_reformed = {
-		graphical_culture = norsegfx
-
-		alternate_start = { always = no }
-		
-		icon = 57
-		heresy_icon = 58
-		
-		ai_convert_other_group = 1
-		ai_convert_same_group = 1
-		
-		color = { 0.3 0.6 0.5 }
-
-		high_god_name = GOD_THE_ELDER_GODS
-
-		god_names = {
-			GOD_THE_SPIRITS GOD_THE_ANCESTORS GOD_THE_OLD_ONES GOD_THE_ELDER_GODS
-		}
-		evil_god_names = {
-			THE_DARK_SPIRITS THE_CRAWLING_CHAOS RANDALL_FLAGG
-		}
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_CODEX
-		priest_title = PRIEST_LOREKEEPER
-		can_call_crusade = yes
-		priests_can_marry = yes
-		allow_rivermovement = yes
-		allow_looting = yes
-		female_temple_holders = yes
-		allow_in_ruler_designer = no
-		hard_to_convert = yes
-		
-		aggression = 0.5
-		
-		unit_modifier = {		
-			garrison_size = 0.3
-			levy_size = 0.2
-					
-			key = "DEF_RELIGION"
-		}
-		unit_home_modifier = {
-			land_morale = 0.8
-			light_infantry_defensive = 0.8
-			heavy_infantry_defensive = 0.8
-			pikemen_defensive = 0.8
-			light_cavalry_defensive = 0.8
-			knights_defensive = 0.8
-			archers_defensive = 0.8
-			horse_archers_defensive = 0.8
-			camel_cavalry_defensive = 0.8
-			war_elephants_defensive = 0.8
-					
-			garrison_size = 0.4
-					
-			key = "DEF_RELIGION_HOME_TERRITORY"
-		}
-		
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
-		intermarry = occultist
-		intermarry = orientalist
-		intermarry = misrist
-		intermarry = pelagic
-
-	}	
-	
-	occultist = { # 2spooky4u
-		graphical_culture = norsegfx
-
-		icon = 8
-		heresy_icon = 9
-		
-		color = { 0.1 0.4 0.3 }
-
-		high_god_name = GOD_THE_ELDER_GODS
-
-		god_names = {
-			GOD_THE_SPIRITS GOD_THE_ANCESTORS GOD_THE_OLD_ONES GOD_THE_ELDER_GODS
-		}
-		evil_god_names = {
-			THE_DARK_SPIRITS THE_CRAWLING_CHAOS RANDALL_FLAGG
-		}
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_CODEX
-		priest_title = PRIEST_LOREKEEPER
-		priests_can_marry = yes
-		allow_rivermovement = yes
-		allow_looting = yes
-		female_temple_holders = yes
-		max_consorts = 3
-		reformed = occultist_reformed
-		unit_modifier = {		
-			garrison_size = 0.3
-			levy_size = 0.1
-			
-			key = "DEF_RELIGION"
-		}
-		unit_home_modifier = {
-			land_morale = 0.8
-			light_infantry_defensive = 0.8
-			heavy_infantry_defensive = 0.8
-			pikemen_defensive = 0.8
-			light_cavalry_defensive = 0.8
-			knights_defensive = 0.8
-			archers_defensive = 0.8
-			horse_archers_defensive = 0.8
-			camel_cavalry_defensive = 0.8
-			war_elephants_defensive = 0.8
-			
-			garrison_size = 0.4
-			
-			key = "DEF_RELIGION_HOME_TERRITORY"
-		}
-		
-		defensive_attrition = yes		
-		can_demand_religious_conversion = no
-		hard_to_convert = yes
-		
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
-		intermarry = occultist_reformed
-		intermarry = orientalist
-		intermarry = misrist
-		intermarry = pelagic
-	}
-
 	thelemic_reformed = {
 		graphical_culture = norsegfx
 		alternate_start = { always = no }
@@ -4961,6 +4835,7 @@ pagan_group = {
 		intermarry = aria_de_machete_reformed
 		can_demand_religious_conversion = no
 	}
+
 	mine_cultist_reformed = { 
 		graphical_culture = norsegfx
 		alternate_start = { always = no }
@@ -5000,12 +4875,11 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 2
 
-		intermarry = revelationist
-		intermarry = revelationist_reformed
 		intermarry = trailwalker_reformed
 		intermarry = trailwalker
-
 		intermarry = mine_cultist
+		intermarry = cowpoke_reformed
+		intermarry = cowpoke
 	}
 
 	mine_cultist = { 
@@ -5059,12 +4933,123 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 2
 
-		intermarry = revelationist
-		intermarry = revelationist_reformed
 		intermarry = trailwalker_reformed
 		intermarry = trailwalker
-
 		intermarry = mine_cultist_reformed
+		intermarry = cowpoke_reformed
+		intermarry = cowpoke
+	}
+
+	cowpoke_reformed = { 
+		graphical_culture = norsegfx
+		alternate_start = { always = no }
+		
+		icon = 23
+		heresy_icon = 24
+		
+		ai_convert_other_group = 0
+		ai_convert_same_group = 2
+		
+		color = { 60 32 0 }
+
+		high_god_name = GOD_THE_SPIRIT_OF_THE_WEST
+
+		god_names = {
+			GOD_BUFFALO GOD_COYOTE GOD_IRON_HORSE GOD_EASTWOOD GOD_MISSUS_SURESHOT
+		}
+		evil_god_names = {
+			GOD_THE_GHOST_RIDERS GOD_COYOTE GOD_THE_MAN_IN_BLACK
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "trailwalker"
+		}
+		
+		crusade_name = GREAT_DRIVE
+		scripture_name = THE_TRAIL_GUIDE
+		priest_title = POSSE_BOSS
+
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		allow_in_ruler_designer = no
+		hard_to_convert = yes
+		attacking_same_religion_piety_loss = yes
+		
+		aggression = 1.5
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 2
+		intermarry = trailwalker_reformed
+		intermarry = trailwalker
+		intermarry = mine_cultist_reformed
+		intermarry = mine_cultist
+		intermarry = cowpoke
+
+	}
+
+	cowpoke = { 
+		graphical_culture = norsegfx
+
+		icon = 22
+		heresy_icon = 24
+		
+		color = { 124 76 14 }
+		
+		high_god_name = GOD_THE_SPIRIT_OF_THE_WEST
+
+		god_names = {
+			GOD_BUFFALO GOD_COYOTE GOD_IRON_HORSE GOD_EASTWOOD GOD_MISSUS_SURESHOT
+		}
+		evil_god_names = {
+			GOD_THE_GHOST_RIDERS GOD_COYOTE GOD_THE_MAN_IN_BLACK
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "trailwalker"
+		}
+		
+		crusade_name = GREAT_DRIVE
+		scripture_name = THE_TRAIL_GUIDE
+		priest_title = POSSE_BOSS
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		peace_prestige_loss = yes # Lose Prestige while at peace
+		raised_vassal_opinion_loss = no
+		allow_rivermovement = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = cowpoke_reformed
+		ignores_defensive_attrition = yes
+		
+		short_reign_opinion_year_mult = 1.5
+		
+		aggression = 2.0 # AI aggression factor
+
+		dislike_tribal_organization = yes
+		
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 2
+		intermarry = trailwalker_reformed
+		intermarry = trailwalker
+		intermarry = mine_cultist_reformed
+		intermarry = mine_cultist
+		intermarry = cowpoke_reformed
 	}
 }
 high_cults = {
@@ -5081,61 +5066,6 @@ high_cults = {
 	
 	interface_skin = { oldworld_interface }
 	
-	bohemian = { 
-		graphical_culture = hellenicgfx
-		
-		icon = 8 #placeholder
-		heresy_icon = 9
-		
-		color = { 176 110 32 }
-		
-		interface_skin = { pagan_interface oldworld_interface }
-
-		
-		character_modifier = {
-			intrigue = 2
-		}
-
-		high_god_name = GOD_STANFORD
-
-		god_names = {
-			GOD_EDWARD GOD_IRWIN GOD_JOHN GOD_WISE_OWL
-		}
-
-		evil_god_names = {
-			GOD_THOSE-WHO-WATCH GOD_THE_BEGGAR GOD_THE_PHANTOM_PATRIOT
-		}
-	
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = SIGNIFICANT_OTHER
-		priest_title = PRIEST
-
-		can_grant_divorce = yes
-		allow_viking_invasion = yes
-		can_grant_invasion_cb = invasion
-		allow_rivermovement = yes
-		can_grant_claim = yes
-		priests_can_marry = yes
-		priests_can_inherit = yes
-		uses_jizya_tax = no
-		
-		max_consorts = 3
-		
-		religious_clothing_head = 18
-		religious_clothing_priest = 18
-		
-		intermarry = americanist
-		intermarry = hamiltonian
-		intermarry = jeffersonian
-		intermarry = libertarian
-		
-		intermarry = atomicist
-		intermarry = aphite
-		intermarry = rust_cultist
-		intermarry = chrome_cultist
-		intermarry = consumerist
-	}
-
 	fortunist = { #VIVA-AAAAAAAAAAA LAASS VEGGAAASS
 		graphical_culture = hellenicgfx
 		
@@ -5879,40 +5809,6 @@ eastern = {
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
 	}
-	theosophy = { 
-		graphical_culture = chinesegfx
-
-		icon = 109
-		heresy_icon = 109
-		
-		color = { 255 119 0 } 
-		
-		scripture_name = KRISHNAMURTIS_NOTEBOOK
-		priest_title = PRIEST
-		high_god_name = GOD_TRUTH
-		
-		god_names = {
-			 GOD_KRISHNAMURTI GOD_THE_MASTERS
-		}
-		
-		evil_god_names = {
-			GOD_SUFFERING GOD_THE_SYSTEMS_OF_MAN
-		}
-		
-		piety_name = KARMA
-		short_reign_opinion_year_mult = 0
-		
-		intermarry = cetic
-		intermarry = gaian
-		
-		feminist = yes
-		female_temple_holders = yes
-		priests_can_inherit = no
-		can_retire_to_monastery = yes 
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-	}
 }
 
 muslim = {
@@ -6327,4 +6223,137 @@ muslim = {
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
 	}
+}
+
+occultist = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	#crusade_cb = crusade
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2
+	ai_convert_other_group = 1
+	
+	color = { 0.3 0.6 0.5 }
+	
+	interface_skin = { oldworld_interface }
+
+	theosophy = { 
+		graphical_culture = chinesegfx
+
+		icon = 109
+		heresy_icon = 109
+		
+		color = { 255 119 0 } 
+		
+		scripture_name = KRISHNAMURTIS_NOTEBOOK
+		priest_title = PRIEST
+		high_god_name = GOD_TRUTH
+		
+		god_names = {
+			 GOD_KRISHNAMURTI GOD_THE_MASTERS
+		}
+		
+		evil_god_names = {
+			GOD_SUFFERING GOD_THE_SYSTEMS_OF_MAN
+		}
+		
+		piety_name = KARMA
+		short_reign_opinion_year_mult = 0
+		
+		intermarry = cetic
+		intermarry = gaian
+		
+		feminist = yes
+		female_temple_holders = yes
+		priests_can_inherit = no
+		can_retire_to_monastery = yes 
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = bohemian
+		intermarry = wiccan
+	}
+
+	bohemian = { 
+		graphical_culture = hellenicgfx
+		
+		icon = 8 #placeholder
+		heresy_icon = 9
+		
+		color = { 176 110 32 }
+		
+		interface_skin = { pagan_interface oldworld_interface }
+
+		
+		character_modifier = {
+			intrigue = 2
+		}
+
+		high_god_name = GOD_STANFORD
+
+		god_names = {
+			GOD_EDWARD GOD_IRWIN GOD_JOHN GOD_WISE_OWL
+		}
+
+		evil_god_names = {
+			GOD_THOSE-WHO-WATCH GOD_THE_BEGGAR GOD_THE_PHANTOM_PATRIOT
+		}
+	
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = SIGNIFICANT_OTHER
+		priest_title = PRIEST
+
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		uses_jizya_tax = no
+		
+		max_consorts = 3
+		
+		religious_clothing_head = 18
+		religious_clothing_priest = 18
+		
+		intermarry = wiccan
+		intermarry = theosophy
+	}
+
+	wiccan = { # 2spooky4u
+		graphical_culture = norsegfx
+
+		icon = 8
+		heresy_icon = 9
+		
+		color = { 0.1 0.4 0.3 }
+
+		high_god_name = GOD_DRYGHTEN
+
+		god_names = {
+			GOD_THE_HORNED_GOD GOD_THE_TRIPLE_GODDESS GOD_WYRD GOD_THE_SPIRITS
+		}
+		evil_god_names = {
+			GOD_THE_DARK_SPIRITS GOD_MALICE
+		}
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_BOOK_OF_SHADOWS
+		priest_title = HIGH_PRIEST
+		priests_can_marry = yes
+		female_temple_holders = yes
+
+		defensive_attrition = yes		
+		can_demand_religious_conversion = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+
+		intermarry = bohemian
+		intermarry = theosophy
+	}
+
 }
