@@ -4876,6 +4876,123 @@ pagan_group = {
 		intermarry = mine_cultist
 		intermarry = cowpoke_reformed
 	}
+
+	interstater_reformed = { 
+		graphical_culture = norsegfx
+		alternate_start = { always = no }
+		
+		icon = 23
+		heresy_icon = 24
+		
+		ai_convert_other_group = 0
+		ai_convert_same_group = 2
+		
+		color = { 255 255 47 }
+
+		high_god_name = GOD_CHAMPION_EISENHOWER
+
+		god_names = {
+			GOD_THE_AUTOMOTIVE_AMERICAN GOD_THE_FREEMANS_WAY GOD_THE_SPIRIT_OF_THE_EYE GOD_THE_HOLY_PAVER GOD_SEE-MEANT GOD_THE_66 GOD_THE_FUND
+		}
+		evil_god_names = {
+			GOD_EROSION GOD_THE_DISREPAIRER
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "trailwalker"
+		}
+		
+		crusade_name = GREAT_PAVEMENT
+		scripture_name = THE_YELLOW_BOOK
+		priest_title = GRADE_CREWMAN
+
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		allow_in_ruler_designer = no
+		hard_to_convert = yes
+		attacking_same_religion_piety_loss = yes
+		
+		aggression = 1.5
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 2
+		intermarry = trailwalker_reformed
+		intermarry = trailwalker
+		intermarry = mine_cultist_reformed
+		intermarry = mine_cultist
+		intermarry = cowpoke_reformed
+		intermarry = cowpoke
+		intermarry = interstater
+
+	}
+
+	interstater = { 
+		graphical_culture = norsegfx
+
+		icon = 22
+		heresy_icon = 24
+		
+		color = { 230 230 92 }
+		
+		high_god_name = GOD_CHAMPION_EISENHOWER
+
+		god_names = {
+			GOD_THE_AUTOMOTIVE_AMERICAN GOD_THE_FREEMANS_WAY GOD_THE_SPIRIT_OF_THE_EYE GOD_THE_HOLY_PAVER GOD_SEE-MEANT GOD_THE_66 GOD_THE_FUND
+		}
+		evil_god_names = {
+			GOD_EROSION GOD_THE_DISREPAIRER
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "trailwalker"
+		}
+		
+		crusade_name = GREAT_PAVEMENT
+		scripture_name = THE_YELLOW_BOOK
+		priest_title = GRADE_CREWMAN
+
+		priests_can_marry = yes
+		allow_looting = yes
+		peace_prestige_loss = yes # Lose Prestige while at peace
+		raised_vassal_opinion_loss = no
+		allow_rivermovement = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = interstater_reformed
+		ignores_defensive_attrition = yes
+		
+		short_reign_opinion_year_mult = 1.5
+		
+		aggression = 2.0 # AI aggression factor
+
+		dislike_tribal_organization = yes
+		
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 2
+		intermarry = trailwalker_reformed
+		intermarry = trailwalker
+		intermarry = mine_cultist_reformed
+		intermarry = mine_cultist
+		intermarry = cowpoke_reformed
+		intermarry = cowpoke
+		intermarry = interstater_reformed
+	}
+
 }
 high_cults = {
 	has_coa_on_barony_only = yes
