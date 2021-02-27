@@ -1,8 +1,11 @@
 # e_gran_francisco
 1990.1.1={
-	law = agnatic_succession
+	law = cognatic_succession
 	law = succ_gavelkind
 }
-1990.1.1={
-	liege=k_east_bay
+2037.1.1={
+	holder=37120
+}
+2062.1.1={
+	holder=37121
 }
