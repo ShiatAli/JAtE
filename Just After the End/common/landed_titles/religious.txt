@@ -1,0 +1,980 @@
+# k_papal_state = {
+	# color={ 255 249 198 }
+	# color2={ 220 220 0 }
+	
+	# capital = 1050 # St. Louis
+	
+	# title = "POPE"
+	# title_female = "ABBESS_GENERAL"
+	# foa = "POPE_FOA"
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# landless = yes
+	# controls_religion = catholic
+	# religion = catholic
+	# primary = yes
+	# assimilate = no # Nothing drifts in or out
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# # Regnal names
+	# # Post-Apocalyptic American Popes are heavily influenced by being in America
+	# male_names = {
+		# Amen "Praised-Be" "Blessed-Be" Ambrose Humble Aloysius Francis Hallelujah Matthew Mark Luke
+		# Abraham Bartholomew Noah Adam Solomon David Joseph Barnabas Nicodemus "How-Great-Thou-Art"
+		# Christophilus Redeemed "What-God-Will" Joshua "Praise-God" "Fear-Not" Zealot "He-Has-Heard" Solanus
+		# "God-Is-Gracious" "God-Is-Salvation" "Son-Of-The-Right-Hand" Bernard Manasses Righteous Creature
+		# Praiseworthy "Smite-The-Unbeliever" Deliverance Leibowitz Lazarus Carpenter Fisher Ezekiel August
+		# Michael Isaiah Leviticus Thomas Tribulation "Peace-Be-With-You" "Voice-Like-Thunder" Dominic
+		# Paul Longinus Adrian Shepherd "God-Is-Faithful" Longsuffering "Trust-In-He" Sardis Pergamum
+		# Everlasting "Seek-Ye-First" "Peace-Of-God" "Light-My-Path" Corinth Ephesus Patmos Pancratz
+	# }
+# }
+
+# k_evangelical = {
+# #	color={ 150 90 30 }
+	# color={ 183 60 155 }
+	# color2={ 220 220 0 }
+	
+	# capital = 149 # Atlanta
+	
+	# title = "COUNCIL_PRESIDENT"
+	# foa = "ECUMENICAL_PATRIARCH_FOA"
+	# short_name = yes
+
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = evangelical
+	
+	# religion = evangelical
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+
+	# assimilate = no # Nothing drifts in or out
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# # Regnal names
+	# #male_names = {
+	# #	Pentecost Amen Simple Humble Oral Luther Calvin Knox Gospel Blessed Deliverance Wycliffe "Jan Hus" 
+	# #}
+# }
+
+# d_norse_pagan_reformed = {
+	# color={ 155 155 235 }
+	# color2={ 220 220 0 }
+	
+	# capital = 170 #Chicago
+	
+	# title = "FYLKIR"
+	# title_female = "FYLKJA"
+	# foa = "FYLKIR_FOA"
+	
+	# creation_requires_capital = no
+	
+	# allow = {
+		# religion = norse_pagan_reformed
+		# num_of_holy_sites = 3
+		# piety = 500
+	# }
+
+	# short_name = yes
+	
+	# # Always exists
+	# landless = yes	
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = norse_pagan_reformed
+	
+	# religion = norse_pagan_reformed
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_occultist_reformed = {
+	# color={ 60 120 100 }
+	# color2={ 220 220 0 }
+	
+	# capital = 69 # Boston
+	
+	# title = "SUPREME_GRAND_MASTER"
+	# title_female = "SUPREME_GRAND_MISTRESS"
+	# foa = "SUPREME_GRAND_MASTER_FOA"
+	
+	# short_name = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = occultist_reformed
+	
+	# religion = occultist_reformed
+	
+	# # Cannot be held as a secondary title
+	# # primary = yes
+	
+	# dynasty_title_names = no	# Will not be named "Seljuk", etc.
+# }
+
+# k_rust_cultist = {
+	# color={ 155 155 235 }
+	# color2={ 220 220 0 }
+	
+	# capital = 118 # Detroit
+	
+	# title = "FORGE_SAINT"
+	# title_female = "FORGE_SAINT"
+	# foa = "HIGH_FABRICATOR_FOA"
+	
+	# creation_requires_capital = no
+	
+	# allow = { #only via special decision
+		# has_global_flag = high_fabricator
+		# religion = rust_cultist
+		# num_of_holy_sites = 3
+		# piety = 500
+		# wealth = 250
+	# }
+	
+	# caliphate = yes
+	# landless = yes #???
+	# short_name = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = rust_cultist
+	
+	# religion = rust_cultist
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_thelemic_reformed = {
+	# color={ 192 192 192 }
+	# color2={ 220 220 0 }
+	
+	# capital = 69 # Boston
+	
+	# title = "IPSISSIMUS"
+	# title_female = "IPSISSIMUS_FEMALE"
+	# foa = "IPSISSIMUS_FOA"
+	
+	# creation_requires_capital = no
+	
+	# allow = {
+		# religion = thelemic_reformed
+		# num_of_holy_sites = 3
+		# piety = 500
+	# }
+	
+	# short_name = yes
+	
+	# #Always exists
+	# landless = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = thelemic_reformed
+	
+	# religion = thelemic_reformed
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_revelationist_reformed = {
+	# color={ 150 210 74 }
+	# color2={ 220 220 0 }
+	
+	# capital = 1015 # Mammoth Caves
+	
+	# title = "MYSTAGOGUE"
+	# title_female = "MYSTAGOGUE_FEMALE"
+	# foa = "IPSISSIMUS_FOA"
+	
+	# creation_requires_capital = no
+
+	# short_name = yes
+	
+	# #Always exists
+	# landless = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = revelationist_reformed
+	
+	# religion = revelationist_reformed
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_trailwalker_reformed = {
+	# color={ 73 47 36 }
+	# color2={ 255 196 37 }
+	
+	# capital = 353 # Omaha
+	
+	# title = "GREAT_TRAILBLAZER"
+	# title_female = "GREAT_TRAILBLAZER"
+	# foa = "IPSISSIMUS_FOA"
+	
+	# creation_requires_capital = no
+
+	# short_name = yes
+	
+	# #Always exists
+	# landless = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = trailwalker_reformed
+	
+	# religion = trailwalker_reformed
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_americanist = {
+	# color={ 60 59 110 }
+	# color2={ 220 220 0 }
+
+	# capital = 63 # Washington
+	# creation_requires_capital = no
+	
+	# dignity = -100
+	
+	# title = "PRESIDENT"
+	# title_female = "PRESIDENT"
+	# foa = "PRESIDENT_FOA"
+
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# religion = americanist
+	
+	# # Controls a religion
+	# controls_religion = americanist
+	
+	# allow = {
+		# always = no
+	# }
+
+	# caliphate = yes
+	# dynasty_title_names = no
+
+	# pagan_coa = {
+		# template = 0
+		# layer = {
+			# texture = 1
+			# texture_internal = 0
+			# emblem = 0
+			# color = 0
+			# color = 0
+			# color = 0
+		# }
+		# religion = americanist
+	# }
+# }
+
+# d_quorum_of_the_twelve = {
+	# color = { 31 69 224 }
+	# color2= { 225 255 255 }
+
+	# capital = 430 # Salt Lake City
+	# creation_requires_capital = no
+	
+	# title = "PRESIDENT"
+	# title_female = "PRESIDENT"
+	# foa = "PRESIDENT_FOA"
+
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# religion = mormon
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# # Controls a religion
+	# controls_religion = mormon
+
+	# landless = yes
+	
+	# allow = { always = no }
+
+	# #caliphate = yes
+	# dynasty_title_names = no
+# }
+
+# d_jewish = {
+	# color = { 0 80 255 }
+	
+	# capital = 2 # Brooklyn
+	
+	# title = "HEAD_GRAND_REBBE"
+	# foa = "POPE_FOA"
+	
+	# short_name = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = jewish
+	
+	# religion = jewish
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_nestorian = {
+	# color={ 180 137 97 }
+	# color2={ 220 220 0 }
+	
+	# capital = 170 # Chicago
+	
+	# title = "PATRIARCH_IN_THE_EAST"
+	# foa = "ECUMENICAL_PATRIARCH_FOA"
+	
+	# short_name = yes
+
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = nestorian
+	
+	# religion = nestorian
+	
+	# culture = chiraqi
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# # Regnal names
+	# male_names = {
+		# Aba:200 Abdisho:500 Abris Addai:200 Aggai Ahadabui Ahai Akakios Ammanuel:300 Avrahim:300
+		# Babai Babowai Barbashmin
+		# Dadisho Dinkha:400
+		# Elisha Eliya:1400 Enosh Ezekiel
+		# Farbokht
+		# Gewargis:300 Grigorios
+		# Hnanisho
+		# Isho Ishoyahb:500 Iskhaq Israel:200
+		# Makkikha:200 Mana Maremmeh Mari
+		# Narsai Nicholas
+		# Papa Pethion Polous:200
+		# Qayyoma
+		# Raphael
+		# Sabrisho:500 Sargis Shahdost Shahlufa Shila Shimun:2300 Slibazkha Surin
+		# Tamuza Theodosios Timataos:200
+		# Yahballaha:300 Yaqub:200 Yohannan:700 Yosep:700
+	# }
+# }
+
+
+# d_woolleyite = {
+	# color = { 204 140 153 }
+	# color2= { 225 255 255 }
+
+	# capital = 430 # Salt Lake City
+	# creation_requires_capital = no
+	
+	# title = "PROPHET_PRESIDENT"
+	# title_female = "PROPHET_PRESIDENT"
+	# foa = "POPE_FOA"
+
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# religion = woolleyite
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# # Controls a religion
+	# controls_religion = woolleyite
+
+	# landless = yes
+	
+	# allow = {
+		# always = no
+	# }
+
+	# #caliphate = yes
+	# dynasty_title_names = no
+# }
+
+# d_neogodbeite = {
+	# color = { 140 153 204 }
+	# color2= { 225 255 255 }
+
+	# capital = 430 # Salt Lake City
+	# creation_requires_capital = no
+	
+	# title = "PROPHET_PRESIDENT"
+	# title_female = "PROPHET_PRESIDENT"
+	# foa = "POPE_FOA"
+
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# religion = neogodbeite
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# # Controls a religion
+	# controls_religion = neogodbeite
+
+	# landless = yes
+	
+	# allow = {
+		# always = no
+	# }
+
+	# #caliphate = yes
+	# dynasty_title_names = no
+# }
+
+# d_atomicist = { #the Atomic Energy Commission, or Commission for short
+	# color = { 191 255 51 }
+	# color2= { 225 255 255 }
+	
+	# capital = 423 #Los Alamos
+	# creation_requires_capital = no
+	
+	# title = "WARHEAD"
+	# title_female = "WARHEAD"
+	# foa = "WARHEAD_FOA"
+	
+	# allow = { #only via special decision
+		# has_global_flag = atomic_commission
+		# religion = atomicist
+		# num_of_holy_sites = 3
+		# piety = 500
+		# wealth = 250
+	# }
+	
+	# caliphate = yes
+	
+	# short_name = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = atomicist
+	
+	# religion = atomicist
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_midewiwin_reformed = {
+	# color={ 217 153 61 }
+	# color2={ 220 220 0 }
+	
+	# capital = 290 # Manitoulin
+	
+	# title = "GREAT_MIDEWININI"
+	# title_female = "GREAT_MIDEWIKWE"
+	# foa = "POPE_FOA"
+	
+	# creation_requires_capital = no
+	
+	# short_name = yes
+	
+	# #Always exists
+	# landless = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = midewiwin_reformed
+	
+	# religion = midewiwin_reformed
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_raven_tales_reformed = {
+	# color={ 179 0 0 }
+	# color2={ 220 220 0 }
+	
+	# capital = 548 # Vancouver
+	
+	# title = "GREAT_LABLEED"
+	# title_female = "GREAT_LABLEED"
+	# foa = "POPE_FOA"
+	
+	# creation_requires_capital = no
+	
+	# short_name = yes
+	
+	# #Always exists
+	# landless = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = raven_tales_reformed
+	
+	# religion = raven_tales_reformed
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# k_house_of_tradition= {
+	# color={ 0 140 0 }
+	# color2={ 0 200 0 }
+	
+	# capital = 3 #Manhattan
+	# dignity = 1000 # Counted as having this many more counties than it does
+
+	# title = "MUFTI"
+	# title_female = "MUFTI"
+	# foa = "MUFTI_FOA"
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = traditionalist
+	
+	# religion = traditionalist
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+
+	# assimilate = no # Nothing drifts in or out
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_imamite = {
+	# color={ 0 140 0 }
+	# color2={ 0 220 0 }
+
+	# creation_requires_capital = no
+	
+	# capital = 2014 #Anaheim
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# title = "IMAM"
+	# title_female = "SAYYIDA"
+	# foa = "CALIPH_FOA"
+
+	# short_name = yes
+	
+	# religion = imamite
+	
+	# # Controls a religion
+	# controls_religion = imamite
+	
+	# allow = {
+		# OR = {
+			# trait = sayyid2
+			# wealth = 1000
+		# }
+	# }
+
+	# caliphate = yes	
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc. (lol)
+# }
+
+# d_orientalist = {
+	# color={ 0 140 140 }
+	# color2={ 0 220 140 }
+	
+	# capital = 1093 # Tampa
+	# dignity = 100 # Counted as having this many more counties than it does
+
+	# title = "GRAND_SULTAN"
+	# title_female = "GRAND_SULTANA"
+	# foa = "GRAND_SULTAN_FOA"
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = orientalist
+	
+	# religion = orientalist
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+
+	# assimilate = no # Nothing drifts in or out
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_revivalist = {
+	# color={ 0 0 0 }
+	# color2={ 140 140 140 }
+
+	# creation_requires_capital = no
+	
+	# capital = 601 #Bermuda
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# title = "CALIPH"
+	# title_female = "CALIPHA"
+	# foa = "CALIPH_FOA"
+
+	# short_name = yes
+	
+	# religion = revivalist
+	
+	# # Controls a religion
+	# controls_religion = revivalist
+	
+	# allow = {
+		# religion = revivalist
+		# OR = {
+			# wealth = 500
+		# }
+		# NOT = { has_global_flag = revivalist_uprising_occuring }
+	# }
+
+	# caliphate = yes	
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc. (lol)
+# }
+
+# d_alawiyya = {
+	# color={ 0 140 0 }
+	# color2={ 0 220 0 }
+		
+	# creation_requires_capital = no
+	
+	# capital = 2014 #Anaheim
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# title = "IMAM"
+	# title_female = "IMAM"
+	# foa = "CALIPH_FOA"
+
+	# short_name = yes
+	
+	# religion = alawiyya
+	
+	# # Controls a religion
+	# controls_religion = alawiyya
+	
+	# allow = {
+		# OR = {
+			# trait = sayyid2
+			# wealth = 1000
+		# }
+	# }
+
+	# caliphate = yes	
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc. (lol)
+# }
+
+# d_misrist = {
+	# color={ 120 0 120 }
+	# color2={ 212 175 55 }
+
+	# creation_requires_capital = no
+	
+	# capital = 1055 #Cairo
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# title = "BABA"
+	# title_female = "MAMA"
+	# foa = "POPE_FOA"
+
+	# short_name = yes
+	
+	# religion = misrist
+	
+	# # Controls a religion
+	# controls_religion = misrist
+	
+	# allow = {
+		# religion = misrist
+		# OR = {
+			# wealth = 500
+		# }
+	# }
+
+	# caliphate = yes	
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc. (lol)
+# }
+
+# d_qingzhen = {
+	# color={ 0 168 107 }
+	# color2={ 168 107 0 }
+
+	# creation_requires_capital = no
+	
+	# capital = 2014 #Anaheim
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# title = "IMAM"
+	# title_female = "IMAM"
+	# foa = "CALIPH_FOA"
+
+	# short_name = yes
+	
+	# religion = qingzhen
+	
+	# # Controls a religion
+	# controls_religion = qingzhen
+	
+	# allow = {
+		# OR = {
+			# trait = sayyid2
+			# wealth = 750
+			# piety = 500
+		# }
+	# }
+
+	# caliphate = yes	
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc. (lol)
+# }
+
+# d_aphite = { #the Atomic Priesthood
+	# color = { 255 191 51 }
+	# color2= { 225 255 255 }
+	
+	# capital = 423 #Los Alamos
+	# creation_requires_capital = no
+	
+	# title = "HIGH_PRIEST"
+	# title_female = "HIGH_PRIESTESS"
+	# foa = "IPSISSIMUS_FOA"
+	
+	# short_name = yes
+	# location_ruler_title = yes
+	
+	# religion = aphite
+	
+	# primary = yes
+	
+	# controls_religion = aphite
+	
+	# landless = yes
+	
+	# allow = {
+		# always = no
+	# }
+	
+	# dynasty_title_names = no
+# }
+
+# d_nousthreskeia = {
+	# color={ 204 229 255 }
+	# color2={ 255 255 255 }
+
+	# creation_requires_capital = no
+	
+	# capital = 833 #Juneau
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# title = "GUBYERNATOR"
+	# foa = "POPE_FOA"
+
+	# short_name = yes
+	
+	# religion = nousthreskeia
+	
+	# # Controls a religion
+	# controls_religion = nousthreskeia
+	
+	# allow = {
+		# religion = nousthreskeia
+		# OR = {
+			# wealth = 1000
+		# }
+	# }	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc. (lol)
+# }
+# k_sagrado_corazon = {
+	# color={ 240 40 40 }
+	# color2={ 255 255 255 }
+	
+	# capital = 1767 #Mexico City
+	
+	# title = "ARCHBISHOP"
+	# title_female = "ARCHBISHOP"
+	# foa = "ECUMENICAL_PATRIARCH_FOA"
+	# title_prefix = "ARCHDIOCESE_OF"
+
+	# short_name = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = sacred_heart
+	
+	# religion = sacred_heart
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+
+	# assimilate = no
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_qabantajik = {
+	# color = { 51 128 51 }
+	
+	# capital = 1810 # c_sian_kaan 
+	
+	# title = "HEAD_NOHOCH_TATA"
+	# foa = "POPE_FOA"
+	
+	# short_name = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = qabantajik
+	
+	# religion = qabantajik
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_sol_invicta = {
+	# color={ 230 153 0 }
+	# color2={ 220 220 0 }
+	
+	# capital = 1754 # c_patzcuaro
+	
+	# title = "TATA"
+	# title_female = "NANDI"
+	# foa = "POPE_FOA"
+	
+	# creation_requires_capital = no
+	
+	# allow = {
+		# religion = sol_invicta
+		# num_of_holy_sites = 3
+		# piety = 500
+		# wealth = 250
+	# }
+	
+	# caliphate = yes
+	
+	# short_name = yes
+	
+	# dignity = 100 # Counted as having this many more counties than it does
+	
+	# # Controls a religion
+	# controls_religion = sol_invicta
+	
+	# religion = sol_invicta
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+# d_mictlantec = {
+	# color = { 204 204 204 }
+	
+	# capital = 1767 # c_mexico 
+	
+	# title = "MICTLANTECUHTLI_TLAMACAZQUI"
+	# foa = "POPE_FOA"
+	
+	# short_name = yes
+	
+	# # Always exists
+	# landless = yes
+	
+	# # Controls a religion
+	# controls_religion = mictlantec
+	
+	# religion = mictlantec
+	
+	# # Cannot be held as a secondary title
+	# primary = yes
+	
+	# dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+# }
+
+k_silica = { #DO NOT EAT
+	color = { 0.7 0.7 0.62 }
+	color2={ 255 255 255 }
+	
+	capital = 28 #Santa Clara
+	culture = sanjo
+	
+	# Cannot be vassalized
+	independent = yes
+
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	controls_religion = siliconist
+	
+	religion = siliconist
+		
+	allow = {
+		ai=no
+		religion = siliconist
+		num_of_holy_sites = 3
+		piety = 1000
+		OR={
+			num_of_holy_sites = 5
+			wealth = 1000
+		}
+		
+	}
+	caliphate = yes
+	
+	can_be_claimed = no
+	can_be_usurped = no
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+}

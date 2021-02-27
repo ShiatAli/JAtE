@@ -40,36 +40,3 @@ e_celestial_harmony = {
 	can_be_usurped = no
 	
 }
-################ RELIGIOUS HEAD #####################
-k_state_of_silica = { #DO NOT EAT
-	color = { 0.7 0.7 0.62 }
-	color2={ 255 255 255 }
-	
-	capital = 28 #Santa Clara
-	culture = sanjo
-	
-	# Cannot be vassalized
-	independent = yes
-
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	controls_religion = siliconist
-	
-	religion = siliconist
-		
-	allow = {
-		ai=no
-		religion = siliconist
-		num_of_holy_sites = 3
-		piety = 500
-		wealth = 250
-	}
-	
-	caliphate = yes
-	
-	can_be_claimed = no
-	can_be_usurped = no
-	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
-	
-}
