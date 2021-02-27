@@ -13,6 +13,28 @@
 #214xx-217xx - The Abbas Dynasty
 #218xx - The Mojave
 
+2 ={ #ZAK
+	name="Zakariyya"
+	dynasty=2030000
+	martial=10
+	diplomacy=9
+	stewardship=12
+	intrigue=4
+	learning=12
+	culture=anjalusi
+	religion=imamite
+	occluded=yes
+	trait=strong
+	trait=fair
+	trait=ambitious
+	trait=diligent
+	trait=patient
+	trait=brilliant_strategist
+	trait=sayyid
+	disallow_random_traits=yes
+	2000.11.21={birth=yes}
+	2100.11.21={death=yes}
+}
 
 20001 ={ #Ragnar the Runner
 	name="Ragnar"

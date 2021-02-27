@@ -5,5 +5,5 @@
 	capital = 367 #Seattle
 	allow = { is_republic = yes }
 	culture = cascadian
-	holder = 2
+	holder = 8002
 }

@@ -6,3 +6,7 @@
 1990.1.1={
 	liege=k_south_socal
 }
+
+2030.1.1={
+	holder=2
+}

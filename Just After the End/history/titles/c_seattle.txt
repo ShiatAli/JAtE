@@ -7,6 +7,6 @@
 	liege=k_the_puget
 }
 2055.1.1={
-	holder=2
+	holder=8002
 	capital=b_cap_hill
 }

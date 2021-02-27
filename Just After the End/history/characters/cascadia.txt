@@ -1,4 +1,13 @@
-2 = {
+
+
+##8xxx Washington
+##80xx - 2055 Start
+##81xx-83xx The Puget
+##84xx-85xx Olympia
+##86xx Willapa
+##87xx-89xx Misc
+
+8002 = {
 	name=Lilith
 	dynasty=3000000
 	culture=cascadian
@@ -17,7 +26,7 @@
 	2100.1.1={death=yes}
 }
 
-3 = {
+8003 = {
 	name=Anne
 	dynasty=3000001
 	culture=cascadian
@@ -37,7 +46,7 @@
 	2100.1.1={death=yes}
 }
 
-4 = {
+8004 = {
 	name=Ian
 	dynasty=3000002
 	culture=cascadian
@@ -55,7 +64,7 @@
 	2100.1.1={death=yes}
 }
 
-5 = {
+8005 = {
 	name=Ivar
 	dynasty=3000003
 	culture=vestmenn
@@ -75,7 +84,7 @@
 	2100.1.1={death=yes}
 }
 
-6 = {
+8006 = {
 	name=Arwen
 	female=yes
 	dynasty=3000004
@@ -94,13 +103,6 @@
 	2017.3.29={birth=yes}
 	2100.1.1={death=yes}
 }
-
-##8xxx Washington
-##80xx - 2055 Start
-##81xx-83xx The Puget
-##84xx-85xx Olympia
-##86xx Willapa
-##87xx-89xx Misc
 
 8007 = {
 	name="Hans"
