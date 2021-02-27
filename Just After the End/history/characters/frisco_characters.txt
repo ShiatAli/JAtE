@@ -10,7 +10,7 @@
 	name="Silic"
 	dynasty=1849096 #Areus
 	culture=bayfolk
-	religion=cetic  #placeholder
+	religion=romano-humanism
 	diplomacy=4
 	martial=8
 	stewardship=7
@@ -31,7 +31,7 @@
 	name="Dalton"
 	dynasty=1849096 #Areus
 	culture=bayfolk
-	religion=cetic  #placeholder
+	religion=romano-humanism
 	diplomacy=6
 	martial=11
 	stewardship=6
@@ -60,7 +60,7 @@
 	name="Brutus"
 	dynasty=1849096 #Areus
 	culture=bayfolk
-	religion=cetic  #placeholder
+	religion=romano-humanism 
 	diplomacy=6
 	martial=7
 	stewardship=6
@@ -192,8 +192,8 @@
 	name="Deidre"
 	dynasty=1849093
 	culture=bayfolk
-	female=yes #placeholder
-	religion=cetic  
+	female=yes
+	religion=romano-humanism
 	diplomacy=9
 	martial=4
 	stewardship=6
@@ -203,16 +203,30 @@
 	2012.12.21={birth=yes}
 	2072.1.1={death=yes}
 }
-
+37051={ #San_Rafael minor
+	name="Tom"
+	culture=bayfolk
+	religion=romano-humanism
+	2030.1.3={birth=yes}
+	2068.1.1={death=yes}
+}
+37052={ #Novato minor
+	name="Daniel"
+	culture=bayfolk
+	religion=reform
+	2035.1.3={birth=yes}
+	2068.1.1={death=yes}
+}
 #Sanjo
 
 37100={ #Oswaldo Moraga - Sanjo
 	name="Oswaldo"
-	dynasty=1818043 #
-	culture=bayfolk #placeholder
-	religion=cetic
+	dynasty=1818043
+	culture=sanjo
+	religion=siliconist
 	martial=7
 	intrigue=5
+	stewardship=8
 	trait=tough_soldier
 	trait=giant
 	trait=craven
@@ -220,13 +234,94 @@
 	2068.1.1={death=yes}
 }
 
+37101={ #Mountain_view minor
+	name="Agile"
+	culture=sanjo
+	religion=siliconist
+	martial=5
+	trait=skilled_tactician
+	trait=craven
+	2035.1.2={birth=yes}
+	2068.1.1={death=yes}
+}
+37102={ #Fremont minor
+	name="Big-O"
+	culture=sanjo
+	religion=siliconist
+	martial=5
+	stewardship=8
+	trait=fortune_builder
+	2037.1.3={birth=yes}
+	2068.1.1={death=yes}
+}
+37103={ #Oakland minor
+	name="Perceptron"
+	culture=sanjo
+	religion=siliconist
+	martial=5
+	learning=9
+	trait=mastermind_theologian
+	2024.1.3={birth=yes}
+	2068.1.1={death=yes}
+}
+
+#Contra Costa
+
+37120={ #Walnut Creek
+	name="Fengshui"
+	dynasty=3000010 #
+	culture=eastshore
+	religion=three_paths
+	martial=5
+	2014.1.3={birth=yes}
+	2045.1.1={
+		effect = {
+			c_walnut_creek = { ROOT = { capital = PREV } }
+		}
+	}
+	2062.1.1={death=yes}
+}
+37121={ #Walnut Creek
+	name="Azalea" #Flower
+	dynasty=3000010
+	female=yes
+	culture=eastshore
+	religion=zenist
+	trait=zealous
+	martial=5
+	father=37120
+	2043.1.3={birth=yes}
+	2069.1.1={death=yes}
+}
+37131={ #Berkeley
+	name="Charles"
+	dynasty=1849083 #Wang
+	culture=eastshore
+	religion=three_paths
+	trait=zealous
+	trait=scholar
+	martial=6
+	learning=7
+	2024.1.3={birth=yes}
+	2078.1.1={death=yes}
+}
+37132={ #Richmond
+	name="Han"
+	dynasty=1913013 #Ma
+	culture=eastshore
+	religion=three_paths
+	trait=zealous
+	martial=6
+	2024.1.3={birth=yes}
+	2078.1.1={death=yes}
+}
 #Wineland
 
 37200={ #William Altermira - Wineland
 	name="William"
 	dynasty=3000005
 	culture=winelander 
-	religion=cetic #placeholder
+	religion=sedevacantist #placeholder
 	diplomacy=9
 	trait=hedonist
 	trait=drunkard
@@ -239,7 +334,7 @@
 	name="Mariano"
 	dynasty=3000005
 	culture=winelander
-	religion=cetic
+	religion=sedevacantist
 	martial=5
 	intrigue=5
 	trait=charismatic_negotiator
@@ -250,7 +345,7 @@
 37210={ #Maria Vallejo - dad
 	name="Alexis"
 	dynasty=1851057 #Vallejo
-	culture=winelander
+	culture=sedevacantist
 	religion=cetic  
 	diplomacy=9
 	trait=content
@@ -261,7 +356,7 @@
 37211={ #Maria Vallejo
 	name="Maria"
 	dynasty=1851057 #Vallejo
-	culture=winelander
+	culture=sedevacantist
 	female=yes
 	religion=cetic  
 	diplomacy=9
@@ -271,4 +366,24 @@
 	father=37210
 	2045.1.1={birth=yes}
 	2072.1.1={death=yes}
+}
+37231={ #Rio_Vista
+	name="Long"
+	dynasty=1849084 #Chang
+	culture=eastshore
+	religion=three_paths
+	trait=zealous
+	martial=6
+	2027.1.3={birth=yes}
+	2078.1.1={death=yes}
+}
+37232={ #Vallejo
+	name="Hu"
+	dynasty=1519034 #Chao
+	culture=eastshore
+	religion=three_paths
+	trait=zealous
+	martial=6
+	2027.1.3={birth=yes}
+	2078.1.1={death=yes}
 }

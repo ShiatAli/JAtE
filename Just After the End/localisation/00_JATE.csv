@@ -77,15 +77,13 @@ canyonlander;Canyonlander;;;;;;;;;;;;;x
 provo;Provo;;;;;;;;;;;;;x
 salter;Salter;;;;;;;;;;;;;x
 
-#Prairelander Cultures
-montanan;Montanan;;;;;;;;;;;;;x
-
 #Divider Cultures
 divider;Divider;;;;;;;;;;;;;x
 ranger;Ranger;;;;;;;;;;;;;x
 wyomingite;Wyomingite;;;;;;;;;;;;;x
 plainsman;Plainsman;;;;;;;;;;;;;x
 bighorner;Bighorner;;;;;;;;;;;;;x
+montanan;Montanan;;;;;;;;;;;;;x
 
 #Native Cultures
 yakama;Yakama;;;;;;;;;;;;;x
@@ -96,6 +94,9 @@ shoshone;Shoshone;;;;;;;;;;;;;x
 ute;Ute;;;;;;;;;;;;;x
 selish;Selish;;;;;;;;;;;;;x
 skitswish;Skitswish;;;;;;;;;;;;;x
+
+#SoCal Cultures
+anjalusi;Anjalusi;;;;;;;;;;;;;x
 
 ###########Titular Titles###########
 d_pikeplace;Pikeplace;;;;;;;;;;;;;x
@@ -323,9 +324,9 @@ LAMP_OIL;lamp oil;;;;;;;;;;;;;x
 
 #Kuksu
 kuksu;Kuksu;;;;;;;;;;;;;x
-kuksu_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more.;;;;;;;;;;;;;x
+kuksu_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu, whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more.;;;;;;;;;;;;;x
 kuksu_reformed;Kuksu;;;;;;;;;;;;;x
-kuksu_reformed_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more. The Traditions of the Kuksu people have been codified into a series of sacred stories.;;;;;;;;;;;;;x
+kuksu_reformed_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu, whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more. The Traditions of the Kuksu people have been codified into a series of sacred stories.;;;;;;;;;;;;;x
 GOD_KUKSU;Kuksu;;;;;;;;;;;;;x
 GOD_KUNULA;Kunula;;;;;;;;;;;;;x
 GOD_CALNUS;Calnus;;;;;;;;;;;;;x
@@ -626,6 +627,40 @@ GOD_THE_MAN_IN_BLACK;The Man in Black;;;;;;;;;;;;;x
 POSSE_BOSS;Posse Boss;;;;;;;;;;;;;x
 THE_TRAIL_GUIDE;The Trail Guide;;;;;;;;;;;;;x
 GREAT_DRIVE;Great Drive;;;;;;;;;;;;;x
+
+#Interstater
+interstater;Interstater;;;;;;;;;;;;;x
+interstater_DESC;The Interstaters are the followers of the Guru Eisenhower, the builder of the great ancient interstates of old America. They believe that after traveling "through Darkest America with Tank and Truck" their Champion Eisenhower transcended through understanding of the fine methods that brought unity amongst all people. It is this desire that led him to build the American Interstates with the aid of The Fund, the Holy Paver, and See-meant. The Interstaters believe that the fall of old America was caused by the neglect of Eisenhower's work, for when the roads that brought unity amongst all Americans stopped working, they began to see each other as foreign, conspire against one another, and a confusion of tongues quickly followed. This Infrastructure Cult places and high religious importance on unity between all men, the breaking down of barriers that seperate them, and the reverence of those things that keep them together.;;;;;;;;;;;;;x
+interstater_reformed;Interstater;;;;;;;;;;;;;x
+interstater_reformed_DESC;The Interstaters are the followers of the Guru Eisenhower, the builder of the great ancient interstates of old America. They believe that after traveling "through Darkest America with Tank and Truck" their Champion Eisenhower transcended through understanding of the fine methods that brought unity amongst all people. It is this desire that led him to build the American Interstates with the aid of The Fund, the Holy Paver, and See-meant. The Interstaters believe that the fall of old America was caused by the neglect of Eisenhower's work, for when the roads that brought unity amongst all Americans stopped working, they began to see each other as foreign, conspire against one another, and a confusion of tongues quickly followed. This Infrastructure Cult places and high religious importance on unity between all men, the breaking down of barriers that seperate them, and the reverence of those things that keep them together. Their ways have been codified into a holy text.;;;;;;;;;;;;;x
+GOD_CHAMPION_EISENHOWER;Champion Eisenhower;;;;;;;;;;;;;x
+GOD_THE_AUTOMOTIVE_AMERICAN;The Automotive American;;;;;;;;;;;;;x
+GOD_THE_FREEMANS_WAY;The Freeman's Way;;;;;;;;;;;;;x
+GOD_THE_SPIRIT_OF_THE_EYE;The Spirit of the Eye;;;;;;;;;;;;;x
+GOD_THE_HOLY_PAVER;The Holy Paver;;;;;;;;;;;;;x
+GOD_SEE-MEANT;See-Meant;;;;;;;;;;;;;x
+GOD_THE_66;The 66;;;;;;;;;;;;;x
+GOD_THE_FUND;The Fund;;;;;;;;;;;;;x
+GOD_EROSION;Erosion;;;;;;;;;;;;;x
+GOD_THE_DISREPAIRER;The Disrepairer;;;;;;;;;;;;;x
+GREAT_PAVEMENT;Great Pavement;;;;;;;;;;;;;x
+THE_YELLOW_BOOK;The Yellow Book;;;;;;;;;;;;;x
+GRADE_CREWMAN;Grade Crewman;;;;;;;;;;;;;x
+
+#Romano-Humanism
+romano-humanism;Romano-Humanism;;;;;;;;;;;;;x
+romano-humanism_DESC;This is a meme tier skeleton I made based around a specific music artist I was listening to as I did the code. Hopefully ya boi Mr. More comes and does a real one. Good music btw. -Idaho;;;;;;;;;;;;;x
+GOD_THE_HOBO_MY_HERO;The Hobo My Hero;;;;;;;;;;;;;x
+GOD_WILD_BILL_JONES;Wild Bill Jones;;;;;;;;;;;;;x
+GOD_THE_JIPSY_VALENTINE;The Jipsy Valentine;;;;;;;;;;;;;x
+GOD_SPEEDY_ATKINS;Speedy Atkins;;;;;;;;;;;;;x
+GOD_ICHABOD;Ichabod;;;;;;;;;;;;;x
+GOD_THE_HOG-EYED_MAN;The Hog Eyed Man;;;;;;;;;;;;;x
+GOD_THE_BUZZARD_AND_THE_BELL;The Buzzard and The Bell;;;;;;;;;;;;;x
+GOD_THE_COUNTY_OF_GRAVES;The County of Graves;;;;;;;;;;;;;x
+RAMBLE;Ramble;;;;;;;;;;;;;x
+THE_DUMP_ROAD_YODEL;The Dump Road Yodel;;;;;;;;;;;;;x
+FIRE_DREAMER;Fire Dreamer;;;;;;;;;;;;;x
 
 ###########Title Names###########
 count_makah;Cha-batth;;;;;;;;;;;;;x

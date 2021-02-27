@@ -5292,6 +5292,8 @@ e_gran_francisco = {
 				color={ 255 5 5 }
 				color2={ 255 255 255 }
 				
+				holy_site = three_paths
+				holy_site = zenist
 				b_san_francisco = {
 				}
 				b_richmond_district = {
@@ -5548,6 +5550,9 @@ e_gran_francisco = {
 				color={ 158 67 222 }
 				color2={ 255 255 255 }
 				
+				holy_site = zenist
+				holy_site = siliconist
+				
 				b_berkeley = {
 				}
 				b_albany = {
@@ -5566,6 +5571,8 @@ e_gran_francisco = {
 			c_fremont = { # 24
 				color={ 123 131 246 }
 				color2={ 255 255 255 }
+				
+				holy_site = siliconist
 				
 				b_fremont = {
 				}
@@ -6212,7 +6219,7 @@ e_gran_francisco = {
 			c_san_jose = { # 26
 				color={ 63 172 148 }
 				color2={ 255 255 255 }
-				
+				holy_site = siliconist
 				b_san_jose = {
 				}
 				b_berryessa = {
@@ -6231,7 +6238,7 @@ e_gran_francisco = {
 			c_mountain_view = { # 27
 				color={ 18 207 165 }
 				color2={ 255 255 255 }
-				
+				holy_site = siliconist
 				b_mountain_view = {
 				}
 				b_hensley = {
@@ -6250,7 +6257,7 @@ e_gran_francisco = {
 			c_santa_clara = { # 28
 				color={ 80 219 188 }
 				color2={ 255 255 255 }
-				
+				holy_site = siliconist
 				b_santa_clara = {
 				}
 				b_los_gatos = {
@@ -17278,6 +17285,9 @@ e_sacramento = {
 			c_sacramento = { # 61
 				color={ 166 40 40 }
 				color2={ 255 255 255 }
+				
+				holy_site = three_paths
+				holy_site = zenist
 				
 				b_sacramento = {
 				}
