@@ -1,0 +1,34 @@
+##12xxx - Lincoln
+#120xx - Spokane
+#121xx - Columbia
+#122xx - Blue Mountains
+#123xx - Clearwater (West)
+#124xx - Clearwater (East)
+#125xx-129xx - Misc.
+
+##13xxx - Idaho
+#130xx - Highdesert
+#131xx - West Snake (North)
+#132xx - West Snake (Boise & Gem)
+#133xx - Northern Basin
+#134xx - East Snake
+#135xx - Silver Bow
+#136xx-139xx - Misc.
+
+#West Snake (North)
+
+13100 ={ #Noah bin Vali "The Wanderer"
+	name="Noah"
+	dynasty=2030036
+	culture=anjalusi 
+	religion=traditionalist
+	trait=mystic
+	trait=adventurer
+	trait=quick
+	trait=proud
+	trait=ambitious
+	trait=scholarly_theologian
+	give_nickname=nick_the_wanderer
+	2024.8.30={birth=yes}
+	2081.3.2={death=yes}
+}

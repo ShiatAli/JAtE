@@ -6,3 +6,7 @@
 1990.1.1={
 	liege=k_south_baja
 }
+
+2050.1.1={
+	holder=38300
+}

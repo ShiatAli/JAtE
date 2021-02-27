@@ -1,0 +1,60 @@
+## 38xxx - Baja
+#380xx-382xx - North Baja
+#383xx-384xx - South Baja
+
+##39xxx - Sonora
+#390xx - Altar
+#391xx - Sonora
+#392xx - Yaqui
+#393xx - Sinaloa
+#394xx - Mazatlan
+
+38300 ={ #a quixotic reference
+	name="Alonso"
+	dynasty=3000008
+	culture=californio
+	religion=navegante
+	martial=15
+	trait=misguided_warrior
+	trait=trickster
+	trait=lunatic
+	trait=brave
+	trait=ambitious
+	trait=stubborn
+	trait=ugly
+	trait=wroth
+	trait=trusting
+	trait=zealous
+	trait=chaste
+	trait=frail
+	2008.1.20={birth=yes}
+	2070.1.1={death=yes}
+}
+
+39300 ={ 
+	name="Edson"
+	dynasty=3000009
+	culture=sonorense
+	religion=misional
+	martial=20
+	trait=imbecile
+	trait=brave
+	trait=tough_soldier
+	trait=attractive 
+	trait=strong
+	trait=giant
+	trait=robust
+	trait=wroth
+	trait=brave
+	trait=gregarious
+	trait=unyielding_leader
+	trait=diligent
+	trait=charitable
+	trait=scarred_high
+	trait=duelist
+	trait=kind
+	trait=adventurer
+	2034.1.20={birth=yes}
+	2120.1.1={death=yes}
+}
+}

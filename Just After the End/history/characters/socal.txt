@@ -1,0 +1,54 @@
+##20xxx - North Socal
+#200xx - Los Padres & Santa Barbara
+#201xx - Ventura & Channel Islands
+#202xx - Antelope Valley, Santa Clara, Spring Valley
+#203xx - Los Angeles (2055 Start)
+#204xx - Los Angeles (Later)
+
+##21xxx - South Socal & Mojave
+#210xx - Anaheim & Orange
+#211xx - Riverside & Moreno Valley
+#212xx - Anza-Borrego, Inland, & Salton
+#213xx - Pendleton & San Diego
+#214xx-217xx - The Abbas Dynasty
+#218xx - The Mojave
+
+
+20001 ={ #Ragnar the Runner
+	name="Ragnar"
+	dynasty=3000006
+	culture=angeleno #placeholder 
+	religion=norse_pagan
+	trait=skilled_tactician
+	trait=inspiring_leader 
+	trait=strong
+	trait=robust
+	trait=proud
+	trait=gregarious
+	trait=brave
+	trait=ambitious 
+	trait=zealous
+	trait=beserker
+	trait=stubborn
+	give_nickname=nick_the_runner
+	2011.6.5={birth=yes}
+	2067.1.1={death=yes}
+}
+
+20002 ={ #Shawn Roday
+	name="Shawn"
+	dynasty=3000007
+	culture=angeleno #placeholder
+	religion=sedevacantist
+	trait=slothful
+	trait=deciteful
+	trait=quick
+	trait=underhanded_rogue
+	trait=proud
+	trait=content
+	trait=greedy
+	trait=groomed
+	trait=gregarious
+	2026.4.4={birth=yes}
+	2080.9.2={death=yes}
+}

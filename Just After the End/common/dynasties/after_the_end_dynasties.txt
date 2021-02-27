@@ -10910,11 +10910,11 @@ coat_of_arms = {
 1849093 = { name="Hearst" culture=bayfolk }
 1849094 = { name="Williams" culture=bayfolk }
 1849095 = { name="Zhu" culture=bayfolk }
-1849096 = { name="Areus" culture=bayfolk }
+1849096 = { name="Aureus" culture=bayfolk }
 1849097 = { name="Shields" culture=bayfolk }
 1849098 = { name="Davis" culture=bayfolk }
 1849099 = { name="Usmani" culture=bayfolk }
-
+1849100 = { name="Soprano" culture=bayfolk }
 
 1850000 = { name="Bogart" culture=angeleno }
 1850001 = { name="Hepburn" culture=angeleno }
@@ -15325,6 +15325,7 @@ coat_of_arms = {
 2030033 = { name="al-Jadid" culture=anjalusi }
 2030034 = { name="Abdulfattah" culture=anjalusi }
 2030035 = { name="Ayyubi" culture=anjalusi }
+2030036 = { name="bin Vali" culture=anjalusi }
 
 2031000 = { name="Ababwa" culture=neomoor
 	coat_of_arms = {

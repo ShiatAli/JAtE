@@ -627,6 +627,10 @@ POSSE_BOSS;Posse Boss;;;;;;;;;;;;;x
 THE_TRAIL_GUIDE;The Trail Guide;;;;;;;;;;;;;x
 GREAT_DRIVE;Great Drive;;;;;;;;;;;;;x
 
-###TITLE NAMES
+###########Title Names###########
 count_makah;Cha-batth;;;;;;;;;;;;;x
 duke_makah;A'aho Cha-batth;;;;;;;;;;;;;x
+
+###########Nicknames###########
+nick_the_wanderer;the Wanderer;;;;;;;;;;;;;x
+nick_the_runner;the Runner;;;;;;;;;;;;;x

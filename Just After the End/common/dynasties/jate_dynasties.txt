@@ -524,6 +524,8 @@
 2045063 = { name="Ghormley" culture=emeraldian }
 2045064 = { name="Ray" culture=emeraldian }
 2045065 = { name="Fry" culture=emeraldian }
+2045066 = { name="Ditty" culture=emeraldian }
+2056067 = { name="Stamper" culture=emeraldian }
 
 ##Makah
 2046001	 = { name="Cobollie" culture=makah}
@@ -553,6 +555,18 @@
 2046025	 = { name="Wiitsahwilhim" culture=makah}
 2046026	 = { name="Harshlah" culture=makah}
 
+#Vestmenn
+2049000 = { name="Bergman" culture=vestmenn}
+
+#Backcountry & Leavenworther
+2051001 = { name="Heinz" culture=leavenworther}
+
+#Portlandian
+2053000 = { name="Addo" culture=portlandian}
+2053001 = { name="Custer" culture=portlandian}
+2053002 = { name="Testa" culture=portlandian}
+2053003 = { name="Diamond" culture=portlandian}
+
 #Dynasties in Pike place
 3000000 = { name="Berry" culture=cascadian }
 3000001 = { name="Ito" culture=cascadian }
@@ -560,4 +574,9 @@
 3000003 = { name="Moran" culture=cascadian }
 3000004 = { name="Gatzert" culture=cascadian }
 
-#Dynasties in SoCal
+#Cali starting dynasties
+3000005 = { name="Altermira" culture=winelander }
+3000006 = { name="Amgen" culture=angeleno }
+3000007 = { name="Roday" culture=angeleno }
+3000008 = { name="de Leones" culture=californio }
+3000009 = { name="Fierro" culture=sonorense" }

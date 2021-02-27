@@ -106,8 +106,8 @@
 
 37200={ #William Altermira - Wineland
 	name="William"
-	#dynasty='Altermira' #Altermira - not in dynasty list
-	culture=bayfolk 
+	dynasty=3000005
+	culture=winelander 
 	religion=cetic #placeholder
 	diplomacy=9
 	trait=hedonist
@@ -119,8 +119,8 @@
 }
 37201={ #William Altermira - Wineland
 	name="Mariano"
-	dynasty="Altermira" #Altermira - not in dynasty list
-	culture=bayfolk #placeholder
+	dynasty=3000005
+	culture=winelander
 	religion=cetic
 	martial=5
 	intrigue=5
@@ -131,8 +131,8 @@
 }
 37210={ #Maria Vallejo - dad
 	name="Alexis"
-	dynasty=1851057 #Vallejo
-	culture=bayfolk #placeholder
+	dynasty=3000005
+	culture=winelander
 	religion=cetic  
 	diplomacy=9
 	trait=content
@@ -142,8 +142,8 @@
 }
 37211={ #Maria Vallejo
 	name="Maria"
-	dynasty=1851057 #Vallejo
-	culture=bayfolk #placeholder
+	dynasty=3000005
+	culture=winelander
 	female=yes
 	religion=cetic  
 	diplomacy=9

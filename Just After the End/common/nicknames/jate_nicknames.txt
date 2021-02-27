@@ -1,0 +1,2 @@
+nick_the_wanderer = {}
+nick_the_runner = {}

@@ -176,5 +176,53 @@
 # 2044 Meseteno
 # 2045 Emeraldian
 # 2046 Makah
+# 2047 Coast Salish
+# 2048 Olympite
+# 2049 Vestmenn
+# 2050 Skagitian
+# 2051 Backcountry
+# 2052 Willapan
+# 2053 Portlandian
+# 2054 Willametteian
+# 2055 Saltwater
+# 2056 Rogueite
+# 2057 Eastsloper
+# 2058 Gorgeon
+# 2059 Palouse
+# 2060 Tricitian
+# 2061 Bluemen
+# 2062 Juniperian
+# 2063 Boisean
+# 2064 Sawtooth
+# 2065 Snakemen
+# 2066 Panhandler
+# 2067 Montanan
+# 2068 Plainsman
+# 2069 Ranger
+# 2070 Bighorner
+# 2071 Wyomingite
+# 2072 Provo
+# 2073 Salter
+# 2074 Boxer
+# 2075 Longfifteener
+# 2076 Middleman
+# 2077 Canyonlander
+# 2078 Staircaser
+# 2079 Clarkard
+# 2080 Deathman
+# 2081 Monyo
+# 2082 Renolander
+# 2083 Blackrocker
+# 2084 Lonelyroader
+# 2085 North Paiute
+# 2086 Shoshone
+# 2087 Mono
+# 2088 Yakama
+# 2089 Skitswish
+# 2090 Selish
+# 2091 South Paiute
+# 2092 Kwakwakawakw
+# 2093 Nuuchahnulth
+# 2094 Islander
 
 # 3000 Special Dynasties (for event-generated characters)
