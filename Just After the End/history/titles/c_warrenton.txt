@@ -1,8 +1,13 @@
+
 # e_oregon
 1990.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 1990.1.1={
-	liege=k_portlandia
+	liege=k_saltcoast
+}
+
+2048.1.1={
+	holder=9300
 }

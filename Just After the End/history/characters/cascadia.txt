@@ -1,11 +1,18 @@
 
 
 ##8xxx Washington
-##80xx - 2055 Start
+##80xx - Pikeplace
 ##81xx-83xx The Puget
 ##84xx-85xx Olympia
 ##86xx Willapa
 ##87xx-89xx Misc
+
+##9xxx Oregon
+#90xx-92xx - Portlandia
+#93xx-94xx - Saltcoast
+#95xx - Salem
+#96xx - Douglas
+#97xx-99xx - Misc
 
 8002 = {
 	name=Lilith
@@ -58,7 +65,7 @@
 	learning=5
 	trait=fortune_builder
 	trait=lustful
-	trait=master_seducer
+	trait=seducer
 	trait=paranoid
 	2007.2.3={birth=yes}
 	2100.1.1={death=yes}
@@ -220,5 +227,34 @@
 	trait=homosexual
 	trait=scarred_mid
 	2027.1.1={birth=yes}
+	2090.1.1={death=yes}
+}
+
+#Olympia
+
+8400 = {
+	name = "Robert"
+	dynasty=2048000
+	culture=olympite
+	religion=wiccan
+	trait=elusive_shadow
+	trait=seducer
+	trait=lustful
+	2035.1.1={birth=yes}
+	2087.1.1={death=yes}
+}
+
+##Oregon
+
+#Saltcoast
+
+9300  = {
+	name = "Chester"
+	dynasty=2055000
+	culture=saltwater
+	religion=freighter
+	trait=brave
+	trait=adventurer
+	2020.1.1={birth=yes}
 	2090.1.1={death=yes}
 }

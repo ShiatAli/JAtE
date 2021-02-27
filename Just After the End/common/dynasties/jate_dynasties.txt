@@ -555,6 +555,9 @@
 2046025	 = { name="Wiitsahwilhim" culture=makah}
 2046026	 = { name="Harshlah" culture=makah}
 
+#Olympite
+2048000 = { name="Cullen" culture=olympite}
+
 #Vestmenn
 2049000 = { name="Bergman" culture=vestmenn}
 
@@ -566,6 +569,9 @@
 2053001 = { name="Custer" culture=portlandian}
 2053002 = { name="Testa" culture=portlandian}
 2053003 = { name="Diamond" culture=portlandian}
+
+#Saltwater
+2055000 = { name="Copperpot" culture=saltwater}
 
 #Dynasties in Pike place
 3000000 = { name="Berry" culture=cascadian }
