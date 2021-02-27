@@ -47,11 +47,14 @@
 	trait=ambitious
 	father=37000
 	mother=37020
-	2041.12.21={birth=yes}
+	2043.12.21={birth=yes}
 	2059.1.1={
 		add_trait=midas_touched
 	}
-	2070.2.14={death=yes}
+	2078.2.14={death={
+			death_reason=death_murder_unknown #Murdered.
+		}
+	}
 }
 37002={ #Brutus Areus
 	name="Brutus"
@@ -63,14 +66,128 @@
 	stewardship=6
 	intrigue=6
 	learning=5
+	trait=patient
 	father=37001
-	2065.10.31={birth=yes}
-	2082.1.1={
-		add_trait=midas_touched
+	2070.10.31={birth=yes}
+	2086.1.1={
+		add_trait=grey_eminence
 	}
-	2132.1.1={death=yes}
+	2130.1.5={death={
+			death_reason=death_murder_unknown #Murdered.
+		}
+	}
 }
-
+37003={
+	name="Cassius"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=pagan
+	father=37002
+	trait=shrewd
+	trait=ambitious 
+	trait=skilled_tactician
+	occluded=yes
+	disallow_random_traits=yes
+	2099.1.1={birth=yes}
+	#2160.1.10={death={
+	#		death_reason=death_execution_beheading
+	#		killer= 2500070 #King Joshua of Jefferson 
+	#	}
+	#}
+	2160.1.10={death=yes}
+}
+37004={
+	name="James"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=sedevacantist
+	father=37003
+	trait=shrewd
+	trait=strong
+	trait=skilled_tactician
+	2130.1.15={birth=yes}
+	2200.1.15={death={
+			death_reason=death_murder_unknown #Murdered.
+		}
+	}
+}
+37005={
+	name="Jason"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=sedevacantist
+	father=37004
+	trait=wroth
+	trait=slothful
+	trait=quick
+	trait=lustful
+	trait=bisexual
+	trait=detached_priest
+	disallow_random_traits=yes
+	2170.1.20={birth=yes}
+	2240.1.20={death=yes}
+}
+37006={
+	name="Kevin"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=sedevacantist
+	father=37005
+	trait=slow
+	trait=proud
+	trait=content
+	trait=tough_soldier
+	2200.1.25={birth=yes}
+	2280.1.25={death=yes}
+}
+37007={
+	name="Albert"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=sedevacantist
+	father=37006
+	trait=shrewd
+	trait=slothful
+	trait=content
+	trait=indulgent_wastrel
+	2240.1.30={birth=yes}
+	2320.1.30={death=yes}
+}
+37008={
+	name="Bruce"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=sedevacantist
+	father=37007
+	trait=shrewd
+	trait=zealous
+	trait=cruel
+	trait=wroth
+	trait=martial_cleric
+	2300.2.5={birth=yes}
+	2380.2.5={death=yes}
+}
+37009={
+	name="Mervyn"
+	dynasty=1849096# Areus
+	culture=bayfolk
+	religion=sedevacantist
+	father=37008
+	trait=impaler
+	trait=cruel
+	trait=wroth
+	trait=envious
+	trait=proud
+	trait=drunkard
+	trait=elusive_shadow
+	2370.2.10={birth=yes}
+	#2410.2.10={death={
+	#		death_reason=death_execution_wine #Murdered.
+	#		killer=1910100
+	#	}
+	#}
+	2410.2.10={death=yes}
+}
 37020={ #Deidre Areus. Mom of Dalton
 	name="Deidre"
 	dynasty=1849093
@@ -89,7 +206,7 @@
 
 #Sanjo
 
-37100={ #Oswaldo Moraga - Sanjo?
+37100={ #Oswaldo Moraga - Sanjo
 	name="Oswaldo"
 	dynasty=1818043 #
 	culture=bayfolk #placeholder
@@ -98,7 +215,8 @@
 	intrigue=5
 	trait=tough_soldier
 	trait=giant
-	2022.2.22={birth=yes}
+	trait=craven
+	2032.2.23={birth=yes}
 	2068.1.1={death=yes}
 }
 
@@ -117,7 +235,7 @@
 	2030.12.21={birth=yes}
 	2067.1.1={death=yes}
 }
-37201={ #William Altermira - Wineland
+37201={ #Mariano Altermira - Wineland
 	name="Mariano"
 	dynasty=3000005
 	culture=winelander
@@ -131,18 +249,18 @@
 }
 37210={ #Maria Vallejo - dad
 	name="Alexis"
-	dynasty=3000005
+	dynasty=1851057 #Vallejo
 	culture=winelander
 	religion=cetic  
 	diplomacy=9
 	trait=content
 	trait=fair
-	2021.1.1={birth=yes}
+	2023.1.1={birth=yes}
 	2072.1.1={death=yes}
 }
 37211={ #Maria Vallejo
 	name="Maria"
-	dynasty=3000005
+	dynasty=1851057 #Vallejo
 	culture=winelander
 	female=yes
 	religion=cetic  
