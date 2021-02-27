@@ -192,8 +192,8 @@
 	name="Deidre"
 	dynasty=1849093
 	culture=bayfolk
-	female=yes #placeholder
-	religion=cetic  
+	female=yes
+	religion=cetic #placeholder
 	diplomacy=9
 	martial=4
 	stewardship=6
@@ -203,21 +203,69 @@
 	2012.12.21={birth=yes}
 	2072.1.1={death=yes}
 }
-
+37051={ #San_Rafael minor
+	name="Tom"
+	culture=bayfolk
+	religion=cetic #placeholder
+	2030.1.3={birth=yes}
+	2081.1.1={death=yes}
+}
+37052={ #Novato minor
+	name="Daniel"
+	culture=bayfolk
+	religion=cetic #placeholder
+	2035.1.3={birth=yes}
+	2081.1.1={death=yes}
+}
 #Sanjo
 
 37100={ #Oswaldo Moraga - Sanjo
 	name="Oswaldo"
 	dynasty=1818043 #
-	culture=bayfolk #placeholder
-	religion=cetic
+	culture=sanjo
+	religion=siliconist
 	martial=7
 	intrigue=5
+	stewardship=8
 	trait=tough_soldier
 	trait=giant
 	trait=craven
 	2032.2.23={birth=yes}
 	2068.1.1={death=yes}
+}
+
+37101={ #Mountain_view minor
+	name="Agile"
+	dynasty=1818040
+	culture=sanjo
+	religion=siliconist
+	martial=5
+	trait=skilled_tactician
+	trait=craven
+	2035.1.2={birth=yes}
+	2078.1.1={death=yes}
+}
+37102={ #Fremont minor
+	name="Big-O"
+	dynasty=1818041 #
+	culture=sanjo
+	religion=siliconist
+	martial=5
+	stewardship=8
+	trait=fortune_builder
+	2037.1.3={birth=yes}
+	2081.1.1={death=yes}
+}
+37103={ #Oakland minor
+	name="Perceptron"
+	dynasty=1818039 #
+	culture=sanjo
+	religion=siliconist
+	martial=5
+	learning=9
+	trait=mastermind_theologian
+	2024.1.3={birth=yes}
+	2081.1.1={death=yes}
 }
 
 #Wineland
