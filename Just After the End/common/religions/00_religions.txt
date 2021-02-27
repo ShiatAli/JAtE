@@ -5205,6 +5205,47 @@ high_cults = {
 		
 		intermarry = qabantajik
 	}
+
+	romano-humanism = {
+		graphical_culture = hellenicgfx
+		
+		icon = 107
+		heresy_icon = 108
+		
+		color = { 151 35 159 }
+		
+		interface_skin = { americanist_interface oldworld_interface }
+
+		high_god_name = GOD_THE_HOBO_MY_HERO
+		
+		god_names = { 
+			GOD_WILD_BILL_JONES GOD_THE_JIPSY_VALENTINE GOD_SPEEDY_ATKINS GOD_ICHABOD GOD_THE_COUNTY_OF_GRAVES
+		}
+		evil_god_names = { 
+			GOD_THE_HOG-EYED_MAN GOD_THE_BUZZARD_AND_THE_BELL
+		}
+		
+		crusade_name = RAMBLE
+		scripture_name = THE_DUMP_ROAD_YODEL
+		priest_title = THE_FIRE_DREAMER
+
+		can_excommunicate = yes
+		can_grant_claim = yes
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		can_grant_invasion_cb = invasion
+		attacking_same_religion_piety_loss = yes
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 11
+		religious_clothing_priest = 11
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+	}
 }
 
 nautical = {
