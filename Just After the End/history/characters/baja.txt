@@ -1,13 +1,21 @@
-## 38xxx - Baja
-#380xx-382xx - North Baja
-#383xx-384xx - South Baja
-
-##39xxx - Sonora
-#390xx - Altar
-#391xx - Sonora
-#392xx - Yaqui
-#393xx - Sinaloa
-#394xx - Mazatlan
+#02xxxx   e baja
+	#021xxx   k north baja
+		#0211xx   d biosfera
+		#0212xx   d el rosario
+		#0213xx   d ensenada
+		#0214xx   d gran rosarito
+		#0215xx   d mexicali
+		#0216xx   d san felipe
+		#0217xx   d tijuana
+	#022xxx   k south baja
+		#0221xx   d comondu
+		#0222xx   d gran guadalupe
+		#0223xx   d gran paz
+		#0224xx   d kakigui
+		#0225xx   d loreto
+		#0226xx   d los cabos
+		#0227xx   d magdalena
+		#0228xx   d mulege
 
 38300 ={ #a quixotic reference
 	name="Alonso"
