@@ -2,9 +2,9 @@
 #370xx - Goldengate
 #371xx - East Bay
 #372xx - Wineland + The Lake
-#373xx - 
 #374xx - Salina (North)
 #375xx - Salina (South)
+#376xx - Santa Clara
 
 37000={ #Silic Areus, Dad of Dalton
 	name="Silic"
