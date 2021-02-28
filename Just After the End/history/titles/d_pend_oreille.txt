@@ -6,3 +6,8 @@
 1990.1.1={
 	liege=k_clearwater
 }
+
+
+2055.1.1={
+	holder=12300
+}

@@ -15,8 +15,46 @@
 #135xx - Silver Bow
 #136xx-139xx - Misc.
 
-#West Snake (North)
+#Spokane
+12000 = {# Clay Tokarev
+	name="Clay"
+	dynasty=2066001
+	culture=panhandler
+	religion=evangelical
+	trait=content
+	trait=just
+	trait=tough_soldier 
+	trait=honest
+	trait=shy
+	1994.3.8={birth=yes}
+	2060.1.1={death=yes}
+}
 
+#Clearwater (West)
+12300 ={ #Tanner Tannerite
+	name="Tanner"
+	give_nickname=nick_the_conqueror
+	dynasty=2066000
+	culture=panhandler
+	religion=dominionist
+	trait=ambitious
+	trait=brilliant_strategist
+	trait=one_eyed
+	trait=quick
+	trait=diligent
+	trait=theologian
+	trait=impaler 
+	trait=paranoid
+	trait=lefthanded
+	trait=cruel
+	trait=zealous
+	trait=holy_warrior
+	2027.2.27={birth=yes}
+	2090.1.1={death=yes}
+}
+
+
+#West Snake (North)
 13100 ={ #Noah bin Vali "The Wanderer"
 	name="Noah"
 	dynasty=2030036
