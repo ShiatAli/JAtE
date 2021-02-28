@@ -6,3 +6,7 @@
 1990.1.1={
 	liege=k_spokane
 }
+
+2055.1.1={
+	liege=d_lilac
+}

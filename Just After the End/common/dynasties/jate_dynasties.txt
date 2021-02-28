@@ -573,6 +573,10 @@
 #Saltwater
 2055000 = { name="Copperpot" culture=saltwater}
 
+#Panhandler
+2066000 = { name="Tannerite" culture=panhandler}
+2066001 = { name="Tokarev" culture=panhandler}
+
 #Dynasties in Pike place
 3000000 = { name="Berry" culture=cascadian }
 3000001 = { name="Ito" culture=cascadian }
