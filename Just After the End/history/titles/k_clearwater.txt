@@ -1,5 +1,10 @@
+
 # k_clearwater
 1990.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
+}
+
+2050.1.1={
+	holder=none
 }
