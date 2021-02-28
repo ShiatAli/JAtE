@@ -1,10 +1,17 @@
-## 37xxx - Gran Francisco
-#370xx - Goldengate
-#371xx - East Bay
-#372xx - Wineland + The Lake
-#374xx - Salina (North)
-#375xx - Salina (South)
-#376xx - Santa Clara
+#06xxxx   e gran francisco
+	#061xxx   k east bay
+		#0611xx   d alameda
+		#0612xx   d contra costa
+	#062xxx   k goldengate
+		#0621xx   d marin
+		#0622xx   d san francisco
+	#063xxx   k salinas
+	#064xxx   k santa clara
+	#065xxx   k the lake
+	#066xxx   k wineland 
+		#0661xx   d napa
+		#0662xx   d solano
+		#0663xx   d sonoma
 
 37000={ #Silic Areus, Dad of Dalton
 	name="Silic"
@@ -210,7 +217,7 @@
 	2030.1.3={birth=yes}
 	2068.1.1={death=yes}
 }
-37052={ #Novato minor
+062101={ #Novato minor
 	name="Daniel"
 	culture=bayfolk
 	religion=reform
@@ -267,7 +274,7 @@
 
 #Contra Costa
 
-37120={ #Walnut Creek
+061201={ #Walnut Creek
 	name="Fengshui"
 	dynasty=3000010 #
 	culture=eastshore
@@ -305,7 +312,8 @@
 	2024.1.3={birth=yes}
 	2078.1.1={death=yes}
 }
-37132={ #Richmond
+
+061201={ #Richmond
 	name="Han"
 	dynasty=1913013 #Ma
 	culture=eastshore
@@ -317,7 +325,7 @@
 }
 #Wineland
 
-37200={ #William Altermira - Wineland
+066302={ #William Altermira - Wineland
 	name="William"
 	dynasty=3000005
 	culture=winelander 
@@ -342,7 +350,7 @@
 	2052.7.28={birth=yes}
 	2091.1.1={death=yes}
 }
-37210={ #Maria Vallejo - dad
+066301={ #Maria Vallejo - dad
 	name="Alexis"
 	dynasty=1851057 #Vallejo
 	culture=sedevacantist
@@ -367,7 +375,7 @@
 	2045.1.1={birth=yes}
 	2072.1.1={death=yes}
 }
-37231={ #Rio_Vista
+066201={ #Rio_Vista
 	name="Long"
 	dynasty=1849084 #Chang
 	culture=eastshore
@@ -377,7 +385,7 @@
 	2027.1.3={birth=yes}
 	2078.1.1={death=yes}
 }
-37232={ #Vallejo
+066202={ #Vallejo
 	name="Hu"
 	dynasty=1519034 #Chao
 	culture=eastshore

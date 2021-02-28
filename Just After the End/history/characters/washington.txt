@@ -1,0 +1,198 @@
+#19xxxx   e washington
+	#191xxx    k olympia
+		#1911xx   d clallam
+		#1912xx   d grays harbor
+		#1913xx   d kitsap
+		#1914xx   d mason
+		#1915xx   d quinault
+		#1916xx   d thurston
+	#192xxx    k the puget
+		#1921xx   d eastside
+		#1922xx   d pierce
+		#1923xx   d posession
+		#1924xx   d seatac
+		#1925xx   d skykomish
+		#1926xx   d snoqualmie
+	#193xxx    k willapa
+
+#Duchess of Pikeplace, count of seattle and ballard
+192401 = {
+	name=Lilith
+	dynasty=3000000
+	culture=cascadian
+	female=yes
+	religion=gaian #silicon cult not in yet
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+
+8003 = {
+	name=Anne
+	dynasty=3000001
+	culture=cascadian
+	female=yes
+	religion=black_cross
+	martial=10
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=7
+	trait=tough_soldier
+	trait=wroth
+	trait=zealous
+	trait=envious
+	trait=paranoid
+	2031.10.8={birth=yes}
+	2100.1.1={death=yes}
+}
+
+8004 = {
+	name=Ian
+	dynasty=3000002
+	culture=cascadian
+	religion=gaian #Keshian not implemented
+	martial=5
+	diplomacy=5
+	stewardship=12
+	intrigue=5
+	learning=5
+	trait=fortune_builder
+	trait=lustful
+	trait=seducer
+	trait=paranoid
+	2007.2.3={birth=yes}
+	2100.1.1={death=yes}
+}
+
+8005 = {
+	name=Ivar
+	dynasty=3000003
+	culture=vestmenn
+	religion=gaian #freighter not implemented
+	martial=11
+	diplomacy=5
+	stewardship=12
+	intrigue=5
+	learning=5
+	trait=midas_touched
+	trait=ugly
+	trait=one_legged
+	trait=kind
+	trait=strong
+	trait=greedy
+	2033.12.3={birth=yes}
+	2100.1.1={death=yes}
+}
+
+8006 = {
+	name=Arwen
+	female=yes
+	dynasty=3000004
+	culture=cascadian
+	religion=reform
+	martial=6
+	diplomacy=14
+	stewardship=7
+	intrigue=8
+	learning=10
+	trait=charismatic_negotiator
+	trait=gluttonous
+	trait=fat
+	trait=just
+	trait=stubborn
+	2017.3.29={birth=yes}
+	2100.1.1={death=yes}
+}
+
+8007 = {
+	name="Hans"
+	dynasty=2051001
+	culture=leavenworther
+	religion=conservationist
+	trait=fortune_builder
+	trait=fat
+	trait=hunter
+	2021.8.5={birth=yes}
+	2102.5.6={death=yes}
+}
+
+#Duke of Eastside, count of Redmond and Bellevue
+192101 = {
+	name="Caden"
+	dynasty=2045066
+	culture=emeraldian
+	religion=siliconist
+	trait=ambitious
+	trait=scholar
+	trait=homosexual
+	trait=martial_cleric 
+	2018.3.21={birth=yes}
+	2080.5.5={death=yes}
+}
+
+#countess of poulsbo
+191301 = {
+	name="Alexandria"
+	dynasty=2049000
+	culture=vestmenn
+	female=yes
+	religion=norse_pagan
+	trait=skilled_tactician
+	trait=scarred_mid
+	trait=fair 
+	trait=giant
+	trait=robust
+	2035.7.1={birth=yes}
+	2105.11.20={death=yes}
+}
+
+#count of Everett
+192301 = {
+	name="Topliff"
+	dynasty=2056067
+	culture=emeraldian
+	religion=evangelical
+	trait=falconer
+	trait=quick
+	2022.3.18={birth=yes}
+	2070.1.20={death=yes}
+}
+
+#Olympia
+
+#Count of Sequim
+191101 = {
+	name = "Robert"
+	dynasty=2048000
+	culture=olympite
+	religion=wiccan
+	trait=elusive_shadow
+	trait=seducer
+	trait=lustful
+	2035.1.1={birth=yes}
+	2087.1.1={death=yes}
+}
+
+##Oregon
+
+#Saltcoast
+
+9300  = {
+	name = "Chester"
+	dynasty=2055000
+	culture=saltwater
+	religion=freighter
+	trait=brave
+	trait=adventurer
+	2020.1.1={birth=yes}
+	2090.1.1={death=yes}
+}

@@ -10,5 +10,5 @@
 2055.1.1={
 	liege=d_pikeplace
 	capital=b_fremont
-	holder=8005
+	holder=192401
 }

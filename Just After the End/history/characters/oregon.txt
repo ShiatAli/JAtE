@@ -1,37 +1,14 @@
+#14xxxx   e oregon
+	#141xxx   k douglas
+	#142xxx   k portlandia
+		#1421xx   d clackers
+		#1422xx   d columbia
+		#1423xx   d marmot
+		#1424xx   d multnomah
+		#1425xx   d tualatin
+	#143xxx   k salem
+	#144xxx   k saltcoast
 
-
-##8xxx Washington
-##80xx - Pikeplace
-##81xx-83xx The Puget
-##84xx-85xx Olympia
-##86xx Willapa
-##87xx-89xx Misc
-
-##9xxx Oregon
-#90xx-92xx - Portlandia
-#93xx-94xx - Saltcoast
-#95xx - Salem
-#96xx - Douglas
-#97xx-99xx - Misc
-
-8002 = {
-	name=Lilith
-	dynasty=3000000
-	culture=cascadian
-	female=yes
-	religion=gaian #silicon cult not in yet
-	martial=5
-	diplomacy=5
-	stewardship=8
-	intrigue=7
-	learning=10
-	trait=amatuerish_plotter
-	trait=cynical
-	trait=humble
-	trait=stressed
-	1992.6.18={birth=yes}
-	2100.1.1={death=yes}
-}
 
 8003 = {
 	name=Anne
@@ -123,46 +100,8 @@
 	2102.5.6={death=yes}
 }
 
-8008 = {
-	name="Caden"
-	dynasty=2045066
-	culture=emeraldian
-	religion=siliconist
-	trait=ambitious
-	trait=scholar
-	trait=homosexual
-	trait=martial_cleric 
-	2018.3.21={birth=yes}
-	2080.5.5={death=yes}
-}
-
-8009 = {
-	name="Alexandria"
-	dynasty=2049000
-	culture=vestmenn
-	female=yes
-	religion=norse_pagan
-	trait=skilled_tactician
-	trait=scarred_mid
-	trait=fair 
-	trait=giant
-	trait=robust
-	2035.7.1={birth=yes}
-	2105.11.20={death=yes}
-}
-	
-8010 = {
-	name="Topliff"
-	dynasty=2056067
-	culture=emeraldian
-	religion=evangelical
-	trait=falconer
-	trait=quick
-	2022.3.18={birth=yes}
-	2070.1.20={death=yes}
-}
-
-8011 = {
+#count of mt hood and towering village
+142301 = {
 	name="Gile"
 	dynasty=2053000
 	culture=portlandian
@@ -176,26 +115,8 @@
 	2085.1.1={death=yes}
 }
 
-8012 = {
-	name="Corn"
-	dynasty=2053001
-	culture=portlandian
-	religion=black_cross
-	trait=elusive_shadow
-	trait=lunatic
-	trait=depressed
-	trait=cruel
-	trait=ambitious
-	trait=shrewd
-	trait=schemer
-	trait=uncouth
-	trait=fair
-	trait=homosexual
-	2038.1.1={birth=yes}
-	2060.1.1={death=yes}
-}
-
-8013 = {
+#countess of Oregon City
+142101 = {
 	name="Moss"
 	dynasty=2053002
 	culture=portlandian
@@ -211,7 +132,8 @@
 	2080.1.1={death=yes}
 }
 
-8014 = {
+#duchess of Multnomah, countess of Portland
+142401 = {
 	name="Claire"
 	dynasty=2053003
 	culture=portlandian
@@ -230,21 +152,27 @@
 	2090.1.1={death=yes}
 }
 
-#Olympia
-
-8400 = {
-	name = "Robert"
-	dynasty=2048000
-	culture=olympite
-	religion=wiccan
+#count of forest park
+142402 = {
+	name="Corn"
+	dynasty=2053001
+	culture=portlandian
+	religion=black_cross
 	trait=elusive_shadow
-	trait=seducer
-	trait=lustful
-	2035.1.1={birth=yes}
-	2087.1.1={death=yes}
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
 }
 
-##Oregon
+
 
 #Saltcoast
 

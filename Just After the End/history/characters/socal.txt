@@ -1,17 +1,33 @@
-##20xxx - North Socal
-#200xx - Los Padres & Santa Barbara
-#201xx - Ventura & Channel Islands
-#202xx - Antelope Valley, Santa Clara, Spring Valley
-#203xx - Los Angeles (2055 Start)
-#204xx - Los Angeles (Later)
-
-##21xxx - South Socal & Mojave
-#210xx - Anaheim & Orange
-#211xx - Riverside & Moreno Valley
-#212xx - Anza-Borrego, Inland, & Salton
-#213xx - Pendleton & San Diego
-#214xx-217xx - The Abbas Dynasty
-#218xx - The Mojave
+#17xxxx   e socal
+	#171xxx   k mojave
+		#1711xx   d dead mountains
+		#1712xx   d grand vegas
+		#1713xx   d joshua tree
+		#1714xx   d rodman
+		#1715xx   d sheephole
+		#1716xx   d the empire
+		#1717xx   d whipple
+	#172xxx   k north socal
+		#1721xx   d antelope valley
+		#1722xx   d big morongo
+		#1723xx   d los angeles
+		#1724xx   d los padres
+		#1725xx   d riverside
+		#1726xx   d santa barbara
+		#1727xx   d santa clara
+		#1728xx   d spring valley
+		#1729xx   d ventura
+	#173xxx   k south socal
+		#1731xx   d anaheim
+		#1732xx   d anza-borrego
+		#1733xx   d channel islands
+		#1734xx   d inland
+		#1735xx   d moreno valley
+		#1736xx   d orange
+		#1737xx   d pendleton
+		#1738xx   d riverside
+		#1739xx   d salton
+		#1730xx   d san diego
 
 2 ={ #ZAK
 	name="Zakariyya"
@@ -36,7 +52,7 @@
 	2100.11.21={death=yes}
 }
 
-20001 ={ #Ragnar the Runner
+172401 ={ #Ragnar the Runner
 	name="Ragnar"
 	dynasty=3000006
 	culture=angeleno #placeholder 
@@ -57,7 +73,7 @@
 	2067.1.1={death=yes}
 }
 
-20002 ={ #Shawn Roday
+172601 ={ #Shawn Roday
 	name="Shawn"
 	dynasty=3000007
 	culture=angeleno #placeholder

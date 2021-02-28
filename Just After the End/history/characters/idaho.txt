@@ -1,0 +1,32 @@
+#08xxxx   e idaho
+	#081xxx   k east snake
+	#082xxx   k highdesert
+	#083xxx   k northern basin
+	#084xxx   k silver bow
+	#085xxx   k west snake
+		#0851xx   d Baker
+		#0852xx   d Boise canyon
+		#0853xx   d gem
+		#0854xx   d nez perce
+		#0855xx   d salmon river
+		#0856xx   d wallowa
+
+
+#West Snake
+
+#count of elk and selway
+085401 ={ #Noah bin Vali "The Wanderer"
+	name="Noah"
+	dynasty=2030036
+	culture=anjalusi 
+	religion=traditionalist
+	trait=mystic
+	trait=adventurer
+	trait=quick
+	trait=proud
+	trait=ambitious
+	trait=scholarly_theologian
+	give_nickname=nick_the_wanderer
+	2024.8.30={birth=yes}
+	2081.3.2={death=yes}
+}

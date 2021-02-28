@@ -1,0 +1,247 @@
+#Character ID Table of Contents
+#This file exists just for documenting the character IDs, 
+
+#Formated by empire and kingdom. Try to add in the duchy numberings too (which I've done for e_arixo and e_baja as of Feb 27th), feel free to give multiple values for a single duchy if its particularly detailed. Lets keep character IDs as 6 digits, even if you want to make it 000001 for something. For particular characters feel free to put them anywhere under 010000, as that is all totally unused space going off this system.
+
+#The first two digits of the ID tell you which Empire it is in, alphabetically from 1 to 20. The third digit tells you what kingdom under that empire, the fourth digit is duchy, then the fifth and sixth digits are for all the characters under that duchy. I doubt that we will have more than even one duchy with 99 characters in it, but if so just give that duchy another data bit in the fourth digit, and make sure to mark that down in a comment in the appropriate place.
+
+#Also please put comments next to c haracters you write with what titles they hold, and relations! Makes these files a hell of a lot easier to understand!
+
+#							 e        e       k          d        x        x
+#							   empire      kingdom     duchy      characters
+
+#01xxxx   e arixo
+	#011xxx   k arizona
+		#0111xx   d coconino
+		#0112xx   d gila
+		#0113xx   d pheonix
+		#0114xx   d yavapai
+	#012xxx   k colorado river
+		#0121xx   d ahwe nyava
+		#0122xx   d mead
+		#0123xx   d mohave
+	#013xxx   k gadsden
+		#0131xx   d cochise
+		#0132xx   d two sun
+		#0133xx   d yuma
+	#014xxx   k mogollon
+		#0141xx   d hidalgo
+		#0142xx   d luna
+		#0143xx   d mogollon
+
+#02xxxx   e baja
+	#021xxx   k north baja
+		#0211xx   d biosfera
+		#0212xx   d el rosario
+		#0213xx   d ensenada
+		#0214xx   d gran rosarito
+		#0215xx   d mexicali
+		#0216xx   d san felipe
+		#0217xx   d tijuana
+	#022xxx   k south baja
+		#0221xx   d comondu
+		#0222xx   d gran guadalupe
+		#0223xx   d gran paz
+		#0224xx   d kakigui
+		#0225xx   d loreto
+		#0226xx   d los cabos
+		#0227xx   d magdalena
+		#0228xx   d mulege
+
+#03xxxx   e caledonia
+	#031xxx   k great okanagan
+	#032xxx   k kootenay
+
+#04xxxx   e colorado
+	#041xxx   k frontrange
+	#042xxx   k san luis
+	#043xxx   k western slope
+
+#05xxxx   e deseret
+	#051xxx   k green river
+	#052xxx   k wasatch
+	#053xxx   k zion
+
+#06xxxx   e gran francisco
+	#061xxx   k east bay
+		#0611xx   d alameda
+		#0612xx   d contra costa
+	#062xxx   k goldengate
+		#0621xx   d marin
+		#0622xx   d san francisco
+	#063xxx   k salinas
+	#064xxx   k santa clara
+	#065xxx   k the lake
+	#066xxx   k wineland 
+		#0661xx   d napa
+		#0662xx   d solano
+		#0663xx   d sonoma
+
+#07xxxx   e grand vancouver
+	#071xxx   k south island
+	#072xxx   k upisland
+	#073xxx   k vancouver
+
+#08xxxx   e idaho
+	#081xxx   k east snake
+	#082xxx   k highdesert
+	#083xxx   k northern basin
+	#084xxx   k silver bow
+	#085xxx   k west snake
+		#0851xx   d Baker
+		#0852xx   d Boise canyon
+		#0853xx   d gem
+		#0854xx   d nez perce
+		#0855xx   d salmon river
+		#0856xx   d wallowa
+
+#09xxxx   e jefferson
+	#091xxx   k humboldt
+	#092xxx   k mendicino
+	#093xxx   k modoc
+	#094xxx   k north jefferson
+	#095xxx   k shasta
+	#096xxx   k sisiyou
+
+#10xxxx   e lincoln
+	#101xxx   k blue mountains
+		#1011xx   d asotin
+		#1012xx   d umatilla
+		#1013xx   d wallawalla
+		#1014xx   d wasco
+	#102xxx   k clearwater
+		#1021xx   d crag
+		#1022xx   d flathead
+		#1023xx   d granite
+		#1024xx   d latah
+		#1025xx   d mineral
+		#1026xx   d pend oreille
+	#103xxx   k columbia
+		#1031xx   d adams
+		#1032xx   d franklin
+		#1033xx   d grant
+		#1034xx   d great coulee
+		#1035xx   d moses lake
+	#104xxx   k spokane
+		#1041xx   d chelan
+		#1042xx   d ferry
+		#1043xx   d lilac
+		#1044xx   d okanogan
+		#1045xx   d steven
+	#105xxx   k yakama
+		#1051xx   d kittitas
+		#1052xx   d klickitat
+		#1053xx   d tri-cities
+		#1054xx   d white swan
+		#1055xx   d yakima valley
+
+#11xxxx   e lone star
+	#111xxx   k el paso
+	#112xxx   k new mexico
+
+#12xxxx   e navajoland
+	#121xxx   k hopi
+	#122xxx   k navajoland
+	#123xxx   k peublo
+
+#13xxxx   e nevada
+	#131xxx   k death valley
+	#132xxx   k nevada
+	#133xxx   k scarland
+
+#14xxxx   e oregon
+	#141xxx   k douglas
+	#142xxx   k portlandia
+		#1421xx   d clackers
+		#1422xx   d columbia
+		#1423xx   d marmot
+		#1424xx   d multnomah
+		#1425xx   d tualatin
+	#143xxx   k salem
+	#144xxx   k saltcoast
+
+#15xxxx   e sacremento
+	#151xxx   k lassen
+	#152xxx   k rancho tehama
+	#153xxx   k sacremento
+	#154xxx   k sierra nevada
+
+#16xxxx   e san joaquin
+	#161xxx k ashland
+	#162xxx k bako
+	#163xxx k san joaquin
+
+#17xxxx   e socal
+	#171xxx   k mojave
+		#1711xx   d dead mountains
+		#1712xx   d grand vegas
+		#1713xx   d joshua tree
+		#1714xx   d rodman
+		#1715xx   d sheephole
+		#1716xx   d the empire
+		#1717xx   d whipple
+	#172xxx   k north socal
+		#1721xx   d antelope valley
+		#1722xx   d big morongo
+		#1723xx   d los angeles
+		#1724xx   d los padres
+		#1725xx   d riverside
+		#1726xx   d santa barbara
+		#1727xx   d santa clara
+		#1728xx   d spring valley
+		#1729xx   d ventura
+	#173xxx   k south socal
+		#1731xx   d anaheim
+		#1732xx   d anza-borrego
+		#1733xx   d channel islands
+		#1734xx   d inland
+		#1735xx   d moreno valley
+		#1736xx   d orange
+		#1737xx   d pendleton
+		#1738xx   d riverside
+		#1739xx   d salton
+		#1730xx   d san diego
+
+#18xxxx   e sonora
+	#181xxx   k altar
+	#182xxx   k mazatlan
+	#183xxx   k sinaloa
+		#1831xx   d badiraguato
+		#1832xx   d culiacan
+		#1833xx   d guasave
+		#1834xx   d los mochis
+	#184xxx   k sonora
+	#185xxx   k yaqui
+
+#19xxxx   e washington
+	#191xxx    k olympia
+		#1911xx   d clallam
+		#1912xx   d grays harbor
+		#1913xx   d kitsap
+		#1914xx   d mason
+		#1915xx   d quinault
+		#1916xx   d thurston
+	#192xxx    k the puget
+		#1921xx   d eastside
+		#1922xx   d pierce
+		#1923xx   d posession
+		#1924xx   d seatac
+		#1925xx   d skykomish
+		#1926xx   d snoqualmie
+	#193xxx    k willapa
+
+#20xxxx   e yellowstone
+	#201xxx   k sweetwater
+	#202xxx   k wonderland
+	#203xxx   k wyoming
+
+
+
+
+
+
+
+
+
+
+

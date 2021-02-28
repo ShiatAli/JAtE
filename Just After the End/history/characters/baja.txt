@@ -17,7 +17,7 @@
 		#0227xx   d magdalena
 		#0228xx   d mulege
 
-38300 ={ #a quixotic reference
+022101 ={ #a quixotic reference
 	name="Alonso"
 	dynasty=3000008
 	culture=californio
@@ -39,30 +39,3 @@
 	2070.1.1={death=yes}
 }
 
-39300 ={ 
-	name="Edson"
-	dynasty=3000009
-	culture=sonorense
-	religion=misional
-	martial=20
-	trait=imbecile
-	trait=brave
-	trait=tough_soldier
-	trait=attractive 
-	trait=strong
-	trait=giant
-	trait=robust
-	trait=wroth
-	trait=brave
-	trait=gregarious
-	trait=unyielding_leader
-	trait=diligent
-	trait=charitable
-	trait=scarred_high
-	trait=duelist
-	trait=kind
-	trait=adventurer
-	2034.1.20={birth=yes}
-	2120.1.1={death=yes}
-}
-}

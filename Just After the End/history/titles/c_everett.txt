@@ -7,6 +7,6 @@
 	liege=k_the_puget
 }
 2050.1.1={
-	holder=8010
+	holder=192301
 }
 

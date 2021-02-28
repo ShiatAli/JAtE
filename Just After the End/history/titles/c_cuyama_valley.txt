@@ -7,5 +7,5 @@
 	liege=k_north_socal
 }
 2050.1.1={
-	holder=20001
+	holder=172401
 }

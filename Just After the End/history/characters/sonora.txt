@@ -1,0 +1,37 @@
+#18xxxx   e sonora
+	#181xxx   k altar
+	#182xxx   k mazatlan
+	#183xxx   k sinaloa
+		#1831xx   d badiraguato
+		#1832xx   d culiacan
+		#1833xx   d guasave
+		#1834xx   d los mochis
+	#184xxx   k sonora
+	#185xxx   k yaqui
+
+183401 ={ 
+	name="Edson"
+	dynasty=3000009
+	culture=sonorense
+	religion=misional
+	martial=20
+	trait=imbecile
+	trait=brave
+	trait=tough_soldier
+	trait=attractive 
+	trait=strong
+	trait=giant
+	trait=robust
+	trait=wroth
+	trait=brave
+	trait=gregarious
+	trait=unyielding_leader
+	trait=diligent
+	trait=charitable
+	trait=scarred_high
+	trait=duelist
+	trait=kind
+	trait=adventurer
+	2034.1.20={birth=yes}
+	2120.1.1={death=yes}
+}

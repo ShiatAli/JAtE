@@ -1,0 +1,71 @@
+#10xxxx   e lincoln
+	#101xxx   k blue mountains
+		#1011xx   d asotin
+		#1012xx   d umatilla
+		#1013xx   d wallawalla
+		#1014xx   d wasco
+	#102xxx   k clearwater
+		#1021xx   d crag
+		#1022xx   d flathead
+		#1023xx   d granite
+		#1024xx   d latah
+		#1025xx   d mineral
+		#1026xx   d pend oreille
+	#103xxx   k columbia
+		#1031xx   d adams
+		#1032xx   d franklin
+		#1033xx   d grant
+		#1034xx   d great coulee
+		#1035xx   d moses lake
+	#104xxx   k spokane
+		#1041xx   d chelan
+		#1042xx   d ferry
+		#1043xx   d lilac
+		#1044xx   d okanogan
+		#1045xx   d steven
+	#105xxx   k yakama
+		#1051xx   d kittitas
+		#1052xx   d klickitat
+		#1053xx   d tri-cities
+		#1054xx   d white swan
+		#1055xx   d yakima valley
+
+#Spokane
+104301 = {# Clay Tokarev
+	name="Clay"
+	dynasty=2066001
+	culture=panhandler
+	religion=evangelical
+	trait=content
+	trait=just
+	trait=tough_soldier 
+	trait=honest
+	trait=shy
+	1994.3.8={birth=yes}
+	2060.1.1={death=yes}
+}
+
+#Clearwater (West)
+102601 ={ #Tanner Tannerite
+	name="Tanner"
+	give_nickname=nick_the_conqueror
+	dynasty=2066000
+	culture=panhandler
+	religion=dominionist
+	trait=ambitious
+	trait=brilliant_strategist
+	trait=one_eyed
+	trait=quick
+	trait=diligent
+	trait=theologian
+	trait=impaler 
+	trait=paranoid
+	trait=lefthanded
+	trait=cruel
+	trait=zealous
+	trait=holy_warrior
+	2027.2.27={birth=yes}
+	2090.1.1={death=yes}
+}
+
+
