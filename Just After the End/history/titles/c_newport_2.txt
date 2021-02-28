@@ -1,4 +1,4 @@
-# e_lincoln
+ # e_lincoln
 1990.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
@@ -8,5 +8,5 @@
 }
 
 2055.1.1={
-	holder=12300
+	holder=102601
 }
