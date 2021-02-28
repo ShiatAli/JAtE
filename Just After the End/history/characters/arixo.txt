@@ -1,0 +1,18 @@
+#01xxxx   e arixo
+	#011xxx   k arizona
+		#0111xx   d coconino
+		#0112xx   d gila
+		#0113xx   d pheonix
+		#0114xx   d yavapai
+	#012xxx   k colorado river
+		#0121xx   d ahwe nyava
+		#0122xx   d mead
+		#0123xx   d mohave
+	#013xxx   k gadsden
+		#0131xx   d cochise
+		#0132xx   d two sun
+		#0133xx   d yuma
+	#014xxx   k mogollon
+		#0141xx   d hidalgo
+		#0142xx   d luna
+		#0143xx   d mogollon

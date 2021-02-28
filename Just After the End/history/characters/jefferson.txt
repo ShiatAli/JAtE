@@ -1,0 +1,7 @@
+#09xxxx   e jefferson
+	#091xxx   k humboldt
+	#092xxx   k mendicino
+	#093xxx   k modoc
+	#094xxx   k north jefferson
+	#095xxx   k shasta
+	#096xxx   k sisiyou
