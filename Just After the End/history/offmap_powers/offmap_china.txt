@@ -1,0 +1,4 @@
+2050.1.1 = {
+	name = "The Narrator"
+	holder = 999999 # Erya Bingen
+}

@@ -1,0 +1,16 @@
+999999 ={
+	name="Erya"
+	dynasty=999999 #Bingen
+	culture=bear
+	religion=cetic
+	trait=mastermind_theologian
+	trait=scholar
+	trait=erudite
+	trait=reclusive
+	trait=genius
+	trait=shrewd
+	trait=feeble
+	trait=envious
+	2020.1.1={birth=yes}
+	2050.1.1={culture=valleyan}
+}

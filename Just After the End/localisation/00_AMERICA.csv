@@ -41,6 +41,9 @@ RULE_RENOVATOR_INVASION_OFF_DESC;The Renovator and Viceroy will not spread their
 RULE_HOLY_WAR_COOLDOWN;Holy War Cooldowns;;;;;;;;;;;;;x
 RULE_COOLDOWN_ON;Declaring a holy war will impose a 5 or 10 year cooldown, preventing characters from declaring multiple holy wars in quick succession.;;;;;;;;;;;;;x
 RULE_COOLDOWN_OFF;Declaring a holy war will not impose a cooldown, allowing characters to declare multiple holy wars in quick succession.;;;;;;;;;;;;;x
+RULE_WEATHER_EVENTS;Weather Events;;;;;;;;;;;;;x
+RULE_WEATHER_EVENTS_ON;Events relating to heavy rain, droughts, and floods will occur.;;;;;;;;;;;;;x
+RULE_WEATHER_EVENTS_OFF;Events relating to heavy rain, droughts, and floods will not occur.;;;;;;;;;;;;;x
 
 ###########Bookmarks###########
 
@@ -178,7 +181,6 @@ GUYANA;Guyana;Guyana;Guyana;;Guyana;;;;;;;;;x
 ###########Cultures###########
 
 acadien;Acadien;;;;;;;;;;;;;x
-adelsverer;Adelsverer;;;;;;;;;;;;;x
 afroanglo;Afro-Anglo;;;;;;;;;;;;;x
 afrocubano;Lucumí;;;;;;;;;;;;;x
 caraqueno;Caraqueño;;;;;;;;;;;;;x
@@ -245,6 +247,7 @@ cree;Cree;;;;;;;;;;;;;x
 creole;Creole;;;;;;;;;;;;;x
 crow;Crow;;;;;;;;;;;;;x
 cubano;Cubano;;;;;;;;;;;;;x
+czexan;Czexan;;;;;;;;;;;;;x
 deitsch;Deitsch;;;;;;;;;;;;;x
 delawarean;Delawarean;;;;;;;;;;;;;x
 dellsman;Dellsman;;;;;;;;;;;;;x
@@ -312,7 +315,7 @@ neoladino;Neoladino;;;;;;;;;;;;;x
 neomexicano;Neomexicano;;;;;;;;;;;;;x
 new_english;Colonial;;;;;;;;;;;;;x
 newfie;Newfie;;;;;;;;;;;;;x
-noculture;Chazian;;;;;;;;;;;;;x
+noculture;Manleyfolk;;;;;;;;;;;;;x
 northwest_coast;Northwest Coast;;;;;;;;;;;;;x
 nigerian;Nigerian;;;;;;;;;;;;;x
 nihonjin;Nihonjin;;;;;;;;;;;;;x
@@ -381,6 +384,8 @@ tagalog;Tagalog;;;;;;;;;;;;;x
 tapatio;Tapatio;;;;;;;;;;;;;x
 tejano;Tejano;;;;;;;;;;;;;x
 texan;Texan;;;;;;;;;;;;;x
+texan_group;Starfolk;;;;;;;;;;;;;x
+texaner;Texaner;;;;;;;;;;;;;x
 tlingit;Tlingit;;;;;;;;;;;;;x
 truenonato;Truenonato;;;;;;;;;;;;;x
 tsimshianic;Tsimshianic;;;;;;;;;;;;;x
@@ -423,8 +428,8 @@ candomble_FEATURES;§Y*§! Homosexual Candomblé rulers may marry other homosexual 
 thelemic;Thelema;;;;;;;;;;;;;x
 thelemic_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." It is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. However, their highest deity is someone - or something - known only as "The Queen".;;;;;;;;;;;;;x
 thelemic_FEATURES;§Y*§! Homosexual Thelemic rulers may marry other homosexual characters.\n;;;;;;;;;;;;;x
-noreligion;Gender Accelerationism;;;;;;;;;;;;;x
-noreligion_DESC;The "G/ACCers" seek to harness the power of the RHIZOMES & CYBERNETICS to destroy gender forever, through a dark plot they call the "Great Forcefem". Little is known about these people, and they rarely are seen or heard. They are quiet...too quiet.;;;;;;;;;;;;;x
+noreligion;Manleyist;;;;;;;;;;;;;x
+noreligion_DESC;This religion of a cursed name lost to history stems from the teachings of the prophet Emperor II Manley, who brought dark and foul sermons into the world. It is said that he is a great arbiter of the world's evil, who operates beyond religion and deed, and all should fear him. However, the righteous and true God(s) intervened, locking away this man and his holy creed for all time. Yet, it is said one day, they will return.;;;;;;;;;;;;;x
 noreligion_FEATURES;§Y*§! PLEASE REPORT THIS. THIS IS A BUG.\n;;;;;;;;;;;;;x
 neognostic;Neo-Gnostic;;;;;;;;;;;;;x
 neognostic_DESC;Neo-Gnostism (re)emerged in Colorado as a syncretic faith combining teachings coming from the Pacific faiths of the West and the Christian East. Neo-Gnostics have amalgamated the belief in the Christian God, who they call "The One" with the rejection of materialism often found in Pacific schools of thought. They believe that Salvation can be found in worship of Christ and that they can find Enlightenment through his teachings. Gnostics see material posessions and desires as secondary to Oneness with God. They reject the material world (matter, flesh) as being the work of Satan and seek to embrace the 'Gnosis' of God (knowledge, enlightenment, salvation).;;;;;;;;;;;;;x
@@ -455,6 +460,10 @@ charismatic;Charismatic;;;;;;;;;;;;;x
 charismatic_DESC;Charismatics are not known as such because of their charm, but rather their belief in 'charismata', gifts of the Holy Spirit manifested in miracles and signs that can be endowed simply by baptism and faith in the Holy Spirit. Such wonders include the ability to speak in tongues, miraculous healing of the cripples, gifts of prophecy and more events often considered 'supernatural'. Although the Evangelical Convention declared these beliefs heretical, the Charismatic faith continues to thrive outside the jurisdiction of the Holy Columbian Confederacy.;;;;;;;;;;;;;x
 charismatic_FEATURES;§Y*§! Upon reaching adulthood, Charismatic characters may test their faith by handling a live snake.;;;;;;;;;;;;;x
 dark_pagan_group;Dark Pagan;;;;;;;;;;;;;x
+occultist;Occultist;;;;;;;;;;;;;x
+occultist_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others.;;;;;;;;;;;;;x
+occultist_reformed;Occultist;;;;;;;;;;;;;x
+occultist_reformed_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others. The reformed Occultist church has a new hierarchy and more standardized set of texts.;;;;;;;;;;;;;x
 atomicist;Atomicist;;;;;;;;;;;;;x
 atomicist_DESC;Atomicists believe that the god Atomos created the world in a vast explosion of energy, and that he inhabits an invisible plane of energy that intersects with the material world. In the days of yore, men could tap into this intangible world and use the gifts of Atomos to become gods themselves. Atomicists seek to relearn the secrets of that past age so that they too can unlock the power of the atom. However, Atomos does not always take kindly to those who try to harness his power...;;;;;;;;;;;;;x
 atomicist_FEATURES;§Y*§! Atomicist parents may attempt to "bless" their newborns by exposing them to atomic radiation. \n§Y*§! Atomicists may choose to align themselves with one of three Particles. \n§Y*§! Pious Atomicists may try to go down the Radiant Path to more fully understand the nature of Atomos.\n;;;;;;;;;;;;;x
@@ -525,7 +534,7 @@ neomayan_DESC;Neomayanism is a mixture of both traditional Maya beliefs and obsc
 neomayan_FEATURES;§Y*§! Women are capable of fighting as warriors. \n§Y*§! Are adherents of the ancient practice of Astrology. \n§Y*§! Homosexual Neomayan rulers are allowed to marry other homosexual characters.\n§Y*§! Neomayans may sacrifice animals to Hunab Ku.;;;;;;;;;;;;;x
 qabantajik;Qab’antajik;;;;;;;;;;;;;x
 qabantajik_DESC;The Qab’antajik faith blends aspects of both Christianity and the traditional Mayan faith. Qab’antajik believe that the Event was the end of the 5th world cycle, which was caused by both a lack of sacrifices and the conversion of Mayan believers to monotheism. Gods in the Qab’antajik pantheon are referred to as ‘angels’, but most of these ‘angels’ are simply pre-Christian Maya deities under a different name.;;;;;;;;;;;;;x
-neomayan_FEATURES;§Y*§! Rulers may choose to conduct a bloodletting ritual to honor the gods.\n§Y*§! Neomayans may sacrifice animals to Hunab Ku.;;;;;;;;;;;;;x
+qabantajik_FEATURES;§Y*§! Rulers may choose to conduct a bloodletting ritual to honor the gods.\n§Y*§! Neomayans may sacrifice animals to Hunab Ku.;;;;;;;;;;;;;x
 celtic_pagan;Druidic;;;;;;;;;;;;;x
 celtic_pagan_DESC;Followers of Druidism believe in a diverse and eclectic pantheon of gods, drawn from both classical paganism and native beliefs. The core tenet of Druidism is animism - the belief that all of nature is inhabited by divine spirits. Although Druidism was once commonly practiced throughout the North Atlantic, it has been mostly supplanted by other religions and is today only practiced on the fringes of its old territory.;;;;;;;;;;;;;x
 celtic_pagan_FEATURES;§Y*§! Only characters with the Druid trait can be appointed as Chancellor for a Druidic realm.\n;;;;;;;;;;;;;x
@@ -576,7 +585,7 @@ gaian_FEATURES;§Y*§! Gaians have access to Enatic, or female-preference, success
 pacific;Pacific;;;;;;;;;;;;;x
 cetic;Cetic;;;;;;;;;;;;;x
 cetic_DESC;The Cetic philosophy involves the study of philosophical writings by a number of Great Teachers (Gurus), including the Emperor, Buddha, Christ, and Hubbard. Adherents seek enlightenment through meditation, discussion of the writings, and living ascetic lifestyles -- this last practice is where the philosophy takes its name. The first Emperor of California formally organized the faith with secular and religious power deeply intertwined within the imperial title, and the head of the faith is traditionally chosen from among his descendants.;;;;;;;;;;;;;x
-cetic_FEATURES;§Y*§! Adherents follow one of five specific Ways (schools of Cetic thought). \n§Y*§! Strong Cetic Emperors may incorporate Gaianism into the Way of the Branch if they control the Kingdom of Cascadia.\n§Y*§! Homosexual Way of the Branch Adherents may marry other homosexual characters. ;;;;;;;;;;;;;x
+cetic_FEATURES;§Y*§! Adherents follow one of five specific Ways (schools of Cetic thought). \n§Y*§! Strong Cetic Emperors may incorporate Gaianism into the Way of the Branch if they control the Kingdom of Cascadia.\n§Y*§! Homosexual Way of the Branch Adherents may marry other homosexual characters.;;;;;;;;;;;;;x
 shinto;Shinto;;;;;;;;;;;;;x
 shinto_DESC;Shinto is an ancient religion that combines cultural rituals, animist spirit worship, and a limited number of Buddhist traditions. In the centuries after the calamity, veneration of the Emperor grew into a demand for absolute obedience. Today the Divine Emperor is hidden from the people and believed to be in a perfect, eternal state of meditation, while his will is carried out by a sprawling clerical bureaucracy.;;;;;;;;;;;;;x
 jewish_group;Jewish;;;;;;;;;;;;;x
@@ -591,7 +600,7 @@ meshichist_DESC;Meshichists believe that a legendary pre-Event rabbi, known to t
 meshichist_FEATURES;§Y*§! Jewish counties are hard to convert.;;;;;;;;;;;;;x
 nonconformist;Nonconformist;;;;;;;;;;;;x
 nonconformist_DESC;The term "nonconformist" is used by antediluvian Anglicans to refer to all non-Ursuline Canadian Christians who, for one reason or another, reject the authority of the Anglican Church. Many different Protestant groups have been persecuted using this label over the centuries, and present-day Noncomformists are primarily known for their acceptance of female clergy and opposition to the idea of religious hierarchy in general.;;;;;;;;;;;;x
-nonconformist_FEATURES;§Y*§! Homosexual Nonconformist rulers may marry other homosexual characters. ;;;;;;;;;;;;;x
+nonconformist_FEATURES;§Y*§! Homosexual Nonconformist rulers may marry other homosexual characters.;;;;;;;;;;;;;x
 indian_group;Dharmic;;;;;;;;;;;;x
 hindu_DESC;Hinduism is not a single religion so much as a blanket term for the successor faiths of ancient Indian polytheism as recorded in the Vedas. Post-Event Hinduism differs radically from pre-Event Hinduism in several key ways. For example, the vast majority of Hindus now reject the caste system, believing instead that all humans are spiritually equal. Proselytization towards non-Hindus has also become more common.;;;;;;;;;;;;x
 hindu_FEATURES;§Y*§! Hindus can select one of six deities to be their patron.\n§Y*§! Hindus can go on pilgrimages to holy sites across the Americas.;;;;;;;;;;;;x
@@ -599,6 +608,11 @@ nousthreskeia;Nousthreskeia;;;;;;;;;;;;x
 nousthreskeia_DESC;The central tenet of Nousthreskeia is the concept of the “Noosphere”, an invisible field that surrounds the Earth and is affected by the collective thoughts and feelings of humanity. Followers of Nousthreskeia believe that the Noosphere is capable of altering both the collective human consciousness and physical reality itself, and that the Event was the result of artificial interference with the Noosphere. This interference damaged the Noosphere, knocking the physical world and the consciousness of humanity back to a more primitive state. Nousthrestkeists believe that humanity will not recover from the Event until this damage to the Noosphere has been healed and that a “Wish Granter” exists somewhere in the world that can accomplish this goal almost instantaneously if used properly.;;;;;;;;;;;;x
 pagan_DESC;Since the dawn of history, both North and South America have been home to countless Pagan religions and cults unrelated to the Abrahamic faiths.;Depuis l'aube de l'Histoire, tant l'Europe que le Moyen-orient on été le foyer d'innombrables religions païennes et cultes détachés des fois abrahamiques.;Seit dem Beginn der Geschichte waren sowohl Europa als auch der Nahe Osten Heimat unzähliger heidnischer Religionen und Kulte, die nicht zum abrahamitischen Glauben zählten.;;Desde el comienzo de los tiempos, tanto Europa como Oriente Medio han sido el hogar de incontables religiones paganas y de cultos no relacionados con las religiones abrahámicas.;;;;;;;;;x
 nestorian_DESC;Nestorians are an ancient branch of Christianity deemed heretical for their belief in the dual nature (human and divine) of Christ. The Nestorian position was historically adopted by the Church of the East, offshoots of which have periodically drifted into and out of communion with the Pope. Some of these offshoots relocated to the United States during the 20th century, and fell out of communion with the St. Louis Papacy after the Event, instead turning to the Patriarch of the East to lead their faith. Because of this, Nestorians are now considered by most to be a Catholic heresy.;;;;;;;;;;;;x
+apostolic;Apostolic;;;;;;;;;;;;x
+apostolic_DESC;The "Igreja Apostólica", or "Apostolic Church", split from mainstream Roman Catholicism long before the Event over disputes regarding divorce and clerical celibacy. It eventually became known for its relative tolerance of non-Christian faiths. After the chaos of the Event, the Apostolic Church became the dominant Christian faith in most of Brazil, and this position was cemented further when it was adopted by the first post-Event Emperor of the House of Bragança, Pedro the Restorer. All adherents north of the Amazon River are led by the Archbishop of Manaus, although he is only a subordinate of the Church's true leader in São Paulo.;;;;;;;;;;;;x
+apostolic_FEATURES;§Y*§! Adherents can become followers of one of three specific saint-patrons.;;;;;;;;;;;;x
+celeste;Celeste;;;;;;;;;;;;x
+celeste_DESC;Far from the yoke of São Paulo, the gaúchos of the pampas have drifted away from the rigid dogma of the Empire. Emergent messianic practices are preached by mystical monks who claim to be reincarnations of previous figures, chief among them the "Christ-Woman" Jacobina. These mystical practices, combined with their egalitarianism and rejection of the material world has made them be seen as heretics by most Apostolics.;;;;;;;;;;;;x
 moravian;Moravian;;;;;;;;;;;;x
 moravian_DESC;Moravianism is one of the oldest branches of Protestant Christianity, and followers of the Church are noted for their intense dedication to missionary work. Following the Event, traditional Moravianism was subsumed beneath the newly-formed Cult of the Falling Star, although pockets of "old believers" still persist throughout the Americas.;;;;;;;;;;;;x
 wormwoodist;Wormwoodist;;;;;;;;;;;;x
@@ -616,7 +630,7 @@ orthodox_DESC;The religion of the Tlingit is said to have been brought to them l
 pelagic;Pelagic;;;;;;;;;;;;;x
 pelagic_DESC;Followers of the Pelagic faith roam the seven seas, much like their Brethren cousins. However, that is where their similarities end. Rather than live through piracy and murder, Pelagics instead draw on the natural gifts of the sea. In particular, Pelagics regard whales as the most powerful of all seaborne beings, capable of both giving and taking life at a moment's notice. Pelagics work to gain the favor of the sea goddess, Sedna, creator of the sea and mother of all its creatures, so that she may give them her gifts via her first and greatest child- the whale.;;;;;;;;;;;;;x
 aria_de_machete;Aria de Machete;;;;;;;;;;;;;x
-aria_de_machete_DESC;The Songs of Machete are the old oral tradition of the nomads who roam the Llanos. The storytellers preserve in the form of joropo ballads the tales of the terrifying “rancheros”, capricious supernatural being who govern the destinies of men. The faithful of the Llanos spirituality are sharply divided between those who think men should govern the land and those who favor the rule of women.;;;;;;;;;;;;;x #should we keep that last sentence in?
+aria_de_machete_DESC;The Songs of Machete are the old oral tradition of the nomads who roam the Llanos. The storytellers preserve in the form of joropo ballads the tales of the terrifying “rancheros”, capricious supernatural beings who govern the destinies of men. The faithful of the Llanos spirituality are sharply divided between those who think men should govern the land and those who favor the rule of women.;;;;;;;;;;;;;x #should we keep that last sentence in?
 aria_de_machete_reformed;Aria de Machete;;;;;;;;;;;;;x
 aria_de_machete_reformed_DESC;The Songs of Machete are the old oral tradition of the nomads who roam the Llanos. The storytellers preserve in the form of joropo ballads the tales of the terrifying “rancheros”, capricious supernatural being who govern the destinies of men. The faithful of the Llanos spirituality are sharply divided between those who think men should govern the land and those who favor the rule of women. The reformed Aria de Machete faith has a new religious hierarchy and a codified holy text.;;;;;;;;;;;;;x
 
@@ -725,11 +739,11 @@ lore_masons_ref_desc;This character follows the obscured legacy of the ancient M
 lore_pact_ref;Lore of the Pact;;;;;;;;;;;;;x
 lore_pact_ref_desc;This character is a student of the Diabolic Pact. This ancient covenant is how humanity survived the cataclysmic destruction of the world.;;;;;;;;;;;;;x
 patria_bolivar;Follower of Bolívar;;;;;;;;;;;;;x
-patria_bolivar_desc;Simón Bolívar, also called Saint Peter, is the prócer of war and freedom. His followers are known to imitate his war-like nature.;;;;;;;;;;;;;x
+patria_bolivar_desc;Simón Bolívar, also called Saint Peter, is the prócer of war and freedom. His followers are known to imitate his war-like nature, and can declare wars easily. However, they may find it difficult to manage succession...;;;;;;;;;;;;;x
 patria_manuelita;Follower of Manuelita;;;;;;;;;;;;;x
-patria_manuelita_desc;Manuela Sáenz, also called the Magdalene, is the prócer of love and fertility. Her followers are passionate, gregarious and devoted to their families.;;;;;;;;;;;;;x
+patria_manuelita_desc;Manuela Sáenz, also called the Magdalene, is the prócer of love and fertility. Her followers are passionate, gregarious and devoted to their families. Her followers are able to manage succeession via election.;;;;;;;;;;;;;x
 patria_santander;Follower of Santander;;;;;;;;;;;;;x
-patria_santander_desc;Francisco Santader, also called Saint Francis, is the prócer of law and order. His followers are known to be great administrators.;;;;;;;;;;;;;x
+patria_santander_desc;Francisco Santader, also called Saint Francis, is the prócer of law and order. His followers are known to be great administrators. His followers shy awway from war, but have great flexibility in choosing successors.;;;;;;;;;;;;;x
 fords_striker;Ford's Striker;;;;;;;;;;;;;x
 fords_striker_desc;This character has fought to defend the holy factories in the name of Father Ford.;;;;;;;;;;;;;x
 joropo_cantor;Joropo Cantor;;;;;;;;;;;;;x
@@ -758,7 +772,8 @@ medal_of_honor;Medal of Honor;;;;;;;;;;;;;x
 medal_of_honor_desc;This character distinguished themselves while fighting for America, and has been awarded high honors by the President.;;;;;;;;;;;;;
 patriota;Patriota;;;;;;;;;;;;;x
 patriota_desc;This character is one of the chosen warriors who have fought in the name of La Patria Grande.;;;;;;;;;;;;;
-
+devout;Devout;;;;;;;;;;;;;x
+devout_desc;This character is a devout follower of [Root.Religion.GetHighGodName], attempting to follow a righteous and holy path of life.;;;;;;;;;;;;;x
 twelve_tribes;Twelve Tribes of Israel;;;;;;;;;;;;;x
 twelve_tribes_desc;This character is a member of the Twelve Tribes of Israel mansion, placing emphasis on equality and the connections between Rasta, Christianity, and Judaism.;;;;;;;;;;;;;x
 bobo_ashanti;Bobo Ashanti;;;;;;;;;;;;;x
@@ -843,6 +858,14 @@ machete_female_ref;Night Mare;;;;;;;;;;;;;x
 machete_female_ref_desc;The Night Mares believe that leadership requires the cold head and nurturing ways of a woman. They worship the wise Bolefuego and mysterious Sayona.;;;;;;;;;;;;;x
 distractible;Distractible;;;;;;;;;;;;;x
 distractible_desc;This character is forgetful and often loses their train of thought. This does not affect their raw intelligence, but it does affect their ability to apply it.;;;;;;;;;;;;;x
+reclusive;Reclusive;;;;;;;;;;;;;x
+reclusive_desc;This character is socially withdrawn and awkward, but they are also highly knowledgeable about their topics of interest.;;;;;;;;;;;;;x
+
+
+ya_shamal;Ya-Shamal;;;;;;;;;;;;;x
+ya_shamal_desc;This character is revered as a champion of the Orientalist faith and greater Islamic world for fulfilling the prophesized reconquest of Detroit and ending the persecution of the Muslims therein.;;;;;;;;;;;;;x
+ya_shamal_descendant;Ya-Shamal Descendant;;;;;;;;;;;;;x
+ya_shamal_descendant_desc;This character is a patrilineal descendant of Ya-Shamal, who fuflilled the prophesized reconquest of D-Mecca.;;;;;;;;;;;;;x
 
 ###########Bloodlines###########
 yudkow;Blood of the Lawgiver;;;;;;;;;;;;;x
@@ -940,6 +963,7 @@ bloodline_desc_isotopic;A true knower of the truth of Atomos and a shinning exem
 mountain_lord_male;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 mountain_lord_female;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 bloodline_desc_mountain_lord;This character united the Rocky Mountains, unifying a region once thought to be nothing more than a geographical construct.;;;;;;;;;;;;;x
+ya_shamal_bloodline;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 
 ###########Regions###########
 
@@ -1003,6 +1027,7 @@ custom_chicagoland;Chicagoland;;;;;;;;;;;;;x
 custom_mississippi_river;Lower Mississippi;;;;;;;;;;;;;x
 custom_gran_colombia;Gran Colombia;;;;;;;;;;;;;x
 custom_earthquake_region;Earthquake Zone;;;;;;;;;;;;;x
+custom_texas;Greater Texas;;;;;;;;;;;;;x
 custom_historical_plague_free_zone;"Historical" Plague Exclusion Zone;Zone d'exclusion historique de la peste;Historische Pestausnahmezone;;Zona histórica de exclusión de la Peste;;;;;;;;;x
 
 ###########Other###########
@@ -1059,7 +1084,7 @@ DOMINION_OF;Dominion of;;;;;;;;;;;;;x
 DON_FOA;Sir;;;;;;;;;;;;;x
 DON;Don;;;;;;;;;;;;;x
 ENTREPENUER;Entrepenuer;;;;;;;;;;;;;x
-ECHU;Echú;;;;;;;;;;;;;x								  
+ECHU;Echú;;;;;;;;;;;;;x
 EXPEDITION;Expedition;;;;;;;;;;;;;x
 FASCISM;Fascism;;;;;;;;;;;;;x
 FIRST_GENTLEMAN;First Gentleman;;;;;;;;;;;;;x
@@ -1165,7 +1190,6 @@ GOD_MAXIMON;Maximón;;;;;;;;;;;;;x
 GOD_MISER;The Miser;;;;;;;;;;;;;x
 GOD_MONOLITH;Monolith;;;;;;;;;;;;;x
 GOD_MONAD;The One;;;;;;;;;;;;;x
-GOD_MUHAMMAD;Muhammad;;;;;;;;;;;;;x
 GOD_NEGRO_FELIPE;Negro Felipe;;;;;;;;;;;;;x
 GOD_NEM_CATACOA;Nem-catacoa;;;;;;;;;;;;;x
 GOD_NANABOZHO;Nanabozho;;;;;;;;;;;;;x
@@ -1580,6 +1604,8 @@ wormwoodist_opinion;[wormwoodist.GetName] Opinion;;;;;;;;;;;;;x
 high_church_opinion;[high_church.GetName] Opinion;;;;;;;;;;;;;x
 apostolic_opinion;[apostolic.GetName] Opinion;;;;;;;;;;;;;x
 celeste_opinion;[celeste.GetName] Opinion;;;;;;;;;;;;;x
+nazarene_opinion;[nazarene.GetName] Opinion;;;;;;;;;;;;;x
+true_cross_opinion;[true_cross.GetName] Opinion;;;;;;;;;;;;;x
 cult_of_saints_opinion;[cult_of_saints.GetGroupName] Opinion;;;;;;;;;;;;;x
 sacred_heart_opinion;[sacred_heart.GetName] Opinion;;;;;;;;;;;;;x
 pacific_opinion;[pacific.GetGroupName] Opinion;;;;;;;;;;;;;x
@@ -1643,7 +1669,7 @@ ojibwe_opinion;[ojibwe.GetName] Opinion;;;;;;;;;;;;;x
 amerodeutsch_opinion;[amerodeutsch.GetGroupName] Opinion;;;;;;;;;;;;;x
 deitsch_opinion;[deitsch.GetName] Opinion;;;;;;;;;;;;;x
 rostmann_opinion;[rostmann.GetName] Opinion;;;;;;;;;;;;;x
-adelsverer_opinion;[adelsverer.GetName] Opinion;;;;;;;;;;;;;x
+texaner_opinion;[texaner.GetName] Opinion;;;;;;;;;;;;;x
 ameronordic_opinion;[ameronordic.GetName] Opinion;;;;;;;;;;;;;x
 dellsman_opinion;[dellsman.GetName] Opinion;;;;;;;;;;;;;x
 yooper_opinion;[yooper.GetName] Opinion;;;;;;;;;;;;;x
@@ -1789,6 +1815,7 @@ iyyu_opinion;[iyyu.GetName] Opinion;;;;;;;;;;;;;x
 west_anglo_opinion;[west_anglo.GetGroupName] Opinion;;;;;;;;;;;;;x
 grangelander_opinion;[grangelander.GetName] Opinion;;;;;;;;;;;;;x
 texan_opinion;[texan.GetName] Opinion;;;;;;;;;;;;;x
+texan_group_opinion;[texan_group.GetName] Opinion;;;;;;;;;;;;;x
 arixan_opinion;[arixan.GetName] Opinion;;;;;;;;;;;;;x
 battleborn_opinion;[battleborn.GetName] Opinion;;;;;;;;;;;;;x
 ozark_opinion;[ozark.GetName] Opinion;;;;;;;;;;;;;x
@@ -1860,7 +1887,6 @@ huge_loan;Huge Loan;;;;;;;;;;;;;x
 war_torn;War Torn;;;;;;;;;;;;;x
 bloodline_effect_cognatic;Enables §YCognatic Succession§!;;;;;;;;;;;;;x
 bloodline_effect_cheaper_tribal_upgrade;Enables §YCheaper Tribal Conversion to Feudal§!;;;;;;;;;;;;;x
-nogovernment;Anarcho-Primitivism;;;;;;;;;;;;;x
 
 ##SHATTERED WORLD##
 ALT_GOD_FLYING_SPAGHETTI_MONSTER;The Flying Spaghetti Monster;;;;;;;;;;;;;x

@@ -1,7 +1,7 @@
 1 ={ #
-	name="Willy"
+	name="Tedward"
 	dynasty=1
-	culture=bear_culture
+	culture=bear
 	religion=cetic
 	martial=5
 	diplomacy=5

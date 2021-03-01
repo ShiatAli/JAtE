@@ -1,0 +1,171 @@
+w_eagle = {
+	opposites = {
+		w_snake
+		w_jaguar
+	}
+
+	opposite_opinion = -5
+	
+	martial = 2
+	monthly_character_prestige = 2
+
+	#potential = { society_member_of = warrior_lodge_mexican }
+	random = no
+	ruler_designer_cost = 0
+	
+	male_insult = INSULT_BRUTE
+	female_insult = INSULT_BRUTE
+	child_insult_adj = INSULT_STUPID
+	
+	male_compliment_adj = COMPL_BRAVE
+	female_compliment_adj = COMPL_BRAVE
+	child_compliment_adj = COMPL_STRONG
+}
+
+w_snake = {
+	opposites = {
+		w_eagle
+		w_jaguar
+	}
+
+	opposite_opinion = -5
+	
+	martial = 1
+	intrigue = 1
+
+	#potential = { society_member_of = warrior_lodge_mexican }
+	random = no
+	ruler_designer_cost = 0
+	
+	male_insult = INSULT_BRUTE
+	female_insult = INSULT_BRUTE
+	child_insult_adj = INSULT_STUPID
+	
+	male_compliment_adj = COMPL_BRAVE
+	female_compliment_adj = COMPL_BRAVE
+	child_compliment_adj = COMPL_STRONG
+}
+
+w_jaguar = {
+	opposites = {
+		w_eagle
+		w_jaguar
+	}
+
+	opposite_opinion = -5
+	
+	martial = 3
+
+	#potential = { society_member_of = warrior_lodge_mexican }
+	random = no
+	ruler_designer_cost = 0
+	
+	male_insult = INSULT_BRUTE
+	female_insult = INSULT_BRUTE
+	child_insult_adj = INSULT_STUPID
+	
+	male_compliment_adj = COMPL_BRAVE
+	female_compliment_adj = COMPL_BRAVE
+	child_compliment_adj = COMPL_STRONG
+}
+
+w_heel = {
+	opposites = {
+		w_face
+	}
+	
+	intrigue = 3
+	diplomacy = -2
+	combat_rating = 3 #new value!
+	
+	#potential = { society_member_of = warrior_lodge_mexican }
+	random = no
+	customizer = no
+	
+	opposite_opinion = -25
+	
+	ai_honor = -25
+	
+	male_insult_adj = INSULT_DECEITFUL
+	female_insult_adj = INSULT_DECEITFUL
+	child_insult_adj = INSULT_WICKED
+}
+
+w_face = {
+	opposites = {
+		w_heel
+	}
+	
+	intrigue = -2
+	diplomacy = 3
+	combat_rating = -2 #new value!
+	
+	#potential = { society_member_of = warrior_lodge_mexican }
+	random = no
+	customizer = no
+	
+	opposite_opinion = -25
+	same_opinion = 5
+	
+	ai_honor = 25
+	
+	male_compliment_adj = COMPL_SINCERE
+	female_compliment_adj = COMPL_FORTHRIGHT
+	child_compliment_adj = COMPL_GOOD
+}
+
+#hijacked this file to add a trait i forgot
+patriota = {
+	opposites = {
+		crusader
+		valhalla_bound
+		jaguar_warrior
+		fords_striker
+		sword_of_the_lamb
+		knight_templar
+		order_of_the_garter
+		danite
+		shaddai
+		lughs_own
+		thunderbird_warrior
+		raven_warrior
+		dragon_soldier
+		cavalier
+		hivernant
+		joropo_cantor
+		medal_of_honor
+		mujahid
+	}
+	
+	martial = 2
+	combat_rating = 10 #old value: 1
+	
+	church_opinion = 15
+	same_opinion_if_same_religion = 15
+	
+	ai_zeal = 10
+	customizer = no
+	
+	male_insult = INSULT_FANATIC
+	female_insult = INSULT_FANATIC
+	male_insult_adj = INSULT_NARROWMINDED
+	female_insult_adj = INSULT_NARROWMINDED
+	male_compliment_adj = COMPL_RIGHTEOUS
+	female_compliment_adj = COMPL_RIGHTEOUS
+}
+
+#hijacking this file again to add autism trait
+reclusive = {
+	birth = 100
+	inherit_chance = 15
+	
+	diplomacy = -2
+	learning = 2
+
+	male_insult_adj = INSULT_TIMID
+	female_insult_adj = INSULT_COY
+	child_insult_adj = INSULT_STUPID
+	female_compliment_adj = COMPL_DEMURE
+	child_compliment_adj = COMPL_NICE
+	ruler_designer_cost = -5
+}

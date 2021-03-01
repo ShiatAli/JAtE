@@ -1,5 +1,8 @@
 ###ÄNSI
 
+##Narrator
+999999 = { name="Bingen" culture=valleyan }
+
 ##Utah
 1831001 = { name="Young" culture=salter }
 1831002 = { name="Sand" culture=salter }
