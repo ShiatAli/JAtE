@@ -11,18 +11,21 @@ technology = {
 		d_granite
 		d_grant
 		d_great_coulee
-		d_horse_heaven
 		d_kittitas
 		d_klickitat
 		d_latah
 		d_lilac
 		d_mineral
+		d_moses_lake
 		d_okanogan
 		d_pend_oreille
 		d_steven
+		d_tri_cities
 		d_umatilla
 		d_wallawalla
 		d_wasco
+		d_white_swan
+		d_yakima_valley
 	}
 	2055 = {
 		military = 2.0

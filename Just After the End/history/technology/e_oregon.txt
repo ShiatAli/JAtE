@@ -9,11 +9,11 @@ technology = {
 		d_linn
 		d_marmot
 		d_multnomah
+		d_myrtlewoods
 		d_newport
 		d_roseburg
 		d_santiam
 		d_searose
-		d_surprise
 		d_tillamook
 		d_tualatin
 	}

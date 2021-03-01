@@ -2,6 +2,7 @@
 technology = {
 	titles = {
 		d_ashford
+		d_carson
 		d_coso
 		d_elko
 		d_express

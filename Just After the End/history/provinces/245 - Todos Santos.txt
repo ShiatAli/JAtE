@@ -1,0 +1,21 @@
+# c_todos_santos
+
+# County Title
+title = c_todos_santos
+
+# Settlements
+max_settlements = 3
+
+b_todos_santos = castle
+b_el_pescadero = city
+#b_panteon = temple
+#b_el_rio_2 = castle
+#b_cerritos_2 = city
+#b_san_ignacio = temple
+#b_san_juan = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

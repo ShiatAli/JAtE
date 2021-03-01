@@ -1,0 +1,21 @@
+# c_santa_barbara
+
+# County Title
+title = c_santa_barbara
+
+# Settlements
+max_settlements = 4
+
+b_santa_barbara = castle
+b_arroyo_burro = city
+b_elings = temple
+#b_more_mesa = castle
+#b_yuuci_esbee = city
+#b_parma = temple
+#b_montecito_2 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

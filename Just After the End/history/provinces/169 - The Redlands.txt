@@ -1,0 +1,21 @@
+# c_the_redlands
+
+# County Title
+title = c_the_redlands
+
+# Settlements
+max_settlements = 5
+
+b_redlands_2 = castle
+b_lomalinda = city
+#b_metone = temple
+#b_yucaipa = castle
+#b_calimesa = city
+#b_mountainhome = temple
+#b_greenspot = castle
+
+# Misc
+culture = angeleno
+religion = sedevacantist
+
+#History

@@ -1,0 +1,21 @@
+# c_juan_de_fuca
+
+# County Title
+title = c_juan_de_fuca
+
+# Settlements
+max_settlements = 2
+
+b_port_renfrew = castle
+#b_bamfield = city
+#b_mystic_beach = temple
+#b_mesachie = castle
+#b_carmanah = city
+#b_sarita = temple
+#b_botanical_beach = castle
+
+# Misc
+culture = nuuchahnulth
+religion = legislative
+
+#History

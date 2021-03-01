@@ -1,0 +1,21 @@
+# c_los_angeles
+
+# County Title
+title = c_los_angeles
+
+# Settlements
+max_settlements = 6
+
+b_los_angeles = castle
+b_boyle_heights = city
+b_aliso_village = temple
+b_lincoln_heights = castle
+b_montecito = city
+#b_highland_park = temple
+#b_skids_row = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

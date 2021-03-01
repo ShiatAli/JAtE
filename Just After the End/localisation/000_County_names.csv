@@ -199,6 +199,8 @@ c_bullhead;Bullhead;Bullhead;Bullhead;;Bullhead;;;;;;;;;x
 c_bullhead_adj;Bullheadian;;bullheader;;;;;;;;;;;x
 c_burbank;Burbank;Burbank;Burbank;;Burbank;;;;;;;;;x
 c_burbank_adj;Burbankian;;burbanker;;;;;;;;;;;x
+c_burbank_2;Burbank;Burbank;Burbank;;Burbank;;;;;;;;;x
+c_burbank_2_adj;Burbankian;;burbanker;;;;;;;;;;;x
 c_burley;Burley;Burley;Burley;;Burley;;;;;;;;;x
 c_burley_adj;Burleian;;burleer;;;;;;;;;;;x
 c_burnaby;Burnaby;Burnaby;Burnaby;;Burnaby;;;;;;;;;x
@@ -569,6 +571,8 @@ c_fernley;Fernley;Fernley;Fernley;;Fernley;;;;;;;;;x
 c_fernley_adj;Fernleian;;fernleer;;;;;;;;;;;x
 c_fidalgo;Fidalgo;Fidalgo;Fidalgo;;Fidalgo;;;;;;;;;x
 c_fidalgo_adj;Fidalgian;;fidalger;;;;;;;;;;;x
+c_filmore;Filmore;Filmore;Filmore;;Filmore;;;;;;;;;x
+c_filmore_adj;Filmorean;;filmorer;;;;;;;;;;;x
 c_fire_valley;Fire Valley;Fire Valley;Fire Valley;;Fire Valley;;;;;;;;;x
 c_fire_valley_adj;Fire Valleian;;Fire Valleer;;;;;;;;;;;x
 c_first_mesa;First Mesa;First Mesa;First Mesa;;First Mesa;;;;;;;;;x
@@ -621,8 +625,6 @@ c_fruitland;Fruitland;Fruitland;Fruitland;;Fruitland;;;;;;;;;x
 c_fruitland_adj;Fruitlandian;;fruitlander;;;;;;;;;;;x
 c_fruitland_2;Fruitland;Fruitland;Fruitland;;Fruitland;;;;;;;;;x
 c_fruitland_2_adj;Fruitlandian;;fruitlander;;;;;;;;;;;x
-c_fullerton;Fullerton;Fullerton;Fullerton;;Fullerton;;;;;;;;;x
-c_fullerton_adj;Fullertonian;;fullertoner;;;;;;;;;;;x
 c_gabriola;Gabriola;Gabriola;Gabriola;;Gabriola;;;;;;;;;x
 c_gabriola_adj;Gabriolan;;gabrioler;;;;;;;;;;;x
 c_galiesto;Galiesto;Galiesto;Galiesto;;Galiesto;;;;;;;;;x
@@ -649,8 +651,6 @@ c_glacier;Glacier;Glacier;Glacier;;Glacier;;;;;;;;;x
 c_glacier_adj;Glacierian;;glacierer;;;;;;;;;;;x
 c_glen_canyon;Glen Canyon;Glen Canyon;Glen Canyon;;Glen Canyon;;;;;;;;;x
 c_glen_canyon_adj;Glen Canyonian;;Glen Canyoner;;;;;;;;;;;x
-c_glendale;Glendale;Glendale;Glendale;;Glendale;;;;;;;;;x
-c_glendale_adj;Glendalean;;glendaler;;;;;;;;;;;x
 c_glide;Glide;Glide;Glide;;Glide;;;;;;;;;x
 c_glide_adj;Glidean;;glider;;;;;;;;;;;x
 c_gold_beach;Gold Beach;Gold Beach;Gold Beach;;Gold Beach;;;;;;;;;x
@@ -807,6 +807,8 @@ c_indian_springs;Indian Springs;Indian Springs;Indian Springs;;Indian Springs;;;
 c_indian_springs_adj;Indian Springsian;;Indian Springser;;;;;;;;;;;x
 c_indian_valley;Indian Valley;Indian Valley;Indian Valley;;Indian Valley;;;;;;;;;x
 c_indian_valley_adj;Indian Valleian;;Indian Valleer;;;;;;;;;;;x
+c_inglewood;Inglewood;Inglewood;Inglewood;;Inglewood;;;;;;;;;x
+c_inglewood_adj;Inglewoodian;;inglewooder;;;;;;;;;;;x
 c_iron;Iron;Iron;Iron;;Iron;;;;;;;;;x
 c_iron_adj;Ironian;;ironer;;;;;;;;;;;x
 c_irvine;Irvine;Irvine;Irvine;;Irvine;;;;;;;;;x
@@ -891,6 +893,8 @@ c_klamath_falls;Klamath Falls;Klamath Falls;Klamath Falls;;Klamath Falls;;;;;;;;
 c_klamath_falls_adj;Klamath Fallsian;;Klamath Fallser;;;;;;;;;;;x
 c_kofa;Kofa;Kofa;Kofa;;Kofa;;;;;;;;;x
 c_kofa_adj;Kofan;;kofer;;;;;;;;;;;x
+c_kyuquot;Kyuquot;Kyuquot;Kyuquot;;Kyuquot;;;;;;;;;x
+c_kyuquot_adj;Kyuquotian;;kyuquoter;;;;;;;;;;;x
 c_la_colorada;La Colorada;La Colorada;La Colorada;;La Colorada;;;;;;;;;x
 c_la_colorada_adj;La Coloradan;;La Colorader;;;;;;;;;;;x
 c_la_grande;La Grande;La Grande;La Grande;;La Grande;;;;;;;;;x
@@ -1393,8 +1397,6 @@ c_ponderay;Ponderay;Ponderay;Ponderay;;Ponderay;;;;;;;;;x
 c_ponderay_adj;Ponderaian;;ponderaer;;;;;;;;;;;x
 c_pondosa;Pondosa;Pondosa;Pondosa;;Pondosa;;;;;;;;;x
 c_pondosa_adj;Pondosan;;pondoser;;;;;;;;;;;x
-c_port_alice;Port Alice;Port Alice;Port Alice;;Port Alice;;;;;;;;;x
-c_port_alice_adj;Port Alicean;;Port Alicer;;;;;;;;;;;x
 c_port_angeles;Port Angeles;Port Angeles;Port Angeles;;Port Angeles;;;;;;;;;x
 c_port_angeles_adj;Port Angelesian;;Port Angeleser;;;;;;;;;;;x
 c_port_hardy;Port Hardy;Port Hardy;Port Hardy;;Port Hardy;;;;;;;;;x
@@ -1617,8 +1619,6 @@ c_san_felipe_2;San Felipe;San Felipe;San Felipe;;San Felipe;;;;;;;;;x
 c_san_felipe_2_adj;San Felipean;;San Feliper;;;;;;;;;;;x
 c_san_felipe_3;San Felipe;San Felipe;San Felipe;;San Felipe;;;;;;;;;x
 c_san_felipe_3_adj;San Felipean;;San Feliper;;;;;;;;;;;x
-c_san_francisco;San Francisco;San Francisco;San Francisco;;San Francisco;;;;;;;;;x
-c_san_francisco_adj;San Franciscian;;San Franciscer;;;;;;;;;;;x
 c_san_ignacio;San Ignacio;San Ignacio;San Ignacio;;San Ignacio;;;;;;;;;x
 c_san_ignacio_adj;San Ignacian;;San Ignacer;;;;;;;;;;;x
 c_san_jose;San Jose;San Jose;San Jose;;San Jose;;;;;;;;;x
@@ -1747,8 +1747,6 @@ c_silver_lake;Silver Lake;Silver Lake;Silver Lake;;Silver Lake;;;;;;;;;x
 c_silver_lake_adj;Silver Lakean;;Silver Laker;;;;;;;;;;;x
 c_silver_valley;Silver Valley;Silver Valley;Silver Valley;;Silver Valley;;;;;;;;;x
 c_silver_valley_adj;Silver Valleian;;Silver Valleer;;;;;;;;;;;x
-c_simi;Simi;Simi;Simi;;Simi;;;;;;;;;x
-c_simi_adj;Simian;;simer;;;;;;;;;;;x
 c_sinaloa;Sinaloa;Sinaloa;Sinaloa;;Sinaloa;;;;;;;;;x
 c_sinaloa_adj;Sinaloan;;sinaler;;;;;;;;;;;x
 c_skamania;Skamania;Skamania;Skamania;;Skamania;;;;;;;;;x
@@ -1889,8 +1887,6 @@ c_the_reach;The Reach;The Reach;The Reach;;The Reach;;;;;;;;;x
 c_the_reach_adj;The Reachian;;The Reacher;;;;;;;;;;;x
 c_the_redlands;The Redlands;The Redlands;The Redlands;;The Redlands;;;;;;;;;x
 c_the_redlands_adj;The Redlandsian;;The Redlandser;;;;;;;;;;;x
-c_the_times;The Times;The Times;The Times;;The Times;;;;;;;;;x
-c_the_times_adj;The Timesian;;The Timeser;;;;;;;;;;;x
 c_the_valley;The Valley;The Valley;The Valley;;The Valley;;;;;;;;;x
 c_the_valley_adj;The Valleian;;The Valleer;;;;;;;;;;;x
 c_third_mesa;Third Mesa;Third Mesa;Third Mesa;;Third Mesa;;;;;;;;;x
@@ -1935,8 +1931,6 @@ c_toppenish;Toppenish;Toppenish;Toppenish;;Toppenish;;;;;;;;;x
 c_toppenish_adj;Toppenishian;;toppenisher;;;;;;;;;;;x
 c_torrance;Torrance;Torrance;Torrance;;Torrance;;;;;;;;;x
 c_torrance_adj;Torrancean;;torrancer;;;;;;;;;;;x
-c_torrance_2;Torrance;Torrance;Torrance;;Torrance;;;;;;;;;x
-c_torrance_2_adj;Torrancean;;torrancer;;;;;;;;;;;x
 c_torrey;Torrey;Torrey;Torrey;;Torrey;;;;;;;;;x
 c_torrey_adj;Torreian;;torreer;;;;;;;;;;;x
 c_toulumnes;Toulumnes;Toulumnes;Toulumnes;;Toulumnes;;;;;;;;;x
@@ -2043,6 +2037,8 @@ c_wenatchee;Wenatchee;Wenatchee;Wenatchee;;Wenatchee;;;;;;;;;x
 c_wenatchee_adj;Wenatcheean;;wenatcher;;;;;;;;;;;x
 c_wendover;Wendover;Wendover;Wendover;;Wendover;;;;;;;;;x
 c_wendover_adj;Wendoverian;;wendoverer;;;;;;;;;;;x
+c_west_covina;West Covina;West Covina;West Covina;;West Covina;;;;;;;;;x
+c_west_covina_adj;West Covinan;;West Coviner;;;;;;;;;;;x
 c_west_salmon;West Salmon;West Salmon;West Salmon;;West Salmon;;;;;;;;;x
 c_west_salmon_adj;West Salmonian;;West Salmoner;;;;;;;;;;;x
 c_west_shore;West Shore;West Shore;West Shore;;West Shore;;;;;;;;;x
@@ -2067,6 +2063,8 @@ c_white_swan;White Swan;White Swan;White Swan;;White Swan;;;;;;;;;x
 c_white_swan_adj;White Swanian;;White Swaner;;;;;;;;;;;x
 c_whitman;Whitman;Whitman;Whitman;;Whitman;;;;;;;;;x
 c_whitman_adj;Whitmanian;;whitmaner;;;;;;;;;;;x
+c_whitter;Whitter;Whitter;Whitter;;Whitter;;;;;;;;;x
+c_whitter_adj;Whitterian;;whitterer;;;;;;;;;;;x
 c_wikiup;Wikiup;Wikiup;Wikiup;;Wikiup;;;;;;;;;x
 c_wikiup_adj;Wikiupian;;wikiuper;;;;;;;;;;;x
 c_wild_horse;Wild Horse;Wild Horse;Wild Horse;;Wild Horse;;;;;;;;;x

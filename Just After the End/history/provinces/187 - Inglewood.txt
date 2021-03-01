@@ -1,0 +1,21 @@
+# c_inglewood
+
+# County Title
+title = c_inglewood
+
+# Settlements
+max_settlements = 4
+
+b_torrance = castle
+b_hawthrone = city
+b_inglewood = temple
+#b_gardena = castle
+#b_redondo = city
+#b_el_segundo = temple
+#b_hermosa = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

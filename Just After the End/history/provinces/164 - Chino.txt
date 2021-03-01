@@ -12,7 +12,7 @@ b_pomona = city
 #b_prado = castle
 #b_corona = city
 #b_mira_loma = temple
-#b_yorba_linda = castle
+#b_yorba_linda_2 = castle
 
 # Misc
 culture = angeleno

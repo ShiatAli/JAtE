@@ -1,0 +1,21 @@
+# c_filmore
+
+# County Title
+title = c_filmore
+
+# Settlements
+max_settlements = 3
+
+b_filmore = castle
+b_santa_paula = city
+#b_buckhorn = temple
+#b_piru = castle
+#b_cavin = city
+#b_bardsdale = temple
+#b_toland_park = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

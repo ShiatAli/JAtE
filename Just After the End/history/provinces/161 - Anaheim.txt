@@ -7,12 +7,12 @@ title = c_anaheim
 max_settlements = 4
 
 b_anaheim = castle
-b_little_arabia = city
+b_fullterton = city
 b_tomorrows_land = temple
-#b_sherwood = castle
-#b_katella = city
-#b_broad_way = temple
-#b_platinum = castle
+b_little_arabia = castle
+#b_la_habra = city
+#b_brea = temple
+#b_yorba_linda = castle
 
 # Misc
 culture = angeleno

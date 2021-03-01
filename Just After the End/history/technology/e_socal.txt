@@ -20,7 +20,8 @@ technology = {
 		d_salton
 		d_san_diego
 		d_santa_barbara
-		d_santa_clara
+		d_santa_clarita
+		d_sheephole
 		d_spring_valley
 		d_the_empire
 		d_ventura

@@ -1,0 +1,21 @@
+# c_malibu
+
+# County Title
+title = c_malibu
+
+# Settlements
+max_settlements = 3
+
+b_malibu = castle
+#b_zuma = city
+#b_monte_nido = temple
+#b_surfrider = castle
+#b_point_dume = city
+#b_countyline = temple
+#b_pepperdine = castle
+
+# Misc
+culture = angeleno
+religion = sedevacantist
+
+#History

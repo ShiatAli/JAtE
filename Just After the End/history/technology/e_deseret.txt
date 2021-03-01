@@ -1,6 +1,7 @@
 #DESERET
 technology = {
 	titles = {
+		d_arizona_strip
 		d_bear_river
 		d_box_elder
 		d_canyonlands

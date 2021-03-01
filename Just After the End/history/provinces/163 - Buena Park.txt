@@ -1,0 +1,21 @@
+# c_buena_park
+
+# County Title
+title = c_buena_park
+
+# Settlements
+max_settlements = 4
+
+b_knotts_farm = castle
+b_buena_park = city
+b_cypress = temple
+#b_cerritos = castle
+#b_la_palma = city
+#b_stanton = temple
+#b_norwalk = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

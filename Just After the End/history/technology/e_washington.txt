@@ -3,6 +3,8 @@ technology = {
 	titles = {
 		d_clallam
 		d_clark
+		d_cowlitz
+		d_eastside
 		d_grays_harbor
 		d_kitsap
 		d_lewis
@@ -14,7 +16,7 @@ technology = {
 		d_san_juan
 		d_seatac
 		d_skagit
-		d_snohomish
+		d_skykomish
 		d_snoqualmie
 		d_thurston
 		d_upper_skagit

@@ -1,0 +1,21 @@
+# c_kyuquot
+
+# County Title
+title = c_kyuquot
+
+# Settlements
+max_settlements = 2
+
+b_port_alice_2 = castle
+#b_rapid_beach = city
+#b_jeune_landing = temple
+#b_mahatta_river = castle
+#b_kyuquot = city
+#b_chamiss_bay = temple
+#b_atluck = castle
+
+# Misc
+culture = kwakwakawakw
+religion = blackfish
+
+#History

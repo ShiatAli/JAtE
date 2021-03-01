@@ -1,0 +1,21 @@
+# c_yucca
+
+# County Title
+title = c_yucca
+
+# Settlements
+max_settlements = 3
+
+b_yucca_valley = castle
+b_sheephole = city
+#b_pioneertown_2 = temple
+#b_rimrock_2 = castle
+#b_twentynine_palm = city
+#b_panorama_heights = temple
+#b_landers_2 = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

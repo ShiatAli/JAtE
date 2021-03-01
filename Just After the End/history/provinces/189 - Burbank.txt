@@ -1,0 +1,21 @@
+# c_burbank
+
+# County Title
+title = c_burbank
+
+# Settlements
+max_settlements = 5
+
+b_burbank = castle
+b_glendale = city
+b_north_hollywood = temple
+b_valley_glen = castle
+#b_toluca = city
+#b_sun_valley = temple
+#b_northridge = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

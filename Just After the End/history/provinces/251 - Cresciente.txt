@@ -1,0 +1,21 @@
+# c_cresciente
+
+# County Title
+title = c_cresciente
+
+# Settlements
+max_settlements = 2
+
+b_puerto_chale = castle
+#b_puerto_cortes = city
+#b_isla_santa_margarita = temple
+#b_el_datilar = castle
+#b_quinones = city
+#b_el_cayuco = temple
+#b_san_francisco = castle
+
+# Misc
+culture = californio
+religion = cetic
+terrain = desert
+#History

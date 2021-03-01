@@ -1,0 +1,21 @@
+# c_lund
+
+# County Title
+title = c_lund
+
+# Settlements
+max_settlements = 3
+
+b_lund = castle
+#b_goat_island = city
+#b_tlaamin = temple
+#b_larsons_landing = castle
+#b_okeover = city
+#b_savary = temple
+#b_pulo_sa = castle
+
+# Misc
+culture = coast_salish
+religion = legislative
+
+#History

@@ -1,0 +1,21 @@
+# c_compton
+
+# County Title
+title = c_compton
+
+# Settlements
+max_settlements = 3
+
+b_compton = castle
+b_carson = city
+#b_lynwood = temple
+#b_paramount = castle
+#b_lakewood = city
+#b_rancho_dominguez = temple
+#b_jordan = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

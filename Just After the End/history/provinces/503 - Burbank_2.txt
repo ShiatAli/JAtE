@@ -1,0 +1,21 @@
+# c_burbank_2
+
+# County Title
+title = c_burbank_2
+
+# Settlements
+max_settlements = 3
+
+b_burbank_2 = castle
+#b_ash = city
+#b_attalia = temple
+#b_wallula = castle
+#b_port_kelly = city
+#b_two_river = temple
+#b_holdman = castle
+
+# Misc
+culture = tricitian
+religion = postadventist
+
+#History

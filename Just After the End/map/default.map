@@ -19,7 +19,7 @@ seasons = "seasons.txt"
 externals = {
 }
 
-sea_zones = { 1064 1097 }
+sea_zones = { 1063 1125 }
 
 ocean_region = {	# Pacific Ocean
 	sea_zones = { 1 }

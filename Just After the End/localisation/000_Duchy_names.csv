@@ -157,6 +157,8 @@ d_elmore;Elmore;Elmore;Elmore;;Elmore;;;;;;;;;x
 d_elmore_adj;Elmorean;;elmorer;;;;;;;;;;;x
 d_emery;Emery;Emery;Emery;;Emery;;;;;;;;;x
 d_emery_adj;Emerian;;emerer;;;;;;;;;;;x
+d_empty_coast;Empty Coast;Empty Coast;Empty Coast;;Empty Coast;;;;;;;;;x
+d_empty_coast_adj;Empty Coastian;;Empty Coaster;;;;;;;;;;;x
 d_ensenada;Ensenada;Ensenada;Ensenada;;Ensenada;;;;;;;;;x
 d_ensenada_adj;Ensenadan;;ensenader;;;;;;;;;;;x
 d_escalante;Escalante;Escalante;Escalante;;Escalante;;;;;;;;;x
@@ -253,8 +255,6 @@ d_inyo;Inyo;Inyo;Inyo;;Inyo;;;;;;;;;x
 d_inyo_adj;Inian;;iner;;;;;;;;;;;x
 d_jicarilla;Jicarilla;Jicarilla;Jicarilla;;Jicarilla;;;;;;;;;x
 d_jicarilla_adj;Jicarillan;;jicariller;;;;;;;;;;;x
-d_johnstone;Johnstone;Johnstone;Johnstone;;Johnstone;;;;;;;;;x
-d_johnstone_adj;Johnstonean;;johnstoner;;;;;;;;;;;x
 d_joshua_tree;Joshua Tree;Joshua Tree;Joshua Tree;;Joshua Tree;;;;;;;;;x
 d_joshua_tree_adj;Joshua Treean;;Joshua Trer;;;;;;;;;;;x
 d_kakigui;Kakigui;Kakigui;Kakigui;;Kakigui;;;;;;;;;x
@@ -471,8 +471,8 @@ d_sandoval;Sandoval;Sandoval;Sandoval;;Sandoval;;;;;;;;;x
 d_sandoval_adj;Sandovalian;;sandovaler;;;;;;;;;;;x
 d_santa_barbara;Santa Barbara;Santa Barbara;Santa Barbara;;Santa Barbara;;;;;;;;;x
 d_santa_barbara_adj;Santa Barbaran;;Santa Barbarer;;;;;;;;;;;x
-d_santa_clara;Santa Clara;Santa Clara;Santa Clara;;Santa Clara;;;;;;;;;x
-d_santa_clara_adj;Santa Claran;;Santa Clarer;;;;;;;;;;;x
+d_santa_clarita;Santa Clarita;Santa Clarita;Santa Clarita;;Santa Clarita;;;;;;;;;x
+d_santa_clarita_adj;Santa Claritan;;Santa Clariter;;;;;;;;;;;x
 d_santa_cruz;Santa Cruz;Santa Cruz;Santa Cruz;;Santa Cruz;;;;;;;;;x
 d_santa_cruz_adj;Santa Cruzian;;Santa Cruzer;;;;;;;;;;;x
 d_santa_fe;Santa Fe;Santa Fe;Santa Fe;;Santa Fe;;;;;;;;;x
@@ -513,8 +513,6 @@ d_solano;Solano;Solano;Solano;;Solano;;;;;;;;;x
 d_solano_adj;Solanian;;solaner;;;;;;;;;;;x
 d_sonoma;Sonoma;Sonoma;Sonoma;;Sonoma;;;;;;;;;x
 d_sonoma_adj;Sonoman;;sonomer;;;;;;;;;;;x
-d_sophia;Sophia;Sophia;Sophia;;Sophia;;;;;;;;;x
-d_sophia_adj;Sophian;;sopher;;;;;;;;;;;x
 d_south_fraser;South Fraser;South Fraser;South Fraser;;South Fraser;;;;;;;;;x
 d_south_fraser_adj;South Fraserian;;South Fraserer;;;;;;;;;;;x
 d_spring_valley;Spring Valley;Spring Valley;Spring Valley;;Spring Valley;;;;;;;;;x
@@ -613,6 +611,8 @@ d_white_sands;White Sands;White Sands;White Sands;;White Sands;;;;;;;;;x
 d_white_sands_adj;White Sandsian;;White Sandser;;;;;;;;;;;x
 d_white_swan;White Swan;White Swan;White Swan;;White Swan;;;;;;;;;x
 d_white_swan_adj;White Swanian;;White Swaner;;;;;;;;;;;x
+d_wild_coast;Wild Coast;Wild Coast;Wild Coast;;Wild Coast;;;;;;;;;x
+d_wild_coast_adj;Wild Coastian;;Wild Coaster;;;;;;;;;;;x
 d_yakima_valley;Yakima Valley;Yakima Valley;Yakima Valley;;Yakima Valley;;;;;;;;;x
 d_yakima_valley_adj;Yakima Valleian;;Yakima Valleer;;;;;;;;;;;x
 d_yampa;Yampa;Yampa;Yampa;;Yampa;;;;;;;;;x

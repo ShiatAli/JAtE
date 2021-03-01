@@ -1,20 +1,24 @@
 #GRAND VANCOUVER
 technology = {
 	titles = {
+		d_beyond_hope
 		d_campbell
-		d_chicktoria
-		d_cowichan
-		d_edinburgh
+		d_cowichan_valley
+		d_delta
+		d_empty_coast
+		d_forest_trails
 		d_fraser
 		d_georgia_strait
-		d_haihte
-		d_halifax
-		d_johnstone
+		d_greater_victoria
+		d_gulf_islands
 		d_lotusland
-		d_parks
-		d_sophia
+		d_north_fraser
+		d_pacific_rim
+		d_sea_to_sky
+		d_south_fraser
 		d_sunshine_coast
 		d_suquash
+		d_wild_coast
 	}
 	2055 = {
 		military = 2.0

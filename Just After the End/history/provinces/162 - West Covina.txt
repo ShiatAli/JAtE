@@ -1,0 +1,21 @@
+# c_west_covina
+
+# County Title
+title = c_west_covina
+
+# Settlements
+max_settlements = 4
+
+b_baldwin_park = castle
+b_industy = city
+b_covina = temple
+#b_glendora = castle
+#b_el_monte = city
+#b_azusa = temple
+#b_san_dimas = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

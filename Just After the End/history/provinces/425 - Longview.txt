@@ -1,0 +1,21 @@
+# c_longview
+
+# County Title
+title = c_longview
+
+# Settlements
+max_settlements = 3
+
+b_longview = castle
+b_woodland_2 = city
+#b_kalama = temple
+#b_preston_2 = castle
+#b_westside_3 = city
+#b_eufaula = temple
+#b_olequa = castle
+
+# Misc
+culture = willapan
+religion = evangelical
+
+#History

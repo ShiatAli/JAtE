@@ -1,0 +1,21 @@
+# c_vernon
+
+# County Title
+title = c_vernon
+
+# Settlements
+max_settlements = 3
+
+b_vernon = castle
+b_lavington = city
+#b_killiney_beach = temple
+#b_silverstar_foothills = castle
+#b_armstrong_2 = city
+#b_enderby = temple
+#b_ashton_creek = castle
+
+# Misc
+culture = inlander
+religion = evangelical
+
+#History

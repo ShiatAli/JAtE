@@ -134,9 +134,6 @@
 1886038 = { name="Rattenbury" culture=islander }
 1886039 = { name="Wilkinson" culture=islander }
 1886040 = { name="Farquhar" culture=islander }
-1886041 = { name="Fernwood" culture=islander }
-1886042 = { name="Burgoyne" culture=islander}
-1886043 = { name="Gold" culture=islander}
 
 1887000 = { name="Yip" culture=vancouverite }
 1887001 = { name="Wong" culture=vancouverite }

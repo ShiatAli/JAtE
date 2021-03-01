@@ -1,0 +1,21 @@
+# c_lytton
+
+# County Title
+title = c_lytton
+
+# Settlements
+max_settlements = 3
+
+b_lytton_2 = castle
+#b_spences_bridge_2 = city
+#b_kanaka_bar = temple
+#b_keefers = castle
+#b_nicomen = city
+#b_lions_gate = temple
+#b_nuuautin = castle
+
+# Misc
+culture = canuck
+religion = evangelical
+
+#History

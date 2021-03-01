@@ -1,0 +1,21 @@
+# c_ahousat
+
+# County Title
+title = c_ahousat
+
+# Settlements
+max_settlements = 2
+
+b_ahousat = castle
+#b_marktosis = city
+#b_hot_springs_cove = temple
+#b_gold_river = castle
+#b_mooyah_bay = city
+#b_hesquiat_bay = temple
+#b_strathcona = castle
+
+# Misc
+culture = nuuchahnulth
+religion = legislative
+
+#History

@@ -1,0 +1,21 @@
+# c_lake_mountain
+
+# County Title
+title = c_lake_mountain
+
+# Settlements
+max_settlements = 3
+
+b_saratoga_springs = castle
+#b_fairfield_2 = city
+#b_cedar_fort = temple
+#b_eagle_mountain_3 = castle
+#b_cedar_valley = city
+#b_wiley_canyon = temple
+#b_cedar_pass = castle
+
+# Misc
+culture = provo
+religion = mormon
+
+#History
