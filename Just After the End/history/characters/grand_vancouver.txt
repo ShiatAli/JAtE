@@ -54,9 +54,8 @@
 
 	2023.2.17={birth=yes}
 	2041.4.10={add_matrilineal_spouse = 071402}
-	2049.6.25={death = {death_reason = death_murder_unknown}
+	2049.6.25={death = {death_reason = death_murder_unknown}}
 }
-
 071403 ={ # azure's daughter
 	name="Indigo"
 	female="yes"
@@ -104,7 +103,15 @@
 	trait=proud
 	trait=content
 	trait=bisexual
-
 	2028.1.18={birth=yes}
-	2054.5.8=(add_lover=071401)
+	2054.5.8={add_lover=071401}
 }
+#0737xx   d south fraser
+073701 ={ #
+	name="Bhupinder"
+	dynasty=1891005
+	culture=vainakuvaraita
+	religion=sikh
+	2034.1.2={birth=yes}
+}
+
