@@ -12,7 +12,7 @@ b_puerto_chale = castle
 #b_el_datilar = castle
 #b_quinones = city
 #b_el_cayuco = temple
-#b_san_francisco = castle
+#b_san_francisco_2 = castle
 
 # Misc
 culture = californio

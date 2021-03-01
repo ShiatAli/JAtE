@@ -1604,7 +1604,7 @@ e_baja = {
 				}
 				b_el_cayuco = {
 				}
-				b_san_francisco = {
+				b_san_francisco_2 = {
 				}
 			}
 			c_banderitas = { # 253
@@ -5263,48 +5263,67 @@ e_deseret = {
 	}
 }
 e_gran_francisco = {
-	color={ 39 15 75 }
+	color={ 39 221 25 }
 	color2={ 255 255 20 }
 	
-	capital = 2 # c_san_mateo
-	culture = stanforder
+	capital = 1 # c_san_francisco
+	culture = bayfolk
 	
 	k_goldengate = {
-		color={ 29 25 70 }
+		color={ 29 231 20 }
 		color2={ 255 255 255 }
 		
-		capital = 2 # c_san_mateo
-		culture = stanforder
+		capital = 1 # c_san_francisco
+		culture = bayfolk
 		
+		c_san_francisco = { # 1
+			color={ 255 5 5 }
+			color2={ 255 255 255 }
+			
+			b_san_francisco = {
+			}
+			b_richmond_district = {
+			}
+			b_embarcadero = {
+			}
+			b_mission_district = {
+			}
+			b_sunset_district = {
+			}
+			b_hunters_point = {
+			}
+			b_the_castro = {
+			}
+		}
 		d_san_francisco = {
-			color={ 9 45 60 }
+			color={ 9 251 10 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 2 province_id = 3 province_id = 4 } }
+					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 province_id = 4 } }
 				}
 			}
-			capital = 2 # c_san_mateo
+			capital = 1 # c_san_francisco
 			
-			c_san_mateo = { # 2
-				color={ 255 55 55 }
+			c_san_francisco = { # 1
+				color={ 255 5 5 }
 				color2={ 255 255 255 }
 				
-				b_san_mateo = {
+				b_san_francisco = {
 				}
-				b_south_san_francisco = {
+				b_richmond_district = {
 				}
-				b_daly_city = {
+				b_embarcadero = {
 				}
-				b_san_bruno = {
+				b_mission_district = {
 				}
-				b_millbrae = {
+				b_sunset_district = {
 				}
-				b_burlingame = {
+				b_hunters_point = {
 				}
-				b_brisbane = {
+				b_the_castro = {
 				}
 			}
 			c_half_moon_bay = { # 4
@@ -5343,6 +5362,25 @@ e_gran_francisco = {
 				b_foster_city = {
 				}
 				b_east_palo_alto = {
+				}
+			}
+			c_san_mateo = { # 2
+				color={ 255 55 55 }
+				color2={ 255 255 255 }
+				
+				b_san_mateo = {
+				}
+				b_south_san_francisco = {
+				}
+				b_daly_city = {
+				}
+				b_san_bruno = {
+				}
+				b_millbrae = {
+				}
+				b_burlingame = {
+				}
+				b_brisbane = {
 				}
 			}
 		}

@@ -4303,6 +4303,8 @@ b_elwood;Elwood;Elwood;Elwood;;Elwood;;;;;;;;;x
 b_elwood_adj;Elwoodian;;elwooder;;;;;;;;;;;x
 b_ely;Ely;Ely;Ely;;Ely;;;;;;;;;x
 b_ely_adj;Elian;;eler;;;;;;;;;;;x
+b_embarcadero;Embarcadero;Embarcadero;Embarcadero;;Embarcadero;;;;;;;;;x
+b_embarcadero_adj;Embarcaderian;;embarcaderer;;;;;;;;;;;x
 b_ember;Ember;Ember;Ember;;Ember;;;;;;;;;x
 b_ember_adj;Emberian;;emberer;;;;;;;;;;;x
 b_emblem;Emblem;Emblem;Emblem;;Emblem;;;;;;;;;x
@@ -6199,6 +6201,8 @@ b_hunter_2;Hunter;Hunter;Hunter;;Hunter;;;;;;;;;x
 b_hunter_2_adj;Hunterian;;hunterer;;;;;;;;;;;x
 b_hunters;Hunters;Hunters;Hunters;;Hunters;;;;;;;;;x
 b_hunters_adj;Huntersian;;hunterser;;;;;;;;;;;x
+b_hunters_point;Hunters Point;Hunters Point;Hunters Point;;Hunters Point;;;;;;;;;x
+b_hunters_point_adj;Hunters Pointian;;Hunters Pointer;;;;;;;;;;;x
 b_huntington;Huntington;Huntington;Huntington;;Huntington;;;;;;;;;x
 b_huntington_adj;Huntingtonian;;huntingtoner;;;;;;;;;;;x
 b_huntington_2;Huntington;Huntington;Huntington;;Huntington;;;;;;;;;x
@@ -8593,6 +8597,8 @@ b_mission_2;Mission;Mission;Mission;;Mission;;;;;;;;;x
 b_mission_2_adj;Missionian;;missioner;;;;;;;;;;;x
 b_mission_canyon;Mission Canyon;Mission Canyon;Mission Canyon;;Mission Canyon;;;;;;;;;x
 b_mission_canyon_adj;Mission Canyonian;;Mission Canyoner;;;;;;;;;;;x
+b_mission_district;Mission District;Mission District;Mission District;;Mission District;;;;;;;;;x
+b_mission_district_adj;Mission Districtian;;Mission Districter;;;;;;;;;;;x
 b_mission_grove;Mission Grove;Mission Grove;Mission Grove;;Mission Grove;;;;;;;;;x
 b_mission_grove_adj;Mission Grovean;;Mission Grover;;;;;;;;;;;x
 b_mission_soledad;Mission Soledad;Mission Soledad;Mission Soledad;;Mission Soledad;;;;;;;;;x
@@ -11035,6 +11041,8 @@ b_richmond;Richmond;Richmond;Richmond;;Richmond;;;;;;;;;x
 b_richmond_adj;Richmondian;;richmonder;;;;;;;;;;;x
 b_richmond_2;Richmond;Richmond;Richmond;;Richmond;;;;;;;;;x
 b_richmond_2_adj;Richmondian;;richmonder;;;;;;;;;;;x
+b_richmond_district;Richmond District;Richmond District;Richmond District;;Richmond District;;;;;;;;;x
+b_richmond_district_adj;Richmond Districtian;;Richmond Districter;;;;;;;;;;;x
 b_richmond_grove;Richmond Grove;Richmond Grove;Richmond Grove;;Richmond Grove;;;;;;;;;x
 b_richmond_grove_adj;Richmond Grovean;;Richmond Grover;;;;;;;;;;;x
 b_richvale;Richvale;Richvale;Richvale;;Richvale;;;;;;;;;x
@@ -11599,6 +11607,8 @@ b_san_fidel;San Fidel;San Fidel;San Fidel;;San Fidel;;;;;;;;;x
 b_san_fidel_adj;San Fidelian;;San Fideler;;;;;;;;;;;x
 b_san_francisco;San Francisco;San Francisco;San Francisco;;San Francisco;;;;;;;;;x
 b_san_francisco_adj;San Franciscian;;San Franciscer;;;;;;;;;;;x
+b_san_francisco_2;San Francisco;San Francisco;San Francisco;;San Francisco;;;;;;;;;x
+b_san_francisco_2_adj;San Franciscian;;San Franciscer;;;;;;;;;;;x
 b_san_fransisquito;San Fransisquito;San Fransisquito;San Fransisquito;;San Fransisquito;;;;;;;;;x
 b_san_fransisquito_adj;San Fransisquitian;;San Fransisquiter;;;;;;;;;;;x
 b_san_gregorio;San Gregorio;San Gregorio;San Gregorio;;San Gregorio;;;;;;;;;x
@@ -12941,6 +12951,8 @@ b_sunset_2;Sunset;Sunset;Sunset;;Sunset;;;;;;;;;x
 b_sunset_2_adj;Sunsetian;;sunseter;;;;;;;;;;;x
 b_sunset_beach;Sunset Beach;Sunset Beach;Sunset Beach;;Sunset Beach;;;;;;;;;x
 b_sunset_beach_adj;Sunset Beachian;;Sunset Beacher;;;;;;;;;;;x
+b_sunset_district;Sunset District;Sunset District;Sunset District;;Sunset District;;;;;;;;;x
+b_sunset_district_adj;Sunset Districtian;;Sunset Districter;;;;;;;;;;;x
 b_sunshine;Sunshine;Sunshine;Sunshine;;Sunshine;;;;;;;;;x
 b_sunshine_adj;Sunshinean;;sunshiner;;;;;;;;;;;x
 b_sunshine_valley;Sunshine Valley;Sunshine Valley;Sunshine Valley;;Sunshine Valley;;;;;;;;;x
@@ -13255,6 +13267,8 @@ b_the_avenues;The Avenues;The Avenues;The Avenues;;The Avenues;;;;;;;;;x
 b_the_avenues_adj;The Avenuesian;;The Avenueser;;;;;;;;;;;x
 b_the_buttes;The Buttes;The Buttes;The Buttes;;The Buttes;;;;;;;;;x
 b_the_buttes_adj;The Buttesian;;The Butteser;;;;;;;;;;;x
+b_the_castro;The Castro;The Castro;The Castro;;The Castro;;;;;;;;;x
+b_the_castro_adj;The Castrian;;The Castrer;;;;;;;;;;;x
 b_the_commons;The Commons;The Commons;The Commons;;The Commons;;;;;;;;;x
 b_the_commons_adj;The Commonsian;;The Commonser;;;;;;;;;;;x
 b_the_craters;The Craters;The Craters;The Craters;;The Craters;;;;;;;;;x

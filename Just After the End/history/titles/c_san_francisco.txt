@@ -1,0 +1,14 @@
+# e_gran_francisco
+1990.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+2034.1.1={
+	holder=37000
+}
+2056.1.1={
+	holder=37001
+}
+2070.2.14={
+	holder=37002
+}
