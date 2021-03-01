@@ -7,5 +7,5 @@
 	liege=k_goldengate
 }
 2047.1.1={
-	holder=37051
+	holder=062102
 }
