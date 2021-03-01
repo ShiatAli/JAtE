@@ -6,3 +6,7 @@
 2000.1.1={
 	liege=k_victoria
 }
+2055.1.1={
+	holder=071401
+	capital=b_cap_hill
+}

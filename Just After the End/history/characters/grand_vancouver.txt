@@ -1,4 +1,110 @@
 #07xxxx   e grand vancouver
 	#071xxx   k south island
+		#0711xx   d cowichan valley
+		#0712xx   d forest trails
+		#0713xx   d greater victoria
+		#0714xx   d gulf islands
+		#0715xx   d pacific rim
 	#072xxx   k upisland
+		#0721xx   d campbell
+		#0722xx   d empty coast
+		#0723xx   d suquash
+		#0724xx   d wild coast
 	#073xxx   k vancouver
+		#0731xx   d delta
+		#0732xx   d fraser
+		#0733xx   d georgia strait
+		#0734xx   d lotusland
+		#0735xx   d north fraser
+		#0736xx   d sea-to-sky
+		#0737xx   d south fraser
+		#0738xx   d sunshine coast
+
+
+071401 ={ # count of gabriola
+	name="Azure"
+	female="yes"
+	dynasty=1886043
+	culture=islander
+	religion=legislative
+	disallow_random_traits=yes
+	martial=3
+	diplomacy=4
+	intrigue=0
+	stewardship=6
+	learning=8
+	trait=scholarly_theologian
+	trait=weak
+	trait=lefthanded
+	trait=shrewd
+	trait=kind
+	trait=patient
+	trait=erudite
+	trait=shy
+	trait=freckles_5
+
+	2023.1.18={birth=yes}
+	2041.4.10={add_matrilineal_spouse = 071402}
+}
+
+071402 ={ # husband of Azure
+	name="Ethan"
+	culture=islander
+	religion=jewish
+
+	2023.2.17={birth=yes}
+	2041.4.10={add_matrilineal_spouse = 071402}
+	2049.6.25={death = {death_reason = death_murder_unknown}
+}
+
+071403 ={ # azure's daughter
+	name="Indigo"
+	female="yes"
+	mother = 071401
+	father = 071402
+	dynasty=1886043
+	culture=islander
+	religion=legislative
+	trait=twin
+	trait=freckles_5
+
+	2050.1.2={birth=yes}
+}
+
+071403 ={ # azure's son
+	name="Eli"
+	mother = 071401
+	father = 071402
+	dynasty=1886043
+	culture=islander
+	religion=legislative
+	trait=twin
+	trait=lefthanded
+	trait=freckles_5
+
+	2050.1.3={birth=yes}
+}
+
+071411 ={ # the himbo count of Saltspring
+	name="Devon"
+	dynasty=1886042
+	culture=islander
+	religion=legislative
+	disallow_random_traits=yes
+	martial=5
+	diplomacy=2
+	intrigue=7
+	stewardship=0
+	learning=0
+	trait=flamboyant_schemer
+	trait=fair
+	trait=dull
+	trait=seducer
+	trait=lustful
+	trait=proud
+	trait=content
+	trait=bisexual
+
+	2028.1.18={birth=yes}
+	2054.5.8=(add_lover=071401)
+}
