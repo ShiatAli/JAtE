@@ -7,6 +7,6 @@
 	liege=k_clearwater
 }
 
-2055.1.1={
-	liege=d_pend_orielle
+2048.1.1={
+	holder=102602
 }
