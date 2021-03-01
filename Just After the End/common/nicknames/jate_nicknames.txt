@@ -1,2 +1,3 @@
 nick_the_wanderer = {}
 nick_the_runner = {}
+nick_the_suspicious = {}

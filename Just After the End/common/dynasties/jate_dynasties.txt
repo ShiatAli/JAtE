@@ -648,6 +648,9 @@
 2066068 = { name="Volkoff" culture=panhandler}
 2066069 = { name="Romero" culture=panhandler}
 
+#Clarkard
+1712000 = { name="Albertson" culture=panhandler}
+
 #Dynasties in Pike place
 3000000 = { name="Berry" culture=cascadian }
 3000001 = { name="Ito" culture=cascadian }

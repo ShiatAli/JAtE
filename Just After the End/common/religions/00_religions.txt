@@ -6536,3 +6536,62 @@ proto-gaian = {
 		intermarry = neognostic
 	}
 }
+
+
+dianetic = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	#crusade_cb = crusade
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2
+	ai_convert_other_group = 1
+	
+	color = { 157 167 201 }
+	
+	interface_skin = { oldworld_interface }
+
+	scientology = {
+		graphical_culture = norsegfx
+
+		icon = 8
+		heresy_icon = 9
+		
+		color = { 167 183 236}
+
+		high_god_name = GOD_THE_CHAIRMAN
+
+		god_names = {
+			GOD_SCIO GOD_LOGOS GOD_ETHICS GOD_THE_SUPREME_BEING
+		}
+		evil_god_names = {
+			GOD_THE_SUPPRESSIVE GOD_THE_PSYCHS
+		}
+
+		character_modifier = {
+			intrigue = 2
+		}
+
+		crusade_name = OPERATION
+		scripture_name = THE_COMMUNICATIONS
+		priest_title = PRIEST
+		priests_can_marry = yes
+		female_temple_holders = yes
+
+		defensive_attrition = yes		
+		can_demand_religious_conversion = no
+
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		uses_jizya_tax = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+	}
+}

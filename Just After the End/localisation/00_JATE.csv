@@ -113,6 +113,7 @@ eastern;Eastern;;;;;;;;;;;;;x
 high_cults;High Cults;;;;;;;;;;;;;x
 occultist;Occultist;;;;;;;;;;;;;x
 proto-gaian;Proto-Gaian;;;;;;;;;;;;;x
+dianetic;Dianetic;;;;;;;;;;;;;x
 
 #Black Cross
 black_cross;Black Cross;;;;;;;;;;;;;x
@@ -662,6 +663,19 @@ RAMBLE;Ramble;;;;;;;;;;;;;x
 THE_DUMP_ROAD_YODEL;The Dump Road Yodel;;;;;;;;;;;;;x
 FIRE_DREAMER;Fire Dreamer;;;;;;;;;;;;;x
 
+#Scientology
+scientology;Scientology;;;;;;;;;;;;;x
+scientology_DESC;The Scientologists jealously guard the communications and the revealed technology of their founder Chairman Hubbard. In their process and rituals they see authenticity, true ethics and love of knowledge setting itself against the false implants that distract and torment the various un-clear peoples. Tortured souls come dripping down the unknown gulf of trillions of years into our own time, where they fasten into the flesh and minds of living men and fester causing illness and madness. Scientologists believe that through the strictly controlled and monitored application of  Hubbard's knowledge and religious technology, one can cleanse the flesh and mind with the goal of becoming true self-moving souls.;;;;;;;;;;;;;x
+GOD_THE_CHAIRMAN;The Chairman;;;;;;;;;;;;;x
+GOD_SCIO;Scio;;;;;;;;;;;;;x
+GOD_LOGOS;Logos;;;;;;;;;;;;;x
+GOD_ETHICS;Ethics;;;;;;;;;;;;;x
+GOD_THE_SUPREME_BEING;The Supreme Being;;;;;;;;;;;;;x
+GOD_THE_SUPPRESSIVE;The Suppressive;;;;;;;;;;;;;x
+GOD_THE_PSYCHS;;;;;;;;;;;;;x
+OPERATION;Operation;;;;;;;;;;;;;x
+THE_COMMUNICATIONS;The Communications;;;;;;;;;;;;;x
+
 ###########Title Names###########
 count_makah;Cha-batth;;;;;;;;;;;;;x
 duke_makah;A'aho Cha-batth;;;;;;;;;;;;;x
@@ -669,3 +683,4 @@ duke_makah;A'aho Cha-batth;;;;;;;;;;;;;x
 ###########Nicknames###########
 nick_the_wanderer;the Wanderer;;;;;;;;;;;;;x
 nick_the_runner;the Runner;;;;;;;;;;;;;x
+nick_the_suspicious;the Suspicious;;;;;;;;;;;;;x

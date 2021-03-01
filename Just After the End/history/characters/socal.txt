@@ -90,3 +90,24 @@
 	2026.4.4={birth=yes}
 	2080.9.2={death=yes}
 }
+
+#Grand VEGAS
+171201 ={ #When the reference is SUS
+	name="Jeremiah"
+	dynasty=1712000
+	culture=clarkard
+	religion=fortunist
+	trait=elusive_shadow
+	trait=lunatic
+	trait=kind
+	trait=ambitious
+	trait=attractive
+	martial=4
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=6
+	give_nickname=nick_the_suspicious
+	2020.4.4={birth=yes}
+	2080.9.2={death=yes}
+}
