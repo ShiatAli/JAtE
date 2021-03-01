@@ -34,14 +34,13 @@
 	stewardship=6
 	learning=8
 	trait=scholarly_theologian
-	trait=weak
 	trait=lefthanded
 	trait=shrewd
 	trait=kind
 	trait=patient
 	trait=erudite
 	trait=shy
-	trait=freckles_5
+	trait=freckles_2
 
 	2023.1.18={birth=yes}
 	2041.4.10={add_matrilineal_spouse = 071402}
@@ -53,8 +52,7 @@
 	religion=jewish
 
 	2023.2.17={birth=yes}
-	2041.4.10={add_matrilineal_spouse = 071402}
-	2049.6.25={death = {death_reason = death_murder_unknown}}
+	2050.1.25={death=yes}
 }
 071403 ={ # azure's daughter
 	name="Indigo"
@@ -65,12 +63,12 @@
 	culture=islander
 	religion=legislative
 	trait=twin
-	trait=freckles_5
+	trait=freckles_2
 
 	2050.1.2={birth=yes}
 }
 
-071403 ={ # azure's son
+071404 ={ # azure's son
 	name="Eli"
 	mother = 071401
 	father = 071402
@@ -79,7 +77,7 @@
 	religion=legislative
 	trait=twin
 	trait=lefthanded
-	trait=freckles_5
+	trait=freckles_2
 
 	2050.1.3={birth=yes}
 }
@@ -103,6 +101,7 @@
 	trait=proud
 	trait=content
 	trait=bisexual
+	trait=patient
 	2028.1.18={birth=yes}
 	2054.5.8={add_lover=071401}
 }
