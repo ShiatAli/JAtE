@@ -3,9 +3,9 @@
 	law = cognatic_succession
 	law = succ_gavelkind
 }
-2037.1.2={
-	holder=37120
+2037.1.1={
+	holder=061201
 }
 2062.1.1={
-	holder=061201
+	holder=37120
 }
