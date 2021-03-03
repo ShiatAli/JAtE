@@ -3881,18 +3881,23 @@ oldworld = {
 		
 		interface_skin = { americanist_interface oldworld_interface }
 
-		crusade_name = RESTORATION_OF_ORDER
-		scripture_name = THE_CONSTITUTION
+		crusade_name = FORWARD_OPERATION
+		scripture_name = THE_FINAL_ORDERS
 		priest_title = SERGEANT
 		piety_name = PATRIOTISM
 		
-		high_god_name = GOD_AMERICA
+		high_god_name = GOD_THE_ARMOR_OF_GOD
 		
 		god_names = { 
-			GOD_THE_CONSTITUTION GOD_THE_LAW GOD_THE_ORDER GOD_THE_STATE
+			GOD_THE_EAGLE GOD_THE_LAW GOD_THE_CORPS GOD_THE_SWORD_OF_THE_SPIRIT
 		}
 		evil_god_names = { 
-			GOD_CHAOS GOD_THE_ENEMY
+			GOD_TREASON GOD_THE_ADVERSARY GOD_OPFOR
+		}
+		
+		character_modifier = {
+			martial = 2
+			personal_combat_skill = 5
 		}
 		
 		can_excommunicate = yes
@@ -5077,18 +5082,18 @@ high_cults = {
 			intrigue = 2
 		}
 
-		high_god_name = GOD_HAYS
+		high_god_name = GOD_THE_ASSOCIATION
 
 		god_names = {
-			GOD_THALBERG GOD_WURTZEL GOD_ALLEN GOD_QUIGLEY GOD_LORD
+			GOD_HERO GOD_BEAUTY GOD_VILLAIN GOD_FAME GOD_IDOL
 		}
 
 		evil_god_names = {
-			GOD_JOHN_WATERS GOD_PREMINGER
+			GOD_VILLAIN GOD_BLACKLIST
 		}
 
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_HAYS_CODE
+		crusade_name = PREMIERE
+		scripture_name = THE_CODE
 		priest_title = PRIEST
 
 		can_grant_divorce = yes

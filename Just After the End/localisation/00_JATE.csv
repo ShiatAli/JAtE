@@ -255,18 +255,19 @@ FIREMAN;Fireman;;;;;;;;;;;;;x
 
 #Fidelii
 fidelii;Fidelii;;;;;;;;;;;;;x
-fidelii_DESC;Fidelii are not a religion in the traditional sense. The remnants of federal, military and state authorities are trying to preserve the small remnants of order that have remained in America. Fighting against the various sects and movements that raised their heads after the event, the constitutionalists seek to restore the old way of life.;;;;;;;;;;;;;x
-GOD_THE_CONSTITUTION;The Constitution;;;;;;;;;;;;;x
-GOD_AMERICA;America;;;;;;;;;;;;;x
+fidelii_DESC;All has been lost. A thousand cities were put to the sword during the fall, the Fifty Tribes of Old America were broken and devoured by dark treachery and unholy brimstone. The only followers of the ancient creed that remain are the few, the proud. Their foes curse them and call them devil dogs, but these grim hero-cultists know themselves only as the All-Faithful. Around their barrack fires and hearths they tell the tales of Old America, where steel-clad citizen-soldiers cast down their foes from half the world away, where winged armor split the heavens in two with thunder and rained down burning lances upon the heads of the enemy. Whatever is left must be protected. It is left to the Fidelii to enforce the Laws of the Old Founders until a new President and Chief-of-Armys may be selected, whenever that may be. Haec Protegimus.;;;;;;;;;;;;;x
+GOD_THE_ARMOR_OF_GOD;The Armor of God;;;;;;;;;;;;;x
+GOD_THE_EAGLE;The Eagle;;;;;;;;;;;;;x
 GOD_THE_LAW;The Law;;;;;;;;;;;;;x
-GOD_THE_ORDER;The Order;;;;;;;;;;;;;x
-GOD_THE_STATE;The State;;;;;;;;;;;;;x
-GOD_CHAOS;Chaos;;;;;;;;;;;;;x
-GOD_THE_ENEMY;The Enemy;;;;;;;;;;;;;x
+GOD_THE_CORPS;The Corps;;;;;;;;;;;;;x
+GOD_THE_SWORD_OF_THE_SPIRIT;The Sword of the Spirit;;;;;;;;;;;;;x
+GOD_TREASON;Treason;;;;;;;;;;;;;x
+GOD_THE_ADVERSARY;The Adversary;;;;;;;;;;;;;x
+GOD_OPFOR;OPFOR;;;;;;;;;;;;;x
 PATRIOTISM;Patriotism;;;;;;;;;;;;;x
-RESTORATION_OF_ORDER;Restoration of Order;;;;;;;;;;;;;x
+FORWARD_OPERATION;Forward Operation;;;;;;;;;;;;;x
+THE_FINAL_ORDERS;The Final Orders;;;;;;;;;;;;;x
 SERGEANT;Sergeant;;;;;;;;;;;;;x
-THE_CONSTITUTION;The Constitution;;;;;;;;;;;;;x
 
 #Adventist
 #Their localization exists elsewhere already so yee haw
@@ -572,16 +573,17 @@ THE_CARDS;The Cards;;;;;;;;;;;;;x
 
 #Haysian
 haysian;Haysian;;;;;;;;;;;;;x
-haysian_DESC;The great prophet Hays was a pre-Event man who revealed his Code to the people of Hollywood. Strict adherence to his laws could see a man saved from being struck down by the Censor, a karmic force of punishment. His laws are many, but the punishment for failure is great…;;;;;;;;;;;;;x
-GOD_HAYS;Hays;;;;;;;;;;;;;x
-GOD_THALBERG;Thalberg;;;;;;;;;;;;;x
-GOD_WURTZEL;Wurtzel;;;;;;;;;;;;;x
-GOD_ALLEN;Allen;;;;;;;;;;;;;x
-GOD_QUIGLEY;Quigley;;;;;;;;;;;;;x
-GOD_LORD;Lord;;;;;;;;;;;;;x
-GOD_JOHN_WATERS;John Waters;;;;;;;;;;;;;x
-GOD_PREMINGER;Preminger;;;;;;;;;;;;;x
-THE_HAYS_CODE;The Hays Code;;;;;;;;;;;;;x
+haysian_DESC;The Americans once crowded around great mirrors and scrying stones with religious compulsion, and in the searing light of ancient magic they witnessed an endless series of rapturous wonders. Empires rose and fell in an hour, lovers gasped and clung to each other with golden hair and red lips, crooning dark-haired troubadours sang to their loves and faced off against jealous villains, crag-faced warriors and conquerors reenacted stories written by men whose ancient bones were already dust. The glowing gods of Tragedia and Comedia strode through the electric dream-world in the flicker of magic lamps and gave color and life to dull muddy reality. This ancient art was practiced under the watchful eye of the Code of Hays, tempering the excess and wildness of the celebrity-thespians and ensuring moral cleanliness and right-minded behavior. As they say, the stars are indeed ageless.;;;;;;;;;;;;;x
+GOD_THE_ASSOCIATION;The Association;;;;;;;;;;;;;x
+GOD_HERO;Hero;;;;;;;;;;;;;x
+GOD_BEAUTY;Beauty;;;;;;;;;;;;;x
+GOD_VILLAIN;Villain;;;;;;;;;;;;;x
+GOD_FAME;Fame;;;;;;;;;;;;;x
+GOD_IDOL;Idol;;;;;;;;;;;;;x
+GOD_VILLAIN;Villain;;;;;;;;;;;;;x
+GOD_BLACKLIST;Blacklist;;;;;;;;;;;;;x
+THE_CODE;The Code;;;;;;;;;;;;;x
+premiere;Premiere;;;;;;;;;;;;;x
 
 #Siliconist
 siliconist;Siliconist;;;;;;;;;;;;;x
