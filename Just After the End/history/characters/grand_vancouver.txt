@@ -42,8 +42,12 @@
 	trait=shy
 	trait=freckles_2
 
-	2023.1.18={birth=yes}
-	2041.4.10={add_matrilineal_spouse = 071402}
+	2023.1.18={
+		birth=yes
+	}
+	2041.4.10={
+		
+	}
 }
 
 071402 ={ # husband of Azure
@@ -51,27 +55,36 @@
 	culture=islander
 	religion=jewish
 
-	2023.2.17={birth=yes}
-	2050.1.25={death=yes}
+	2023.2.17={
+		birth=yes
+	}
+	2041.4.10={
+		add_matrilineal_spouse=071401
+	}
+	2050.1.25={
+		death=yes
+	}
 }
 071403 ={ # azure's daughter
 	name="Indigo"
 	female="yes"
-	mother = 071401
-	father = 071402
+	mother=071401
+	father=071402
 	dynasty=1886043
 	culture=islander
 	religion=legislative
 	trait=twin
 	trait=freckles_2
 
-	2050.1.2={birth=yes}
+	2050.1.2={
+		birth=yes
+	}
 }
 
 071404 ={ # azure's son
 	name="Eli"
-	mother = 071401
-	father = 071402
+	mother=071401
+	father=071402
 	dynasty=1886043
 	culture=islander
 	religion=legislative
@@ -79,7 +92,9 @@
 	trait=lefthanded
 	trait=freckles_2
 
-	2050.1.3={birth=yes}
+	2050.1.3={
+		birth=yes
+	}
 }
 
 071411 ={ # the himbo count of Saltspring
@@ -105,6 +120,7 @@
 	2028.1.18={birth=yes}
 	2054.5.8={add_lover=071401}
 }
+
 #0737xx   d south fraser
 073701 ={ #
 	name="Bhupinder"
