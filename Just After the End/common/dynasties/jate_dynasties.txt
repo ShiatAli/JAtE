@@ -134,6 +134,7 @@
 1886038 = { name="Rattenbury" culture=islander }
 1886039 = { name="Wilkinson" culture=islander }
 1886040 = { name="Farquhar" culture=islander }
+#dont use the rest of the 18860xx range
 
 1887000 = { name="Yip" culture=vancouverite }
 1887001 = { name="Wong" culture=vancouverite }
@@ -665,3 +666,16 @@
 3000008 = { name="de Leones" culture=californio }
 3000009 = { name="Fierro" culture=sonorense }
 3000010 = { name="Blossom" culture=eastshore }
+
+#Grand Van Starting dynasties
+#South Island
+1886041 = { name="Gold" culture=islander }
+1886042 = { name="Burgoyne" culture=islander }
+1886043 = { name="Barrett" culture=islander }
+1886044 = { name="TSouke" culture=coast_salish }
+1886045 = { name="Douglas" culture=islander }
+1886046 = { name="Labh" culture=vainakuvaraita }
+1886047 = { name="wawaax7adi7s7aa7tx" culture=nuuchahnulth }
+1886048 = { name="da7uu7aa7tx" culture=nuuchahnulth }
+1886049 = { name="Qwulthimulet" culture=coast_salish }
+1886050 = { name="Qwiyahwult hw"} culture=coast_salish
