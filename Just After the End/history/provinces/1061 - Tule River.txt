@@ -15,7 +15,7 @@ b_tule_river = castle
 #b_pine_flat = castle
 
 # Misc
-culture = yokut
+culture = mono
 religion = kuksu
 
 #History

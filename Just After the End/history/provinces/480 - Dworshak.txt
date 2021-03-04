@@ -15,7 +15,7 @@ b_deary = city
 #b_bovill = castle
 
 # Misc
-culture = sawtooth
+culture = panhandler
 religion = sovereignist
 
 #History

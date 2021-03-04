@@ -16,6 +16,6 @@ b_colorado_city_3 = castle
 
 # Misc
 culture = staircaser
-religion = wooleyite
+religion = woolleyite
 
 #History

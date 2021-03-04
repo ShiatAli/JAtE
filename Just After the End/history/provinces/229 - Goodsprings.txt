@@ -16,6 +16,6 @@ b_goodsprings = castle
 
 # Misc
 culture = clarkard
-religion = cetic
+religion = fortunist
 
 #History

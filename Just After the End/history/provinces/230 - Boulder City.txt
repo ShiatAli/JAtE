@@ -16,6 +16,6 @@ b_emerald_cove = temple
 
 # Misc
 culture = clarkard
-religion = cetic
+religion = fortunist
 
 #History

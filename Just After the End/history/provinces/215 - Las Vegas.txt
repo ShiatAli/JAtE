@@ -16,6 +16,6 @@ b_enterprise = city
 
 # Misc
 culture = clarkard
-religion = cetic
+religion = fortunist
 
 #History
