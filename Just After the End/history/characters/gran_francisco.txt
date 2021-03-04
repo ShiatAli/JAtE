@@ -318,7 +318,7 @@
 	# }
 	# 2088.1.10={death=yes}
 # }
-37121={ #potential Hana Blossom
+061210={ #potential Hana Blossom
 	name="Lily" #Flower
 	dynasty=3000010
 	female=yes
@@ -333,7 +333,7 @@
 	2043.1.3={birth=yes}
 	2069.1.1={death=yes}
 }
-37122={ #potential Hana Blossom
+061211={ #potential Hana Blossom
 	name="Azalea" #Flower
 	dynasty=3000010
 	female=yes
@@ -348,7 +348,7 @@
 	2043.1.3={birth=yes}
 	2069.1.1={death=yes}
 }
-37131={ #Berkeley
+061221={ #Berkeley
 	name="Charles"
 	dynasty=1849083 #Wang
 	culture=eastshore
@@ -372,57 +372,16 @@
 	2078.1.1={death=yes}
 }
 #Wineland
-
-066302={ #William Altermira - Wineland
-	name="William"
-	dynasty=3000005
-	culture=winelander 
-	religion=sedevacantist #placeholder
-	diplomacy=9
-	trait=hedonist
-	trait=drunkard
-	trait=sloth
-	trait=charismatic_negotiator
-	2030.12.21={birth=yes}
-	2067.1.1={death=yes}
-}
-37201={ #Mariano Altermira - Wineland
-	name="Mariano"
-	dynasty=3000005
-	culture=winelander
+066101={ #The Lake
+	name="Julius"
+	culture=lakemen
 	religion=sedevacantist
-	martial=5
-	intrigue=5
-	trait=charismatic_negotiator
-	father=066302
-	2052.7.28={birth=yes}
-	2091.1.1={death=yes}
+	trait=zealous
+	martial=7
+	2027.1.3={birth=yes}
+	2078.1.1={death=yes}
 }
-066301={ #Maria Vallejo - dad
-	name="Alexis"
-	dynasty=1851057 #Vallejo
-	culture=sedevacantist
-	religion=cetic  
-	diplomacy=9
-	trait=content
-	trait=fair
-	2023.1.1={birth=yes}
-	2072.1.1={death=yes}
-}
-37211={ #Maria Vallejo
-	name="Maria"
-	dynasty=1851057 #Vallejo
-	culture=sedevacantist
-	female=yes
-	religion=cetic  
-	diplomacy=9
-	intrigue=7
-	trait=fair
-	trait=harelip
-	father=066301
-	2045.1.1={birth=yes}
-	2072.1.1={death=yes}
-}
+
 066201={ #Rio_Vista
 	name="Long"
 	dynasty=1849084 #Chang
@@ -443,10 +402,93 @@
 	2027.1.3={birth=yes}
 	2078.1.1={death=yes}
 }
+066302={ #William Altermira - Wineland
+	name="William"
+	dynasty=3000005
+	culture=winelander 
+	religion=sedevacantist #placeholder
+	diplomacy=9
+	trait=hedonist
+	trait=drunkard
+	trait=sloth
+	trait=charismatic_negotiator
+	2030.12.21={birth=yes}
+	2067.1.1={death=yes}
+}
+066303={ #Mariano Altermira - Wineland
+	name="Mariano"
+	dynasty=3000005
+	culture=winelander
+	religion=sedevacantist
+	martial=5
+	intrigue=5
+	trait=charismatic_negotiator
+	father=066302
+	2052.7.28={birth=yes}
+	2091.1.1={death=yes}
+}
+066311={ #Maria Vallejo - dad
+	name="Alexis"
+	dynasty=1851057 #Vallejo
+	culture=winelander
+	religion=sedevacantist  
+	diplomacy=9
+	trait=content
+	trait=fair
+	2023.1.1={birth=yes}
+	2072.1.1={death=yes}
+}
+066312={ #Maria Vallejo
+	name="Maria"
+	dynasty=1851057 #Vallejo
+	culture=winelander
+	female=yes
+	religion=sedevacantist  
+	diplomacy=9
+	intrigue=7
+	trait=fair
+	trait=harelip
+	father=066301
+	2045.1.1={birth=yes}
+	2072.1.1={death=yes}
+}
+066321={ #
+	name="Harrison"
+	culture=winelander
+	religion=sedevacantist  
+	diplomacy=6
+	martial=6
+	trait=content
+	2019.1.1={birth=yes}
+	2072.1.1={death=yes}
+}
 #063xxx   k salinas
  #0631xx d santa cruz
  #0632xx d carmel coast
 
+063001={ #Santa Cruz
+	name="Roy"
+	culture=stanforder
+	religion=sedevacantist
+	martial=5
+	intrigue=5
+	trait=charismatic_negotiator
+	trait=duelist
+	2037.7.28={birth=yes}
+	2091.1.1={death=yes}
+}
+063051={ #Henry
+	name="Isidora"
+	female=yes
+	culture=ysidro
+	religion=sedevacantist
+	martial=7
+	intrigue=5
+	trait=tough_soldier
+	trait=duelist
+	2024.3.2={birth=yes}
+	2091.1.1={death=yes}
+}
 063101={ #Santa Cruz
 	name="Naoise"
 	culture=carmelite
@@ -457,7 +499,16 @@
 	2037.7.28={birth=yes}
 	2091.1.1={death=yes}
 }
-
+063151={ #Santa Cruz
+	name="Orson"
+	culture=carmelite
+	religion=sedevacantist
+	martial=5
+	intrigue=5
+	trait=intricate_webweaver
+	2027.7.1={birth=yes}
+	2091.1.1={death=yes}
+}
 063201={ #d carmel coast
 	name="Alex"
 	culture=carmelite
@@ -489,6 +540,17 @@
 }
 063501={ #Kings
 	name="Guinivere"
+	culture=solitarios
+	religion=sedevacantist
+	trait=zealous
+	female=yes
+	martial=4
+	stewardship=7
+	2035.1.3={birth=yes}
+	2078.1.1={death=yes}
+}
+063551={ #Kings
+	name="Ricardo"
 	culture=solitarios
 	religion=sedevacantist
 	trait=zealous

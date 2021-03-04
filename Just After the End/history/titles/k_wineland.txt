@@ -3,3 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
+2012.1.1={
+	holder=0
+}
+2058.1.1={
+	holder=066302
+}
