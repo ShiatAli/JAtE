@@ -21,10 +21,10 @@
 		#0738xx   d sunshine coast
 
 
-071401 ={ # count of gabriola
+071400 ={ # count of gabriola
 	name="Azure"
 	female="yes"
-	dynasty=1886043
+	dynasty=1886041
 	culture=islander
 	religion=legislative
 	disallow_random_traits=yes
@@ -40,64 +40,53 @@
 	trait=patient
 	trait=erudite
 	trait=shy
-	trait=freckles_2
+	trait=freckles_1
 
-	2023.1.18={
-		birth=yes
-	}
-	2041.4.10={
-		
-	}
+	2023.1.18={birth=yes}
+	2041.4.10={add_matrilineal_spouse=071402}
 }
 
-071402 ={ # husband of Azure
+071401 ={ # husband of Azure
 	name="Ethan"
+	dynasty=1886043
 	culture=islander
 	religion=jewish
+	disallow_random_traits = yes
 
-	2023.2.17={
-		birth=yes
-	}
-	2041.4.10={
-		add_matrilineal_spouse=071401
-	}
-	2050.1.25={
-		death=yes
-	}
+	2023.2.17={birth=yes}
+	2050.1.25={death=yes}
 }
 071403 ={ # azure's daughter
 	name="Indigo"
 	female="yes"
-	mother=071401
-	father=071402
-	dynasty=1886043
+	mother=071400
+	father=071401
+	dynasty=1886041
 	culture=islander
 	religion=legislative
+	disallow_random_traits = yes
 	trait=twin
 	trait=freckles_2
 
-	2050.1.2={
-		birth=yes
-	}
+	2050.1.2={birth=yes}
 }
 
 071404 ={ # azure's son
 	name="Eli"
-	mother=071401
-	father=071402
-	dynasty=1886043
+	mother=071400
+	father=071401
+	dynasty=1886041
 	culture=islander
 	religion=legislative
+	disallow_random_traits = yes
 	trait=twin
 	trait=lefthanded
 	trait=freckles_2
 
-	2050.1.3={
-		birth=yes
-	}
+	2050.1.3={birth=yes}
 }
 
-071411 ={ # the himbo count of Saltspring
+071410 ={ # the himbo count of Saltspring
 	name="Devon"
 	dynasty=1886042
 	culture=islander
@@ -118,7 +107,100 @@
 	trait=bisexual
 	trait=patient
 	2028.1.18={birth=yes}
-	2054.5.8={add_lover=071401}
+	2054.5.8={add_lover=071400}
+}
+
+071310 ={ # countess of west shore
+	name="Alexandra"
+	female=yes
+	dynasty=1886046
+	culture=vainakuvaraita
+	race=vainakuvaraita
+	religion=legislative
+	disallow_random_traits = yes
+	martial=8
+	health=7
+	trait=skilled_tactician
+	trait=scarred
+	trait=robust
+	trait=freckles_2
+	trait=patient
+	trait=wroth
+	trait=proud
+	trait=ambitious
+	trait=brave
+	trait=stubborn
+	trait=unyielding_leader
+	trait=sympathy_indian
+
+	2019.10.13={birth=yes}
+}
+
+071320 ={ # count of victoria
+	name="Johnathan"
+	dynasty=1886043
+	culture=islander
+	religion=legislative
+	disallow_random_traits = yes
+	health=10
+	diplomacy=9
+	martial=0
+	intrigue=3
+	stewardship=8
+	learning=4
+	trait=lefthanded
+	trait=blinded
+	trait=charismatic_negotiator
+	trait=quick
+	trait=feeble
+	trait=administrator
+	trait=humble
+	trait=diligent
+	trait=kind
+	trait=ambitious
+	trait=honest
+	trait=trusting
+	trait=is_malnourished
+
+	2004.2.17={birth=yes}
+}
+
+071330 ={ # count of sooke
+	name="Jeremy"
+	dynasty=1886044
+	culture=coast_salish
+	religion=legislative
+	disallow_random_traits = yes
+	trait=thrifty_clerk
+	trait=sturdy
+	trait=charitable
+	trait=content
+	trait=erudite
+	trait=gregarious
+
+	2024.2.17={birth=yes}
+}
+
+071110 ={ # count of nanaimo
+	name="Jimmy"
+	dynasty=1886045
+	culture=islander
+	religion=legislative
+	race=coast_salish
+	disallow_random_traits = yes
+	trait=grey_eminence
+	trait=shrewd
+	trait=administrator
+	trait=wroth
+	trait=diligent
+	trait=cynical
+	trait=honest
+	trait=just
+	trait=zealous
+	traith=sympathy_natives
+	trait=adventurer
+
+	2029.2.17={birth=yes}
 }
 
 #0737xx   d south fraser
@@ -126,7 +208,9 @@
 	name="Bhupinder"
 	dynasty=1891005
 	culture=vainakuvaraita
+	race=vainakuvaraita
 	religion=sikh
+	disallow_random_traits = yes
 	2034.1.2={birth=yes}
 }
 

@@ -7,6 +7,6 @@
 	liege=k_victoria
 }
 2055.1.1={
-	holder=071411
+	holder=071410
 	capital=b_ganges
 }
