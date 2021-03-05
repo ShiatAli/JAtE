@@ -47,16 +47,19 @@ kwakwakawakw;Kwakwaka'wakw;;;;;;;;;;;;;x
 
 #Inland Northwest Cultures
 inland_northwest;Inlander;;;;;;;;;;;;;x
-eastsloper;Eastsloper;;;;;;;;;;;;;x
-juniperian;Juniperian;;;;;;;;;;;;;x
-boisean;Boisean;;;;;;;;;;;;;x
-bluemen;Blue-Men;;;;;;;;;;;;;x
 meseteno;Meseteño;;;;;;;;;;;;;x
 tricitian;Tricitian;;;;;;;;;;;;;x
 palouse;Palouse;;;;;;;;;;;;;x
 panhandler;Panhandler;;;;;;;;;;;;;x
+
+#Snake Basin Cultures
+snake_basin;Snake Basin;;;;;;;;;;;;;x
 sawtooth;Sawtooth;;;;;;;;;;;;;x
 snakemen;Snakemen;;;;;;;;;;;;;x
+eastsloper;Eastsloper;;;;;;;;;;;;;x
+juniperian;Juniperian;;;;;;;;;;;;;x
+boisean;Boisean;;;;;;;;;;;;;x
+bluemen;Bluemen;;;;;;;;;;;;;x
 
 #Nevada Cultures
 great_basin;Great Basin;;;;;;;;;;;;;x
