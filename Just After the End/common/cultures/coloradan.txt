@@ -1,0 +1,330 @@
+###ÄNSI
+coloradan = {
+	graphical_cultures = { westerngfx }
+	
+	coloradan = {
+		graphical_cultures = { mountainergfx canadiangfx }
+		unit_graphical_cultures = { saxongfx }
+
+		color = { 0.25 0.35 0.35 }
+
+		male_names = {
+			Aurel Argent Antero Auliffe Arthur_Arthur
+			Buren Blair Bouldron Belden Belcaro Barnum Bushnell Billy_William
+			Clayton Curtis Chris_Christopher
+			Dwight Dodge Denver Dutch
+			Eolus Elmo Eugene Ellison Earl Emmet_Emmett
+			Frank_Francis
+			Gray Garrald_Gerald Gavin
+			Hale Hendrick_Henry Hague Herard Hesperus Hunter Hosea Hercule
+			Jasper Jesse John_John Javier_Xavier Josiah
+			Ken Karl Kieran
+			Ledon Leadblum Lowry Lykin Lyon_Leon Leigh
+			Matt_Matthew Mineran Mineralis Montanos Marston Morris_Maurice Micah Mac Marshall
+			Olympos Oso Ossos Ossin Otto Orville
+			Petrus_Peter Pike Plumblon Plumead Ptarmigan Phineas
+			Rockhart Regis Raton
+			Stone Silveranos Stonarm Stonear Sloan Scott Simon
+			Tell Tarryall Tim_Timothy Trey
+			Vissarion
+			Waugh
+			Zebulon Zirkel
+		}
+		female_names = {
+			Argentine Auraria Acanthite Adularia Arvada Aventurine Alta Antora Archuleta Angevine Amanda Abigail
+			Beth_Elizabeth
+			Creede Carnelia Carrie Copal Coral_Carol Cirque Clara Culebra
+			Debra_Deborah
+			Elyria Emerald Emma_Emma Eve
+			Fayola Frances
+			Gravelle Galena Garnet Garita Golda Grace
+			Hattie
+			Idarado
+			Jane_Jane Jade Jess_Jessica Jenny_Jennifer
+			Kristin_Christina Kelly Karen
+			Leada Larimar Liane
+			Mary_Mary Maybell Mar Marrama Madeleine_Magdalene Molly Mel
+			Nacre
+			Olympya Opal
+			Petriff Petrisha Plata Pam_Pamela
+			Rubis Roseanne_Roseanne
+			Silveria Sphalerite Sherry Sierra Sadie Susan
+			Tourmaline Tracey Tilly
+			Valentine_Valentina
+			Zenobia
+		}
+
+		from_dynasty_prefix = "of "
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+	rockymount = {
+		graphical_cultures = { mountainergfx canadiangfx }
+		unit_graphical_cultures = { saxongfx }
+
+		color = { 84 56 8 }
+
+		male_names = {
+			Aurel Argent Antero Auliffe Arthur_Arthur
+			Buren Blair Bouldron Belden Belcaro Barnum Bushnell Billy_William
+			Clayton Curtis Chris_Christopher
+			Dwight Dodge Denver Dutch
+			Eolus Elmo Eugene Ellison Earl Emmet_Emmett
+			Frank_Francis
+			Gray Garrald_Gerald Gavin
+			Hale Hendrick_Henry Hague Herard Hesperus Hunter Hosea Hercule
+			Jasper Jesse John_John Javier_Xavier Josiah
+			Ken Karl Kieran
+			Ledon Leadblum Lowry Lykin Lyon_Leon Leigh
+			Matt_Matthew Mineran Mineralis Montanos Marston Morris_Maurice Micah Mac Marshall
+			Olympos Oso Ossos Ossin Otto Orville
+			Petrus_Peter Pike Plumblon Plumead Ptarmigan Phineas
+			Rockhart Regis Raton
+			Stone Silveranos Stonarm Stonear Sloan Scott Simon
+			Tell Tarryall Tim_Timothy Trey
+			Vissarion
+			Waugh
+			Zebulon Zirkel
+		}
+		female_names = {
+			Argentine Auraria Acanthite Adularia Arvada Aventurine Alta Antora Archuleta Angevine Amanda Abigail
+			Beth_Elizabeth
+			Creede Carnelia Carrie Copal Coral_Carol Cirque Clara Culebra
+			Debra_Deborah
+			Elyria Emerald Emma_Emma Eve
+			Fayola Frances
+			Gravelle Galena Garnet Garita Golda Grace
+			Hattie
+			Idarado
+			Jane_Jane Jade Jess_Jessica Jenny_Jennifer
+			Kristin_Christina Kelly Karen
+			Leada Larimar Liane
+			Mary_Mary Maybell Mar Marrama Madeleine_Magdalene Molly Mel
+			Nacre
+			Olympya Opal
+			Petriff Petrisha Plata Pam_Pamela
+			Rubis Roseanne_Roseanne
+			Silveria Sphalerite Sherry Sierra Sadie Susan
+			Tourmaline Tracey Tilly
+			Valentine_Valentina
+			Zenobia
+		}
+
+		from_dynasty_prefix = "of "
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+	denverite = {
+		graphical_cultures = { mountainergfx canadiangfx }
+		unit_graphical_cultures = { saxongfx }
+
+		color = { 13 51 176 }
+
+		male_names = {
+			Aurel Argent Antero Auliffe Arthur_Arthur
+			Buren Blair Bouldron Belden Belcaro Barnum Bushnell Billy_William
+			Clayton Curtis Chris_Christopher
+			Dwight Dodge Denver Dutch
+			Eolus Elmo Eugene Ellison Earl Emmet_Emmett
+			Frank_Francis
+			Gray Garrald_Gerald Gavin
+			Hale Hendrick_Henry Hague Herard Hesperus Hunter Hosea Hercule
+			Jasper Jesse John_John Javier_Xavier Josiah
+			Ken Karl Kieran
+			Ledon Leadblum Lowry Lykin Lyon_Leon Leigh
+			Matt_Matthew Mineran Mineralis Montanos Marston Morris_Maurice Micah Mac Marshall
+			Olympos Oso Ossos Ossin Otto Orville
+			Petrus_Peter Pike Plumblon Plumead Ptarmigan Phineas
+			Rockhart Regis Raton
+			Stone Silveranos Stonarm Stonear Sloan Scott Simon
+			Tell Tarryall Tim_Timothy Trey
+			Vissarion
+			Waugh
+			Zebulon Zirkel
+		}
+		female_names = {
+			Argentine Auraria Acanthite Adularia Arvada Aventurine Alta Antora Archuleta Angevine Amanda Abigail
+			Beth_Elizabeth
+			Creede Carnelia Carrie Copal Coral_Carol Cirque Clara Culebra
+			Debra_Deborah
+			Elyria Emerald Emma_Emma Eve
+			Fayola Frances
+			Gravelle Galena Garnet Garita Golda Grace
+			Hattie
+			Idarado
+			Jane_Jane Jade Jess_Jessica Jenny_Jennifer
+			Kristin_Christina Kelly Karen
+			Leada Larimar Liane
+			Mary_Mary Maybell Mar Marrama Madeleine_Magdalene Molly Mel
+			Nacre
+			Olympya Opal
+			Petriff Petrisha Plata Pam_Pamela
+			Rubis Roseanne_Roseanne
+			Silveria Sphalerite Sherry Sierra Sadie Susan
+			Tourmaline Tracey Tilly
+			Valentine_Valentina
+			Zenobia
+		}
+
+		from_dynasty_prefix = "of "
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+	piker = {
+		graphical_cultures = { mountainergfx canadiangfx }
+		unit_graphical_cultures = { saxongfx }
+
+		color = { 5 164 164 }
+
+		male_names = {
+			Aurel Argent Antero Auliffe Arthur_Arthur
+			Buren Blair Bouldron Belden Belcaro Barnum Bushnell Billy_William
+			Clayton Curtis Chris_Christopher
+			Dwight Dodge Denver Dutch
+			Eolus Elmo Eugene Ellison Earl Emmet_Emmett
+			Frank_Francis
+			Gray Garrald_Gerald Gavin
+			Hale Hendrick_Henry Hague Herard Hesperus Hunter Hosea Hercule
+			Jasper Jesse John_John Javier_Xavier Josiah
+			Ken Karl Kieran
+			Ledon Leadblum Lowry Lykin Lyon_Leon Leigh
+			Matt_Matthew Mineran Mineralis Montanos Marston Morris_Maurice Micah Mac Marshall
+			Olympos Oso Ossos Ossin Otto Orville
+			Petrus_Peter Pike Plumblon Plumead Ptarmigan Phineas
+			Rockhart Regis Raton
+			Stone Silveranos Stonarm Stonear Sloan Scott Simon
+			Tell Tarryall Tim_Timothy Trey
+			Vissarion
+			Waugh
+			Zebulon Zirkel
+		}
+		female_names = {
+			Argentine Auraria Acanthite Adularia Arvada Aventurine Alta Antora Archuleta Angevine Amanda Abigail
+			Beth_Elizabeth
+			Creede Carnelia Carrie Copal Coral_Carol Cirque Clara Culebra
+			Debra_Deborah
+			Elyria Emerald Emma_Emma Eve
+			Fayola Frances
+			Gravelle Galena Garnet Garita Golda Grace
+			Hattie
+			Idarado
+			Jane_Jane Jade Jess_Jessica Jenny_Jennifer
+			Kristin_Christina Kelly Karen
+			Leada Larimar Liane
+			Mary_Mary Maybell Mar Marrama Madeleine_Magdalene Molly Mel
+			Nacre
+			Olympya Opal
+			Petriff Petrisha Plata Pam_Pamela
+			Rubis Roseanne_Roseanne
+			Silveria Sphalerite Sherry Sierra Sadie Susan
+			Tourmaline Tracey Tilly
+			Valentine_Valentina
+			Zenobia
+		}
+
+		from_dynasty_prefix = "of "
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+	westsloper = {
+		graphical_cultures = { mountainergfx canadiangfx }
+		unit_graphical_cultures = { saxongfx }
+
+		color = { 218 211 21 }
+
+		male_names = {
+			Aurel Argent Antero Auliffe Arthur_Arthur
+			Buren Blair Bouldron Belden Belcaro Barnum Bushnell Billy_William
+			Clayton Curtis Chris_Christopher
+			Dwight Dodge Denver Dutch
+			Eolus Elmo Eugene Ellison Earl Emmet_Emmett
+			Frank_Francis
+			Gray Garrald_Gerald Gavin
+			Hale Hendrick_Henry Hague Herard Hesperus Hunter Hosea Hercule
+			Jasper Jesse John_John Javier_Xavier Josiah
+			Ken Karl Kieran
+			Ledon Leadblum Lowry Lykin Lyon_Leon Leigh
+			Matt_Matthew Mineran Mineralis Montanos Marston Morris_Maurice Micah Mac Marshall
+			Olympos Oso Ossos Ossin Otto Orville
+			Petrus_Peter Pike Plumblon Plumead Ptarmigan Phineas
+			Rockhart Regis Raton
+			Stone Silveranos Stonarm Stonear Sloan Scott Simon
+			Tell Tarryall Tim_Timothy Trey
+			Vissarion
+			Waugh
+			Zebulon Zirkel
+		}
+		female_names = {
+			Argentine Auraria Acanthite Adularia Arvada Aventurine Alta Antora Archuleta Angevine Amanda Abigail
+			Beth_Elizabeth
+			Creede Carnelia Carrie Copal Coral_Carol Cirque Clara Culebra
+			Debra_Deborah
+			Elyria Emerald Emma_Emma Eve
+			Fayola Frances
+			Gravelle Galena Garnet Garita Golda Grace
+			Hattie
+			Idarado
+			Jane_Jane Jade Jess_Jessica Jenny_Jennifer
+			Kristin_Christina Kelly Karen
+			Leada Larimar Liane
+			Mary_Mary Maybell Mar Marrama Madeleine_Magdalene Molly Mel
+			Nacre
+			Olympya Opal
+			Petriff Petrisha Plata Pam_Pamela
+			Rubis Roseanne_Roseanne
+			Silveria Sphalerite Sherry Sierra Sadie Susan
+			Tourmaline Tracey Tilly
+			Valentine_Valentina
+			Zenobia
+		}
+
+		from_dynasty_prefix = "of "
+		
+		feminist = yes
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+}
