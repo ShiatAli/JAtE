@@ -14,7 +14,7 @@ d_saltwater_city = {
 
 	capital = 505 #Vancouver
 	allow = { is_republic = yes }
-	culture = vancouverite vainakuvaraita
+	culture = vancouverite
 	religion = three_paths
 	primary = yes
 	short_name
@@ -69,4 +69,103 @@ e_the_censure = { #placeholder for the Indian Empire Eastern Governor
 	can_be_usurped = no
 	
 	extra_ai_eval_troops = 7500
+}
+###################Titular Titles########################
+k_nuuchahnulth = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+k_kwakwakakawk = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+k_makah = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+k_the_ledge = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_snowchainers = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_the_evergreen = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_the_quarrymen = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_the_bearkillers = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_the_six_rivers = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_the_thespians = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_jointbases = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_the_jackos = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_bangors = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
+}
+d_timberrafters = {
+	color = { 0 0 139 }
+	color2={ 255 255 255 }
+	
+	capital = 367 #Seattle
+	culture = cascadian
 }

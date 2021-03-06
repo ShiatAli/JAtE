@@ -691,6 +691,34 @@ THE_COMMUNICATIONS;The Communications;;;;;;;;;;;;;x
 ###########Title Names###########
 count_makah;Cha-batth;;;;;;;;;;;;;x
 duke_makah;A'aho Cha-batth;;;;;;;;;;;;;x
+k_nuuchahnulth;Nuu-chah-nulth;;;;;;;;;;;;;x
+k_nuuchahnulth_adj;Nuu-chah-nulthian;;;;;;;;;;;;;x
+k_kwakwakakawk;Kwakwaka'kawk;;;;;;;;;;;;;x
+k_kwakwakakawk_adj;Kwakwaka'kawkian;;;;;;;;;;;;;x
+k_makah;Makah;;;;;;;;;;;;;x
+k_makah_adj;Makahite;;;;;;;;;;;;;x
+k_the_ledge;The Ledge;;;;;;;;;;;;;x
+k_the_ledge_adj;Ledge-Men;;;;;;;;;;;;;x
+d_snowchainers;Snowchainers;;;;;;;;;;;;;x
+d_snowchainers_adj;Snowchainers;;;;;;;;;;;;;x
+d_the_evergreen;The Evergreen;;;;;;;;;;;;;x
+d_the_evergreen_adj;Evergreeners;;;;;;;;;;;;;x
+d_the_quarrymen;The Quarrymen;;;;;;;;;;;;;x
+d_the_quarrymen_adj;Quarrymen;;;;;;;;;;;;;x
+d_the_bearkillers;The Bearkillers;;;;;;;;;;;;;x
+d_the_bearkillers_adj;Bearkillers;;;;;;;;;;;;;x
+d_the_six_rivers;The Six Rivers;;;;;;;;;;;;;x
+d_the_six_rivers_adj;Six-Rivermen;;;;;;;;;;;;;x
+d_the_thespians;The Thespians;;;;;;;;;;;;;x
+d_the_thespians_adj;Thespians;;;;;;;;;;;;;x
+d_jointbases;Joint Bases;;;;;;;;;;;;;x
+d_jointbases_adj;Jointbasers;;;;;;;;;;;;;x
+d_the_jackos;The Jackos;;;;;;;;;;;;;x
+d_the_jackos_adj;Jackosites;;;;;;;;;;;;;x
+d_bangors;Bangors;;;;;;;;;;;;;x
+d_bangors_adj;Bangorites;;;;;;;;;;;;;x
+d_timberrafters;Timber Rafters;;;;;;;;;;;;;x
+d_timberrafters_adj;Timber Rafters;;;;;;;;;;;;;x
 
 ###########Nicknames###########
 nick_the_wanderer;the Wanderer;;;;;;;;;;;;;x

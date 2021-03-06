@@ -2,6 +2,7 @@
 
 ##Narrator
 999999 = { name="Bingen" culture=valleyan }
+999969 = { name="Smith"	culture=valleyan }
 
 ##Utah
 1831001 = { name="Young" culture=salter }

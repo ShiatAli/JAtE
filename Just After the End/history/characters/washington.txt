@@ -14,10 +14,45 @@
 		#1925xx   d skykomish
 		#1926xx   d snoqualmie
 	#193xxx    k willapa
+	#194xxx    k skagit
 
+191100 = {
+	name="Joe"
+	dynasty=999969
+	culture=makah
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+194000 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
 #Duchess of Pikeplace, count of seattle and ballard
 192401 = {
-	name=Lilith
+	name="Lilith"
 	dynasty=3000000
 	culture=cascadian
 	female=yes

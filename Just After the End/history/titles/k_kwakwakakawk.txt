@@ -1,8 +1,8 @@
-# e_washington
+# e_grand_vancouver
 1990.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2054.1.1={
-	holder=191101
+800.1.1={
+	holder=072300
 }

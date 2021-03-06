@@ -186,7 +186,6 @@
 	dynasty=1886045
 	culture=islander
 	religion=legislative
-	race=coast_salish
 	disallow_random_traits = yes
 	trait=grey_eminence
 	trait=shrewd
@@ -208,9 +207,107 @@
 	name="Bhupinder"
 	dynasty=1891005
 	culture=vainakuvaraita
-	race=vainakuvaraita
 	religion=sikh
 	disallow_random_traits = yes
 	2034.1.2={birth=yes}
 }
-
+#0732xx   d fraser
+073200 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=fraserian
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073201 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=fraserian
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073202 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=fraserian
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073203 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=fraserian
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073800 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073801 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073802 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073803 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+#0721xx   d campbell
+072100 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+072101 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+#0723xx   d suqash
+072300 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+#0724xx   d wild coast
+072400 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=coast_salish
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
