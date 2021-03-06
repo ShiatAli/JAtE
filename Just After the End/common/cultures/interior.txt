@@ -52,30 +52,35 @@ interior = {
 		color = { 1.0 0.55 0.15 }
 		
 		male_names = {
-			Alahmoot Allahkoliken "Allalimya Takanin" "Apash Wyakaikt"
-			Chapowits Chuslum "Chuslum Moxmox"
-			Ealahweemah "Ealaot Wadass" "Ealaothek Kaunis" Eapalekthiloom Elaskolatat Espowyes
-			Hahtalekin Hallalhotsoot Heinmot Hemene Hinmatóowyalahtqit Hototo Hotots "Husishusis Kute"
-			"Koolkool Snehee"
-			Motsqueh
-			Ollokot Otskai
-			"Pahkatos Owyeen" Peopeo "Peopeo Tholekt" "Peopeo Kiskiok Hihih"
-			Sahkonteic
-			Tamootsin Toohoolhoolzote Tuekakas
-			Wahchumyus Walammottinin
+			Ami Aykws
+			Cahlumchush Chimisha Chtutumnah Chukwsh 
+			Kalooas Kamiakin Kanasket Katalkusm Koolattoose Kiyiya Kusinut
+			Lahoom Lulawqan
+			Meninock
+			Neehapouw Nukshay
+			Ohlowutcho Owhi
+			Piitl'iyawila 
+			Schanooa Sheeahcotte Shiipla Spehahum Skloom Slakish Sultsas 
+			Tahquacut Tahpashah Tecolekun Teias Tisakayai Tuckquille
+			Wanpawasila Weowikt Wi'axash Wishochkmpits
+			Xatxaatya Xnimxnimla Xwayawi  
+			Yowlachie Youyat Yukush Yumtibi
 		}
 		
 		female_names = {
-			Alikkees Ayatootonmi
-			Chickamohpeo
-			Ewetonemy
-			"Heyoon Yoyikt"
-			Kayaatonmy Khapkhaponimi Kooskooskia
-			Petolvonnanick
-			Seahdom
-			Tamalwinonmi Tamer
-			Wallowa
-			"Yiyik Wasumwah"
+			Aan Anasht Atya 
+			Chinachlut Colestah
+			Hahnewashya Hwistaks
+			Ichu
+			Kaymuxnit
+			Lxawkaal 
+			Milins
+			Naktkwaninla
+			Puuyay
+			Salkow Sapsikw'ala Shatim Shishaash Shuuka 
+			Taak Tinaynakt Twiskaka
+			Waptasyi Waxlilp'as Winaawayay Wishanahla Wilpakpak Wiwluwiwlu 
+			Xalya Xuupla
 		}
 		
 		pat_grf_name_chance = 25
