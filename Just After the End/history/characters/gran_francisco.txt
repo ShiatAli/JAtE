@@ -12,7 +12,34 @@
 		#0661xx   d napa
 		#0662xx   d solano
 		#0663xx   d sonoma
-
+#
+#Education Reference
+#
+#naive_appeaser
+#underhanded_rogue
+#charismatic_negotiator
+#grey_eminence
+#
+#misguided_warrior
+#tough_soldier
+#skilled_tactician
+#brilliant_strategist
+#
+#indulgent_wastrel
+#thrifty_clerk
+#fortune_builder
+#midas_touched
+#
+#amateurish_plotter
+#flamboyant_schemer
+#intricate_webweaver
+#elusive_shadow
+#
+#detached_priest
+#martial_cleric	
+#scholarly_theologian
+#mastermind_theologian
+#
 37000={ #Silic Areus, Dad of Dalton
 	name="Silic"
 	dynasty=1849096 #Areus
@@ -217,7 +244,7 @@
 }
 37099={ #Cringe number is cringe
 	name="Delton"
-	dynasty=9000
+	#4dynasty=9000
 	culture=bayfolk
 	religion=cetic 
 	diplomacy=4
@@ -318,22 +345,23 @@
 	# }
 	# 2088.1.10={death=yes}
 # }
-061210={ #potential Hana Blossom
+061211={ #potential Hana Blossom
 	name="Lily" #Flower
 	dynasty=3000010
 	female=yes
-    father=061201
-	# mother=061202
 	culture=eastshore
-	religion=zenist
+	religion=three_paths
 	trait=zealous
 	trait=wroth
-	trait=twin
 	martial=7
+	father=061201
 	2043.1.3={birth=yes}
+	2050.1.1={
+		religion=zenist
+	}
 	2069.1.1={death=yes}
 }
-061211={ #potential Hana Blossom
+061212={ #potential Hana Blossom
 	name="Azalea" #Flower
 	dynasty=3000010
 	female=yes
@@ -344,8 +372,11 @@
 	trait=twin
 	martial=7
 	father=061201
-	# mother=061202
-	2043.1.3={birth=yes}
+	#mother=061202
+	2046.5.5={birth=yes}
+	2050.1.1={
+		religion=zenist
+	}
 	2069.1.1={death=yes}
 }
 061221={ #Berkeley
@@ -375,9 +406,9 @@
 066101={ #The Lake
 	name="Julius"
 	culture=lakemen
-	religion=sedevacantist
+	religion=keshian
 	trait=zealous
-	martial=7
+	martial=9
 	2027.1.3={birth=yes}
 	2078.1.1={death=yes}
 }
@@ -415,7 +446,7 @@
 	2030.12.21={birth=yes}
 	2067.1.1={death=yes}
 }
-066303={ #Mariano Altermira - Wineland
+066303={ #Mariano Altermira - Wineland Son
 	name="Mariano"
 	dynasty=3000005
 	culture=winelander
@@ -563,7 +594,7 @@
 063601={ #d hidden valley
 	name="Lloyd"
 	culture=solitarios
-	religion=sedevacantist
+	religion=conservationist
 	trait=strong
 	trait=patient
 	martial=8

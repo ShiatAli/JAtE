@@ -7,5 +7,5 @@
 	liege=k_wineland
 }
 2048.1.1={
-	holder=066301
+	holder=066311
 }
