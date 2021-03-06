@@ -1,0 +1,20 @@
+
+### MERCHANT REPUBLIC PATRICIAN FAMILIES
+
+## Lotusland
+
+b_lotusland_lee = {
+	culture=vancouverite
+}
+b_lotusland_tong = {
+	culture=vancouverite
+}
+b_lotusland_dhinsa = {
+	culture=vancouverite
+}
+b_lotusland_sorensen = {
+	culture=vancouverite
+}
+b_lotusland_nguyen = {
+	culture=vancouverite
+}

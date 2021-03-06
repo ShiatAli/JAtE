@@ -1,0 +1,7 @@
+1900.1.1={
+	holding_dynasty=1887016
+	liege=d_lotusland
+}
+2020.1.1={
+	holder=073401
+}

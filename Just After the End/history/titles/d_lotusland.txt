@@ -1,8 +1,4 @@
 # e_grand_vancouver
-1990.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}
-1990.1.1={
-	liege=k_vancouver
+2025.1.1={
+	holder=073400
 }

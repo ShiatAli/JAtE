@@ -202,15 +202,6 @@
 	2029.2.17={birth=yes}
 }
 
-#0737xx   d south fraser
-073701 ={ #
-	name="Bhupinder"
-	dynasty=1891005
-	culture=vainakuvaraita
-	religion=sikh
-	disallow_random_traits = yes
-	2034.1.2={birth=yes}
-}
 #0732xx   d fraser
 073200 ={ #
 	name="Joe"
@@ -309,5 +300,60 @@
 	culture=coast_salish
 	religion=gaian
 	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+#0734xx   d lotusland
+073400 ={ #
+	name="Matthew"
+	dynasty=1887005 #Lee
+	culture=vancouverite
+	religion=legislative
+	#disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+073401 ={ #
+	name="Joel"
+	dynasty=1887016 #Tong
+	culture=vancouverite
+	religion=legislative
+	#disallow_random_traits = yes
+	2031.7.2={birth=yes}
+}
+073402 ={ #
+	name="Sage"
+	dynasty=1891030 #Dhinsa
+	culture=vancouverite
+	religion=legislative
+	#disallow_random_traits = yes
+	2032.4.2={birth=yes}
+}
+073403 ={ #
+	name="Santa"
+	dynasty=1888005 #Sorensen
+	race="vestmann"
+	culture=vestmann
+	religion=freighter
+	#disallow_random_traits = yes
+	2031.1.2={birth=yes}
+	2048.1.1={
+		culture=vancouverite
+	}
+}
+073404 ={ #
+	name="Francis"
+	dynasty=1890015 #Nguyen
+	culture=vancouverite
+	religion=three_paths
+	#disallow_random_traits = yes
+	2033.1.2={birth=yes}
+}
+
+#0737xx   d south fraser
+073701 ={ #
+	name="Bhupinder"
+	dynasty=1891005
+	culture=vainakuvaraita
+	religion=sikh
+	#disallow_random_traits = yes
 	2034.1.2={birth=yes}
 }

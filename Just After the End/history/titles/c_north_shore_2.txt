@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2000.1.1={
-	liege=k_vancouver
+2010.1.1={
+	liege=d_lotusland
+}
+2020.1.1={
+	holder=073403
 }
