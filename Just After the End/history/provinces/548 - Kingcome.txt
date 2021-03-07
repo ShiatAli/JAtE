@@ -1,12 +1,12 @@
-# c_echo_bay
+# c_kingcome
 
 # County Title
-title = c_echo_bay
+title = c_kingcome
 
 # Settlements
 max_settlements = 2
 
-b_echo_bay = castle
+b_kingcome = castle
 #b_scott_cove = city
 #b_simoon_sound = temple
 #b_health_bay = castle

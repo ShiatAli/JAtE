@@ -503,8 +503,6 @@ c_east_salmon;East Salmon;East Salmon;East Salmon;;East Salmon;;;;;;;;;x
 c_east_salmon_adj;East Salmonian;;East Salmoner;;;;;;;;;;;x
 c_east_sierra;East Sierra;East Sierra;East Sierra;;East Sierra;;;;;;;;;x
 c_east_sierra_adj;East Sierran;;East Sierrer;;;;;;;;;;;x
-c_echo_bay;Echo Bay;Echo Bay;Echo Bay;;Echo Bay;;;;;;;;;x
-c_echo_bay_adj;Echo Baian;;Echo Baer;;;;;;;;;;;x
 c_eddyville;Eddyville;Eddyville;Eddyville;;Eddyville;;;;;;;;;x
 c_eddyville_adj;Eddyvillean;;eddyviller;;;;;;;;;;;x
 c_el_cajon;El Cajon;El Cajon;El Cajon;;El Cajon;;;;;;;;;x
@@ -901,6 +899,8 @@ c_kettleman;Kettleman;Kettleman;Kettleman;;Kettleman;;;;;;;;;x
 c_kettleman_adj;Kettlemanian;;kettlemaner;;;;;;;;;;;x
 c_king_city;King City;King City;King City;;King City;;;;;;;;;x
 c_king_city_adj;King Citian;;King Citer;;;;;;;;;;;x
+c_kingcome;Kingcome;Kingcome;Kingcome;;Kingcome;;;;;;;;;x
+c_kingcome_adj;Kingcomean;;kingcomer;;;;;;;;;;;x
 c_kingman;Kingman;Kingman;Kingman;;Kingman;;;;;;;;;x
 c_kingman_adj;Kingmanian;;kingmaner;;;;;;;;;;;x
 c_kings_canyon;Kings Canyon;Kings Canyon;Kings Canyon;;Kings Canyon;;;;;;;;;x

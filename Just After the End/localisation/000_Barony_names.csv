@@ -3991,8 +3991,6 @@ b_echo;Echo;Echo;Echo;;Echo;;;;;;;;;x
 b_echo_adj;Echian;;echer;;;;;;;;;;;x
 b_echo_2;Echo;Echo;Echo;;Echo;;;;;;;;;x
 b_echo_2_adj;Echian;;echer;;;;;;;;;;;x
-b_echo_bay;Echo Bay;Echo Bay;Echo Bay;;Echo Bay;;;;;;;;;x
-b_echo_bay_adj;Echo Baian;;Echo Baer;;;;;;;;;;;x
 b_echo_island;Echo Island;Echo Island;Echo Island;;Echo Island;;;;;;;;;x
 b_echo_island_adj;Echo Islandian;;Echo Islander;;;;;;;;;;;x
 b_echo_lake;Echo Lake;Echo Lake;Echo Lake;;Echo Lake;;;;;;;;;x
@@ -6961,6 +6959,8 @@ b_king_farms;King Farms;King Farms;King Farms;;King Farms;;;;;;;;;x
 b_king_farms_adj;King Farmsian;;King Farmser;;;;;;;;;;;x
 b_king_hill;King Hill;King Hill;King Hill;;King Hill;;;;;;;;;x
 b_king_hill_adj;King Hillian;;King Hiller;;;;;;;;;;;x
+b_kingcome;Kingcome;Kingcome;Kingcome;;Kingcome;;;;;;;;;x
+b_kingcome_adj;Kingcomean;;kingcomer;;;;;;;;;;;x
 b_kingman;Kingman;Kingman;Kingman;;Kingman;;;;;;;;;x
 b_kingman_adj;Kingmanian;;kingmaner;;;;;;;;;;;x
 b_kings_river;Kings River;Kings River;Kings River;;Kings River;;;;;;;;;x

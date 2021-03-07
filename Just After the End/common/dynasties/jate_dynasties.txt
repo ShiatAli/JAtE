@@ -655,6 +655,39 @@
 #Clarkard
 1712000 = { name="Albertson" culture=panhandler}
 
+#Yakama
+2088000	= { name="Stwire" culture=yakama}
+2088001	= { name="Sila" culture=yakama}
+2088002	= { name="Winas" culture=yakama}
+2088003	= { name="Nahchish" culture=yakama}
+2088004	= { name="Tkaiwaichaa" culture=yakama}
+2088005	= { name="Atanum" culture=yakama}
+2088006	= { name="Amatalamlama" culture=yakama}
+2088007	= { name="Pisko" culture=yakama}
+2088008	= { name="Pakiut" culture=yakama}
+2088009	= { name="Si" culture=yakama}
+2088010	= { name="Thapnish" culture=yakama}
+2088011	= { name="Simquwe" culture=yakama}
+2088012	= { name="Simkoe" culture=yakama}
+2088013	= { name="Mitxupam" culture=yakama}
+2088014	= { name="Se'tas" culture=yakama}
+2088015	= { name="Taptat" culture=yakama}
+2088016	= { name="Alayma" culture=yakama}
+2088017	= { name="Tieelum" culture=yakama}
+2088018	= { name="Sinpusqoish" culture=yakama}
+2088019	= { name="Skinpah" culture=yakama}
+2088020	= { name="Wishxam" culture=yakama}
+2088021	= { name="Shyiks" culture=yakama}
+2088022	= { name="Uchi'chol" culture=yakama}
+2088023	= { name="Si'apkat" culture=yakama}
+2088024	= { name="Kahmiltpah" culture=yakama}
+2088025	= { name="Peluuspem" culture=yakama}
+2088026	= { name="Kicnhuuch" culture=yakama}
+2088027	= { name="Ukanakin" culture=yakama}
+2088028	= { name="Nawawípam" culture=yakama}
+2088029	= { name="Kwaxchinlama" culture=yakama}
+
+
 #Dynasties in Pike place
 3000000 = { name="Berry" culture=cascadian }
 3000001 = { name="Ito" culture=cascadian }

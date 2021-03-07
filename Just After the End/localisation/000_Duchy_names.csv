@@ -411,6 +411,8 @@ d_pacific;Pacific;Pacific;Pacific;;Pacific;;;;;;;;;x
 d_pacific_adj;Pacifician;;pacificer;;;;;;;;;;;x
 d_pacific_rim;Pacific Rim;Pacific Rim;Pacific Rim;;Pacific Rim;;;;;;;;;x
 d_pacific_rim_adj;Pacific Rimian;;Pacific Rimer;;;;;;;;;;;x
+d_palo_verde;Palo Verde;Palo Verde;Palo Verde;;Palo Verde;;;;;;;;;x
+d_palo_verde_adj;Palo Verdean;;Palo Verder;;;;;;;;;;;x
 d_park;Park;Park;Park;;Park;;;;;;;;;x
 d_park_adj;Parkian;;parker;;;;;;;;;;;x
 d_pend_oreille;Pend Oreille;Pend Oreille;Pend Oreille;;Pend Oreille;;;;;;;;;x
@@ -549,8 +551,6 @@ d_targhee;Targhee;Targhee;Targhee;;Targhee;;;;;;;;;x
 d_targhee_adj;Targheean;;targher;;;;;;;;;;;x
 d_tehama;Tehama;Tehama;Tehama;;Tehama;;;;;;;;;x
 d_tehama_adj;Tehaman;;tehamer;;;;;;;;;;;x
-d_the_empire;The Empire;The Empire;The Empire;;The Empire;;;;;;;;;x
-d_the_empire_adj;The Empirean;;The Empirer;;;;;;;;;;;x
 d_the_lake;The Lake;The Lake;The Lake;;The Lake;;;;;;;;;x
 d_the_lake_adj;The Lakean;;The Laker;;;;;;;;;;;x
 d_thompson;Thompson;Thompson;Thompson;;Thompson;;;;;;;;;x
