@@ -242,6 +242,14 @@
 	2030.1.3={birth=yes}
 	2068.1.1={death=yes}
 }
+062103={ #The Fallornes minor
+	name="Juan"
+	dynasty=3000015 #Vizcaíno
+	culture=bayfolk
+	religion=brethren
+	2035.1.3={birth=yes}
+	2068.1.1={death=yes}
+}
 37099={ #Cringe number is cringe
 	name="Delton"
 	#4dynasty=9000
@@ -265,7 +273,7 @@
 	name="Oswaldo"
 	dynasty=1818043
 	culture=sanjo
-	religion=siliconist
+	religion=sedevacantist
 	martial=7
 	intrigue=5
 	stewardship=8
@@ -277,9 +285,10 @@
 }
 
 37101={ #Mountain_view minor
-	name="Agile"
-	culture=sanjo
-	religion=siliconist
+	name="Assaf"
+	dynasty=3000013 #Kohen
+	culture=eastshore
+	religion=reform
 	martial=5
 	trait=skilled_tactician
 	trait=craven
@@ -287,9 +296,10 @@
 	2068.1.1={death=yes}
 }
 37102={ #Fremont minor
-	name="Big-O"
-	culture=sanjo
-	religion=siliconist
+	name="Yousef"
+	dynasty=3000014 #Fousey
+	culture=eastshore
+	religion=imamite
 	martial=5
 	stewardship=8
 	trait=fortune_builder
@@ -297,13 +307,29 @@
 	2068.1.1={death=yes}
 }
 37103={ #Oakland minor
-	name="Perceptron"
-	culture=sanjo
-	religion=siliconist
+	name="Freddy"
+	dynasty=3000012 #Korematsu
+	culture=edokko
+	religion=three_paths
 	martial=5
 	learning=9
-	trait=mastermind_theologian
+	trait=charismatic_negotiator
 	2024.1.3={birth=yes}
+	2024.1.4={culture=eastshore}
+	2068.1.1={death=yes}
+}
+37104={ #Hayward minor
+	name="Rocky"
+	dynasty=3000011 #Johnson
+	culture=hawaiian
+	religion=sedevacantist
+	martial=9
+	learning=4
+	trait=tough_soldier
+	trait=giant
+	trait=strong
+	2024.1.3={birth=yes}
+	2024.1.4={culture=eastshore}
 	2068.1.1={death=yes}
 }
 
