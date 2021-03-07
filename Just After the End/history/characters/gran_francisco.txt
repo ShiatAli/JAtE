@@ -319,8 +319,8 @@
 	2068.1.1={death=yes}
 }
 37104={ #Hayward minor
-	name="Rocky"
-	dynasty=3000011 #Johnson
+	name="Dwayne"
+	dynasty=3000011 #Rockson
 	culture=hawaiian
 	religion=sedevacantist
 	martial=9

@@ -702,7 +702,7 @@
 3000008 = { name="de Leones" culture=californio }
 3000009 = { name="Fierro" culture=sonorense }
 3000010 = { name="Blossom" culture=eastshore }
-3000011 = { name="Johnson" culture=eastshore }
+3000011 = { name="Rockson" culture=eastshore }
 3000012 = { name="Korematsu" culture=eastshore }
 3000013 = { name="Kohen" culture=eastshore }
 3000014 = { name="Fousey" culture=eastshore }
