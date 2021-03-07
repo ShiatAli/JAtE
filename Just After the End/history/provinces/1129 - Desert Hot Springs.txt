@@ -1,0 +1,21 @@
+# c_desert_hot_springs
+
+# County Title
+title = c_desert_hot_springs
+
+# Settlements
+max_settlements = 4
+
+b_desert_hot_springs = castle
+b_sky_valley = city
+#b_desert_edge = temple
+#b_whitewater_2 = castle
+#b_north_palm_springs = city
+#b_dos_palmas = temple
+#b_bonnie_bell = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

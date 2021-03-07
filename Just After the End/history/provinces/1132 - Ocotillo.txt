@@ -1,0 +1,21 @@
+# c_ocotillo
+
+# County Title
+title = c_ocotillo
+
+# Settlements
+max_settlements = 2
+
+b_ocotillo_3 = castle
+#b_jacumba = city
+#b_plastercity = temple
+#b_desert_view = castle
+#b_mesquite_oasis_2 = city
+#b_round_mountain_3 = temple
+#b_yuha_cutoff = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

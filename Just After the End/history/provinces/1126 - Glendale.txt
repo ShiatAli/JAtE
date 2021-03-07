@@ -1,0 +1,21 @@
+# c_glendale
+
+# County Title
+title = c_glendale
+
+# Settlements
+max_settlements = 5
+
+b_glendale_7 = castle
+b_eagle_rock = city
+#b_adams_square = temple
+#b_mt_washington = castle
+#b_verdugo = city
+#b_atwater_2 = temple
+#b_glassell_park = castle
+
+# Misc
+culture = angeleno
+religion = apostolic
+
+#History

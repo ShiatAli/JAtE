@@ -1,0 +1,21 @@
+# c_freda
+
+# County Title
+title = c_freda
+
+# Settlements
+max_settlements = 2
+
+b_freda = castle
+#b_palen_pass = city
+#b_iron_mountain = temple
+#b_rice_valley = castle
+#b_palen_mccoy = city
+#b_coxcomb_2 = temple
+#b_shoe_fence = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

@@ -1,0 +1,21 @@
+# c_the_farallones
+
+# County Title
+title = c_the_farallones
+
+# Settlements
+max_settlements = 1
+
+b_marine_terrace = castle
+#b_lighthouse_hill = city
+#b_maintop = temple
+#b_st_james = castle
+#b_mussel_flat = city
+#b_drunk_uncle_islets = temple
+#b_the_pimple = castle
+
+# Misc
+culture = bayfolk
+religion = sedevacantist
+
+#History

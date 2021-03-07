@@ -1,0 +1,21 @@
+# c_livermore
+
+# County Title
+title = c_livermore
+
+# Settlements
+max_settlements = 5
+
+b_livermore_2 = castle
+b_ulmar = city
+b_altamont_3 = temple
+#b_mendenhall_springs = castle
+#b_del_valle = city
+#b_doolan = temple
+#b_patterson_pass = castle
+
+# Misc
+culture = diableno
+religion = cetic
+
+#History

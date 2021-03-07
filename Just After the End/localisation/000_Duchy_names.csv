@@ -79,6 +79,8 @@ d_canyonlands;Canyonlands;Canyonlands;Canyonlands;;Canyonlands;;;;;;;;;x
 d_canyonlands_adj;Canyonlandsian;;canyonlandser;;;;;;;;;;;x
 d_carmel_coast;Carmel Coast;Carmel Coast;Carmel Coast;;Carmel Coast;;;;;;;;;x
 d_carmel_coast_adj;Carmel Coastian;;Carmel Coaster;;;;;;;;;;;x
+d_carrizo;Carrizo;Carrizo;Carrizo;;Carrizo;;;;;;;;;x
+d_carrizo_adj;Carrizian;;carrizer;;;;;;;;;;;x
 d_carson;Carson;Carson;Carson;;Carson;;;;;;;;;x
 d_carson_adj;Carsonian;;carsoner;;;;;;;;;;;x
 d_cassia;Cassia;Cassia;Cassia;;Cassia;;;;;;;;;x
@@ -97,6 +99,8 @@ d_clark;Clark;Clark;Clark;;Clark;;;;;;;;;x
 d_clark_adj;Clarkian;;clarker;;;;;;;;;;;x
 d_clatsop;Clatsop;Clatsop;Clatsop;;Clatsop;;;;;;;;;x
 d_clatsop_adj;Clatsopian;;clatsoper;;;;;;;;;;;x
+d_coachella;Coachella;Coachella;Coachella;;Coachella;;;;;;;;;x
+d_coachella_adj;Coachellan;;coacheller;;;;;;;;;;;x
 d_cochise;Cochise;Cochise;Cochise;;Cochise;;;;;;;;;x
 d_cochise_adj;Cochisean;;cochiser;;;;;;;;;;;x
 d_coconino;Coconino;Coconino;Coconino;;Coconino;;;;;;;;;x
@@ -145,6 +149,8 @@ d_duck_valley;Duck Valley;Duck Valley;Duck Valley;;Duck Valley;;;;;;;;;x
 d_duck_valley_adj;Duck Valleian;;Duck Valleer;;;;;;;;;;;x
 d_eastside;Eastside;Eastside;Eastside;;Eastside;;;;;;;;;x
 d_eastside_adj;Eastsidean;;eastsider;;;;;;;;;;;x
+d_el_centro;El Centro;El Centro;El Centro;;El Centro;;;;;;;;;x
+d_el_centro_adj;El Centrian;;El Centrer;;;;;;;;;;;x
 d_el_paso;El Paso;El Paso;El Paso;;El Paso;;;;;;;;;x
 d_el_paso_adj;El Pasian;;El Paser;;;;;;;;;;;x
 d_el_picante;El Picante;El Picante;El Picante;;El Picante;;;;;;;;;x
@@ -255,6 +261,8 @@ d_inyo;Inyo;Inyo;Inyo;;Inyo;;;;;;;;;x
 d_inyo_adj;Inian;;iner;;;;;;;;;;;x
 d_jicarilla;Jicarilla;Jicarilla;Jicarilla;;Jicarilla;;;;;;;;;x
 d_jicarilla_adj;Jicarillan;;jicariller;;;;;;;;;;;x
+d_johnson_valley;Johnson Valley;Johnson Valley;Johnson Valley;;Johnson Valley;;;;;;;;;x
+d_johnson_valley_adj;Johnson Valleian;;Johnson Valleer;;;;;;;;;;;x
 d_joshua_tree;Joshua Tree;Joshua Tree;Joshua Tree;;Joshua Tree;;;;;;;;;x
 d_joshua_tree_adj;Joshua Treean;;Joshua Trer;;;;;;;;;;;x
 d_kakigui;Kakigui;Kakigui;Kakigui;;Kakigui;;;;;;;;;x
@@ -419,8 +427,6 @@ d_plumas;Plumas;Plumas;Plumas;;Plumas;;;;;;;;;x
 d_plumas_adj;Plumasian;;plumaser;;;;;;;;;;;x
 d_posession;Posession;Posession;Posession;;Posession;;;;;;;;;x
 d_posession_adj;Posessionian;;posessioner;;;;;;;;;;;x
-d_pozo_canyon;Pozo Canyon;Pozo Canyon;Pozo Canyon;;Pozo Canyon;;;;;;;;;x
-d_pozo_canyon_adj;Pozo Canyonian;;Pozo Canyoner;;;;;;;;;;;x
 d_pueblo;Pueblo;Pueblo;Pueblo;;Pueblo;;;;;;;;;x
 d_pueblo_adj;Pueblian;;puebler;;;;;;;;;;;x
 d_purcells;Purcells;Purcells;Purcells;;Purcells;;;;;;;;;x
@@ -557,6 +563,8 @@ d_tillamook;Tillamook;Tillamook;Tillamook;;Tillamook;;;;;;;;;x
 d_tillamook_adj;Tillamookian;;tillamooker;;;;;;;;;;;x
 d_tri_cities;Tri-cities;Tri-cities;Tri-cities;;Tri-cities;;;;;;;;;x
 d_tri_cities_adj;Tri-citiesian;;tri-citieser;;;;;;;;;;;x
+d_tri_valley;Tri-Valley;Tri-Valley;Tri-Valley;;Tri-Valley;;;;;;;;;x
+d_tri_valley_adj;Tri-Valleian;;tri-valleer;;;;;;;;;;;x
 d_trinity;Trinity;Trinity;Trinity;;Trinity;;;;;;;;;x
 d_trinity_adj;Trinitian;;triniter;;;;;;;;;;;x
 d_truckee_meadows;Truckee Meadows;Truckee Meadows;Truckee Meadows;;Truckee Meadows;;;;;;;;;x

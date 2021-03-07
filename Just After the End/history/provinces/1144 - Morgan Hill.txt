@@ -1,0 +1,21 @@
+# c_morgan_hill
+
+# County Title
+title = c_morgan_hill
+
+# Settlements
+max_settlements = 4
+
+b_morgan_hill_2 = castle
+b_san_martin_3 = city
+#b_coyote_3 = temple
+#b_los_paseos = castle
+#b_new_alameda = city
+#b_south_coyote = temple
+#b_edenvale = castle
+
+# Misc
+culture = sanjo
+religion = cetic
+
+#History

@@ -1,0 +1,21 @@
+# c_sheephole
+
+# County Title
+title = c_sheephole
+
+# Settlements
+max_settlements = 1
+
+b_old_dale = castle
+#b_dyadic_point = city
+#b_new_ironage = temple
+#b_coxcomb = castle
+#b_cadiz_dunes = city
+#b_rice_road = temple
+#b_brooklyn_mine = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

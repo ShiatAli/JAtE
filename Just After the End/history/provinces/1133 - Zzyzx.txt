@@ -1,0 +1,21 @@
+# c_zzyzx
+
+# County Title
+title = c_zzyzx
+
+# Settlements
+max_settlements = 1
+
+b_zzyzx = castle
+#b_kelso_3 = city
+#b_cima_2 = temple
+#b_soda_springs_2 = castle
+#b_tuendae = city
+#b_kelso_dunes = temple
+#b_hole_in_the_wall = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

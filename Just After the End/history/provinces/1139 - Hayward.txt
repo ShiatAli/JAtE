@@ -1,0 +1,21 @@
+# c_hayward
+
+# County Title
+title = c_hayward
+
+# Settlements
+max_settlements = 7
+
+b_hayward = castle
+b_san_leandro = city
+b_castro_valley = temple
+#b_bay_farm = castle
+#b_russell_city = city
+#b_cherryland = temple
+#b_ashland_2 = castle
+
+# Misc
+culture = eastshore
+religion = cetic
+
+#History

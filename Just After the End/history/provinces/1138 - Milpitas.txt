@@ -1,0 +1,21 @@
+# c_milpitas
+
+# County Title
+title = c_milpitas
+
+# Settlements
+max_settlements = 5
+
+b_milpitas_2 = castle
+b_berryessa_2 = city
+#b_alviso = temple
+#b_warm_springs_5 = castle
+#b_baylands = city
+#b_calaveras = temple
+#b_piedmont_hills = castle
+
+# Misc
+culture = sanjo
+religion = cetic
+
+#History

@@ -1,0 +1,21 @@
+# c_fairfield
+
+# County Title
+title = c_fairfield
+
+# Settlements
+max_settlements = 5
+
+b_fairfield_4 = castle
+b_suisun = city
+#b_green_valley_2 = temple
+#b_mankas_corner = castle
+#b_birds_landing_2 = city
+#b_denverton_2 = temple
+#b_rockville = castle
+
+# Misc
+culture = cariqueno
+religion = zenist
+
+#History

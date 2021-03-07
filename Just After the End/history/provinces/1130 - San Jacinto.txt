@@ -1,0 +1,21 @@
+# c_san_jacinto
+
+# County Title
+title = c_san_jacinto
+
+# Settlements
+max_settlements = 4
+
+b_hemet_2 = castle
+b_san_jacinto_2 = city
+#b_valle_vista_2 = temple
+#b_homeland_2 = castle
+#b_winchester_5 = city
+#b_gilman_hot_springs = temple
+#b_east_hemet = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

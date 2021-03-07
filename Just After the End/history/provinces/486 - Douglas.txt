@@ -16,6 +16,6 @@ b_waterville = castle
 
 # Misc
 culture = palouse
-religion = la_hermandad
+religion = millenarian
 
 #History

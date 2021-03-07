@@ -1,0 +1,21 @@
+# c_sunol
+
+# County Title
+title = c_sunol
+
+# Settlements
+max_settlements = 3
+
+b_sunol_2 = castle
+#b_verona_3 = city
+#b_dresser = temple
+#b_kilkare_woods = castle
+#b_brightside = city
+#b_scotts_corner = temple
+#b_vallecitos = castle
+
+# Misc
+culture = ysidro
+religion = cetic
+
+#History

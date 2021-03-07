@@ -15,7 +15,7 @@ b_medicine_lake = city
 #b_marshall = castle
 
 # Misc
-culture = palouse
+culture = panhandler
 religion = fidelii
 
 #History

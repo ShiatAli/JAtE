@@ -174,7 +174,7 @@ PROV173;Morongo;Morongo;Morongo;;;;;;;;;x
 PROV174;Pauma;Pauma;Pauma;;;;;;;;;x
 PROV175;Ramona;Ramona;Ramona;;;;;;;;;x
 PROV176;Salton;Salton;Salton;;;;;;;;;x
-PROV177;Coachella;Coachella;Coachella;;;;;;;;;x
+PROV177;Indio;Indio;Indio;;;;;;;;;x
 PROV178;Idyllwild;Idyllwild;Idyllwild;;;;;;;;;x
 PROV179;El Centro;El Centro;El Centro;;;;;;;;;x
 PROV180;Borrego;Borrego;Borrego;;;;;;;;;x
@@ -200,7 +200,7 @@ PROV199;Las Crusces;Las Crusces;Las Crusces;;;;;;;;;x
 PROV200;Lompoc;Lompoc;Lompoc;;;;;;;;;x
 PROV201;Santa Maria;Santa Maria;Santa Maria;;;;;;;;;x
 PROV202;Santa Ynez;Santa Ynez;Santa Ynez;;;;;;;;;x
-PROV203;Wheeler;Wheeler;Wheeler;;;;;;;;;x
+PROV203;Ojai;Ojai;Ojai;;;;;;;;;x
 PROV204;Cuyama Valley;Cuyama Valley;Cuyama Valley;;;;;;;;;x
 PROV205;Tejon Pass;Tejon Pass;Tejon Pass;;;;;;;;;x
 PROV206;Santa Clarita;Santa Clarita;Santa Clarita;;;;;;;;;x
@@ -233,8 +233,8 @@ PROV232;Vidal;Vidal;Vidal;;;;;;;;;x
 PROV233;Blythe;Blythe;Blythe;;;;;;;;;x
 PROV234;Needles;Needles;Needles;;;;;;;;;x
 PROV235;Barstow;Barstow;Barstow;;;;;;;;;x
-PROV236;Afton;Afton;Afton;;;;;;;;;x
-PROV237;Siberia;Siberia;Siberia;;;;;;;;;x
+PROV236;Ludlow;Ludlow;Ludlow;;;;;;;;;x
+PROV237;Lucerne Valley;Lucerne Valley;Lucerne Valley;;;;;;;;;x
 PROV238;Johnson Valley;Johnson Valley;Johnson Valley;;;;;;;;;x
 PROV239;Twentynine Palms;Twentynine Palms;Twentynine Palms;;;;;;;;;x
 PROV240;Joshua Tree;Joshua Tree;Joshua Tree;;;;;;;;;x
@@ -1123,3 +1123,26 @@ PROV1122;South Snake;South Snake;South Snake;;;;;;;;;x
 PROV1123;East Snake;East Snake;East Snake;;;;;;;;;x
 PROV1124;Minidoka Lake;Minidoka Lake;Minidoka Lake;;;;;;;;;x
 PROV1125;American Falls Resevoir;American Falls Resevoir;American Falls Resevoir;;;;;;;;;x
+PROV1126;Glendale;Glendale;Glendale;;;;;;;;;x
+PROV1127;Yorba Linda;Yorba Linda;Yorba Linda;;;;;;;;;x
+PROV1128;Fontana;Fontana;Fontana;;;;;;;;;x
+PROV1129;Desert Hot Springs;Desert Hot Springs;Desert Hot Springs;;;;;;;;;x
+PROV1130;San Jacinto;San Jacinto;San Jacinto;;;;;;;;;x
+PROV1131;Sheephole;Sheephole;Sheephole;;;;;;;;;x
+PROV1132;Ocotillo;Ocotillo;Ocotillo;;;;;;;;;x
+PROV1133;Zzyzx;Zzyzx;Zzyzx;;;;;;;;;x
+PROV1134;California City;California City;California City;;;;;;;;;x
+PROV1135;Mecca;Mecca;Mecca;;;;;;;;;x
+PROV1136;The Farallones;The Farallones;The Farallones;;;;;;;;;x
+PROV1137;Pacifica;Pacifica;Pacifica;;;;;;;;;x
+PROV1138;Milpitas;Milpitas;Milpitas;;;;;;;;;x
+PROV1139;Hayward;Hayward;Hayward;;;;;;;;;x
+PROV1140;San Ramon;San Ramon;San Ramon;;;;;;;;;x
+PROV1141;Livermore;Livermore;Livermore;;;;;;;;;x
+PROV1142;Sunol;Sunol;Sunol;;;;;;;;;x
+PROV1143;Orinda;Orinda;Orinda;;;;;;;;;x
+PROV1144;Morgan Hill;Morgan Hill;Morgan Hill;;;;;;;;;x
+PROV1145;Fairfield;Fairfield;Fairfield;;;;;;;;;x
+PROV1146;Freda;Freda;Freda;;;;;;;;;x
+PROV1147;Calnevari;Calnevari;Calnevari;;;;;;;;;x
+PROV1148;Cadiz;Cadiz;Cadiz;;;;;;;;;x

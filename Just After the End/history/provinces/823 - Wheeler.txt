@@ -1,7 +1,7 @@
-# c_wheeler_2
+# c_wheeler
 
 # County Title
-title = c_wheeler_2
+title = c_wheeler
 
 # Settlements
 max_settlements = 2

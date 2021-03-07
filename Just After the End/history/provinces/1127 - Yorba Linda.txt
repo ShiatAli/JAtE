@@ -1,0 +1,21 @@
+# c_yorba_linda
+
+# County Title
+title = c_yorba_linda
+
+# Settlements
+max_settlements = 4
+
+b_yorba_linda_3 = castle
+b_placentia_2 = city
+#b_brea_2 = temple
+#b_sleepy_hollow = castle
+#b_anaheim_hills = city
+#b_chino_hills = temple
+#b_olinda_village = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

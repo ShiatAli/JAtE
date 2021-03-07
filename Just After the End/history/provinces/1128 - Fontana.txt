@@ -1,0 +1,21 @@
+# c_fontana
+
+# County Title
+title = c_fontana
+
+# Settlements
+max_settlements = 4
+
+b_fontana_2 = castle
+b_rialto = city
+#b_bloomington_2 = temple
+#b_declezville_2 = castle
+#b_sierra_lakes = city
+#b_nealeys_corner = temple
+#b_walnut_village = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

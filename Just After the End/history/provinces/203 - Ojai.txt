@@ -1,13 +1,13 @@
-# c_wheeler
+# c_ojai
 
 # County Title
-title = c_wheeler
+title = c_ojai
 
 # Settlements
 max_settlements = 2
 
-b_wheeler = castle
-#b_ojala = city
+b_ojai_2 = castle
+#b_wheeler_springs = city
 #b_oak_view_2 = temple
 #b_mira_monte = castle
 #b_mission_canyon = city

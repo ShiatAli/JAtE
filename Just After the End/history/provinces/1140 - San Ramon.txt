@@ -1,0 +1,21 @@
+# c_san_ramon
+
+# County Title
+title = c_san_ramon
+
+# Settlements
+max_settlements = 5
+
+b_san_ramon_2 = castle
+b_danville_3 = city
+b_alamo_4 = temple
+#b_diablo_3 = castle
+#b_tassajara = city
+#b_blackhawk = temple
+#b_alamo_oaks = castle
+
+# Misc
+culture = diableno
+religion = cetic
+
+#History

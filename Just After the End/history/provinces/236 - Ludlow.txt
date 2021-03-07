@@ -1,14 +1,14 @@
-# c_afton
+# c_ludlow
 
 # County Title
-title = c_afton
+title = c_ludlow
 
 # Settlements
 max_settlements = 2
 
-b_afton_2 = castle
+b_ludlow = castle
 #b_crucero = city
-#b_zzyzx = temple
+#b_newberry_springs = temple
 #b_midway = castle
 #b_basin = city
 #b_manix = temple

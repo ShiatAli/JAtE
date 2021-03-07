@@ -175,7 +175,7 @@ province;red;green;blue;x;x
 174;56;139;80;Pauma;x
 175;69;120;45;Ramona;x
 176;41;126;65;Salton;x
-177;24;108;47;Coachella;x
+177;24;108;47;Indio;x
 178;66;111;78;Idyllwild;x
 179;28;73;41;El Centro;x
 180;40;118;62;Borrego;x
@@ -201,7 +201,7 @@ province;red;green;blue;x;x
 200;32;192;128;Lompoc;x
 201;128;160;64;Santa Maria;x
 202;22;88;26;Santa Ynez;x
-203;46;134;51;Wheeler;x
+203;46;134;51;Ojai;x
 204;92;122;93;Cuyama Valley;x
 205;109;201;114;Tejon Pass;x
 206;21;61;21;Santa Clarita;x
@@ -222,9 +222,9 @@ province;red;green;blue;x;x
 221;224;96;128;Picacho;x
 222;128;64;64;Slab City;x
 223;224;160;192;Palo Verde;x
-224;224;64;192;North Shore;x
+224;95;46;46;North Shore;x
 225;224;128;192;Desert Center;x
-226;221;70;146;Palm Springs;x
+226;20;77;36;Palm Springs;x
 227;130;85;121;Bagdad;x
 228;206;221;122;Searchlight;x
 229;221;177;209;Goodsprings;x
@@ -234,8 +234,8 @@ province;red;green;blue;x;x
 233;255;208;170;Blythe;x
 234;193;60;126;Needles;x
 235;191;123;101;Barstow;x
-236;234;58;117;Afton;x
-237;234;164;129;Siberia;x
+236;234;58;117;Ludlow;x
+237;234;164;129;Lucerne Valley;x
 238;191;54;9;Johnson Valley;x
 239;131;138;35;Twentynine Palms;x
 240;104;110;29;Joshua Tree;x
@@ -821,7 +821,7 @@ province;red;green;blue;x;x
 820;240;177;13;Upper Silves;x
 821;129;134;13;John Day;x
 822;185;204;93;Rock Creek;x
-823;109;151;13;Wheeler_2;x
+823;109;151;13;Wheeler;x
 824;134;114;73;Grant_2;x
 825;52;119;194;Window Rock;x
 826;111;136;184;Dilkon;x
@@ -1060,7 +1060,7 @@ province;red;green;blue;x;x
 1059;160;161;97;Coldwater;x
 1060;74;122;137;Tollhouse;x
 1061;9;121;76;Tule River;x
-1062;5;107;79;Tehachapi;x
+1062;95;237;8;Tehachapi;x
 1063;80;15;243;North Pacific;x
 1064;99;41;243;Wild Coast;x
 1065;119;71;240;Juan de Fuca Strait;x
@@ -1124,3 +1124,26 @@ province;red;green;blue;x;x
 1123;135;130;224;East Snake;x
 1124;114;107;223;Minidoka Lake;x
 1125;93;86;223;American Falls Resevoir;x
+1126;37;63;122;Glendale;x
+1127;69;100;168;Yorba Linda;x
+1128;43;122;64;Fontana;x
+1129;30;91;47;Desert Hot Springs;x
+1130;23;83;40;San Jacinto;x
+1131;246;195;155;Sheephole;x
+1132;103;148;82;Ocotillo;x
+1133;165;33;7;Zzyzx;x
+1134;172;123;77;California City;x
+1135;21;102;43;Mecca;x
+1136;224;27;27;The Farallones;x
+1137;244;87;87;Pacifica;x
+1138;102;111;233;Milpitas;x
+1139;62;71;202;Hayward;x
+1140;66;183;176;San Ramon;x
+1141;150;155;236;Livermore;x
+1142;128;134;216;Sunol;x
+1143;45;183;175;Orinda;x
+1144;53;156;133;Morgan Hill;x
+1145;172;59;59;Fairfield;x
+1146;237;178;129;Freda;x
+1147;184;51;117;Calnevari;x
+1148;232;164;109;Cadiz;x

@@ -1,0 +1,21 @@
+# c_orinda
+
+# County Title
+title = c_orinda
+
+# Settlements
+max_settlements = 4
+
+b_orinda_2 = castle
+b_lafayette_4 = city
+#b_moraga = temple
+#b_piedmont_pines = castle
+#b_sleepy_hollow_2 = city
+#b_tilden_park = temple
+#b_campolindo = castle
+
+# Misc
+culture = diableno
+religion = cetic
+
+#History

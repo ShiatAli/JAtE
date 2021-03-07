@@ -1,0 +1,21 @@
+# c_calnevari
+
+# County Title
+title = c_calnevari
+
+# Settlements
+max_settlements = 2
+
+b_laughlin_2 = castle
+#b_calnevari = city
+#b_palm_gardens = temple
+#b_fort_piute = castle
+#b_chiquita_hills = city
+#b_castle_mountains = temple
+#b_davis_dam = castle
+
+# Misc
+culture = clarkard
+religion = fortunist
+
+#History

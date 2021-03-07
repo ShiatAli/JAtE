@@ -1,0 +1,21 @@
+# c_lucerne_valley
+
+# County Title
+title = c_lucerne_valley
+
+# Settlements
+max_settlements = 2
+
+b_lucerne_valley = castle
+#b_cushenbury = city
+#b_fizzben_heights = temple
+#b_fifteenmile_valley = castle
+#b_old_woman_springs = city
+#b_cougar_buttes = temple
+#b_soggy_dry_lake = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

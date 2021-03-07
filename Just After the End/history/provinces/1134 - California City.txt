@@ -1,0 +1,21 @@
+# c_california_city
+
+# County Title
+title = c_california_city
+
+# Settlements
+max_settlements = 2
+
+b_california_city = castle
+#b_kramer_junction = city
+#b_boron = temple
+#b_north_edwards = castle
+#b_desert_tortoise = city
+#b_rich = temple
+#b_sutters_fort = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

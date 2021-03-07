@@ -15,7 +15,7 @@ b_colwood = city
 #b_kwulchan = castle
 
 # Misc
-culture = islander
+culture = vainakuvaraita
 religion = legislative
 
 #History

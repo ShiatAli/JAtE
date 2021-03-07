@@ -1,0 +1,21 @@
+# c_pacifica
+
+# County Title
+title = c_pacifica
+
+# Settlements
+max_settlements = 4
+
+b_pacifica_2 = castle
+b_moss_beach = city
+#b_montara = temple
+#b_princeton_by_the_sea = castle
+#b_linda_mar = city
+#b_rockaway_beach_2 = temple
+#b_san_pedro_valley = castle
+
+# Misc
+culture = carmelite
+religion = cetic
+
+#History

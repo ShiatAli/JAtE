@@ -1,0 +1,21 @@
+# c_cadiz
+
+# County Title
+title = c_cadiz
+
+# Settlements
+max_settlements = 1
+
+b_cadiz_2 = castle
+#b_essex_2 = city
+#b_old_woman_mountain = temple
+#b_sunflower_springs = castle
+#b_skeleton_pass = city
+#b_bigelow_cholla = temple
+#b_turtle_mountain = castle
+
+# Misc
+culture = angeleno
+religion = cetic
+
+#History

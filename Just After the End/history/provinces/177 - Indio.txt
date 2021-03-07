@@ -1,7 +1,7 @@
-# c_coachella
+# c_indio
 
 # County Title
-title = c_coachella
+title = c_indio
 
 # Settlements
 max_settlements = 4
