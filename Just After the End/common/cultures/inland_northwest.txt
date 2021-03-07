@@ -368,7 +368,7 @@ inland_northwest = {
 			Orson Osb Orchard
 			Patriot_Pat Pilot Pend Post Pappy Pavel
 			Richard_Richard Robert_Robert Ryan
-			Sam_Samuel Sherman Steve_Stephen Stuart Skit Shooter Strato Steptoe
+			Sam_Samuel Sherman Steve_Stephen Stuart Skit Shooter Strato Steptoe Saynt
 			Tom_Thomas Tyler Tanker Trooper Trout Tubbs Trent
 			Vasily 
 			Walter Wayne Wilder William_Bill 

@@ -579,8 +579,8 @@
 2055000 = { name="Copperpot" culture=saltwater}
 
 #Panhandler
-2066000 = { name="Tannerite" culture=panhandler}
-2066001 = { name="Tokarev" culture=panhandler}
+2066000 = { name="Tannerite" culture=panhandler} #Dominionate Bossman
+2066001 = { name="Tokarev" culture=panhandler} #Duke of Lilac
 2066002 = { name="Norton" culture=panhandler}
 2066003 = { name="Julian" culture=panhandler}
 2066004 = { name="Havel" culture=panhandler}
@@ -595,7 +595,7 @@
 2066013 = { name="Schuler" culture=panhandler}
 2066014 = { name="Whitetail" culture=panhandler}
 2066015 = { name="Farragut" culture=panhandler}
-2066016 = { name="Easton" culture=panhandler}
+2066016 = { name="Easton" culture=panhandler} #Chief of St. Joe
 2066017 = { name="Inlandov" culture=panhandler}
 2066018 = { name="Missioner" culture=panhandler}
 2066019 = { name="Ferrier" culture=panhandler}
@@ -609,12 +609,12 @@
 2066027 = { name="Gonzaga" culture=panhandler}
 2066028 = { name="Reed" culture=panhandler}
 2066029 = { name="Hayden" culture=panhandler}
-2066030 = { name="Silverstriker" culture=panhandler}
+2066030 = { name="Silverstriker" culture=panhandler} #Chief of Silver Valley
 2066031 = { name="Hurley" culture=panhandler}
 2066032 = { name="Myner" culture=panhandler}
 2066033 = { name="Rudenko" culture=panhandler}
 2066034 = { name="Fireman" culture=panhandler}
-2066035 = { name="Forrester" culture=panhandler}
+2066035 = { name="Forrester" culture=panhandler} #Chief of Dambuilders
 2066036 = { name="Boarder" culture=panhandler}
 2066037 = { name="Lineman" culture=panhandler}
 2066038 = { name="Hoodoo" culture=panhandler}
@@ -638,7 +638,7 @@
 2066056 = { name="Hurst" culture=panhandler}
 2066057 = { name="Dredge" culture=panhandler}
 2066058 = { name="Eisenmann" culture=panhandler}
-2066059 = { name="Cardelane" culture=panhandler}
+2066059 = { name="Cardelane" culture=panhandler} #Count of Coeur D'alene
 2066060 = { name="Harper" culture=panhandler}
 2066061 = { name="Earle" culture=panhandler}
 2066062 = { name="Briggs" culture=panhandler}
@@ -649,6 +649,8 @@
 2066067 = { name="Meyer" culture=panhandler}
 2066068 = { name="Volkoff" culture=panhandler}
 2066069 = { name="Romero" culture=panhandler}
+
+2089001 = { name="Louie" culture=skitswish}
 
 #Clarkard
 1712000 = { name="Albertson" culture=panhandler}

@@ -71,7 +71,7 @@
 #count of coeur d'alene
 102602 ={
 	name="Ike"
-	dynasty=2066019
+	dynasty=2066059
 	culture=panhandler
 	religion=dominionist
 	martial=8
@@ -85,5 +85,81 @@
 	trait=brave
 	trait=tough_soldier
 	2030.8.30={birth=yes}
+	2090.3.2={death=yes}
+}
+
+102501 ={
+	name="Lookout"
+	dynasty=2066030
+	culture=panhandler
+	religion=dominionist
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=5
+	learning=4
+	trait=wroth
+	trait=envious
+	trait=proud
+	trait=chaste
+	trait=flamboyant_schemer
+	2021.8.30={birth=yes}
+	2090.3.2={death=yes}
+}
+
+102401 ={
+	name="Saynt"
+	dynasty=2066016
+	culture=panhandler
+	religion=sovereignist
+	martial=5
+	diplomacy=4
+	stewardship=3
+	intrigue=4
+	learning=5
+	trait=diligent
+	trait=humble
+	trait=patient
+	trait=kind
+	trait=detached_priest
+	2018.4.11={birth=yes}
+	2090.3.2={death=yes}
+}
+
+102402 ={
+	name="Caleb"
+	dynasty=2066035
+	culture=panhandler
+	religion=conservationist
+	martial=4
+	diplomacy=5
+	stewardship=6
+	intrigue=5
+	learning=3
+	trait=lisp
+	trait=chaste
+	trait=gluttonous
+	trait=kind
+	trait=indulgent_wastrel
+	2003.1.12={birth=yes}
+	2090.3.2={death=yes}
+}
+
+102301 ={
+	name="Moses"
+	dynasty=2089001
+	culture=skitswish
+	religion=millenarian
+	martial=5
+	diplomacy=7
+	stewardship=5
+	intrigue=3
+	learning=5
+	trait=proud
+	trait=slothful
+	trait=humble
+	trait=diligent
+	trait=underhanded_rogue
+	2031.1.12={birth=yes}
 	2090.3.2={death=yes}
 }

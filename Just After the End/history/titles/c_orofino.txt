@@ -6,3 +6,6 @@
 800.1.1={
 	liege=k_clearwater
 }
+2047.1.1={
+	holder=102402
+}
