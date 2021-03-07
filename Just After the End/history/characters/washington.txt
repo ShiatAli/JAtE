@@ -15,7 +15,58 @@
 		#1926xx   d snoqualmie
 	#193xxx    k willapa
 	#194xxx    k skagit
-
+#1912xx   d grays harbor
+191200 = {
+	name="Joe"
+	dynasty=999969
+	culture=makah
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+191201 = {
+	name="Joe"
+	dynasty=999969
+	culture=makah
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+191202 = {
+	name="Joe"
+	dynasty=999969
+	culture=makah
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
 191100 = {
 	name="Joe"
 	dynasty=999969
@@ -37,6 +88,215 @@
 	name="Joe"
 	dynasty=999969
 	culture=olympite
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+194001 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+194002 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+192300 = {
+	name="Joe"
+	dynasty=999969
+	culture=emeraldian
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+192500 = {
+	name="Joe"
+	dynasty=999969
+	culture=emeraldian
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+#1914xx   d mason
+191400 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=evangelical
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+#1913xx   d kitsap
+191300 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=evangelical
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+191301 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=evangelical
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+#1926xx   d snoqualmie
+192600 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=evangelical
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+#1924xx   d seatac
+192400 = {
+	name="Joe"
+	dynasty=999969
+	culture=emeraldian
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+192402 = {
+	name="Joe"
+	dynasty=999969
+	culture=emeraldian
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+#1916xx   d thurston
+191600 = {
+	name="Joe"
+	dynasty=999969
+	culture=olympite
+	religion=gaian
+	martial=5
+	diplomacy=5
+	stewardship=8
+	intrigue=7
+	learning=10
+	trait=amatuerish_plotter
+	trait=cynical
+	trait=humble
+	trait=stressed
+	1992.6.18={birth=yes}
+	2100.1.1={death=yes}
+}
+191601 = {
+	name="Joe"
+	dynasty=999969
+	culture=backcountry
 	religion=gaian
 	martial=5
 	diplomacy=5
@@ -230,4 +490,38 @@
 	trait=adventurer
 	2020.1.1={birth=yes}
 	2090.1.1={death=yes}
+}
+#194xxx    k skagit
+194100 = {
+	name = "Joe"
+	dynasty=999969
+	culture=orcan
+	religion=gaian
+	trait=elusive_shadow
+	trait=seducer
+	trait=lustful
+	2035.1.1={birth=yes}
+	2087.1.1={death=yes}
+}
+194101 = {
+	name = "Joe"
+	dynasty=999969
+	culture=orcan
+	religion=gaian
+	trait=elusive_shadow
+	trait=seducer
+	trait=lustful
+	2035.1.1={birth=yes}
+	2087.1.1={death=yes}
+}
+194102 = {
+	name = "Joe"
+	dynasty=999969
+	culture=orcan
+	religion=gaian
+	trait=elusive_shadow
+	trait=seducer
+	trait=lustful
+	2035.1.1={birth=yes}
+	2087.1.1={death=yes}
 }

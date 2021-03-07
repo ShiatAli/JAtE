@@ -357,3 +357,62 @@
 	#disallow_random_traits = yes
 	2034.1.2={birth=yes}
 }
+#0715xx   d pacific rim
+071500 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+071501 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+071502 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+071503 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+071504 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+#0713xx   d greater victoria
+071300 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}
+#0731xx   d delta
+073100 ={ #
+	name="Joe"
+	dynasty=999969
+	culture=vancouverite
+	religion=gaian
+	disallow_random_traits = yes
+	2034.1.2={birth=yes}
+}

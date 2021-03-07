@@ -72,98 +72,98 @@ e_the_censure = { #placeholder for the Indian Empire Eastern Governor
 }
 ###################Titular Titles########################
 k_nuuchahnulth = {
-	color = { 0 0 139 }
+	color = { 48 102 130 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 k_kwakwakakawk = {
-	color = { 0 0 139 }
+	color = { 71 134 167 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 k_makah = {
-	color = { 0 0 139 }
+	color = { 65 46 39 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 k_the_ledge = {
-	color = { 0 0 139 }
+	color = { 126 40 41 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_snowchainers = {
-	color = { 0 0 139 }
+	color = { 46 124 62 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_the_evergreen = {
-	color = { 0 0 139 }
+	color = { 114 75 78 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_the_quarrymen = {
-	color = { 0 0 139 }
+	color = { 17 80 27 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_the_bearkillers = {
-	color = { 0 0 139 }
+	color = { 198 192 228 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_the_six_rivers = {
-	color = { 0 0 139 }
+	color = { 48 67 45 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_the_thespians = {
-	color = { 0 0 139 }
+	color = { 68 102 148 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_jointbases = {
-	color = { 0 0 139 }
+	color = { 24 61 139 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_the_jackos = {
-	color = { 0 0 139 }
+	color = { 112 105 33 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_bangors = {
-	color = { 0 0 139 }
+	color = { 61 84 128 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle
 	culture = cascadian
 }
 d_timberrafters = {
-	color = { 0 0 139 }
+	color = { 69 135 125 }
 	color2={ 255 255 255 }
 	
 	capital = 367 #Seattle

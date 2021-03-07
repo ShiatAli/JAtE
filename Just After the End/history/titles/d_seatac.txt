@@ -3,6 +3,6 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_the_puget
+1990.1.1={
+	liege=k_washington
 }
