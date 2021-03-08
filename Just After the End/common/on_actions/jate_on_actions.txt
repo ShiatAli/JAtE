@@ -4,3 +4,10 @@ on_startup = {
 		jate_landmarks.0 # Landmark event
 	}
 }
+
+on_death = {
+	events = {
+		jate_misc.1 # Wineguard
+		jate_misc.2 # Cascade Raptor Center
+	}
+}

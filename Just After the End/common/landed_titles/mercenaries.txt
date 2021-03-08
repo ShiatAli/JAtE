@@ -1,0 +1,240 @@
+d_timbers_army = {
+	color={ 37 96 23 }
+	color2={ 255 255 255 }
+
+	capital = 342 #Portland
+	
+	culture = portlandian
+	religion = black_cross
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_timbers_army_composition
+}
+
+d_pike_place_pikemen = {
+	color = { 234 56 20 }
+	color2 = { 248 169 130 }
+	
+	capital = 392 #Seattle
+		
+	culture = emeraldian
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_pike_place_pikemen_composition
+}
+
+d_sakura_contingent = {
+	color={ 239 135 179 }
+	color2={ 255 255 255 }
+
+	capital = 392 #Seattle
+	
+	culture = emeraldian
+
+	title = "SEIYU"
+	foa = "SEIYU_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_sakura_contingent_composition
+}
+
+d_sonics = {
+	color={ 0 87 45 }
+	color2={ 255 194 27 }
+
+	capital = 392 #Seattle
+	
+	culture = emeraldian
+
+	title = "COACH"
+	foa = "COACH_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_sonics_composition
+}
+
+d_smurfturfers = {
+	color={ 0 48 161 }
+	color2={ 251 63 13 }
+
+	capital = 739 #Boise
+	
+	culture = boisean
+
+	title = "COACH"
+	foa = "COACH_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_company_composition
+}
+
+d_zags = {
+	color={ 195 199 205 }
+	color2={ 255 255 255 }
+
+	capital = 448 #Spokane
+	
+	culture = panhandler
+
+	title = "COACH"
+	foa = "COACH_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_company_composition
+}
+
+d_wineguard = {
+	color={ 106 34 65 }
+	color2={ 255 255 255 }
+
+	capital = 501 #Walla Walla
+	
+	culture = tricitian
+	religion = la_hermandad
+
+	title = "OENOLOGIST"
+	foa = "OENOLOGIST_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_company_composition
+}
+
+d_historic_seaport_authority = {
+	color={ 0 0 0 }
+	color2={ 255 255 255 }
+
+	capital = 433 #Aberdeen
+	
+	culture = olympite
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_large_ships_composition
+}
+
+d_pyp = {
+	color={ 144 73 45 }
+	color2={ 255 255 255 }
+
+	capital = 342 #Portland
+	
+	culture = portlandian
+
+	title = "CONDUCTOR"
+	foa = "CONDUCTOR_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_company_composition
+}
+
+d_cascade_raptor_center = {
+	color={ 242 146 33 }
+	color2={ 255 255 255 }
+
+	capital = 366 #Eugene
+	
+	culture = willametteian
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_company_composition
+}
+
+d_stagecrew = {
+	color={ 208 17 68 }
+	color2={ 0 0 0 }
+
+	capital = 1047 #Ashland
+	
+	culture = rogueite
+
+	title = "DIRECTOR"
+	foa = "DIRECTOR_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_company_composition
+}
+
+d_garibaldi_charters = {
+	color={ 20 32 48 }
+	color2={ 255 255 255 }
+
+	capital = 383 #Tillamook
+	
+	culture = saltwalter
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	mercenary = yes
+	landless = yes
+	primary = yes
+	independent = yes
+	strength_growth_per_century = 1.0
+
+	mercenary_type = d_medium_ships_composition
+}
