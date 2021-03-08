@@ -87,7 +87,7 @@
 	2030.8.30={birth=yes}
 	2090.3.2={death=yes}
 }
-
+#Chief of Silver Valley
 102501 ={
 	name="Lookout"
 	dynasty=2066030
@@ -106,7 +106,7 @@
 	2021.8.30={birth=yes}
 	2090.3.2={death=yes}
 }
-
+#Chief of Saint Joe
 102401 ={
 	name="Saynt"
 	dynasty=2066016
@@ -125,7 +125,7 @@
 	2018.4.11={birth=yes}
 	2090.3.2={death=yes}
 }
-
+#Chief of Orofino
 102402 ={
 	name="Caleb"
 	dynasty=2066035
@@ -144,7 +144,7 @@
 	2003.1.12={birth=yes}
 	2090.3.2={death=yes}
 }
-
+#Chief of the Skitswish
 102301 ={
 	name="Moses"
 	dynasty=2089001
@@ -161,5 +161,24 @@
 	trait=diligent
 	trait=underhanded_rogue
 	2031.1.12={birth=yes}
+	2090.3.2={death=yes}
+}
+
+104501 ={
+	name="Harry"
+	dynasty=2066009
+	culture=panhandler
+	religion=dominionist
+	martial=9
+	diplomacy=5
+	stewardship=6
+	intrigue=5
+	learning=6
+	trait=wroth
+	trait=humble
+	trait=zealous
+	trait=tough_soldier
+	2029.5.23={birth=yes}
+	2050.1.1={ employer=102601 }
 	2090.3.2={death=yes}
 }

@@ -588,7 +588,7 @@
 2066006 = { name="Sunchild" culture=panhandler}
 2066007 = { name="Pulaski" culture=panhandler}
 2066008 = { name="Palmer" culture=panhandler}
-2066009 = { name="Truman" culture=panhandler}
+2066009 = { name="Truman" culture=panhandler} #Tannerite Courtier
 2066010 = { name="Buck" culture=panhandler}
 2066011 = { name="Haywood" culture=panhandler}
 2066012 = { name="Johnson" culture=panhandler}
