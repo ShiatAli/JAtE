@@ -1,0 +1,63 @@
+# Define mercenary types here now instead of in the static_composition.txt file
+
+# Also remember to tell the landed title to use this mercenary type instead.
+
+# Several titles can refer to the same type as well now.
+
+
+
+d_timbers_army_composition = {
+	levy_size = 1
+	heavy_infantry = 250
+	pikemen = 1200
+	archers = 250
+}
+
+d_medium_company_composition = {
+	levy_size = 1
+	heavy_infantry = 250
+	light_infantry = 750
+	archers = 400
+	knights = 100
+}
+
+d_sakura_contingent_composition = {
+	levy_size = 1
+	light_infantry = 500
+	archers = 500
+	knights = 250
+}
+
+d_sonics_composition = {
+	levy_size = 1
+	pikemen = 600
+	archers = 250
+	light_infantry = 250
+}
+
+d_pike_place_pikemen_composition = {
+	levy_size = 1
+	pikemen = 750
+	archers = 250
+	light_infantry = 250
+}
+
+d_small_ships_composition = {
+	levy_size = 1
+	galleys = 10
+}
+d_medium_ships_composition = {
+	levy_size = 1
+	galleys = 20
+}
+d_large_ships_composition = {
+	levy_size = 1
+	galleys = 30
+}
+
+## Must exist or else dynamic mercenary band might fail for nomads!
+default_culture_band_composition = {
+	levy_size = 1
+	light_infantry = 100
+}
+

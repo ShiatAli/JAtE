@@ -1,0 +1,108 @@
+namespace = jate_misc
+
+
+character_event = {
+	id = misc.1
+	desc = "Replace Leader of the Wineguard"
+	picture = GFX_evt_mass_crusade
+	is_triggered_only = yes
+
+	trigger = {
+		has_landed_title = d_wineguard
+	}
+	
+	option = {
+		# Make sure they're a good age
+		random_list = {
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 30
+			} }
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 35
+			} }
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 40
+			} }
+			20 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 45
+			} }
+			20 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 50
+			} }
+			20 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 55
+			} }
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=drunkard
+				age = 60
+			} }
+		}
+		new_character = { ROOT = { any_demesne_title = { gain_title = PREVPREV } } }
+	}
+}
+
+character_event = {
+	id = misc.2
+	desc = "Replace Leader of the Falconers"
+	picture = GFX_evt_mass_crusade
+	is_triggered_only = yes
+
+	trigger = {
+		has_landed_title = d_cascade_raptor_center
+	}
+	
+	option = {
+		# Make sure they're a good age
+		random_list = {
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 30
+			} }
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 35
+			} }
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 40
+			} }
+			20 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 45
+			} }
+			20 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 50
+			} }
+			20 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 55
+			} }
+			10 = { create_random_soldier = {
+				random_traits = yes
+				trait=falconer
+				age = 60
+			} }
+		}
+		new_character = { ROOT = { any_demesne_title = { gain_title = PREVPREV } } }
+	}
+}
