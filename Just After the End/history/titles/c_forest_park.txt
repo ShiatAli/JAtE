@@ -4,9 +4,8 @@
 	law = succ_gavelkind
 }
 1990.1.1={
-	liege=k_portlandia
+	liege=d_multnomah
 }
-
 2054.1.1={
 	holder=142402
 }

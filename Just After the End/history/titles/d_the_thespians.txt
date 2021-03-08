@@ -1,8 +1,8 @@
-# e_oregon
-2000.1.1={
+# e_jefferson
+1990.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2000.1.1={
-	liege=k_salem
+1990.1.1={
+	holder=142421
 }

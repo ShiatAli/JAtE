@@ -171,9 +171,385 @@
 	2038.1.1={birth=yes}
 	2060.1.1={death=yes}
 }
-
-
-
+142403 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142404 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142405 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142406 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142407 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142408 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142409 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142410 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142411 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142412 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142413 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142414 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142415 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142416 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142417 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142418 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142419 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142420 = {
+	name="Joe"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142421 = {
+	name="Jane"
+	dynasty=999969
+	culture=portlandian
+	religion=gaian
+	female=yes
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142422 = {
+	name="Joe"
+	dynasty=999969
+	culture=siskiyouan
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+142423 = {
+	name="Joe"
+	dynasty=999969
+	culture=siskiyouan
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
 #Saltcoast
 
 9300  = {
@@ -185,4 +561,94 @@
 	trait=adventurer
 	2020.1.1={birth=yes}
 	2090.1.1={death=yes}
+}
+144000 = {
+	name="Joe"
+	dynasty=999969
+	culture=saltwater
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+144001 = {
+	name="Joe"
+	dynasty=999969
+	culture=saltwater
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+144002 = {
+	name="Joe"
+	dynasty=999969
+	culture=saltwater
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+144003 = {
+	name="Joe"
+	dynasty=999969
+	culture=saltwater
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+144004 = {
+	name="Joe"
+	dynasty=999969
+	culture=saltwater
+	religion=gaian
+	trait=elusive_shadow
+	trait=lunatic
+	trait=depressed
+	trait=cruel
+	trait=ambitious
+	trait=shrewd
+	trait=schemer
+	trait=uncouth
+	trait=fair
+	trait=homosexual
+	2038.1.1={birth=yes}
+	2060.1.1={death=yes}
 }
