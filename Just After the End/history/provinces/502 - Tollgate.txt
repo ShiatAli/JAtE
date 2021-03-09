@@ -4,10 +4,10 @@
 title = c_tollgate
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
 b_tollgate = castle
-b_kooskooskie = city
+#b_kooskooskie = city
 #b_bingham_springs = temple
 #b_spout_springs = castle
 #b_mill_creek = city
