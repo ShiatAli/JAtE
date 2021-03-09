@@ -1,0 +1,21 @@
+# c_priest_river
+
+# County Title
+title = c_priest_river
+
+# Settlements
+max_settlements = 3
+
+b_priest_river_2 = castle
+#b_coolin = city
+#b_nordman = temple
+#b_outlet_bay = castle
+#b_four_corners_4 = city
+#b_thama = temple
+#b_lionhead = castle
+
+# Misc
+culture = panhandler
+religion = evangelical
+
+#History

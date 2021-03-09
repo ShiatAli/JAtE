@@ -444,7 +444,7 @@ province;red;green;blue;x;x
 443;147;110;110;Quilcene;x
 444;189;129;129;Jefferson;x
 445;203;92;92;Bremerton;x
-446;166;44;44;Port Orchard;x
+446;166;44;44;Gig Harbor;x
 447;203;128;128;Poulsbo;x
 448;99;13;13;Spokane;x
 449;188;94;94;Spokane Valley;x
@@ -1147,3 +1147,35 @@ province;red;green;blue;x;x
 1146;237;178;129;Freda;x
 1147;184;51;117;Calnevari;x
 1148;232;164;109;Cadiz;x
+1149;184;103;103;Bainbridge;x
+1150;145;27;27;Port Orchard;x
+1151;174;57;57;Belfair;x
+1152;31;187;170;Lakewood;x
+1153;37;129;63;Tenino;x
+1154;205;82;82;Naches;x
+1155;107;21;21;Brewster;x
+1156;172;34;34;Omak;x
+1157;125;72;72;Danville;x
+1158;132;84;84;Bothell;x
+1159;164;47;127;Multnomah Falls;x
+1160;47;119;30;Tygh Valley;x
+1161;72;22;22;Town-and-Country;x
+1162;109;14;14;Post Falls;x
+1163;163;47;47;Silverwood;x
+1164;54;172;141;Hangman Valley;x
+1165;121;46;25;Priest River;x
+1166;14;70;132;Eagle_2;x
+1167;103;77;77;Chewelah;x
+1168;26;95;170;Meridian;x
+1169;15;78;148;Kuna;x
+1170;132;25;16;St. Joe_2;x
+1171;126;22;22;Clark Fork;x
+1172;210;91;47;Vale;x
+1173;155;48;143;Cottonwood Canyon;x
+1174;52;46;174;Starbuck;x
+1175;100;50;50;Inchelium;x
+1176;107;48;48;Tulalip;x
+1177;129;23;23;Stanwood;x
+1178;172;78;78;Port Ludlow;x
+1179;38;174;159;Puyallup;x
+1180;165;102;102;Kent;x

@@ -1,0 +1,21 @@
+# c_vale
+
+# County Title
+title = c_vale
+
+# Settlements
+max_settlements = 2
+
+b_vale = castle
+#b_willowcreek = city
+#b_bully_creek = temple
+#b_johnson_gulch = castle
+#b_cow_hollow = city
+#b_sand_hollow = temple
+#b_valley_view = castle
+
+# Misc
+culture = juniperian
+religion = sovereignist
+
+#History

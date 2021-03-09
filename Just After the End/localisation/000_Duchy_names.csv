@@ -357,6 +357,8 @@ d_merced;Merced;Merced;Merced;;Merced;;;;;;;;;x
 d_merced_adj;Mercedian;;merceder;;;;;;;;;;;x
 d_mesa_verde;Mesa Verde;Mesa Verde;Mesa Verde;;Mesa Verde;;;;;;;;;x
 d_mesa_verde_adj;Mesa Verdean;;Mesa Verder;;;;;;;;;;;x
+d_methow;Methow;Methow;Methow;;Methow;;;;;;;;;x
+d_methow_adj;Methowian;;methower;;;;;;;;;;;x
 d_mexicali;Mexicali;Mexicali;Mexicali;;Mexicali;;;;;;;;;x
 d_mexicali_adj;Mexicalian;;mexicaler;;;;;;;;;;;x
 d_mineral;Mineral;Mineral;Mineral;;Mineral;;;;;;;;;x
@@ -405,6 +407,8 @@ d_orange;Orange;Orange;Orange;;Orange;;;;;;;;;x
 d_orange_adj;Orangean;;oranger;;;;;;;;;;;x
 d_oroville;Oroville;Oroville;Oroville;;Oroville;;;;;;;;;x
 d_oroville_adj;Orovillean;;oroviller;;;;;;;;;;;x
+d_owyhee;Owyhee;Owyhee;Owyhee;;Owyhee;;;;;;;;;x
+d_owyhee_adj;Owyheean;;owyher;;;;;;;;;;;x
 d_pacheco;Pacheco;Pacheco;Pacheco;;Pacheco;;;;;;;;;x
 d_pacheco_adj;Pachecian;;pachecer;;;;;;;;;;;x
 d_pacific;Pacific;Pacific;Pacific;;Pacific;;;;;;;;;x
@@ -429,6 +433,8 @@ d_plumas;Plumas;Plumas;Plumas;;Plumas;;;;;;;;;x
 d_plumas_adj;Plumasian;;plumaser;;;;;;;;;;;x
 d_posession;Posession;Posession;Posession;;Posession;;;;;;;;;x
 d_posession_adj;Posessionian;;posessioner;;;;;;;;;;;x
+d_possession;Possession;Possession;Possession;;Possession;;;;;;;;;x
+d_possession_adj;Possessionian;;possessioner;;;;;;;;;;;x
 d_pueblo;Pueblo;Pueblo;Pueblo;;Pueblo;;;;;;;;;x
 d_pueblo_adj;Pueblian;;puebler;;;;;;;;;;;x
 d_purcells;Purcells;Purcells;Purcells;;Purcells;;;;;;;;;x
@@ -525,6 +531,8 @@ d_south_fraser;South Fraser;South Fraser;South Fraser;;South Fraser;;;;;;;;;x
 d_south_fraser_adj;South Fraserian;;South Fraserer;;;;;;;;;;;x
 d_spring_valley;Spring Valley;Spring Valley;Spring Valley;;Spring Valley;;;;;;;;;x
 d_spring_valley_adj;Spring Valleian;;Spring Valleer;;;;;;;;;;;x
+d_st_joe;St. Joe;St. Joe;St. Joe;;St. Joe;;;;;;;;;x
+d_st_joe_adj;St. Joean;;St. Jer;;;;;;;;;;;x
 d_standley;Standley;Standley;Standley;;Standley;;;;;;;;;x
 d_standley_adj;Standleian;;standleer;;;;;;;;;;;x
 d_steven;Steven;Steven;Steven;;Steven;;;;;;;;;x

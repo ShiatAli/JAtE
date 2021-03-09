@@ -1,0 +1,21 @@
+# c_port_ludlow
+
+# County Title
+title = c_port_ludlow
+
+# Settlements
+max_settlements = 3
+
+b_port_ludlow_2 = castle
+b_coyle = city
+#b_shine = temple
+#b_mats_mats = castle
+#b_bridgehaven = city
+#b_dabob = temple
+#b_beaver_valley = castle
+
+# Misc
+culture = olympite
+religion = sedevacantist
+
+#History

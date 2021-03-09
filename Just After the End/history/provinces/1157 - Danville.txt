@@ -1,0 +1,21 @@
+# c_danville
+
+# County Title
+title = c_danville
+
+# Settlements
+max_settlements = 2
+
+b_danville_4 = castle
+#b_curlew_2 = city
+#b_toroda_2 = temple
+#b_deer_creek = castle
+#b_lone_ranch = city
+#b_cumming_creek = temple
+#b_aeneas_2 = castle
+
+# Misc
+culture = backcountry
+religion = evangelical
+
+#History

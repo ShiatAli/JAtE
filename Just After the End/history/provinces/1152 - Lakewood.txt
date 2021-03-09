@@ -1,0 +1,21 @@
+# c_lakewood
+
+# County Title
+title = c_lakewood
+
+# Settlements
+max_settlements = 4
+
+b_lakewood_4 = castle
+b_spanaway_2 = city
+#b_steilacoom = temple
+#b_american_lake = castle
+#b_ketron = city
+#b_hillhurst = temple
+#b_pielyu = castle
+
+# Misc
+culture = emeraldian
+religion = fidelii
+
+#History

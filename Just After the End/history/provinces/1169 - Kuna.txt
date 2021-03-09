@@ -1,0 +1,21 @@
+# c_kuna
+
+# County Title
+title = c_kuna
+
+# Settlements
+max_settlements = 3
+
+b_kuna_2 = castle
+#b_melba_2 = city
+#b_mora_2 = temple
+#b_bowmont_2 = castle
+#b_kings_corner = city
+#b_westma = temple
+#b_pleasant_valley_2 = castle
+
+# Misc
+culture = boisean
+religion = sovereignist
+
+#History

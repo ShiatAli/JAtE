@@ -1,0 +1,21 @@
+# c_town_and_country
+
+# County Title
+title = c_town_and_country
+
+# Settlements
+max_settlements = 4
+
+b_northtown = castle
+b_town_and_country_2 = city
+#b_fairwood_3 = temple
+#b_hillyard = castle
+#b_mead_3 = city
+#b_balboa_2 = temple
+#b_country_homes = castle
+
+# Misc
+culture = panhandler
+religion = sedevacantist
+
+#History

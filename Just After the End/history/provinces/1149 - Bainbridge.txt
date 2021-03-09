@@ -1,0 +1,21 @@
+# c_bainbridge
+
+# County Title
+title = c_bainbridge
+
+# Settlements
+max_settlements = 3
+
+b_winslow_2 = castle
+b_battle_point = city
+#b_lynwood_2 = temple
+#b_crystal_springs_2 = castle
+#b_fort_ward = city
+#b_blakley = temple
+#b_agate_point = castle
+
+# Misc
+culture = olympite
+religion = sedevacantist
+
+#History

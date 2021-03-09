@@ -1,0 +1,21 @@
+# c_meridian
+
+# County Title
+title = c_meridian
+
+# Settlements
+max_settlements = 4
+
+b_meridian_5 = castle
+#b_sonna = city
+#b_ustick = temple
+#b_maple_grove = castle
+#b_heritage_grove = city
+#b_renaissance_park = temple
+#b_peppermint_park = castle
+
+# Misc
+culture = boisean
+religion = evangelical
+
+#History

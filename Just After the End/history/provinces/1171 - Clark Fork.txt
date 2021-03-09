@@ -1,0 +1,21 @@
+# c_clark_fork
+
+# County Title
+title = c_clark_fork
+
+# Settlements
+max_settlements = 2
+
+b_clark_fork = castle
+#b_heron = city
+#b_hope_2 = temple
+#b_cabinet = castle
+#b_noxon = city
+#b_denton = temple
+#b_east_hope = castle
+
+# Misc
+culture = panhandler
+religion = evangelical
+
+#History

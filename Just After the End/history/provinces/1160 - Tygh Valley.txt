@@ -1,0 +1,21 @@
+# c_tygh_valley
+
+# County Title
+title = c_tygh_valley
+
+# Settlements
+max_settlements = 2
+
+b_tygh_valley_2 = castle
+#b_dufur_2 = city
+#b_wamic = temple
+#b_pine_hollow = castle
+#b_friend = city
+#b_rock_creek_2 = temple
+#b_hulse = castle
+
+# Misc
+culture = gorgeon
+religion = millenarian
+
+#History

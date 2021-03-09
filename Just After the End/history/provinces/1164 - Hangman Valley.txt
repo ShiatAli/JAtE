@@ -1,0 +1,21 @@
+# c_hangman_valley
+
+# County Title
+title = c_hangman_valley
+
+# Settlements
+max_settlements = 2
+
+b_spangle_2 = castle
+#b_fairfield_5 = city
+#b_rockford_2 = temple
+#b_darknell = castle
+#b_mica = city
+#b_coey = temple
+#b_dynamite = castle
+
+# Misc
+culture = palouse
+religion = sedevacantist
+
+#History

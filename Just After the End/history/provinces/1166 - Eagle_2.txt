@@ -1,0 +1,21 @@
+# c_eagle_2
+
+# County Title
+title = c_eagle_2
+
+# Settlements
+max_settlements = 3
+
+b_eagle_3 = castle
+#b_star_2 = city
+#b_middleton_3 = temple
+#b_northwest_boise = castle
+#b_banbury = city
+#b_josephson = temple
+#b_shadow_valley = castle
+
+# Misc
+culture = boisean
+religion = evangelical
+
+#History

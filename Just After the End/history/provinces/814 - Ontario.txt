@@ -6,13 +6,13 @@ title = c_ontario
 # Settlements
 max_settlements = 4
 
-b_vale = castle
-#b_ontario = city
-#b_nyssa = temple
-#b_huntington_3 = castle
-#b_annex = city
-#b_adrian = temple
-#b_brogan = castle
+b_ontario = castle
+#b_cairo = city
+#b_annex = temple
+#b_oasis = castle
+#b_ontario_heights = city
+#b_mcphersons = temple
+#b_dead_ox = castle
 
 # Misc
 culture = boisean

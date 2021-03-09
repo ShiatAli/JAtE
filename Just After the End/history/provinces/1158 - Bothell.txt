@@ -1,0 +1,21 @@
+# c_bothell
+
+# County Title
+title = c_bothell
+
+# Settlements
+max_settlements = 4
+
+b_bothell_2 = castle
+b_woodinville_2 = city
+#b_kenmore_2 = temple
+#b_lake_forest_park_2 = castle
+#b_finn_hill = city
+#b_alderwood_manor = temple
+#b_brier = castle
+
+# Misc
+culture = emeraldian
+religion = conservationist
+
+#History

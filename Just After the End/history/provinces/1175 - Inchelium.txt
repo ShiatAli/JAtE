@@ -1,0 +1,21 @@
+# c_inchelium
+
+# County Title
+title = c_inchelium
+
+# Settlements
+max_settlements = 2
+
+b_inchelium = castle
+#b_keller_2 = city
+#b_impach = temple
+#b_meteor = castle
+#b_west_fork = city
+#b_rogers_bar = temple
+#b_rainbow_beach = castle
+
+# Misc
+culture = nez_perce
+religion = evangelical
+
+#History

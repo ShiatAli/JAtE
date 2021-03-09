@@ -1,0 +1,21 @@
+# c_tenino
+
+# County Title
+title = c_tenino
+
+# Settlements
+max_settlements = 2
+
+b_tenino_3 = castle
+#b_bucoda = city
+#b_mcintosh_2 = temple
+#b_chain_hill = castle
+#b_plumb = city
+#b_tono = temple
+#b_millersylvania = castle
+
+# Misc
+culture = willapan
+religion = evangelical
+
+#History

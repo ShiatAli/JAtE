@@ -1,0 +1,21 @@
+# c_starbuck
+
+# County Title
+title = c_starbuck
+
+# Settlements
+max_settlements = 1
+
+b_starbuck_2 = castle
+#b_prescott_4 = city
+#b_ayer = temple
+#b_harsha = castle
+#b_ruxby = city
+#b_page_2 = temple
+#b_tompkins_2 = castle
+
+# Misc
+culture = tricitian
+religion = evangelical
+
+#History

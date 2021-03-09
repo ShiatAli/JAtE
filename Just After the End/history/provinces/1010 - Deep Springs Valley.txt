@@ -7,7 +7,7 @@ title = c_deep_springs_valley
 max_settlements = 3
 
 b_deep_springs = castle
-b_oasis = city
+b_oasis_2 = city
 #b_sylvania = temple
 #b_crater = castle
 #b_mount_nunn = city

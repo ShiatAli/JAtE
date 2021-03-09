@@ -8,11 +8,11 @@ max_settlements = 2
 
 b_winthrop = castle
 #b_twisp = city
-#b_methow = temple
-#b_pateros = castle
-#b_brewster = city
-#b_monse = temple
-#b_brandts_landing = castle
+#b_mazama = temple
+#b_chewuch = castle
+#b_pearrygin_lake = city
+#b_beaver_creek = temple
+#b_elbow_coulee = castle
 
 # Misc
 culture = backcountry

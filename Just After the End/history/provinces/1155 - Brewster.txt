@@ -1,0 +1,21 @@
+# c_brewster
+
+# County Title
+title = c_brewster
+
+# Settlements
+max_settlements = 2
+
+b_brewster = castle
+#b_pateros = city
+#b_methow = temple
+#b_monse = castle
+#b_starr = city
+#b_indian_dan = temple
+#b_alta_lake = castle
+
+# Misc
+culture = meseteno
+religion = la_hermandad
+
+#History

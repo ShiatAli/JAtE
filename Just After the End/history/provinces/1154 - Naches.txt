@@ -1,0 +1,21 @@
+# c_naches
+
+# County Title
+title = c_naches
+
+# Settlements
+max_settlements = 3
+
+b_selah_2 = castle
+#b_naches_2 = city
+#b_gleed_2 = temple
+#b_eschbach = castle
+#b_tieton_2 = city
+#b_nile = temple
+#b_roza = castle
+
+# Misc
+culture = meseteno
+religion = la_hermandad
+
+#History

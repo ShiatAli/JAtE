@@ -1,0 +1,21 @@
+# c_silverwood
+
+# County Title
+title = c_silverwood
+
+# Settlements
+max_settlements = 4
+
+b_athol_2 = castle
+b_spirit_lake = city
+#b_bayview = temple
+#b_twinlow = castle
+#b_chilco = city
+#b_north_pole = temple
+#b_coleman = castle
+
+# Misc
+culture = panhandler
+religion = dominionist
+
+#History

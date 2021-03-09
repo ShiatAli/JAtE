@@ -12,7 +12,7 @@ b_nixon = castle
 #b_pah_rah = castle
 #b_dodge = city
 #b_marble_bluff = temple
-#b_dead_ox = castle
+#b_dead_ox_2 = castle
 
 # Misc
 culture = north_paiute

@@ -1,0 +1,21 @@
+# c_kent
+
+# County Title
+title = c_kent
+
+# Settlements
+max_settlements = 4
+
+b_kent_3 = castle
+b_burien_2 = city
+#b_seatac_2 = temple
+#b_des_moines = castle
+#b_normandy_park = city
+#b_covington = temple
+#b_southcenter = castle
+
+# Misc
+culture = emeraldian
+religion = black_cross
+
+#History

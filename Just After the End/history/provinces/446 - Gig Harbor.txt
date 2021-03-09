@@ -1,0 +1,21 @@
+# c_gig_harbor
+
+# County Title
+title = c_gig_harbor
+
+# Settlements
+max_settlements = 3
+
+b_gig_harbor = castle
+b_purdy = city
+#b_ollala = temple
+#b_artondale = castle
+#b_lakebay = city
+#b_fox_island = temple
+#b_vaughn_2 = castle
+
+# Misc
+culture = olympite
+religion = fidelii
+
+#History

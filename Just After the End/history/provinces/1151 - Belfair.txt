@@ -1,0 +1,21 @@
+# c_belfair
+
+# County Title
+title = c_belfair
+
+# Settlements
+max_settlements = 2
+
+b_belfair_2 = castle
+#b_grapeview = city
+#b_allyn = temple
+#b_holly_2 = castle
+#b_crosby = city
+#b_dewatto_2 = temple
+#b_victor_5 = castle
+
+# Misc
+culture = olympite
+religion = evangelical
+
+#History

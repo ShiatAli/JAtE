@@ -7,7 +7,7 @@ title = c_mecca
 max_settlements = 2
 
 b_mecca_2 = castle
-#b_oasis_2 = city
+#b_oasis_3 = city
 #b_desert_camp = temple
 #b_one_hundred_palms_2 = castle
 #b_valerie = city

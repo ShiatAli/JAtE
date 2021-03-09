@@ -1,0 +1,21 @@
+# c_chewelah
+
+# County Title
+title = c_chewelah
+
+# Settlements
+max_settlements = 2
+
+b_chewelah_2 = castle
+#b_springdale_5 = city
+#b_kulzer = temple
+#b_ford_3 = castle
+#b_cozy_nook_2 = city
+#b_bluecreek_2 = temple
+#b_loon_lake = castle
+
+# Misc
+culture = panhandler
+religion = evangelical
+
+#History

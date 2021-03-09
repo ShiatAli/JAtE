@@ -1,0 +1,21 @@
+# c_tulalip
+
+# County Title
+title = c_tulalip
+
+# Settlements
+max_settlements = 2
+
+b_marysville_5 = castle
+#b_tulalip = city
+#b_warm_beach = temple
+#b_john_sam_lake = castle
+#b_lake_goodwin = city
+#b_spee_bi_dah = temple
+#b_shaker_church = castle
+
+# Misc
+culture = skagitian
+religion = evangelical
+
+#History

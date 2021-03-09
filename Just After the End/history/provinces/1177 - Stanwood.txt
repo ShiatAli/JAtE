@@ -1,0 +1,21 @@
+# c_stanwood
+
+# County Title
+title = c_stanwood
+
+# Settlements
+max_settlements = 2
+
+b_stanwood_2 = castle
+#b_lake_ketchum = city
+#b_silvana_2 = temple
+#b_conway = castle
+#b_northeast_stanwood = city
+#b_florence_6 = temple
+#b_norman_2 = castle
+
+# Misc
+culture = skagitian
+religion = evangelical
+
+#History

@@ -1,0 +1,21 @@
+# c_multnomah_falls
+
+# County Title
+title = c_multnomah_falls
+
+# Settlements
+max_settlements = 2
+
+b_cascade_locks = castle
+#b_bonneville = city
+#b_latourell = temple
+#b_dodson_2 = castle
+#b_wyeth = city
+#b_bridal_veil = temple
+#b_government_cove = castle
+
+# Misc
+culture = gorgeon
+religion = conservationist
+
+#History

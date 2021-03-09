@@ -7,12 +7,12 @@ title = c_okanogan
 max_settlements = 3
 
 b_okanogan = castle
-b_omak = city
+b_ophir_2 = city
 #b_riverside_3 = temple
-#b_ruby = castle
-#b_conconully = city
-#b_keystone = temple
-#b_synarep = castle
+#b_chillowist = castle
+#b_malott = city
+#b_olema_2 = temple
+#b_leader_lake = castle
 
 # Misc
 culture = backcountry

@@ -11,7 +11,7 @@ b_telluride = castle
 #b_nucla = temple
 #b_naturita = castle
 #b_norwood = city
-#b_ophir_2 = temple
+#b_ophir_3 = temple
 #b_sawpit = castle
 
 # Misc

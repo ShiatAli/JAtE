@@ -1,0 +1,21 @@
+# c_post_falls
+
+# County Title
+title = c_post_falls
+
+# Settlements
+max_settlements = 3
+
+b_post_falls_2 = castle
+b_hauser = city
+#b_state_line = temple
+#b_moab_2 = castle
+#b_mcgueire = city
+#b_howelltown = temple
+#b_pleasant_view_2 = castle
+
+# Misc
+culture = panhandler
+religion = sedevacantist
+
+#History

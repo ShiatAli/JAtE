@@ -1,0 +1,21 @@
+# c_omak
+
+# County Title
+title = c_omak
+
+# Settlements
+max_settlements = 3
+
+b_omak = castle
+#b_ruby = city
+#b_keystone_2 = temple
+#b_riverside_7 = castle
+#b_disautel_2 = city
+#b_cocunully = temple
+#b_china_wall = castle
+
+# Misc
+culture = backcountry
+religion = evangelical
+
+#History

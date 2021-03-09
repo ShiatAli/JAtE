@@ -1,0 +1,21 @@
+# c_st_joe_2
+
+# County Title
+title = c_st_joe_2
+
+# Settlements
+max_settlements = 2
+
+b_st_joe_2 = castle
+#b_calder = city
+#b_erlmo = temple
+#b_cutthorat = castle
+#b_avery_depot = city
+#b_tin_can_flat = temple
+#b_conrad_crossing = castle
+
+# Misc
+culture = panhandler
+religion = evangelical
+
+#History

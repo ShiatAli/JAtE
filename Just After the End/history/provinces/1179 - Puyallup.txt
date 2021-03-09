@@ -1,0 +1,21 @@
+# c_puyallup
+
+# County Title
+title = c_puyallup
+
+# Settlements
+max_settlements = 5
+
+b_puyallup = castle
+b_fife = city
+#b_bonney_lake = temple
+#b_lake_tapps = castle
+#b_milton = city
+#b_edgewood_3 = temple
+#b_pacific = castle
+
+# Misc
+culture = emeraldian
+religion = black_cross
+
+#History
