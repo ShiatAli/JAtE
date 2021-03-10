@@ -1,7 +1,7 @@
-# c_towering_village
+# c_the_villages
 
 # County Title
-title = c_towering_village
+title = c_the_villages
 
 # Settlements
 max_settlements = 4

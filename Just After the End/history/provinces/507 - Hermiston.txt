@@ -12,7 +12,7 @@ b_charlestown = city
 #b_umatilla = castle
 #b_mcnary = city
 #b_stanfield = temple
-#b_echo = castle
+#b_echo_2 = castle
 
 # Misc
 culture = tricitian

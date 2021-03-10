@@ -1,7 +1,7 @@
-# c_st_joe_2
+# c_st_joe
 
 # County Title
-title = c_st_joe_2
+title = c_st_joe
 
 # Settlements
 max_settlements = 2

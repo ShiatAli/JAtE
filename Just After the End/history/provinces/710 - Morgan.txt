@@ -11,7 +11,7 @@ b_morgan = castle
 #b_coalville = temple
 #b_hoytsville = castle
 #b_henefer = city
-#b_echo_2 = temple
+#b_echo_3 = temple
 #b_peterson = castle
 
 # Misc

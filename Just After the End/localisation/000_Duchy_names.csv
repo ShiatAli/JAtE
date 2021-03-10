@@ -169,6 +169,8 @@ d_ensenada;Ensenada;Ensenada;Ensenada;;Ensenada;;;;;;;;;x
 d_ensenada_adj;Ensenadan;;ensenader;;;;;;;;;;;x
 d_escalante;Escalante;Escalante;Escalante;;Escalante;;;;;;;;;x
 d_escalante_adj;Escalantean;;escalanter;;;;;;;;;;;x
+d_everett;Everett;Everett;Everett;;Everett;;;;;;;;;x
+d_everett_adj;Everettian;;everetter;;;;;;;;;;;x
 d_express;Express;Express;Express;;Express;;;;;;;;;x
 d_express_adj;Expressian;;expresser;;;;;;;;;;;x
 d_ferry;Ferry;Ferry;Ferry;;Ferry;;;;;;;;;x
@@ -209,6 +211,8 @@ d_gran_rosarito;Gran Rosarito;Gran Rosarito;Gran Rosarito;;Gran Rosarito;;;;;;;;
 d_gran_rosarito_adj;Gran Rosaritian;;Gran Rosariter;;;;;;;;;;;x
 d_grand;Grand;Grand;Grand;;Grand;;;;;;;;;x
 d_grand_adj;Grandian;;grander;;;;;;;;;;;x
+d_grand_coulee;Grand Coulee;Grand Coulee;Grand Coulee;;Grand Coulee;;;;;;;;;x
+d_grand_coulee_adj;Grand Couleean;;Grand Couler;;;;;;;;;;;x
 d_grand_fresno;Grand Fresno;Grand Fresno;Grand Fresno;;Grand Fresno;;;;;;;;;x
 d_grand_fresno_adj;Grand Fresnian;;Grand Fresner;;;;;;;;;;;x
 d_grand_mesa;Grand Mesa;Grand Mesa;Grand Mesa;;Grand Mesa;;;;;;;;;x
@@ -217,14 +221,10 @@ d_grand_teton;Grand Teton;Grand Teton;Grand Teton;;Grand Teton;;;;;;;;;x
 d_grand_teton_adj;Grand Tetonian;;Grand Tetoner;;;;;;;;;;;x
 d_grand_vegas;Grand Vegas;Grand Vegas;Grand Vegas;;Grand Vegas;;;;;;;;;x
 d_grand_vegas_adj;Grand Vegasian;;Grand Vegaser;;;;;;;;;;;x
-d_granite;Granite;Granite;Granite;;Granite;;;;;;;;;x
-d_granite_adj;Granitean;;graniter;;;;;;;;;;;x
 d_grant;Grant;Grant;Grant;;Grant;;;;;;;;;x
 d_grant_adj;Grantian;;granter;;;;;;;;;;;x
 d_grays_harbor;Grays Harbor;Grays Harbor;Grays Harbor;;Grays Harbor;;;;;;;;;x
 d_grays_harbor_adj;Grays Harborian;;Grays Harborer;;;;;;;;;;;x
-d_great_coulee;Great Coulee;Great Coulee;Great Coulee;;Great Coulee;;;;;;;;;x
-d_great_coulee_adj;Great Couleean;;Great Couler;;;;;;;;;;;x
 d_greater_victoria;Greater Victoria;Greater Victoria;Greater Victoria;;Greater Victoria;;;;;;;;;x
 d_greater_victoria_adj;Greater Victorian;;Greater Victorer;;;;;;;;;;;x
 d_green_river;Green River;Green River;Green River;;Green River;;;;;;;;;x
@@ -247,6 +247,8 @@ d_hidalgo;Hidalgo;Hidalgo;Hidalgo;;Hidalgo;;;;;;;;;x
 d_hidalgo_adj;Hidalgian;;hidalger;;;;;;;;;;;x
 d_hidden_valley;Hidden Valley;Hidden Valley;Hidden Valley;;Hidden Valley;;;;;;;;;x
 d_hidden_valley_adj;Hidden Valleian;;Hidden Valleer;;;;;;;;;;;x
+d_hood_canal;Hood Canal;Hood Canal;Hood Canal;;Hood Canal;;;;;;;;;x
+d_hood_canal_adj;Hood Canalian;;Hood Canaler;;;;;;;;;;;x
 d_hopituskwa;Hopituskwa;Hopituskwa;Hopituskwa;;Hopituskwa;;;;;;;;;x
 d_hopituskwa_adj;Hopituskwan;;hopituskwer;;;;;;;;;;;x
 d_huerfano;Huerfano;Huerfano;Huerfano;;Huerfano;;;;;;;;;x
@@ -285,6 +287,8 @@ d_klickitat;Klickitat;Klickitat;Klickitat;;Klickitat;;;;;;;;;x
 d_klickitat_adj;Klickitatian;;klickitater;;;;;;;;;;;x
 d_kokanee;Kokanee;Kokanee;Kokanee;;Kokanee;;;;;;;;;x
 d_kokanee_adj;Kokaneean;;kokaner;;;;;;;;;;;x
+d_kootenai;Kootenai;Kootenai;Kootenai;;Kootenai;;;;;;;;;x
+d_kootenai_adj;Kootenian;;kootener;;;;;;;;;;;x
 d_lander;Lander;Lander;Lander;;Lander;;;;;;;;;x
 d_lander_adj;Landerian;;landerer;;;;;;;;;;;x
 d_lane;Lane;Lane;Lane;;Lane;;;;;;;;;x
@@ -341,10 +345,6 @@ d_maricopa;Maricopa;Maricopa;Maricopa;;Maricopa;;;;;;;;;x
 d_maricopa_adj;Maricopan;;maricoper;;;;;;;;;;;x
 d_marin;Marin;Marin;Marin;;Marin;;;;;;;;;x
 d_marin_adj;Marinian;;mariner;;;;;;;;;;;x
-d_marmot;Marmot;Marmot;Marmot;;Marmot;;;;;;;;;x
-d_marmot_adj;Marmotian;;marmoter;;;;;;;;;;;x
-d_mason;Mason;Mason;Mason;;Mason;;;;;;;;;x
-d_mason_adj;Masonian;;masoner;;;;;;;;;;;x
 d_mayo;Mayo;Mayo;Mayo;;Mayo;;;;;;;;;x
 d_mayo_adj;Maian;;maer;;;;;;;;;;;x
 d_mazatlan;Mazatlan;Mazatlan;Mazatlan;;Mazatlan;;;;;;;;;x
@@ -377,6 +377,8 @@ d_moreno_valley;Moreno Valley;Moreno Valley;Moreno Valley;;Moreno Valley;;;;;;;;
 d_moreno_valley_adj;Moreno Valleian;;Moreno Valleer;;;;;;;;;;;x
 d_moses_lake;Moses Lake;Moses Lake;Moses Lake;;Moses Lake;;;;;;;;;x
 d_moses_lake_adj;Moses Lakean;;Moses Laker;;;;;;;;;;;x
+d_mt_hood;Mt. Hood;Mt. Hood;Mt. Hood;;Mt. Hood;;;;;;;;;x
+d_mt_hood_adj;Mt. Hoodian;;Mt. Hooder;;;;;;;;;;;x
 d_mulege;Mulegé;Mulegé;Mulegé;;Mulegé;;;;;;;;;x
 d_mulege_adj;Mulegéian;;mulegéer;;;;;;;;;;;x
 d_multnomah;Multnomah;Multnomah;Multnomah;;Multnomah;;;;;;;;;x
@@ -417,6 +419,8 @@ d_pacific_rim;Pacific Rim;Pacific Rim;Pacific Rim;;Pacific Rim;;;;;;;;;x
 d_pacific_rim_adj;Pacific Rimian;;Pacific Rimer;;;;;;;;;;;x
 d_palo_verde;Palo Verde;Palo Verde;Palo Verde;;Palo Verde;;;;;;;;;x
 d_palo_verde_adj;Palo Verdean;;Palo Verder;;;;;;;;;;;x
+d_palouse;Palouse;Palouse;Palouse;;Palouse;;;;;;;;;x
+d_palouse_adj;Palousean;;palouser;;;;;;;;;;;x
 d_park;Park;Park;Park;;Park;;;;;;;;;x
 d_park_adj;Parkian;;parker;;;;;;;;;;;x
 d_pend_oreille;Pend Oreille;Pend Oreille;Pend Oreille;;Pend Oreille;;;;;;;;;x
@@ -431,10 +435,6 @@ d_pikes_peak;Pikes Peak;Pikes Peak;Pikes Peak;;Pikes Peak;;;;;;;;;x
 d_pikes_peak_adj;Pikes Peakian;;Pikes Peaker;;;;;;;;;;;x
 d_plumas;Plumas;Plumas;Plumas;;Plumas;;;;;;;;;x
 d_plumas_adj;Plumasian;;plumaser;;;;;;;;;;;x
-d_posession;Posession;Posession;Posession;;Posession;;;;;;;;;x
-d_posession_adj;Posessionian;;posessioner;;;;;;;;;;;x
-d_possession;Possession;Possession;Possession;;Possession;;;;;;;;;x
-d_possession_adj;Possessionian;;possessioner;;;;;;;;;;;x
 d_pueblo;Pueblo;Pueblo;Pueblo;;Pueblo;;;;;;;;;x
 d_pueblo_adj;Pueblian;;puebler;;;;;;;;;;;x
 d_purcells;Purcells;Purcells;Purcells;;Purcells;;;;;;;;;x
@@ -531,8 +531,6 @@ d_south_fraser;South Fraser;South Fraser;South Fraser;;South Fraser;;;;;;;;;x
 d_south_fraser_adj;South Fraserian;;South Fraserer;;;;;;;;;;;x
 d_spring_valley;Spring Valley;Spring Valley;Spring Valley;;Spring Valley;;;;;;;;;x
 d_spring_valley_adj;Spring Valleian;;Spring Valleer;;;;;;;;;;;x
-d_st_joe;St. Joe;St. Joe;St. Joe;;St. Joe;;;;;;;;;x
-d_st_joe_adj;St. Joean;;St. Jer;;;;;;;;;;;x
 d_standley;Standley;Standley;Standley;;Standley;;;;;;;;;x
 d_standley_adj;Standleian;;standleer;;;;;;;;;;;x
 d_steven;Steven;Steven;Steven;;Steven;;;;;;;;;x

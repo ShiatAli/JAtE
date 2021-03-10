@@ -15,7 +15,7 @@ b_battle_point = city
 #b_agate_point = castle
 
 # Misc
-culture = olympite
+culture = emeraldian
 religion = sedevacantist
 
 #History

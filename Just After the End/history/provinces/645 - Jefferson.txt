@@ -1,7 +1,7 @@
-# c_jefferson_2
+# c_jefferson
 
 # County Title
-title = c_jefferson_2
+title = c_jefferson
 
 # Settlements
 max_settlements = 4

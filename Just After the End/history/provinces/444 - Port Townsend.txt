@@ -1,7 +1,7 @@
-# c_jefferson
+# c_port_townsend
 
 # County Title
-title = c_jefferson
+title = c_port_townsend
 
 # Settlements
 max_settlements = 3

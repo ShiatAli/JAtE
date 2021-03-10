@@ -7,9 +7,9 @@ title = c_clark_fork
 max_settlements = 2
 
 b_clark_fork = castle
-#b_heron = city
-#b_hope_2 = temple
-#b_cabinet = castle
+#b_hope_2 = city
+#b_cabinet = temple
+#b_heron = castle
 #b_noxon = city
 #b_denton = temple
 #b_east_hope = castle

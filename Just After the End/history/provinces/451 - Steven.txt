@@ -6,13 +6,13 @@ title = c_steven
 # Settlements
 max_settlements = 3
 
-b_coleville = castle
-b_addy = city
-#b_cozy_nook = temple
-#b_chewelah = castle
-#b_valley = city
-#b_sprindale = temple
-#b_bluecreek = castle
+b_colville = castle
+b_kettle_falls = city
+#b_ward = temple
+#b_echo = castle
+#b_orin = city
+#b_arden = temple
+#b_rice = castle
 
 # Misc
 culture = panhandler

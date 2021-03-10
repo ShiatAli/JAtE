@@ -6,9 +6,9 @@ title = c_sammamish
 # Settlements
 max_settlements = 3
 
-b_sammamish = castle
-b_klahanie = city
-#b_issaquah = temple
+b_issaquah = castle
+b_sammamish = city
+#b_klahanie = temple
 #b_pinelake = castle
 #b_skyline = city
 #b_poo_poo_point = temple

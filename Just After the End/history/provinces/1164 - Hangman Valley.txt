@@ -16,6 +16,6 @@ b_spangle_2 = castle
 
 # Misc
 culture = palouse
-religion = sedevacantist
+religion = adventist
 
 #History

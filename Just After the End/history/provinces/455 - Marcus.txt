@@ -7,7 +7,7 @@ title = c_marcus
 max_settlements = 3
 
 b_marcus = castle
-b_kettle_falls = city
+b_kettle_falls_2 = city
 #b_bossburg = temple
 #b_evans = castle
 #b_boyds = city

@@ -345,7 +345,7 @@ province;red;green;blue;x;x
 344;172;75;150;Forest Park;x
 345;184;82;161;Oswego;x
 346;185;75;150;Mt. Hood;x
-347;185;75;130;Towering Village;x
+347;185;75;130;The Villages;x
 348;185;75;110;Sandy;x
 349;150;50;255;Oregon City;x
 350;138;61;143;Clackamas;x
@@ -442,7 +442,7 @@ province;red;green;blue;x;x
 441;188;80;80;Sequim;x
 442;196;146;146;Shelton;x
 443;147;110;110;Quilcene;x
-444;189;129;129;Jefferson;x
+444;189;129;129;Port Townsend;x
 445;203;92;92;Bremerton;x
 446;166;44;44;Gig Harbor;x
 447;203;128;128;Poulsbo;x
@@ -451,7 +451,7 @@ province;red;green;blue;x;x
 450;188;100;100;Deer Park;x
 451;120;100;100;Steven;x
 452;190;110;100;Fruitland;x
-453;140;60;37;Newport_2;x
+453;140;60;37;Pend Oreille;x
 454;149;100;100;Republic;x
 455;200;100;100;Marcus;x
 456;150;20;100;Nespelem;x
@@ -477,7 +477,7 @@ province;red;green;blue;x;x
 476;123;71;67;Moscow;x
 477;35;200;155;Pullman;x
 478;78;179;152;Skitswish;x
-479;150;30;20;St. Joe;x
+479;150;30;20;St. Maries;x
 480;96;41;37;Dworshak;x
 481;97;46;42;Orofino;x
 482;140;5;5;Pasco;x
@@ -643,7 +643,7 @@ province;red;green;blue;x;x
 642;204;75;48;West Sierra;x
 643;205;253;205;Denver;x
 644;33;110;33;Arapahoe;x
-645;108;248;108;Jefferson_2;x
+645;108;248;108;Jefferson;x
 646;113;150;113;Adams;x
 647;73;214;73;Boulder;x
 648;45;98;45;Longmont;x
@@ -900,7 +900,7 @@ province;red;green;blue;x;x
 899;112;48;48;Carbon_2;x
 900;186;123;123;Helena;x
 901;112;69;69;Missouri;x
-902;229;195;195;Jefferson_3;x
+902;229;195;195;Jefferson_2;x
 903;114;9;9;Powell_2;x
 904;124;56;56;Granite;x
 905;200;135;135;Swan;x
@@ -1155,7 +1155,7 @@ province;red;green;blue;x;x
 1154;205;82;82;Naches;x
 1155;107;21;21;Brewster;x
 1156;172;34;34;Omak;x
-1157;125;72;72;Danville;x
+1157;125;72;72;Curlew;x
 1158;132;84;84;Bothell;x
 1159;164;47;127;Multnomah Falls;x
 1160;47;119;30;Tygh Valley;x
@@ -1168,7 +1168,7 @@ province;red;green;blue;x;x
 1167;103;77;77;Chewelah;x
 1168;26;95;170;Meridian;x
 1169;15;78;148;Kuna;x
-1170;132;25;16;St. Joe_2;x
+1170;132;25;16;St. Joe;x
 1171;126;22;22;Clark Fork;x
 1172;210;91;47;Vale;x
 1173;155;48;143;Cottonwood Canyon;x

@@ -47,8 +47,6 @@ b_adco;Adco;Adco;Adco;;Adco;;;;;;;;;x
 b_adco_adj;Adcian;;adcer;;;;;;;;;;;x
 b_additional_hill;Additional Hill;Additional Hill;Additional Hill;;Additional Hill;;;;;;;;;x
 b_additional_hill_adj;Additional Hillian;;Additional Hiller;;;;;;;;;;;x
-b_addy;Addy;Addy;Addy;;Addy;;;;;;;;;x
-b_addy_adj;Addian;;adder;;;;;;;;;;;x
 b_adeii_eichii;Adeii Eichii;Adeii Eichii;Adeii Eichii;;Adeii Eichii;;;;;;;;;x
 b_adeii_eichii_adj;Adeii Eichian;;Adeii Eicher;;;;;;;;;;;x
 b_adel;Adel;Adel;Adel;;Adel;;;;;;;;;x
@@ -503,6 +501,8 @@ b_arco;Arco;Arco;Arco;;Arco;;;;;;;;;x
 b_arco_adj;Arcian;;arcer;;;;;;;;;;;x
 b_arctic_creek;Arctic Creek;Arctic Creek;Arctic Creek;;Arctic Creek;;;;;;;;;x
 b_arctic_creek_adj;Arctic Creekian;;Arctic Creeker;;;;;;;;;;;x
+b_arden;Arden;Arden;Arden;;Arden;;;;;;;;;x
+b_arden_adj;Ardenian;;ardener;;;;;;;;;;;x
 b_arden_arcade;Arden-Arcade;Arden-Arcade;Arden-Arcade;;Arden-Arcade;;;;;;;;;x
 b_arden_arcade_adj;Arden-Arcadean;;arden-arcader;;;;;;;;;;;x
 b_ardenvoir;Ardenvoir;Ardenvoir;Ardenvoir;;Ardenvoir;;;;;;;;;x
@@ -1347,8 +1347,6 @@ b_blueberry_creek;Blueberry Creek;Blueberry Creek;Blueberry Creek;;Blueberry Cre
 b_blueberry_creek_adj;Blueberry Creekian;;Blueberry Creeker;;;;;;;;;;;x
 b_bluecreek;Bluecreek;Bluecreek;Bluecreek;;Bluecreek;;;;;;;;;x
 b_bluecreek_adj;Bluecreekian;;bluecreeker;;;;;;;;;;;x
-b_bluecreek_2;Bluecreek;Bluecreek;Bluecreek;;Bluecreek;;;;;;;;;x
-b_bluecreek_2_adj;Bluecreekian;;bluecreeker;;;;;;;;;;;x
 b_bluegum;Bluegum;Bluegum;Bluegum;;Bluegum;;;;;;;;;x
 b_bluegum_adj;Bluegumian;;bluegumer;;;;;;;;;;;x
 b_blueslide;Blueslide;Blueslide;Blueslide;;Blueslide;;;;;;;;;x
@@ -2465,8 +2463,6 @@ b_chester_3;Chester;Chester;Chester;;Chester;;;;;;;;;x
 b_chester_3_adj;Chesterian;;chesterer;;;;;;;;;;;x
 b_chewelah;Chewelah;Chewelah;Chewelah;;Chewelah;;;;;;;;;x
 b_chewelah_adj;Chewelahian;;chewelaher;;;;;;;;;;;x
-b_chewelah_2;Chewelah;Chewelah;Chewelah;;Chewelah;;;;;;;;;x
-b_chewelah_2_adj;Chewelahian;;chewelaher;;;;;;;;;;;x
 b_chewuch;Chewuch;Chewuch;Chewuch;;Chewuch;;;;;;;;;x
 b_chewuch_adj;Chewuchian;;chewucher;;;;;;;;;;;x
 b_cheyenne;Cheyenne;Cheyenne;Cheyenne;;Cheyenne;;;;;;;;;x
@@ -2849,8 +2845,6 @@ b_colestin;Colestin;Colestin;Colestin;;Colestin;;;;;;;;;x
 b_colestin_adj;Colestinian;;colestiner;;;;;;;;;;;x
 b_coleville;Coleville;Coleville;Coleville;;Coleville;;;;;;;;;x
 b_coleville_adj;Colevillean;;coleviller;;;;;;;;;;;x
-b_coleville_2;Coleville;Coleville;Coleville;;Coleville;;;;;;;;;x
-b_coleville_2_adj;Colevillean;;coleviller;;;;;;;;;;;x
 b_colfax;Colfax;Colfax;Colfax;;Colfax;;;;;;;;;x
 b_colfax_adj;Colfaxian;;colfaxer;;;;;;;;;;;x
 b_college_city;College City;College City;College City;;College City;;;;;;;;;x
@@ -2913,6 +2907,8 @@ b_columbus_3;Columbus;Columbus;Columbus;;Columbus;;;;;;;;;x
 b_columbus_3_adj;Columbusian;;columbuser;;;;;;;;;;;x
 b_colusa;Colusa;Colusa;Colusa;;Colusa;;;;;;;;;x
 b_colusa_adj;Colusan;;coluser;;;;;;;;;;;x
+b_colville;Colville;Colville;Colville;;Colville;;;;;;;;;x
+b_colville_adj;Colvillean;;colviller;;;;;;;;;;;x
 b_colwood;Colwood;Colwood;Colwood;;Colwood;;;;;;;;;x
 b_colwood_adj;Colwoodian;;colwooder;;;;;;;;;;;x
 b_combedon;Combedon;Combedon;Combedon;;Combedon;;;;;;;;;x
@@ -3213,8 +3209,6 @@ b_coyotitan;Coyotitan;Coyotitan;Coyotitan;;Coyotitan;;;;;;;;;x
 b_coyotitan_adj;Coyotitanian;;coyotitaner;;;;;;;;;;;x
 b_cozy_nook;Cozy Nook;Cozy Nook;Cozy Nook;;Cozy Nook;;;;;;;;;x
 b_cozy_nook_adj;Cozy Nookian;;Cozy Nooker;;;;;;;;;;;x
-b_cozy_nook_2;Cozy Nook;Cozy Nook;Cozy Nook;;Cozy Nook;;;;;;;;;x
-b_cozy_nook_2_adj;Cozy Nookian;;Cozy Nooker;;;;;;;;;;;x
 b_crabtree;Crabtree;Crabtree;Crabtree;;Crabtree;;;;;;;;;x
 b_crabtree_adj;Crabtreean;;crabtrer;;;;;;;;;;;x
 b_cracroft;Cracroft;Cracroft;Cracroft;;Cracroft;;;;;;;;;x
@@ -3577,8 +3571,6 @@ b_deep_creek_2;Deep Creek;Deep Creek;Deep Creek;;Deep Creek;;;;;;;;;x
 b_deep_creek_2_adj;Deep Creekian;;Deep Creeker;;;;;;;;;;;x
 b_deep_springs;Deep Springs;Deep Springs;Deep Springs;;Deep Springs;;;;;;;;;x
 b_deep_springs_adj;Deep Springsian;;Deep Springser;;;;;;;;;;;x
-b_deer_creek;Deer Creek;Deer Creek;Deer Creek;;Deer Creek;;;;;;;;;x
-b_deer_creek_adj;Deer Creekian;;Deer Creeker;;;;;;;;;;;x
 b_deer_harbor;Deer Harbor;Deer Harbor;Deer Harbor;;Deer Harbor;;;;;;;;;x
 b_deer_harbor_adj;Deer Harborian;;Deer Harborer;;;;;;;;;;;x
 b_deer_hill;Deer Hill;Deer Hill;Deer Hill;;Deer Hill;;;;;;;;;x
@@ -4123,6 +4115,8 @@ b_echo;Echo;Echo;Echo;;Echo;;;;;;;;;x
 b_echo_adj;Echian;;echer;;;;;;;;;;;x
 b_echo_2;Echo;Echo;Echo;;Echo;;;;;;;;;x
 b_echo_2_adj;Echian;;echer;;;;;;;;;;;x
+b_echo_3;Echo;Echo;Echo;;Echo;;;;;;;;;x
+b_echo_3_adj;Echian;;echer;;;;;;;;;;;x
 b_echo_island;Echo Island;Echo Island;Echo Island;;Echo Island;;;;;;;;;x
 b_echo_island_adj;Echo Islandian;;Echo Islander;;;;;;;;;;;x
 b_echo_lake;Echo Lake;Echo Lake;Echo Lake;;Echo Lake;;;;;;;;;x
@@ -7125,6 +7119,8 @@ b_ketron;Ketron;Ketron;Ketron;;Ketron;;;;;;;;;x
 b_ketron_adj;Ketronian;;ketroner;;;;;;;;;;;x
 b_kettle_falls;Kettle Falls;Kettle Falls;Kettle Falls;;Kettle Falls;;;;;;;;;x
 b_kettle_falls_adj;Kettle Fallsian;;Kettle Fallser;;;;;;;;;;;x
+b_kettle_falls_2;Kettle Falls;Kettle Falls;Kettle Falls;;Kettle Falls;;;;;;;;;x
+b_kettle_falls_2_adj;Kettle Fallsian;;Kettle Fallser;;;;;;;;;;;x
 b_kettleman;Kettleman;Kettleman;Kettleman;;Kettleman;;;;;;;;;x
 b_kettleman_adj;Kettlemanian;;kettlemaner;;;;;;;;;;;x
 b_kettleman_city;Kettleman City;Kettleman City;Kettleman City;;Kettleman City;;;;;;;;;x
@@ -8375,6 +8371,8 @@ b_malibu;Malibu;Malibu;Malibu;;Malibu;;;;;;;;;x
 b_malibu_adj;Malibian;;maliber;;;;;;;;;;;x
 b_malo;Malo;Malo;Malo;;Malo;;;;;;;;;x
 b_malo_adj;Malian;;maler;;;;;;;;;;;x
+b_malo_2;Malo;Malo;Malo;;Malo;;;;;;;;;x
+b_malo_2_adj;Malian;;maler;;;;;;;;;;;x
 b_malott;Malott;Malott;Malott;;Malott;;;;;;;;;x
 b_malott_adj;Malottian;;malotter;;;;;;;;;;;x
 b_malta;Malta;Malta;Malta;;Malta;;;;;;;;;x
@@ -10161,6 +10159,8 @@ b_orient;Orient;Orient;Orient;;Orient;;;;;;;;;x
 b_orient_adj;Orientian;;orienter;;;;;;;;;;;x
 b_orillia;Orillia;Orillia;Orillia;;Orillia;;;;;;;;;x
 b_orillia_adj;Orillian;;oriller;;;;;;;;;;;x
+b_orin;Orin;Orin;Orin;;Orin;;;;;;;;;x
+b_orin_adj;Orinian;;oriner;;;;;;;;;;;x
 b_orinda;Orinda;Orinda;Orinda;;Orinda;;;;;;;;;x
 b_orinda_adj;Orindan;;orinder;;;;;;;;;;;x
 b_orinda_2;Orinda;Orinda;Orinda;;Orinda;;;;;;;;;x
@@ -11597,6 +11597,8 @@ b_rialto;Rialto;Rialto;Rialto;;Rialto;;;;;;;;;x
 b_rialto_adj;Rialtian;;rialter;;;;;;;;;;;x
 b_riberas;Riberas;Riberas;Riberas;;Riberas;;;;;;;;;x
 b_riberas_adj;Riberasian;;riberaser;;;;;;;;;;;x
+b_rice;Rice;Rice;Rice;;Rice;;;;;;;;;x
+b_rice_adj;Ricean;;ricer;;;;;;;;;;;x
 b_rice_road;Rice Road;Rice Road;Rice Road;;Rice Road;;;;;;;;;x
 b_rice_road_adj;Rice Roadian;;Rice Roader;;;;;;;;;;;x
 b_rice_valley;Rice Valley;Rice Valley;Rice Valley;;Rice Valley;;;;;;;;;x
@@ -13273,8 +13275,6 @@ b_spray;Spray;Spray;Spray;;Spray;;;;;;;;;x
 b_spray_adj;Spraian;;spraer;;;;;;;;;;;x
 b_spreckels;Spreckels;Spreckels;Spreckels;;Spreckels;;;;;;;;;x
 b_spreckels_adj;Spreckelsian;;spreckelser;;;;;;;;;;;x
-b_sprindale;Sprindale;Sprindale;Sprindale;;Sprindale;;;;;;;;;x
-b_sprindale_adj;Sprindalean;;sprindaler;;;;;;;;;;;x
 b_spring_city;Spring City;Spring City;Spring City;;Spring City;;;;;;;;;x
 b_spring_city_adj;Spring Citian;;Spring Citer;;;;;;;;;;;x
 b_spring_creek;Spring Creek;Spring Creek;Spring Creek;;Spring Creek;;;;;;;;;x
@@ -14569,8 +14569,6 @@ b_vallejo;Vallejo;Vallejo;Vallejo;;Vallejo;;;;;;;;;x
 b_vallejo_adj;Vallejian;;vallejer;;;;;;;;;;;x
 b_valleton;Valleton;Valleton;Valleton;;Valleton;;;;;;;;;x
 b_valleton_adj;Valletonian;;valletoner;;;;;;;;;;;x
-b_valley;Valley;Valley;Valley;;Valley;;;;;;;;;x
-b_valley_adj;Valleian;;valleer;;;;;;;;;;;x
 b_valley_center;Valley Center;Valley Center;Valley Center;;Valley Center;;;;;;;;;x
 b_valley_center_adj;Valley Centerian;;Valley Centerer;;;;;;;;;;;x
 b_valley_falls;Valley Falls;Valley Falls;Valley Falls;;Valley Falls;;;;;;;;;x
@@ -14853,6 +14851,8 @@ b_wapato;Wapato;Wapato;Wapato;;Wapato;;;;;;;;;x
 b_wapato_adj;Wapatian;;wapater;;;;;;;;;;;x
 b_wapiti;Wapiti;Wapiti;Wapiti;;Wapiti;;;;;;;;;x
 b_wapiti_adj;Wapitian;;wapiter;;;;;;;;;;;x
+b_ward;Ward;Ward;Ward;;Ward;;;;;;;;;x
+b_ward_adj;Wardian;;warder;;;;;;;;;;;x
 b_wardboro;Wardboro;Wardboro;Wardboro;;Wardboro;;;;;;;;;x
 b_wardboro_adj;Wardborian;;wardborer;;;;;;;;;;;x
 b_warden;Warden;Warden;Warden;;Warden;;;;;;;;;x

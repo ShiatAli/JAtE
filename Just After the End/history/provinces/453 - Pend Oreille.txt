@@ -1,7 +1,7 @@
-# c_newport_2
+# c_pend_oreille
 
 # County Title
-title = c_newport_2
+title = c_pend_oreille
 
 # Settlements
 max_settlements = 2
