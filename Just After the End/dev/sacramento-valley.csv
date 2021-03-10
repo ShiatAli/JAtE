@@ -1,0 +1,81 @@
+153101,61,Sacramento,Sacramento,Sacramento,Sacramento,15,3,1,1
+153102,62,Rancho Cordova,Sacramento,Sacramento,Sacramento,15,3,1,2
+153103,63,Elk Grove,Sacramento,Sacramento,Sacramento,15,3,1,3
+153201,64,Folsom,Sacramento,Sacramento,Folsom Heights,15,3,2,1
+153202,65,Arden-Arcade,Sacramento,Sacramento,Folsom Heights,15,3,2,2
+153203,66,Rio Linda,Sacramento,Sacramento,Folsom Heights,15,3,2,3
+153301,67,Walnut Grove,Sacramento,Sacramento,Consumnes,15,3,3,1
+153302,68,Herald,Sacramento,Sacramento,Consumnes,15,3,3,2
+153303,69,Rancho Murieta,Sacramento,Sacramento,Consumnes,15,3,3,3
+154101,70,Placerville,Sacramento,Sierra Nevada,Dorado Slopes,15,4,1,1
+154102,71,Roseville,Sacramento,Sierra Nevada,Dorado Slopes,15,4,1,2
+154103,72,Nevada City,Sacramento,Sierra Nevada,Dorado Slopes,15,4,1,3
+154201,73,Oroville,Sacramento,Sierra Nevada,Oroville,15,4,2,1
+154202,74,Oliverhurst,Sacramento,Sierra Nevada,Oroville,15,4,2,2
+154203,75,Pleasant Grove,Sacramento,Sierra Nevada,Oroville,15,4,2,3
+151101,82,Yuba,Sacramento,Lassen,Sutter Valley,15,1,1,1
+151102,83,Robbins,Sacramento,Lassen,Sutter Valley,15,1,1,2
+151103,84,Butte,Sacramento,Lassen,Sutter Valley,15,1,1,3
+151201,85,Chico,Sacramento,Lassen,Butte Slopes,15,1,2,1
+151202,86,Los Molinos,Sacramento,Lassen,Butte Slopes,15,1,2,2
+151203,87,Dairyville,Sacramento,Lassen,Butte Slopes,15,1,2,3
+152101,88,Davis,Sacramento,Rancho Tehama,Yolo,15,2,1,1
+152102,89,Cottonwood,Sacramento,Rancho Tehama,Yolo,15,2,1,2
+152103,90,Rumsey,Sacramento,Rancho Tehama,Yolo,15,2,1,3
+152201,91,Colusa,Sacramento,Rancho Tehama,Colusa,15,2,2,1
+152202,92,Arbuckle,Sacramento,Rancho Tehama,Colusa,15,2,2,2
+152203,93,Willow,Sacramento,Rancho Tehama,Colusa,15,2,2,3
+152301,94,Artois,Sacramento,Rancho Tehama,Glenn,15,2,3,1
+152302,95,Hamilton City,Sacramento,Rancho Tehama,Glenn,15,2,3,2
+152303,96,Elk Creek,Sacramento,Rancho Tehama,Glenn,15,2,3,3
+152401,97,Red Bluff,Sacramento,Rancho Tehama,Tehama,15,2,4,1
+152402,98,Corning,Sacramento,Rancho Tehama,Tehama,15,2,4,2
+152403,99,Rosewood,Sacramento,Rancho Tehama,Tehama,15,2,4,3
+163101,100,Stockton,San Joaquin,San Joaquin,San Joaquin,16,3,1,1
+163102,101,Lodi,San Joaquin,San Joaquin,San Joaquin,16,3,1,2
+163103,102,Amador,San Joaquin,San Joaquin,San Joaquin,16,3,1,3
+163201,103,Modesto,San Joaquin,San Joaquin,Calavera,16,3,2,1
+163202,104,Le Grange,San Joaquin,San Joaquin,Calavera,16,3,2,2
+163203,105,San Andreas,San Joaquin,San Joaquin,Calavera,16,3,2,3
+163301,106,Merced,San Joaquin,San Joaquin,Merced,16,3,3,1
+163302,107,Mariposa,San Joaquin,San Joaquin,Merced,16,3,3,2
+163303,108,Toulumnes,San Joaquin,San Joaquin,Merced,16,3,3,3
+163401,109,Madera,San Joaquin,San Joaquin,Madera,16,3,4,1
+163402,110,Yosemite Lakes,San Joaquin,San Joaquin,Madera,16,3,4,2
+163403,111,Chowchilla,San Joaquin,San Joaquin,Madera,16,3,4,3
+162101,112,Bakersfield,San Joaquin,Bako,Kern,16,2,1,1
+162102,113,Bear Valley,San Joaquin,Bako,Kern,16,2,1,2
+162103,114,Mojave,San Joaquin,Bako,Kern,16,2,1,3
+162104,115,Tupman,San Joaquin,Bako,Kern,16,2,1,4
+162105,116,Mettler,San Joaquin,Bako,Kern,16,2,1,5
+162201,117,Visalia,San Joaquin,Bako,Sequoia,16,2,2,1
+162202,118,Kings Canyon,San Joaquin,Bako,Sequoia,16,2,2,2
+162203,119,Terra Bella,San Joaquin,Bako,Sequoia,16,2,2,3
+162204,120,Halfway House,San Joaquin,Bako,Sequoia,16,2,2,4
+162205,121,Isabella,San Joaquin,Bako,Sequoia,16,2,2,5
+162206,122,Twin Oaks,San Joaquin,Bako,Sequoia,16,2,2,6
+162301,123,Taft,San Joaquin,Bako,Maricopa,16,2,3,1
+162302,124,McKittrick,San Joaquin,Bako,Maricopa,16,2,3,2
+162401,126,Buttonwillow,San Joaquin,Bako,Kings,16,2,4,1
+162402,127,Lost Hills,San Joaquin,Bako,Kings,16,2,4,2
+162403,128,Alpaugh,San Joaquin,Bako,Kings,16,2,4,3
+162404,129,Hanford,San Joaquin,Bako,Kings,16,2,4,4
+162405,130,Shafter,San Joaquin,Bako,Kings,16,2,4,5
+161101,131,Fresno,San Joaquin,Ashland,Grand Fresno,16,1,1,1
+161102,132,Millerton,San Joaquin,Ashland,Grand Fresno,16,1,1,2
+161103,133,Kerman,San Joaquin,Ashland,Grand Fresno,16,1,1,3
+161104,134,Helm,San Joaquin,Ashland,Grand Fresno,16,1,1,4
+161105,135,Selma,San Joaquin,Ashland,Grand Fresno,16,1,1,5
+161106,136,Centerville,San Joaquin,Ashland,Grand Fresno,16,1,1,6
+161201,137,Tracy,San Joaquin,Ashland,Pacheco,16,1,2,1
+161202,138,Diablo Grande,San Joaquin,Ashland,Pacheco,16,1,2,2
+161203,139,Cottonwood,San Joaquin,Ashland,Pacheco,16,1,2,3
+161204,140,Newman,San Joaquin,Ashland,Pacheco,16,1,2,4
+161301,141,Mendota,San Joaquin,Ashland,Canal,16,1,3,1
+161302,142,Los Banos,San Joaquin,Ashland,Canal,16,1,3,2
+161303,143,Wood Ranch,San Joaquin,Ashland,Canal,16,1,3,3
+161304,144,Cantua,San Joaquin,Ashland,Canal,16,1,3,4
+161401,145,Riverdale,San Joaquin,Ashland,Aqueduct,16,1,4,1
+161402,146,Kettleman,San Joaquin,Ashland,Aqueduct,16,1,4,2
+161403,147,Coalinga,San Joaquin,Ashland,Aqueduct,16,1,4,3
+161404,148,Five Points,San Joaquin,Ashland,Aqueduct,16,1,4,4
