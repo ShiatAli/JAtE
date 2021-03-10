@@ -31,5 +31,12 @@ tree = { 3 4 7 10 }
 major_rivers = 
 {
 	# Pacific Ocean
-	
+	1097 1098  #Colorado River
+	1073 1074  #Fraser River
+	1106 1107 1109  #Sacramento River
+	1103 1104 1105  #San Joaquin
+	1119 1120 1122 1123  #Snake River
+	1112 1113 1114 1115 1116 1117 1118  #Spokane River
+	1110 1111  #Willamette River
+
 }

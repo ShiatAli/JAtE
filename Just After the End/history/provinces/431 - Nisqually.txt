@@ -1,0 +1,21 @@
+# c_nisqually
+
+# County Title
+title = c_nisqually
+
+# Settlements
+max_settlements = 4
+
+b_thompson = castle
+b_lacey = city
+#b_union_mill = temple
+#b_south_bay = castle
+#b_boston_harbor = city
+#b_puget = temple
+#b_beachcrest = castle
+
+# Misc
+culture = olympite
+religion = fidelii
+
+#History

@@ -12173,25 +12173,6 @@ e_lincoln = {
 		capital = 453 # c_pend_oreille
 		culture = panhandler
 		
-		c_pend_oreille = { # 453
-			color={ 140 60 37 }
-			color2={ 255 255 255 }
-			
-			b_newport_4 = {
-			}
-			b_diamond_lake_3 = {
-			}
-			b_wolfred = {
-			}
-			b_furport = {
-			}
-			b_usk = {
-			}
-			b_cusick = {
-			}
-			b_blueslide = {
-			}
-		}
 		d_pend_oreille = {
 			color={ 150 50 42 }
 			color2={ 255 255 255 }
@@ -16700,25 +16681,6 @@ e_oregon = {
 		capital = 342 # c_portland
 		culture = portlandian
 		
-		c_the_villages = { # 347
-			color={ 185 75 130 }
-			color2={ 255 255 255 }
-			
-			b_government_camp = {
-			}
-			b_cherryville = {
-			}
-			b_alder_creek = {
-			}
-			b_mt_hood_village = {
-			}
-			b_rhododendron = {
-			}
-			b_marmot = {
-			}
-			b_welches = {
-			}
-		}
 		d_multnomah = {
 			color={ 230 10 250 }
 			color2={ 255 255 255 }
@@ -24016,6 +23978,25 @@ e_washington = {
 		capital = 430 # c_olympia
 		culture = olympite
 		
+		c_nisqually = { # 431
+			color={ 99 133 167 }
+			color2={ 255 255 255 }
+			
+			b_thompson = {
+			}
+			b_lacey = {
+			}
+			b_union_mill = {
+			}
+			b_south_bay = {
+			}
+			b_boston_harbor = {
+			}
+			b_puget = {
+			}
+			b_beachcrest = {
+			}
+		}
 		d_thurston = {
 			color={ 69 86 140 }
 			color2={ 255 255 255 }
@@ -24066,7 +24047,7 @@ e_washington = {
 				b_sunnydale = {
 				}
 			}
-			c_thompson = { # 431
+			c_nisqually = { # 431
 				color={ 99 133 167 }
 				color2={ 255 255 255 }
 				

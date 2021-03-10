@@ -1261,6 +1261,8 @@ c_newport;Newport;Newport;Newport;;Newport;;;;;;;;;x
 c_newport_adj;Newportian;;newporter;;;;;;;;;;;x
 c_nez_perce;Nez Perce;Nez Perce;Nez Perce;;Nez Perce;;;;;;;;;x
 c_nez_perce_adj;Nez Percean;;Nez Percer;;;;;;;;;;;x
+c_nisqually;Nisqually;Nisqually;Nisqually;;Nisqually;;;;;;;;;x
+c_nisqually_adj;Nisquallian;;nisqualler;;;;;;;;;;;x
 c_nitinat;Nitinat;Nitinat;Nitinat;;Nitinat;;;;;;;;;x
 c_nitinat_adj;Nitinatian;;nitinater;;;;;;;;;;;x
 c_nixon;Nixon;Nixon;Nixon;;Nixon;;;;;;;;;x
@@ -1995,8 +1997,6 @@ c_the_villages;The Villages;The Villages;The Villages;;The Villages;;;;;;;;;x
 c_the_villages_adj;The Villagesian;;The Villageser;;;;;;;;;;;x
 c_third_mesa;Third Mesa;Third Mesa;Third Mesa;;Third Mesa;;;;;;;;;x
 c_third_mesa_adj;Third Mesan;;Third Meser;;;;;;;;;;;x
-c_thompson;Thompson;Thompson;Thompson;;Thompson;;;;;;;;;x
-c_thompson_adj;Thompsonian;;thompsoner;;;;;;;;;;;x
 c_thousand_oaks;Thousand Oaks;Thousand Oaks;Thousand Oaks;;Thousand Oaks;;;;;;;;;x
 c_thousand_oaks_adj;Thousand Oaksian;;Thousand Oakser;;;;;;;;;;;x
 c_three_island;Three Island;Three Island;Three Island;;Three Island;;;;;;;;;x
