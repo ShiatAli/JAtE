@@ -88,12 +88,13 @@
 	2005.6.1={birth=yes}
 }
 
-152202= { #c_arbuckle - Garfield
-	name="John"
+152202= { #c_arbuckle
+	name="Caitlin"
 	#dynasty=999969
 	culture=valleyan
 	religion=fidelii
-	2019.9.1={birth=yes}
+	female=yes
+	2004.9.1={birth=yes}
 }
 
 152203= { #c_willow
