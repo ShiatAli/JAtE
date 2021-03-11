@@ -89,12 +89,11 @@
 }
 
 152202= { #c_arbuckle
-	name="Caitlin"
+	name="John"
 	#dynasty=999969
 	culture=valleyan
 	religion=fidelii
-	female=yes
-	2004.9.1={birth=yes}
+	2028.4.1={birth=yes}
 }
 
 152203= { #c_willow
