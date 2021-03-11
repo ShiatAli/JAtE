@@ -1,726 +1,733 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-
-###########Cultures###########
-
-#Bay Area Cultures
-winelander;Winelander;;;;;;;;;;;;;x
-headlander;Headlander;;;;;;;;;;;;;x
-carquinero;Carquinero;;;;;;;;;;;;;x
-diableno;Diableño;;;;;;;;;;;;;x
-sanjo;Sanjo;;;;;;;;;;;;;x
-stanforder;Stanforder;;;;;;;;;;;;;x
-eastshore;Eastshore;;;;;;;;;;;;;x
-ysidro;Ysidro;;;;;;;;;;;;;x
-carmelite;Carmelite;;;;;;;;;;;;;x
-solitarios;Solitarios;;;;;;;;;;;;;x
-mustang;Mustang;;;;;;;;;;;;;x
-lakemen;Lakemen;;;;;;;;;;;;;x
-
-#Valleyan Cultures
-kettleman;Kettleman;;;;;;;;;;;;;x
-hmong;Hmong;;;;;;;;;;;;;x
-
-#PNW Cultures
-portlandian;Portlandian;;;;;;;;;;;;;x
-gorgeon;Gorgeon;;;;;;;;;;;;;x
-saltwater;Saltwater;;;;;;;;;;;;;x
-willametteian;Willametteian;;;;;;;;;;;;;x
-rogueite;Rogueite;;;;;;;;;;;;;x
-willapan;Willapan;;;;;;;;;;;;;x
-emeraldian;Emeraldian;;;;;;;;;;;;;x
-emeraldian;Emeraldian;;;;;;;;;;;;;x
-olympite;Olympite;;;;;;;;;;;;;x
-backcountry;Backcountry;;;;;;;;;;;;;x
-makah;Makah;;;;;;;;;;;;;x
-orcan;Orcan;;;;;;;;;;;;;x
-skagitan;Skagitan;;;;;;;;;;;;;x
-vestmenn;Vestmenn;;;;;;;;;;;;;x
-leavenworther;Leavenworther;;;;;;;;;;;;;x
-islander;Islander;;;;;;;;;;;;;x
-coast_salish;Coast Salish;;;;;;;;;;;;;x
-vancouverite;Vancouverite;;;;;;;;;;;;;x
-coastranger;Coastranger;;;;;;;;;;;;;x
-vainakuvaraita;Vainakuvara'ita;;;;;;;;;;;;;x
-fraserian;Fraserian;;;;;;;;;;;;;x
-nuuchahnulth;Nuu-Chah-Nulth;;;;;;;;;;;;;x
-kwakwakawakw;Kwakwaka'wakw;;;;;;;;;;;;;x
-
-#Inland Northwest Cultures
-inland_northwest;Inlander;;;;;;;;;;;;;x
-meseteno;Meseteño;;;;;;;;;;;;;x
-tricitian;Tricitian;;;;;;;;;;;;;x
-palouse;Palouse;;;;;;;;;;;;;x
-panhandler;Panhandler;;;;;;;;;;;;;x
-
-#Snake Basin Cultures
-snake_basin;Snake Basin;;;;;;;;;;;;;x
-sawtooth;Sawtooth;;;;;;;;;;;;;x
-snakemen;Snakemen;;;;;;;;;;;;;x
-eastsloper;Eastsloper;;;;;;;;;;;;;x
-juniperian;Juniperian;;;;;;;;;;;;;x
-boisean;Boisean;;;;;;;;;;;;;x
-bluemen;Bluemen;;;;;;;;;;;;;x
-
-#Nevada Cultures
-great_basin;Great Basin;;;;;;;;;;;;;x
-clarkard;Clarkard;;;;;;;;;;;;;x
-deathman;Deathman;;;;;;;;;;;;;x
-monyo;Monyo;;;;;;;;;;;;;x
-renolander;Renolander;;;;;;;;;;;;;x
-black_rocker;Black Rocker;;;;;;;;;;;;;x
-lonelyroader;Lonelyroader;;;;;;;;;;;;;x
-long_fifteener;Long Fifteener;;;;;;;;;;;;;x
-
-#Utahn Cultures
-staircaser;Staircaser;;;;;;;;;;;;;x
-middleman;Middleman;;;;;;;;;;;;;x
-boxer;Boxer;;;;;;;;;;;;;x
-utah;Utah;;;;;;;;;;;;;x
-canyonlander;Canyonlander;;;;;;;;;;;;;x
-provo;Provo;;;;;;;;;;;;;x
-salter;Salter;;;;;;;;;;;;;x
-
-#Divider Cultures
-divider;Divider;;;;;;;;;;;;;x
-ranger;Ranger;;;;;;;;;;;;;x
-wyomingite;Wyomingite;;;;;;;;;;;;;x
-plainsman;Plainsman;;;;;;;;;;;;;x
-bighorner;Bighorner;;;;;;;;;;;;;x
-montanan;Montanan;;;;;;;;;;;;;x
-
-#Colorado Cultures
-coloradan;Coloradan;;;;;;;;;;;;;x
-rockymount;Rockymount;;;;;;;;;;;;;x
-west_sloper;West Sloper;;;;;;;;;;;;;x
-denverite;Denverite;;;;;;;;;;;;;x
-piker;Piker;;;;;;;;;;;;;x
-
-#Native Cultures
-yakama;Yakama;;;;;;;;;;;;;x
-north_paiute;North Paiute;;;;;;;;;;;;;x
-south_paiute;South Paiute;;;;;;;;;;;;;x
-mono;Mono;;;;;;;;;;;;;x
-shoshone;Shoshone;;;;;;;;;;;;;x
-ute;Ute;;;;;;;;;;;;;x
-selish;Selish;;;;;;;;;;;;;x
-skitswish;Skitswish;;;;;;;;;;;;;x
-
-#SoCal Cultures
-anjalusi;Anjalusi;;;;;;;;;;;;;x
-
-###########Titular Titles###########
-d_pikeplace;Pikeplace;;;;;;;;;;;;;x
-d_pikeplace_adj;Pikeplacer;;;;;;;;;;;;;x
-e_celestial_harmony;Celestial Heaven;;;;;;;;;;;;;x
-e_celestial_harmony_adj;Nortonites;;;;;;;;;;;;;x
-
-###########Landmarks###########
-landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palouse River into the gorge to the Snake. Although the sight is beautiful, more than a few travelers have met their end falling off the sheer cliffs.;;;;;;;;;;;;;x
-
-############## JATE Religions ###########
-
-eastern;Eastern;;;;;;;;;;;;;x
-high_cults;High Cults;;;;;;;;;;;;;x
-occultist;Occultist;;;;;;;;;;;;;x
-proto-gaian;Proto-Gaian;;;;;;;;;;;;;x
-dianetic;Dianetic;;;;;;;;;;;;;x
-
-#Black Cross
-black_cross;Black Cross;;;;;;;;;;;;;x
-black_cross_DESC;The Black Cross are a loosely organized collective of insular communities, travelling bard-preachers, and militant heresiarchs who share a belief in the “Straight-Edged Path” in rebellion against a figure only known as “the Man”, who they believe imprisoned the mother-goddesses Anarkee and Gaia in the Event. The Straight-Edged Path mandates abstination from drugs, alcohol, and premarital sex, a path that they believe will lead to freeing of the Mothers from the Man’s control. Black Crossers bear a particular opposition to the rearing of livestock, and often seek to destroy the practice through force.;;;;;;;;;;;;;x
-GOD_THE_MOTHERS;The Mothers;;;;;;;;;;;;;x
-GOD_MOTHER_ANARKEE;Mother Anarkee;;;;;;;;;;;;;x
-GOD_MOTHER_GAIA;Mother Gaia;;;;;;;;;;;;;x
-GOD_CHAOS;Chaos;;;;;;;;;;;;;x
-GOD_THE_MAN;The Man;;;;;;;;;;;;;x
-GOD_THE_PIGS;The Pigs;;;;;;;;;;;;;x
-GOD_THE_SNITCH;The Snitch;;;;;;;;;;;;;x
-THE_ZINE;The Zine;;;;;;;;;;;;;x
-FRONTMAN;Frontman;;;;;;;;;;;;;x
-SQUATTING;Squatting;;;;;;;;;;;;;x
-CRED;Cred;;;;;;;;;;;;;x
-
-#La Hermandad
-la_hermandad;La Hermandad;;;;;;;;;;;;;x
-la_hermandad_DESC;La Hermandad, or “The Brotherhood” is the name commonly used to refer to a group of Chicano Christians in the interior Pacific Northwest. Far from the Mexican heartland, the Meseteño have merged Mexican Christianity with a reverence for saints of agriculture and labor, believing that kings should work the fields besides their subjects.;;;;;;;;;;;;;x
-GOD_DIOS;;;;;;;;;;;;;;x
-GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;;;x
-GOD_CESARCHAVEZ;Césarchávez;;;;;;;;;;;;;x
-GOD_EL_PUEBLO_UNIDO;El Pueblo Unido;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-GOD_LA_MIGRA;La Migra;;;;;;;;;;;;;x
-MANIFESTATION;Manifestación;;;;;;;;;;;;;x
-THE_BYLAWS;The Bylaws;;;;;;;;;;;;;x
-
-#Dominionist
-dominionist;Dominionist;;;;;;;;;;;;;x
-dominionist_DESC;Dominionists are a particularly fundimentalist and militant branch of Protestant Christianity, emerging in the decades before the Event, but solidifying their power in the Inland Northwest in the years after. Dominionists believe that America fell due to its degradation by unbelievers and agents of Communism. They believe that America can only be restored through the strict application of Biblical law and the destruction of all who they deem oppose Christ and America.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_AMERICA;America;;;;;;;;;;;;;x
-GOD_THE_FLAG;The Flag;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-GOD_COMMUNISM;Communism;;;;;;;;;;;;;x
-GOD_THE_UNBELIEVERS;the Unbelievers;;;;;;;;;;;;;x
-
-#Sovereignist
-sovereignist;Sovereignist;;;;;;;;;;;;;x
-sovereignist_DESC;The Sovereignists are a religious movement who emerged shortly before the Event, who believe that the day-to-day state of man is a lie, and one’s true self can only be obtained through a combination of ritual ceremonies and incantations known as Asseveration. Upon Asseveration, Sovereignists believe the soul will become Redeemed and become able to tap into a spirit realm known as the Treasury to gain wealth and power. ;;;;;;;;;;;;;x
-GOD_THE_COMMON_LAW;the Common Law;;;;;;;;;;;;;x
-GOD_BILL_OF_RIGHTS;the Bill of Rights;;;;;;;;;;;;;x
-GOD_CITIZEN;the Citizen;;;;;;;;;;;;;x
-GOD_THE_FOUNDERS;the Founders;;;;;;;;;;;;;x
-GOD_THE_FEDS;the Feds;;;;;;;;;;;;;x
-GOD_SUPERIORS;the Superiors;;;;;;;;;;;;;x
-GOD_CORPORATE_SHELL;the Corporate Shell;;;;;;;;;;;;;x
-GOD_AIARESS;Aiaress;;;;;;;;;;;;;x
-GOD_AYTIEFF;Aytieff;;;;;;;;;;;;;x
-MINUTEMAN;Minuteman;;;;;;;;;;;;;x
-THE_LAWBOOKS;The Lawbooks;;;;;;;;;;;;;x
-
-#Millenarian
-millenarian;Millenarian;;;;;;;;;;;;;x
-millenarian_DESC;These are the followers of a lost Guru, a follower of the Guru Christ. The Millenarians believe that the Event was a cleansing of the earth in preparation for Christ’s return, which will occur at the latest in 2239 -- 6000 years after the creation of the earth, by the Jewish tradition, and thus the start of the Seventh Millennium. A Millennial Sabbath.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-
-#Mine Cultist
-mine_cultist;Mine Cultist;;;;;;;;;;;;;x
-mine_cultist_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines, and "lay off" their holy miners.;;;;;;;;;;;;;x
-mine_cultist_reformed;Mine Cultist;;;;;;;;;;;;;x
-mine_cultist_reformed_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines, and "lay off" their holy miners. The codes and traditions of the Mine Cultists have been codified into a book entitled "The Operator's Manual".;;;;;;;;;;;;;x
-GOD_THE_MOTHERLODE;The Motherlode;;;;;;;;;;;;;x
-GOD_HE_WHO_BOOMS;He Who Booms;;;;;;;;;;;;;x
-GOD_BIG_BAD_JOHN;Big Bad John;;;;;;;;;;;;;x
-GOD_THE_CANARY;The Canary;;;;;;;;;;;;;x
-GOD_THE_NOBLE_BLASTER;The Noble Blaster;;;;;;;;;;;;;x
-GOD_THE_TRAILGUIDE;The Trailguide;;;;;;;;;;;;;x
-GOD_THE_SUPREME_PLACER;The Supreme Placer;;;;;;;;;;;;;x
-GOD_THE_IRON_HORSE;The Iron Horse;;;;;;;;;;;;;x
-GOD_BLESSED_BULLARD;Blessed Bullard;;;;;;;;;;;;;x
-GOD_HE_WHO_BUSTS;He Who Busts;;;;;;;;;;;;;x
-GOD_EEEPAH;Eeepah;;;;;;;;;;;;;x
-GOD_THE_EARTHSHAKER;The Earthshaker;;;;;;;;;;;;;x
-GOD_THE_PINKERTON;The Pinkerton;;;;;;;;;;;;;x
-GOD_MONOXIDE;Monoxide;;;;;;;;;;;;;x
-GOD_LUNG_BURNER;Lung Burner;;;;;;;;;;;;;x
-FOREMAN;Foreman;;;;;;;;;;;;;x
-THE_OPERATORS_MANUAL;The Operator's Manual;;;;;;;;;;;;;x
-PROSPECTION;Prospection;;;;;;;;;;;;;x
-
-#Conservationist
-conservationist;Conservationist;;;;;;;;;;;;;x
-conservationist_DESC;In the Wild Wilderness of California, lay the men and women of the Rangers of Muir, a dedicated force of individuals who continue to recite the ancient creed of "Conservation", to this they maintain ranger camps across the California watching for the siren calls of the Dark Cicada which will herald the fires that are believed to have consumed the old world.  As stated from one of their patron deities the Guardian of the Woods, Smokey "Only you can prevent Wildfires"...;;;;;;;;;;;;;x
-GOD_MUIR;Muir;;;;;;;;;;;;;x
-GOD_GENERAL_SHERMAN;Sherman;;;;;;;;;;;;;x
-GOD_HYPERION;Hyperion;;;;;;;;;;;;;x
-GOD_JUGGERNAUT;Juggernaut;;;;;;;;;;;;;x
-GOD_SMOKEY;Smokey;;;;;;;;;;;;;x
-GOD_FELLERS;Fellers;;;;;;;;;;;;;x
-GOD_TORCHERS;Torchers;;;;;;;;;;;;;x
-GOD_TERMITES;Termites;;;;;;;;;;;;;x
-GOD_THE_DARK_CICADA;The Dark Cicada;;;;;;;;;;;;;x
-RANGER;Ranger;;;;;;;;;;;;;x
-CHIEF_RANGERS_BOOK;Chief Ranger's Book;;;;;;;;;;;;;x
-
-#Keshian
-keshian;Keshian;;;;;;;;;;;;;x
-keshian_DESC;Followers of Guru Le Guin, The Keshians believe in the rejection of materiality and violence, and understanding the necessity of communion for the maintenance of universal peace. Even if the teachings of Guru Le Guin form the basis of their practices, followers often speak of many others.;;;;;;;;;;;;;x
-GOD_SHE-WHO-WATCHES;She-Who-Watches;;;;;;;;;;;;;x
-GOD_THE_UNBINDING;The Unbinding;;;;;;;;;;;;;x
-GOD_THE_CYCLE;The Cycle;;;;;;;;;;;;;x
-GOD_THE_MOUNTAIN_GRANDMOTHER;The Mountain Grandmother;;;;;;;;;;;;;x
-GOD_THE_COYOTE;The Coyote;;;;;;;;;;;;;x
-GOD_THE_CONDOR;The Condor;;;;;;;;;;;;;x
-GOD_SICKNESS_OF_MAN;The Sickness of Man;;;;;;;;;;;;;x
-GOD_GEBBETH;Gebbeth;;;;;;;;;;;;;x
-GOD_WAR-MAKER;War-maker;;;;;;;;;;;;;x
-THE_TELLINGS_AND_LISTENINGS;The Tellings and Listenings;;;;;;;;;;;;;x
-DRUID;DRUID;;;;;;;;;;;;;x
-
-#Refulgents
-refulgent;Refulgent;;;;;;;;;;;;;x
-refulgent_DESC;The Refulgents are a collection of groups that worship Fire in many forms, seeing it as the most powerful Force of Nature. Refulgents see themselves as stewards, seeking to maintain balance with the world around them by carefully tending to Fire, feeding it that which is necessary so that it may do its work but containing it from spreading wantonly. Fire destroys all in it's path but in doing so gives room for new life to grow strong, this cycle is vital to Refulgents, who see it as the truest law of nature, the old dies so that the new can thrive. They extend this law to themselves in the form of complex rituals, where they build effigies and temples and burn them to symbolically cleanse themselves as the land around them is cleansed.;;;;;;;;;;;;;x 
-GOD_THE_CLEANSING_FLAME;The Cleansing Flame;;;;;;;;;;;;;x
-GOD_THE_TORCHBEARER;The Torchbearer;;;;;;;;;;;;;x
-GOD_SMOKEY;Smokey;;;;;;;;;;;;;x
-GOD_THE_BURNING_MAN;The Burning Man;;;;;;;;;;;;;x
-GOD_HEARTH-MOTHER;Hearth-Mother;;;;;;;;;;;;;x
-GOD_PHOENIX;Phoenix;;;;;;;;;;;;;x
-GOD_THE_LONG_FROST;The Long Frost;;;;;;;;;;;;;x
-GOD_THE_CARELESS_SPARK;The Careless Spark;;;;;;;;;;;;;x
-GOD_OVERGROWTH;Overgrowth;;;;;;;;;;;;;x
-IGNITION;Ignition;;;;;;;;;;;;;x
-THE_FIRESIDE_TALES;The Fireside Tales;;;;;;;;;;;;;x
-FIREMAN;Fireman;;;;;;;;;;;;;x
-
-#Fidelii
-fidelii;Fidelii;;;;;;;;;;;;;x
-fidelii_DESC;All has been lost. A thousand cities were put to the sword during the fall, the Fifty Tribes of Old America were broken and devoured by dark treachery and unholy brimstone. The only followers of the ancient creed that remain are the few, the proud. Their foes curse them and call them devil dogs, but these grim hero-cultists know themselves only as the All-Faithful. Around their barrack fires and hearths they tell the tales of Old America, where steel-clad citizen-soldiers cast down their foes from half the world away, where winged armor split the heavens in two with thunder and rained down burning lances upon the heads of the enemy. Whatever is left must be protected. It is left to the Fidelii to enforce the Laws of the Old Founders until a new President and Chief-of-Armys may be selected, whenever that may be. Haec Protegimus.;;;;;;;;;;;;;x
-GOD_THE_ARMOR_OF_GOD;The Armor of God;;;;;;;;;;;;;x
-GOD_THE_EAGLE;The Eagle;;;;;;;;;;;;;x
-GOD_THE_LAW;The Law;;;;;;;;;;;;;x
-GOD_THE_CORPS;The Corps;;;;;;;;;;;;;x
-GOD_THE_SWORD_OF_THE_SPIRIT;The Sword of the Spirit;;;;;;;;;;;;;x
-GOD_TREASON;Treason;;;;;;;;;;;;;x
-GOD_THE_ADVERSARY;The Adversary;;;;;;;;;;;;;x
-GOD_OPFOR;OPFOR;;;;;;;;;;;;;x
-PATRIOTISM;Patriotism;;;;;;;;;;;;;x
-FORWARD_OPERATION;Forward Operation;;;;;;;;;;;;;x
-THE_FINAL_ORDERS;The Final Orders;;;;;;;;;;;;;x
-SERGEANT;Sergeant;;;;;;;;;;;;;x
-
-#Adventist
-#Their localization exists elsewhere already so yee haw
-adventist;Adventist;;;;;;;;;;;;;x
-adventist_DESC;These are the followers of a most unusual Guru, Guru Miller. They believe that Christ is judging all people actively, and has been since before the event, in preparation of his coming. Unlike the Postadventists, whose movement swept through the lands of the far east, these Adventists do not believe that the Event was Christ’s judgement of the world – and denounce the concept as a most vile deception. They also observe the Sabbath of the Jews, instead of that of their fellow Christians, and believe that death is a dreamless sleep, that only the faithful will ever awaken from.;;;;;;;;;;;;;x
-
-#Baptist
-#Their localization exists elsewhere already so yee haw
-baptist;Baptist;;;;;;;;;;;;;x
-baptist_DESC;The Baptists have always held a prominent position in America, and they persisted in their beliefs through the apocalypse. Their defining creed being that one must choose to follow Christ – they cannot simply be born into it. They practice baptism, by immersion, but only for the believer – and can an infant be said to be a believer in anything? The teachings of many Gurus are allowed within their walls, to help every man find their own path to Christ, through their own reading of scripture.;;;;;;;;;;;;;x
-
-#Congregationalist
-#Their localization exists elsewhere already so yee haw
-congregationalist;Conregationalist;;;;;;;;;;;;;x
-congregationalist_DESC;These Congregationalists reject the Baptist church, and all organized churches, as inherently being infringements on the believer’s ability to find their own path to Christ in the scriptures alone.;;;;;;;;;;;;;x
-
-#Pentecostal
-#Their localization exists elsewhere already
-pentecostal;Pentecostal;;;;;;;;;;;;;x
-pentecostal_DESC;In the wake of the event, a Guru lost to time spoke of the need for those who recognized the Charismata of the modern day to band together in their time of crisis, founding a unified church for the faithful. Rebirth, Sanctification, and for many of the lucky faithful, the True Baptism of Fire would evidence a man’s journey towards perfection in God.;;;;;;;;;;;;;x
-
-#Oneness
-#Their localization exists elsewhere already
-oneness;Oneness;;;;;;;;;;;;;x
-oneness_DESC;Some who profess faith in the modern Charismata rejected the Holy Trinity, held fast to by the vast majority of Christian faithful, as little more than polytheism. They believe that Christ is One, not Three, and that the Father, Son, and Holy Spirit are merely titles, not “persons.” They were rejected by the Charismatic Guru’s new church, and so they have formed their own.;;;;;;;;;;;;;x
-
-#Holiness
-#Their localization exists elsewhere already
-holiness;Holiness;;;;;;;;;;;;;x
-holiness_DESC;Some who initially followed the Charismatic Guru would stray from their path, rejecting the Charismata and the Baptism of Fire as little more than false sorcery.;;;;;;;;;;;;;x
-
-#Freighter
-freighter;Freighter;;;;;;;;;;;;;x
-freighter_DESC;Long before the Event sank old America into the state of warfare and infighting that is witnessed today, the Freighters stood guard over the ports of the West Coast, and protected the exotic goods and tools from around the world that allowed the old Americans to live their luxurious, pampered lives. However, even as the lives of untold millions are unsteadied in the current age, nobles and commoners alike still depend on the flow of trade, however fickle, trickling in from across the Pacific to improve their meager livelihoods. Thus, the Freighters stubbornly hold onto their old posts, claiming that they alone possess the knowledge and skills to protect the ocean trade, for they have done so since time immemorial.;;;;;;;;;;;;;x
-GOD_SEA_MA;Sea Ma;;;;;;;;;;;;;x
-GOD_APOSTLE_PETER;Apostle Peter;;;;;;;;;;;;;x
-GOD_MARAD;Marad;;;;;;;;;;;;;x
-GOD_EL_NINO;El Niño;;;;;;;;;;;;;x
-GOD_THE_ROGUE_WAVE;The Rogue Wave;;;;;;;;;;;;;x
-GOD_DAVY_JONES;Davy Jones;;;;;;;;;;;;;x
-THE_MARINERS_GUIDE;The Mariners Guide;;;;;;;;;;;;;x
-PRIEST;Priest;;;;;;;;;;;;;x
-
-#Blackfish
-blackfish;Blackfish;;;;;;;;;;;;;x
-blackfish_DESC;Central to the faith of the Whalers is The Blackfish; a colossal slumbering god from which all the fish and cetaceans were once born, who in anger at the coming extinction of his children woke to strike down the old world and bring life back to the sea. Follows of the Blackfish all centre their lives around the water in some way; sailing the currents and straights of the North Pacific like great highways, cultivating and nurturing the creatures in the shallows, and erecting weirs to shepherd the salmon and oolichan. They embark on great hunts for the gifts of the Blackfish whose meat and oils their societies rely upon, bringing in Grey Whales, Humpbacks, and greatest of the Orca.;;;;;;;;;;;;;x
-GOD_THE_BLACKFISH;The Great Blackfish;;;;;;;;;;;;;x
-GOD_THE_SWELLS;The Swells;;;;;;;;;;;;;x
-GOD_THE_TIDES;The Tides;;;;;;;;;;;;;x
-GOD_THE_GYRE;The Gyre;;;;;;;;;;;;;x
-GOD_THE_BASKET_WOMAN;The Basket Woman;;;;;;;;;;;;;x
-GOD_THE_BIG_ONE;The Big One;;;;;;;;;;;;;x
-THE_CHARTS;The Charts;;;;;;;;;;;;;x
-LIGHTKEEPER;Lightkeeper;;;;;;;;;;;;;x
-LAMP_OIL;lamp oil;;;;;;;;;;;;;x
-
-#Kuksu
-kuksu;Kuksu;;;;;;;;;;;;;x
-kuksu_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu, whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more.;;;;;;;;;;;;;x
-kuksu_reformed;Kuksu;;;;;;;;;;;;;x
-kuksu_reformed_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu, whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more. The Traditions of the Kuksu people have been codified into a series of sacred stories.;;;;;;;;;;;;;x
-GOD_KUKSU;Kuksu;;;;;;;;;;;;;x
-GOD_KUNULA;Kunula;;;;;;;;;;;;;x
-GOD_CALNUS;Calnus;;;;;;;;;;;;;x
-GOD_SUPPADAX;Suppadax;;;;;;;;;;;;;x
-GOD_HATANUTAL;Hatanutal;;;;;;;;;;;;;x
-GOD_STONE;Stone;;;;;;;;;;;;;x
-GOD_KELSEY;Kelsey;;;;;;;;;;;;;x
-GOD_DAVIDSON;Davidson;;;;;;;;;;;;;x
-GOD_LYON;Lyon;;;;;;;;;;;;;x
-THE_ORAL_HISTORIES;The Oral Histories;;;;;;;;;;;;;x
-REVERENCE;Reverence;;;;;;;;;;;;;x
-SHAMAN;Shaman;;;;;;;;;;;;;x
-
-#Eastern religion group
-three_paths;Three Paths;;;;;;;;;;;;;
-three_paths_DESC;America has always been a melting pot of culture and ideas, nowhere is this more true than Southern California where people from across the sea brought the three great teachings of Confucius, Buddha, and Laozi.  Despite a diverse background, the similarities in doctrine and ethics allowed a harmonious coexistance.  All follow the way of their respective teacher representing a path to enlightenment.  As such, worship of gods and deities is secondary to self-improvement and pursuit of perfection.;;;;;;;;;;;;;
-BOOK_THREE_PATHS;The Three Books;;;;;;;;;;;;;
-GOD_THREE_PATHS_WAYS;The Way;;;;;;;;;;;;;
-GOD_BUDDHA;Buddha;;;;;;;;;;;;;
-GOD_LAOZI;Laozi;;;;;;;;;;;;;
-GOD_CONFUCIUS;Confucius;;;;;;;;;;;;;
-GOD_JADE_EMPEROR;Jade Emperor;;;;;;;;;;;;;
-GOD_TIAN;Tian;;;;;;;;;;;;;
-MARA;Mara;;;;;;;;;;;;;
-WENSHEN;Wenshen;;;;;;;;;;;;;
-
-#Zenist
-zenist;Zenist;;;;;;;;;;;;;
-zenist_DESC;Under its many great teachers rose the powerful yoga arts supposed effort to master the many arts from: Fire Yoga, Buddhafield, Karmic, and Aerobics can grant you powerful aura of "Nirvana" and raises your spirit to high levels of Chi. They claim Chi can only be achieved by strictly adhering to these tenets.;;;;;;;;;;;;;
-BOOK_AWAKENING;Awakening;;;;;;;;;;;;;
-GOD_CHI_ESSENCE;Chi-Essence;;;;;;;;;;;;;
-GOD_ZENIST_BUDDHA;Bodhi-Sama;;;;;;;;;;;;;
-GOD_GOMEZ;Gomez;;;;;;;;;;;;;
-GOD_BIKRAM;Bikram;;;;;;;;;;;;;
-GOD_SIMMONS;Simmons;;;;;;;;;;;;;
-GOD_SWAMI;Swami;;;;;;;;;;;;;
-NEGA_DHARMA;Nega-Dharma;;;;;;;;;;;;;
-HAKAMAYA;Hakamaya;;;;;;;;;;;;;
-RED_DRAGON;Dong;;;;;;;;;;;;;
-STAT_PIETY_CHI;Chi;;;;;;;;;;;;;
-
-#Nirodhist
-nirodhist;Nirodhist;;;;;;;;;;;;;
-nirodhist_DESC;As The Event rippled throughout the Land, a new spiritual movement gain traction as the way to "liberate" all people from the "suffering". Nirodhist movement identify the world as Samsara, a machination of a greater being, where everyone live in a circle of constant rebirth. Their villification of the world, and nihilistic practices drew harsh criticism from other followers of Buddha.;;;;;;;;;;;;;
-GOD_NIRODHIST_WAYS;The Way Out;;;;;;;;;;;;;
-GOD_NOBLE_TRUTH;Noble Truths;;;;;;;;;;;;;
-GOD_STRICT_WAY;The Strict Way;;;;;;;;;;;;;
-SAMSARA;Samsara;;;;;;;;;;;;;
-HUNGRY_GHOST;Hungry Ghosts;;;;;;;;;;;;;
-IGNORANCE;Ignorance;;;;;;;;;;;;;
-
-#sikh
-sikh;Sikh;;;;;;;;;;;;;
-sikh_DESC;Coming from the land of the Punjab in the distant land of Bharata, the Sikh religion sees itself as the universal religion that teaches the ultimate truth of god and unifies all believers, freeing them from falsehood.  The Sikhs follow a succession of 10 Gurus, with the line ending at the living guru in the form of the Guru Granth Sahib. Sikhs uphold a rigid code of conduct which includes wearing symbolic articles called the "five K's" and following the four prohibitions which make one into a Khalsa, a true member of the Sikh community.  By stressing universality and outreach, the Sikhs brought many into their fold noting the same, one god was worshiped by all from Bharata.;;;;;;;;;;;;;
-GURU_GRANTH_SAHIB;Guru Granth Sahib;;;;;;;;;;;;;
-GOD_IK_ONKAAR;Ik Onkaar;;;;;;;;;;;;;
-NAAM;Naam;;;;;;;;;;;;;
-AKAL;Akal;;;;;;;;;;;;;
-HARI;Hari;;;;;;;;;;;;;
-BAGHAVAN;Baghavan;;;;;;;;;;;;;
-WAHEGURU;Waheguru;;;;;;;;;;;;;
-PREET;Preet;;;;;;;;;;;;;
-ASUR;Asur;;;;;;;;;;;;;
-
-
-#Mainline
-mainline;Mainline;;;;;;;;;;;;;x
-mainline_DESC;The Mainline church is the union of several ancient churches, whose sisterhood dates to the founding of America itself. Many creeds and Gurus coexist within this church, following Gurus as diverse as Luther, Calvin, and Wesley. The binding doctrines holding these churches together is the need for the church to uplift all men, eliminating the evils of the world and bring everyone to the teachings of Christ, and for all men to be personally involved in their church.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-THE_BIBLE;The Bible;;;;;;;;;;;;;x
-
-#Puritan
-puritan;Puritan;;;;;;;;;;;;;x
-puritan_DESC;Followers of Guru Calvin. Believing that cooperating with false Gurus is a fraudulent virtue, and that the Mainline church has fallen into the heresy of Modernism, the post-Event Puritans reject ecumenism and have set up their own Presbyteries.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-THE_BIBLE;The Bible;;;;;;;;;;;;;x
-
-#Pietist
-pietist;Pietist;;;;;;;;;;;;;x
-pietist_DESC;Followers of Guru Luther. Rejecting ritualism, and the need to focus outwards, Pietists instead focus internally, on those already faithful and on their own circumstances, spiritual and physical, instead of those outside the faith.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-THE_BIBLE;The Bible;;;;;;;;;;;;;x
-
-#Apostolic
-apostolic;Apostolic;;;;;;;;;;;;;x
-apostolic_DESC;The Armenian Apostolic Faith is one of the oldest faiths in Christendom, founded by the Apostles Bartholomew and Thaddeus. They are miaphysite believing Christ to have one nature where both the divine and human are united. After the event the Armenian Apostolic Community of California found itself separated from the Mother Church. In an attempt to stay united a church council was held in the Cathedral of Saint Leon and the Catholicosate of Los Angeles was established.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_THE_THEOTOKOS;The Theotokos;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-THE_BIBLE;The Bible;;;;;;;;;;;;;x
-KHACHIHAMAR;Kach'ihamar;;;;;;;;;;;;;x
-
-#Paraktelic
-paraktelic;Paraktelic;;;;;;;;;;;;;x
-paraktelic_DESC;After the Council of Cathedral of Saint Leon was held some Armenian Apostolics refused to acknowledge its decision, proclaiming the reigning Catholicos unworthy of leading the faithful. The Armenian Paraktelics see their faith as the true conintuation of the church founded by the Apostles Bartholomew and Thaddeus. All those outside the church are hetanosner and are not to be asscociated with.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_CHRIST;Christ;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_THE_THEOTOKOS;The Theotokos;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-THE_BIBLE;The Bible;;;;;;;;;;;;;x
-KHACHIHAMAR;Kach'ihamar;;;;;;;;;;;;;x
-
-#Cosmist
-cosmist;Cosmist;;;;;;;;;;;;;x
-cosmist_DESC;The Cosmists revere the divine spirit of the Universe. They see "Mother Earth" as but a small fragment of humanity's true benefactor. The vast expanse surrounding humanity all plays a role in giving Earth light, heat, minerals, energy, direction, inspiration, and imagination. The Physicists -- those who could truly understand and appreciate its vastness, and learn the secrets hidden within -- were great men who lived before the Event. They are gone now, only their words remain.;;;;;;;;;;;;;x
-GOD_THE_UNIVERSE;The Universe;;;;;;;;;;;;;x
-GOD_SPACE;Space;;;;;;;;;;;;;x
-GOD_SAGAN;Sagan;;;;;;;;;;;;;x
-GOD_HAWKING;Hawking;;;;;;;;;;;;;x
-GOD_FEYNMAN;Feynman;;;;;;;;;;;;;x
-GOD_THE_DEVOURER;The Devourer;;;;;;;;;;;;;x
-GOD_THE_COLD_DISORDER;The Cold Disorder;;;;;;;;;;;;;x
-GOD_CONVERGENCE;Convergence;;;;;;;;;;;;;x
-GOD_THE_TEAR;The Tear;;;;;;;;;;;;;x
-ACCRETION;Accretion;;;;;;;;;;;;;x
-THE_LUMINARIES;The Luminaries;;;;;;;;;;;;;x
-
-#Legislative
-legislative;Legislative;;;;;;;;;;;;;x
-legislative_DESC;After the event, those who sought to maintain the structures of the old provincial government became know as the Legislators. They maintain some semblance of democratic processes in Victoria out of their old seat of government, The Ledge. Despite their relative stability and dominance on the islands, they have had troubles bringing the many fractured realms and peoples of old Bee-Sea back into the fold. Legislators believe that only through the authority and mandate derived from The Crown can they find stability and prosperity. Legislative realms focus many of their resources on their fleets and navies, seeing the Salish Sea as the lifeblood of their civilization. They tend to be very decentralized in their way of life; leaving individual communities largely to govern themselves, and valuing the diversity within their lands.;;;;;;;;;;;;;x
-GOD_THE_CROWN;The Crown;;;;;;;;;;;;;x
-GOD_THE_MANDATE;The Mandate;;;;;;;;;;;;;x
-GOD_THE_COALITION;The Coalition;;;;;;;;;;;;;x
-GOD_WACKY;Wacky;;;;;;;;;;;;;x
-GOD_OTTAWA;Ottawa;;;;;;;;;;;;;x
-GOD_THE_YANKS;The Yanks;;;;;;;;;;;;;x
-GOD_THE_FRENCH;The French;;;;;;;;;;;;;x
-PREMIER;Premier;;;;;;;;;;;;;x
-THE_CHARTER;The Charter;;;;;;;;;;;;;x
-RECLAMATION;Reclamation;;;;;;;;;;;;;x
-
-#Theosophy
-theosophy;Theosophy;;;;;;;;;;;;;x
-theosophy_DESC;The Theosophists are the followers of the Guru Krishnamurti, a renowned sage who was said to be the last in a long line of Masters that shepherded the spiritual and intellectual development of humanity. According to their teachings, it was when the world closed their hearts to the lessons of Krishnamurti that mankind grew distant from Nature and Truth, relying more and more upon the various systems that they used to build the Old World, before collapsing under the burden of ignorance and desire that it carried upon its back. Numerous legends even hold that Krishnamurti himself was alive to witness the Event, spending his final years guiding the Theosophists through those dark days of turmoil and uncertainty. The Theosophists de emphasize the importance of organized religion, scripture, ritual, and hierarchy as a source of direct enlightenment, viewing them simply as roads for every individual to access the source of Truth. ;;;;;;;;;;;;;x
-GOD_TRUTH;Truth;;;;;;;;;;;;;x
-GOD_THE_MASTERS;The Masters;;;;;;;;;;;;;x
-GOD_KRISHNAMURTI;Krishnamurti;;;;;;;;;;;;;x
-GOD_SUFFERING;Suffering;;;;;;;;;;;;;x
-GOD_THE_SYSTEMS_OF_MAN;The Systems of Man;;;;;;;;;;;;;x
-KRISHNAMURTIS_NOTEBOOK;Krishnamurti's Notebook;;;;;;;;;;;;;x
-
-#Navegante
-navegante;Navegante;;;;;;;;;;;;;x
-navegante_DESC;Navigants believe those who are brave, those who are patient, are blessed by the sea. Legends warn of the dangers and curses of the sea, but also speak of miracles and blessings from he who multiplies the fish. Our Savior and provider, call us to walk over the waters with you. And give us Our Daily Fish, Amen.;;;;;;;;;;;;;x
-GOD_THE_FISHER_OF_MEN;The Fisher of Men;;;;;;;;;;;;;x
-GOD_ICHTYS;Ichtys;;;;;;;;;;;;;x
-GOD_LIVING_WATER;Living Water;;;;;;;;;;;;;x
-GOD_SALVADOR_GAVIOTA;Salvador Gaviota;;;;;;;;;;;;;x
-GOD_THE_DEVIL;The Devil;;;;;;;;;;;;;x
-GOD_TEMPEST;Tempest;;;;;;;;;;;;;x
-GOD_EL_MECHUDO;El Mechudo;;;;;;;;;;;;;x
-THE_GOSPEL;The Gosepel;;;;;;;;;;;;;x
-
-#Triangulo Dorado
-triangulo_dorado;Triángulo Dorado;;;;;;;;;;;;;x
-triangulo_dorado_DESC;Proclaiming being the true lords of Mexico the days before the event, Contrabandistas cling to hubs of power and isolated fortresses. They believe laws and morals were suggestions, their honor and pride shapes them, and they are exempt if some good is done. They’re a brutal caste of tyrants, idolizing feats of bravery as sung in Los Corridos. But the Event robbed their trade routes and their clients, and now their power wanes. Are they really the lords of the land?;;;;;;;;;;;;;x
-GOD_EL_JEFE_DE_JEFE;El Jefe de Jefes;;;;;;;;;;;;;x
-GOD_CUERNO_DE_CHIVO;Cuerno de Chivo;;;;;;;;;;;;;x
-GOD_MALVERDE;Malverde;;;;;;;;;;;;;x
-GOD_HIERBA_MALA;Hierba Mala;;;;;;;;;;;;;x
-THE_DEVIL;The Devil;;;;;;;;;;;;;x
-GOD_LOS_FEDERALES;Los Federales;;;;;;;;;;;;;x
-GOD_LOS_RINCHES;Los Rinches;;;;;;;;;;;;;x
-LOS_CORRIDOS;Los Corridos;;;;;;;;;;;;;x
-
-#Misional
-misional;Misional;;;;;;;;;;;;;x
-misional_DESC;As Jesus and the Apostles healed by faith, those gifted can work wonders through prayer and  intercession from El Niño Fidencio and San Chárbel. A wide range of beliefs, but united by miracles and signs.;;;;;;;;;;;;;x
-GOD_DIOS;Dios;;;;;;;;;;;;;x
-GOD_THE_LORD;The Lord;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_THE_BLESSED_VIRGIN;The Blessed Virgin;;;;;;;;;;;;;x
-THE_DEVIL;The Devil;;;;;;;;;;;;;x
-GOD_PERSHING;Pershing;;;;;;;;;;;;;x
-GOD_LOS_FEDERALES;Los Federales;;;;;;;;;;;;;x
-
-#Kojtumbrem (Yaqui Faith)
-kojtumbrem;Kojtumbrem;;;;;;;;;;;;;x
-kojtumbrem_DESC;Among the Yaqui, the heirs of the Sun, an ancient tradition met the Gospel. Believing that at the end of the world those who were baptized were the only to be saved and inherit the world. These chosen are the proud Yaqui, free from the colonists yet armed with their catholic traditions.;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_ITOM_ACHAI;'Itom 'Achai;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_YUKU;Yuku;;;;;;;;;;;;;x
-GOD_THE_SUREM;The Surem;;;;;;;;;;;;;x
-GOD_BEBEJEERI;Bebeje'eri;;;;;;;;;;;;;x
-GOD_JUURAS;Juuras;;;;;;;;;;;;;x
-GOD_THE_CHAPAVEKAM;The Chapavekam;;;;;;;;;;;;;x
-THE_LEGENDS;The Legends;;;;;;;;;;;;;x
-
-#Bohemian
-bohemian;Bohemian;;;;;;;;;;;;;x
-bohemian_DESC;Long has the name been known that even the Weavings Spiders wish not tread the ground of the Bohemians, a secret society of grove-captains across the wooded estates of the powerful men of Pre-Event California it is said that their wise and terrible guardian the screeching owl of the Grove protects their proceedings for those that wish to pry within their most holy of holies. Those that do are said to meet their maker drowned in circumstances that have been lost to time.;;;;;;;;;;;;;x
-GOD_STANFORD;Stanford;;;;;;;;;;;;;x
-GOD_EDWARD;Edward;;;;;;;;;;;;;x
-GOD_IRWIN;Irwin;;;;;;;;;;;;;x
-GOD_JOHN;John;;;;;;;;;;;;;x
-GOD_WISE_OWL;Wise Owl;;;;;;;;;;;;;x
-GOD_THOSE-WHO-WATCH;Those-Who-Watch;;;;;;;;;;;;;x
-GOD_THE_BEGGAR;The Beggar;;;;;;;;;;;;;x
-GOD_THE_PHANTOM_PATRIOT;The Phantom Patriot;;;;;;;;;;;;;x
-SIGNIFICANT_OTHER;Significant Other;;;;;;;;;;;;;x
-
-#Fortunist
-fortunist;Fortunist;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+###########Cultures###########,,,,,,,,,,,
+,,,,,,,,,,,
+#Bay Area Cultures,,,,,,,,,,,
+winelander;Winelander;;;;;;;;;;;;;x,,,,,,,,,,,
+headlander;Headlander;;;;;;;;;;;;;x,,,,,,,,,,,
+carquinero;Carquinero;;;;;;;;;;;;;x,,,,,,,,,,,
+diableno;Diableño;;;;;;;;;;;;;x,,,,,,,,,,,
+sanjo;Sanjo;;;;;;;;;;;;;x,,,,,,,,,,,
+stanforder;Stanforder;;;;;;;;;;;;;x,,,,,,,,,,,
+eastshore;Eastshore;;;;;;;;;;;;;x,,,,,,,,,,,
+ysidro;Ysidro;;;;;;;;;;;;;x,,,,,,,,,,,
+carmelite;Carmelite;;;;;;;;;;;;;x,,,,,,,,,,,
+solitarios;Solitarios;;;;;;;;;;;;;x,,,,,,,,,,,
+mustang;Mustang;;;;;;;;;;;;;x,,,,,,,,,,,
+lakemen;Lakemen;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Valleyan Cultures,,,,,,,,,,,
+kettleman;Kettleman;;;;;;;;;;;;;x,,,,,,,,,,,
+hmong;Hmong;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#PNW Cultures,,,,,,,,,,,
+portlandian;Portlandian;;;;;;;;;;;;;x,,,,,,,,,,,
+gorgeon;Gorgeon;;;;;;;;;;;;;x,,,,,,,,,,,
+saltwater;Saltwater;;;;;;;;;;;;;x,,,,,,,,,,,
+willametteian;Willametteian;;;;;;;;;;;;;x,,,,,,,,,,,
+rogueite;Rogueite;;;;;;;;;;;;;x,,,,,,,,,,,
+willapan;Willapan;;;;;;;;;;;;;x,,,,,,,,,,,
+emeraldian;Emeraldian;;;;;;;;;;;;;x,,,,,,,,,,,
+emeraldian;Emeraldian;;;;;;;;;;;;;x,,,,,,,,,,,
+olympite;Olympite;;;;;;;;;;;;;x,,,,,,,,,,,
+backcountry;Backcountry;;;;;;;;;;;;;x,,,,,,,,,,,
+makah;Makah;;;;;;;;;;;;;x,,,,,,,,,,,
+orcan;Orcan;;;;;;;;;;;;;x,,,,,,,,,,,
+skagitan;Skagitan;;;;;;;;;;;;;x,,,,,,,,,,,
+vestmenn;Vestmenn;;;;;;;;;;;;;x,,,,,,,,,,,
+leavenworther;Leavenworther;;;;;;;;;;;;;x,,,,,,,,,,,
+islander;Islander;;;;;;;;;;;;;x,,,,,,,,,,,
+coast_salish;Coast Salish;;;;;;;;;;;;;x,,,,,,,,,,,
+vancouverite;Vancouverite;;;;;;;;;;;;;x,,,,,,,,,,,
+coastranger;Coastranger;;;;;;;;;;;;;x,,,,,,,,,,,
+vainakuvaraita;Vainakuvara'ita;;;;;;;;;;;;;x,,,,,,,,,,,
+fraserian;Fraserian;;;;;;;;;;;;;x,,,,,,,,,,,
+nuuchahnulth;Nuu-Chah-Nulth;;;;;;;;;;;;;x,,,,,,,,,,,
+kwakwakawakw;Kwakwaka'wakw;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Inland Northwest Cultures,,,,,,,,,,,
+inland_northwest;Inlander;;;;;;;;;;;;;x,,,,,,,,,,,
+meseteno;Meseteño;;;;;;;;;;;;;x,,,,,,,,,,,
+tricitian;Tricitian;;;;;;;;;;;;;x,,,,,,,,,,,
+palouse;Palouse;;;;;;;;;;;;;x,,,,,,,,,,,
+panhandler;Panhandler;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Snake Basin Cultures,,,,,,,,,,,
+snake_basin;Snake Basin;;;;;;;;;;;;;x,,,,,,,,,,,
+sawtooth;Sawtooth;;;;;;;;;;;;;x,,,,,,,,,,,
+snakemen;Snakemen;;;;;;;;;;;;;x,,,,,,,,,,,
+eastsloper;Eastsloper;;;;;;;;;;;;;x,,,,,,,,,,,
+juniperian;Juniperian;;;;;;;;;;;;;x,,,,,,,,,,,
+boisean;Boisean;;;;;;;;;;;;;x,,,,,,,,,,,
+bluemen;Bluemen;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Nevada Cultures,,,,,,,,,,,
+great_basin;Great Basin;;;;;;;;;;;;;x,,,,,,,,,,,
+clarkard;Clarkard;;;;;;;;;;;;;x,,,,,,,,,,,
+deathman;Deathman;;;;;;;;;;;;;x,,,,,,,,,,,
+monyo;Monyo;;;;;;;;;;;;;x,,,,,,,,,,,
+renolander;Renolander;;;;;;;;;;;;;x,,,,,,,,,,,
+black_rocker;Black Rocker;;;;;;;;;;;;;x,,,,,,,,,,,
+lonelyroader;Lonelyroader;;;;;;;;;;;;;x,,,,,,,,,,,
+long_fifteener;Long Fifteener;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Utahn Cultures,,,,,,,,,,,
+staircaser;Staircaser;;;;;;;;;;;;;x,,,,,,,,,,,
+middleman;Middleman;;;;;;;;;;;;;x,,,,,,,,,,,
+boxer;Boxer;;;;;;;;;;;;;x,,,,,,,,,,,
+utah;Utah;;;;;;;;;;;;;x,,,,,,,,,,,
+canyonlander;Canyonlander;;;;;;;;;;;;;x,,,,,,,,,,,
+provo;Provo;;;;;;;;;;;;;x,,,,,,,,,,,
+salter;Salter;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Divider Cultures,,,,,,,,,,,
+divider;Divider;;;;;;;;;;;;;x,,,,,,,,,,,
+ranger;Ranger;;;;;;;;;;;;;x,,,,,,,,,,,
+wyomingite;Wyomingite;;;;;;;;;;;;;x,,,,,,,,,,,
+plainsman;Plainsman;;;;;;;;;;;;;x,,,,,,,,,,,
+bighorner;Bighorner;;;;;;;;;;;;;x,,,,,,,,,,,
+montanan;Montanan;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Colorado Cultures,,,,,,,,,,,
+coloradan;Coloradan;;;;;;;;;;;;;x,,,,,,,,,,,
+rockymount;Rockymount;;;;;;;;;;;;;x,,,,,,,,,,,
+west_sloper;West Sloper;;;;;;;;;;;;;x,,,,,,,,,,,
+denverite;Denverite;;;;;;;;;;;;;x,,,,,,,,,,,
+piker;Piker;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Native Cultures,,,,,,,,,,,
+yakama;Yakama;;;;;;;;;;;;;x,,,,,,,,,,,
+north_paiute;North Paiute;;;;;;;;;;;;;x,,,,,,,,,,,
+south_paiute;South Paiute;;;;;;;;;;;;;x,,,,,,,,,,,
+mono;Mono;;;;;;;;;;;;;x,,,,,,,,,,,
+shoshone;Shoshone;;;;;;;;;;;;;x,,,,,,,,,,,
+ute;Ute;;;;;;;;;;;;;x,,,,,,,,,,,
+selish;Selish;;;;;;;;;;;;;x,,,,,,,,,,,
+skitswish;Skitswish;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#SoCal Cultures,,,,,,,,,,,
+anjalusi;Anjalusi;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+###########Titular Titles###########,,,,,,,,,,,
+d_pikeplace;Pikeplace;;;;;;;;;;;;;x,,,,,,,,,,,
+d_pikeplace_adj;Pikeplacer;;;;;;;;;;;;;x,,,,,,,,,,,
+e_celestial_harmony;Celestial Heaven;;;;;;;;;;;;;x,,,,,,,,,,,
+e_celestial_harmony_adj;Nortonites;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+###########Landmarks###########,,,,,,,,,,,
+landmark_palouse_falls;§YPalouse Falls§!\nA massive waterfall carries the Palouse River into the gorge to the Snake. Although the sight is beautiful, more than a few travelers have met their end falling off the sheer cliffs.;;;;;;;;;;;;;x,,,,,,,,,,
+,,,,,,,,,,,
+############## JATE Religions ###########,,,,,,,,,,,
+,,,,,,,,,,,
+eastern;Eastern;;;;;;;;;;;;;x,,,,,,,,,,,
+high_cults;High Cults;;;;;;;;;;;;;x,,,,,,,,,,,
+occultist;Occultist;;;;;;;;;;;;;x,,,,,,,,,,,
+proto-gaian;Proto-Gaian;;;;;;;;;;;;;x,,,,,,,,,,,
+dianetic;Dianetic;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Black Cross,,,,,,,,,,,
+black_cross;Black Cross;;;;;;;;;;;;;x,,,,,,,,,,,
+black_cross_DESC;The Black Cross are a loosely organized collective of insular communities, travelling bard-preachers, and militant heresiarchs who share a belief in the “Straight-Edged Path” in rebellion against a figure only known as “the Man”, who they believe imprisoned the mother-goddesses Anarkee and Gaia in the Event. The Straight-Edged Path mandates abstination from drugs, alcohol, and premarital sex, a path that they believe will lead to freeing of the Mothers from the Man’s control. Black Crossers bear a particular opposition to the rearing of livestock, and often seek to destroy the practice through force.;;;;;;;;;;;;;x,,,,
+GOD_THE_MOTHERS;The Mothers;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MOTHER_ANARKEE;Mother Anarkee;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MOTHER_GAIA;Mother Gaia;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHAOS;Chaos;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_MAN;The Man;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_PIGS;The Pigs;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SNITCH;The Snitch;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_ZINE;The Zine;;;;;;;;;;;;;x,,,,,,,,,,,
+FRONTMAN;Frontman;;;;;;;;;;;;;x,,,,,,,,,,,
+SQUATTING;Squatting;;;;;;;;;;;;;x,,,,,,,,,,,
+CRED;Cred;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#La Hermandad,,,,,,,,,,,
+la_hermandad;La Hermandad;;;;;;;;;;;;;x,,,,,,,,,,,
+la_hermandad_DESC;La Hermandad, or “The Brotherhood” is the name commonly used to refer to a group of Chicano Christians in the interior Pacific Northwest. Far from the Mexican heartland, the Meseteño have merged Mexican Christianity with a reverence for saints of agriculture and labor, believing that kings should work the fields besides their subjects.;;;;;;;;;;;;;x,,,,,,,,
+GOD_DIOS;;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CESARCHAVEZ;Césarchávez;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EL_PUEBLO_UNIDO;El Pueblo Unido;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LA_MIGRA;La Migra;;;;;;;;;;;;;x,,,,,,,,,,,
+MANIFESTATION;Manifestación;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_BYLAWS;The Bylaws;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Dominionist,,,,,,,,,,,
+dominionist;Dominionist;;;;;;;;;;;;;x,,,,,,,,,,,
+dominionist_DESC;Dominionists are a particularly fundimentalist and militant branch of Protestant Christianity, emerging in the decades before the Event, but solidifying their power in the Inland Northwest in the years after. Dominionists believe that America fell due to its degradation by unbelievers and agents of Communism. They believe that America can only be restored through the strict application of Biblical law and the destruction of all who they deem oppose Christ and America.;;;;;;;;;;;;;x,,,,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_AMERICA;America;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_FLAG;The Flag;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_COMMUNISM;Communism;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_UNBELIEVERS;the Unbelievers;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Sovereignist,,,,,,,,,,,
+sovereignist;Sovereignist;;;;;;;;;;;;;x,,,,,,,,,,,
+sovereignist_DESC;The Sovereignists are a religious movement who emerged shortly before the Event, who believe that the day-to-day state of man is a lie, and one’s true self can only be obtained through a combination of ritual ceremonies and incantations known as Asseveration. Upon Asseveration, Sovereignists believe the soul will become Redeemed and become able to tap into a spirit realm known as the Treasury to gain wealth and power. ;;;;;;;;;;;;;x,,,,,,,,
+GOD_THE_COMMON_LAW;the Common Law;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BILL_OF_RIGHTS;the Bill of Rights;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CITIZEN;the Citizen;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_FOUNDERS;the Founders;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_FEDS;the Feds;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SUPERIORS;the Superiors;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CORPORATE_SHELL;the Corporate Shell;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_AIARESS;Aiaress;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_AYTIEFF;Aytieff;;;;;;;;;;;;;x,,,,,,,,,,,
+MINUTEMAN;Minuteman;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_LAWBOOKS;The Lawbooks;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Millenarian,,,,,,,,,,,
+millenarian;Millenarian;;;;;;;;;;;;;x,,,,,,,,,,,
+millenarian_DESC;These are the followers of a lost Guru, a follower of the Guru Christ. The Millenarians believe that the Event was a cleansing of the earth in preparation for Christ’s return, which will occur at the latest in 2239 -- 6000 years after the creation of the earth, by the Jewish tradition, and thus the start of the Seventh Millennium. A Millennial Sabbath.;;;;;;;;;;;;;x,,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+LUCIFER;Lucifer;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Mine Cultist,,,,,,,,,,,
+mine_cultist;Mine Cultist;;;;;;;;;;;;;x,,,,,,,,,,,
+mine_cultist_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines," and ""lay off"" their holy miners.;;;;;;;;;;;;;x",
+mine_cultist_reformed;Mine Cultist;;;;;;;;;;;;;x,,,,,,,,,,,
+mine_cultist_reformed_DESC;The Mine Cult is a name assigned to a variety of cults and pseudo-faiths that sprang sometimes independently around the Rocky Mountains. They revere the massive mines left by their forefathers, the heritage of the Rocky Mountain Miner, and the great wealth those mines provide. The Mine Cult dogma is inconsistent, but most Mine Cultists believe that it is their duty to strike the earth as their fathers had, and that one day, upon finding their pantheon's head, The Motherlode, He Who Bust's will shall be made manifest, and he will deplete the last deposits, close their mines," and ""lay off"" their holy miners. The codes and traditions of the Mine Cultists have been codified into a book entitled ""The Operator's Manual"".;;;;;;;;;;;;;x",
+GOD_THE_MOTHERLODE;The Motherlode;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HE_WHO_BOOMS;He Who Booms;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BIG_BAD_JOHN;Big Bad John;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_CANARY;The Canary;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_NOBLE_BLASTER;The Noble Blaster;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_TRAILGUIDE;The Trailguide;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SUPREME_PLACER;The Supreme Placer;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_IRON_HORSE;The Iron Horse;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BLESSED_BULLARD;Blessed Bullard;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HE_WHO_BUSTS;He Who Busts;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EEEPAH;Eeepah;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_EARTHSHAKER;The Earthshaker;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_PINKERTON;The Pinkerton;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MONOXIDE;Monoxide;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LUNG_BURNER;Lung Burner;;;;;;;;;;;;;x,,,,,,,,,,,
+FOREMAN;Foreman;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_OPERATORS_MANUAL;The Operator's Manual;;;;;;;;;;;;;x,,,,,,,,,,,
+PROSPECTION;Prospection;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Conservationist,,,,,,,,,,,
+conservationist;Conservationist;;;;;;;;;;;;;x,,,,,,,,,,,
+conservationist_DESC;In the Wild Wilderness of California, lay the men and women of the Rangers of Muir," a dedicated force of individuals who continue to recite the ancient creed of ""Conservation""", to this they maintain ranger camps across the California watching for the siren calls of the Dark Cicada which will herald the fires that are believed to have consumed the old world.  As stated from one of their patron deities the Guardian of the Woods," Smokey ""Only you can prevent Wildfires""...;;;;;;;;;;;;;x",,,,,,,
+GOD_MUIR;Muir;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_GENERAL_SHERMAN;Sherman;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HYPERION;Hyperion;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JUGGERNAUT;Juggernaut;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SMOKEY;Smokey;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_FELLERS;Fellers;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_TORCHERS;Torchers;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_TERMITES;Termites;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_DARK_CICADA;The Dark Cicada;;;;;;;;;;;;;x,,,,,,,,,,,
+RANGER;Ranger;;;;;;;;;;;;;x,,,,,,,,,,,
+CHIEF_RANGERS_BOOK;Chief Ranger's Book;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Keshian,,,,,,,,,,,
+keshian;Keshian;;;;;;;;;;;;;x,,,,,,,,,,,
+keshian_DESC;Followers of Guru Le Guin, The Keshians believe in the rejection of materiality and violence, and understanding the necessity of communion for the maintenance of universal peace. Even if the teachings of Guru Le Guin form the basis of their practices, followers often speak of many others.;;;;;;;;;;;;;x,,,,,,,,
+GOD_SHE-WHO-WATCHES;She-Who-Watches;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_UNBINDING;The Unbinding;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_CYCLE;The Cycle;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_MOUNTAIN_GRANDMOTHER;The Mountain Grandmother;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_COYOTE;The Coyote;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_CONDOR;The Condor;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SICKNESS_OF_MAN;The Sickness of Man;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_GEBBETH;Gebbeth;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_WAR-MAKER;War-maker;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_TELLINGS_AND_LISTENINGS;The Tellings and Listenings;;;;;;;;;;;;;x,,,,,,,,,,,
+DRUID;DRUID;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Refulgents,,,,,,,,,,,
+refulgent;Refulgent;;;;;;;;;;;;;x,,,,,,,,,,,
+refulgent_DESC;The Refulgents are a collection of groups that worship Fire in many forms, seeing it as the most powerful Force of Nature. Refulgents see themselves as stewards, seeking to maintain balance with the world around them by carefully tending to Fire, feeding it that which is necessary so that it may do its work but containing it from spreading wantonly. Fire destroys all in it's path but in doing so gives room for new life to grow strong, this cycle is vital to Refulgents, who see it as the truest law of nature, the old dies so that the new can thrive. They extend this law to themselves in the form of complex rituals, where they build effigies and temples and burn them to symbolically cleanse themselves as the land around them is cleansed.;;;;;;;;;;;;;x ,,,,
+GOD_THE_CLEANSING_FLAME;The Cleansing Flame;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_TORCHBEARER;The Torchbearer;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SMOKEY;Smokey;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BURNING_MAN;The Burning Man;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HEARTH-MOTHER;Hearth-Mother;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_PHOENIX;Phoenix;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LONG_FROST;The Long Frost;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_CARELESS_SPARK;The Careless Spark;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_OVERGROWTH;Overgrowth;;;;;;;;;;;;;x,,,,,,,,,,,
+IGNITION;Ignition;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_FIRESIDE_TALES;The Fireside Tales;;;;;;;;;;;;;x,,,,,,,,,,,
+FIREMAN;Fireman;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Fidelii,,,,,,,,,,,
+fidelii;Fidelii;;;;;;;;;;;;;x,,,,,,,,,,,
+fidelii_DESC;All has been lost. A thousand cities were put to the sword during the fall, the Fifty Tribes of Old America were broken and devoured by dark treachery and unholy brimstone. The only followers of the ancient creed that remain are the few, the proud. Their foes curse them and call them devil dogs, but these grim hero-cultists know themselves only as the All-Faithful. Around their barrack fires and hearths they tell the tales of Old America, where steel-clad citizen-soldiers cast down their foes from half the world away, where winged armor split the heavens in two with thunder and rained down burning lances upon the heads of the enemy. Whatever is left must be protected. It is left to the Fidelii to enforce the Laws of the Old Founders until a new President and Chief-of-Armys may be selected, whenever that may be. Haec Protegimus.;;;;;;;;;;;;;x,,,,,
+GOD_THE_ARMOR_OF_GOD;The Armor of God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_EAGLE;The Eagle;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LAW;The Law;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_CORPS;The Corps;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SWORD_OF_THE_SPIRIT;The Sword of the Spirit;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_TREASON;Treason;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_ADVERSARY;The Adversary;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_OPFOR;OPFOR;;;;;;;;;;;;;x,,,,,,,,,,,
+PATRIOTISM;Patriotism;;;;;;;;;;;;;x,,,,,,,,,,,
+FORWARD_OPERATION;Forward Operation;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_FINAL_ORDERS;The Final Orders;;;;;;;;;;;;;x,,,,,,,,,,,
+SERGEANT;Sergeant;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Adventist,,,,,,,,,,,
+#Their localization exists elsewhere already so yee haw,,,,,,,,,,,
+adventist;Adventist;;;;;;;;;;;;;x,,,,,,,,,,,
+adventist_DESC;These are the followers of a most unusual Guru, Guru Miller. They believe that Christ is judging all people actively, and has been since before the event, in preparation of his coming. Unlike the Postadventists, whose movement swept through the lands of the far east, these Adventists do not believe that the Event was Christ’s judgement of the world – and denounce the concept as a most vile deception. They also observe the Sabbath of the Jews, instead of that of their fellow Christians, and believe that death is a dreamless sleep, that only the faithful will ever awaken from.;;;;;;;;;;;;;x,,,
+,,,,,,,,,,,
+#Baptist,,,,,,,,,,,
+#Their localization exists elsewhere already so yee haw,,,,,,,,,,,
+baptist;Baptist;;;;;;;;;;;;;x,,,,,,,,,,,
+baptist_DESC;The Baptists have always held a prominent position in America, and they persisted in their beliefs through the apocalypse. Their defining creed being that one must choose to follow Christ – they cannot simply be born into it. They practice baptism, by immersion, but only for the believer – and can an infant be said to be a believer in anything? The teachings of many Gurus are allowed within their walls, to help every man find their own path to Christ, through their own reading of scripture.;;;;;;;;;;;;;x,,,,,,
+,,,,,,,,,,,
+#Congregationalist,,,,,,,,,,,
+#Their localization exists elsewhere already so yee haw,,,,,,,,,,,
+congregationalist;Conregationalist;;;;;;;;;;;;;x,,,,,,,,,,,
+congregationalist_DESC;These Congregationalists reject the Baptist church, and all organized churches, as inherently being infringements on the believer’s ability to find their own path to Christ in the scriptures alone.;;;;;;;;;;;;;x,,,,,,,,,
+,,,,,,,,,,,
+#Pentecostal,,,,,,,,,,,
+#Their localization exists elsewhere already,,,,,,,,,,,
+pentecostal;Pentecostal;;;;;;;;;;;;;x,,,,,,,,,,,
+pentecostal_DESC;In the wake of the event, a Guru lost to time spoke of the need for those who recognized the Charismata of the modern day to band together in their time of crisis, founding a unified church for the faithful. Rebirth, Sanctification, and for many of the lucky faithful, the True Baptism of Fire would evidence a man’s journey towards perfection in God.;;;;;;;;;;;;;x,,,,,,
+,,,,,,,,,,,
+#Oneness,,,,,,,,,,,
+#Their localization exists elsewhere already,,,,,,,,,,,
+oneness;Oneness;;;;;;;;;;;;;x,,,,,,,,,,,
+oneness_DESC;Some who profess faith in the modern Charismata rejected the Holy Trinity, held fast to by the vast majority of Christian faithful, as little more than polytheism. They believe that Christ is One, not Three, and that the Father, Son, and Holy Spirit are merely titles, not “persons.” They were rejected by the Charismatic Guru’s new church, and so they have formed their own.;;;;;;;;;;;;;x,,,
+,,,,,,,,,,,
+#Holiness,,,,,,,,,,,
+#Their localization exists elsewhere already,,,,,,,,,,,
+holiness;Holiness;;;;;;;;;;;;;x,,,,,,,,,,,
+holiness_DESC;Some who initially followed the Charismatic Guru would stray from their path, rejecting the Charismata and the Baptism of Fire as little more than false sorcery.;;;;;;;;;;;;;x,,,,,,,,,,
+,,,,,,,,,,,
+#Freighter,,,,,,,,,,,
+freighter;Freighter;;;;;;;;;;;;;x,,,,,,,,,,,
+"freighter_DESC;Long before the Event sank old America into a state of warfare and infighting, the Freighters stood guard over the ports of the West Coast, and protected the exotic goods and resources from around the world that allowed the old Americans to live a life of comfort and ease. However, even as the lives of untold millions are unsteadied in the current age, nobles and commoners alike still depend on the flow of sea, however fickle, trickling in from across the Pacific to improve their meager lives. Thus, the Freighters hold onto their old posts, and claim that they alone possess the knowledge and skills to protect the ocean trade, as they have done since time immemorial.;;;;;;;;;;;;;x",,,,,,,,,,,
+GOD_SEA_MA;Sea Ma;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_APOSTLE_PETER;Apostle Peter;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MARAD;Marad;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EL_NINO;El Niño;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_ROGUE_WAVE;The Rogue Wave;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_OLD_MAN_SEA;The Old Man of the Sea;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LONE_WOMAN;The Lone Woman;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_QUEEN_MARY;Queen Mary;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_RED_SUN;the Red Sun;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_PISCO;Pisco;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_NOA;Noa;;;;;;;;;;;;;x,,,,,,,,,,,
+CHAPLAIN;Chaplain;;;;;;;;;;;;;x,,,,,,,,,,,
+JIB;Jib;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_DAVY_JONES;Davy Jones;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_MARINERS_GUIDE;The Mariners Guide;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Blackfish,,,,,,,,,,,
+blackfish;Blackfish;;;;;;;;;;;;;x,,,,,,,,,,,
+blackfish_DESC;Central to the faith of the Whalers is The Blackfish; a colossal slumbering god from which all the fish and cetaceans were once born, who in anger at the coming extinction of his children woke to strike down the old world and bring life back to the sea. Follows of the Blackfish all centre their lives around the water in some way; sailing the currents and straights of the North Pacific like great highways, cultivating and nurturing the creatures in the shallows, and erecting weirs to shepherd the salmon and oolichan. They embark on great hunts for the gifts of the Blackfish whose meat and oils their societies rely upon, bringing in Grey Whales, Humpbacks, and greatest of the Orca.;;;;;;;;;;;;;x,,,,,
+GOD_THE_BLACKFISH;The Great Blackfish;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SWELLS;The Swells;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_TIDES;The Tides;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_GYRE;The Gyre;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BASKET_WOMAN;The Basket Woman;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BIG_ONE;The Big One;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_CHARTS;The Charts;;;;;;;;;;;;;x,,,,,,,,,,,
+LIGHTKEEPER;Lightkeeper;;;;;;;;;;;;;x,,,,,,,,,,,
+LAMP_OIL;lamp oil;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Kuksu,,,,,,,,,,,
+kuksu;Kuksu;;;;;;;;;;;;;x,,,,,,,,,,,
+kuksu_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu, whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more.;;;;;;;;;;;;;x,,,,,
+kuksu_reformed;Kuksu;;;;;;;;;;;;;x,,,,,,,,,,,
+kuksu_reformed_DESC;Despite the many Great Calamities against these people, it could be said for the First Peoples of Pomo, Patwin, Maidu, Ohlone, Miwok rose above the ashes renewed in their shared veneration of Kuksu, whom they believes lives in the far south and healed California so that she may once more provide great bounty to all peoples once again providing new guidance to his children. It is said that other gods sleep in the other cardinal directions waiting for the children of Kuksu to sing their songs and weave their stories in baskets and dances once more. The Traditions of the Kuksu people have been codified into a series of sacred stories.;;;;;;;;;;;;;x,,,,,
+GOD_KUKSU;Kuksu;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_KUNULA;Kunula;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CALNUS;Calnus;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SUPPADAX;Suppadax;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HATANUTAL;Hatanutal;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_STONE;Stone;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_KELSEY;Kelsey;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_DAVIDSON;Davidson;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LYON;Lyon;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_ORAL_HISTORIES;The Oral Histories;;;;;;;;;;;;;x,,,,,,,,,,,
+REVERENCE;Reverence;;;;;;;;;;;;;x,,,,,,,,,,,
+SHAMAN;Shaman;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Eastern religion group,,,,,,,,,,,
+three_paths;Three Paths;;;;;;;;;;;;;,,,,,,,,,,,
+three_paths_DESC;America has always been a melting pot of culture and ideas, nowhere is this more true than Southern California where people from across the sea brought the three great teachings of Confucius, Buddha, and Laozi.  Despite a diverse background, the similarities in doctrine and ethics allowed a harmonious coexistance.  All follow the way of their respective teacher representing a path to enlightenment.  As such, worship of gods and deities is secondary to self-improvement and pursuit of perfection.;;;;;;;;;;;;;,,,,,,
+BOOK_THREE_PATHS;The Three Books;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_THREE_PATHS_WAYS;The Way;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_BUDDHA;Buddha;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_LAOZI;Laozi;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_CONFUCIUS;Confucius;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_JADE_EMPEROR;Jade Emperor;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_TIAN;Tian;;;;;;;;;;;;;,,,,,,,,,,,
+MARA;Mara;;;;;;;;;;;;;,,,,,,,,,,,
+WENSHEN;Wenshen;;;;;;;;;;;;;,,,,,,,,,,,
+,,,,,,,,,,,
+#Zenist,,,,,,,,,,,
+zenist;Zenist;;;;;;;;;;;;;,,,,,,,,,,,
+zenist_DESC;Under its many great teachers rose the powerful yoga arts supposed effort to master the many arts from: Fire Yoga, Buddhafield, Karmic," and Aerobics can grant you powerful aura of ""Nirvana"" and raises your spirit to high levels of Chi. They claim Chi can only be achieved by strictly adhering to these tenets.;;;;;;;;;;;;;",,,,,,,,
+BOOK_AWAKENING;Awakening;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_CHI_ESSENCE;Chi-Essence;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_ZENIST_BUDDHA;Bodhi-Sama;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_GOMEZ;Gomez;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_BIKRAM;Bikram;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_SIMMONS;Simmons;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_SWAMI;Swami;;;;;;;;;;;;;,,,,,,,,,,,
+NEGA_DHARMA;Nega-Dharma;;;;;;;;;;;;;,,,,,,,,,,,
+HAKAMAYA;Hakamaya;;;;;;;;;;;;;,,,,,,,,,,,
+RED_DRAGON;Dong;;;;;;;;;;;;;,,,,,,,,,,,
+STAT_PIETY_CHI;Chi;;;;;;;;;;;;;,,,,,,,,,,,
+,,,,,,,,,,,
+#Nirodhist,,,,,,,,,,,
+nirodhist;Nirodhist;;;;;;;;;;;;;,,,,,,,,,,,
+nirodhist_DESC;As The Event rippled throughout the Land," a new spiritual movement gain traction as the way to ""liberate"" all people from the ""suffering"". Nirodhist movement identify the world as Samsara", a machination of a greater being, where everyone live in a circle of constant rebirth. Their villification of the world, and nihilistic practices drew harsh criticism from other followers of Buddha.;;;;;;;;;;;;;,,,,,,,
+GOD_NIRODHIST_WAYS;The Way Out;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_NOBLE_TRUTH;Noble Truths;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_STRICT_WAY;The Strict Way;;;;;;;;;;;;;,,,,,,,,,,,
+SAMSARA;Samsara;;;;;;;;;;;;;,,,,,,,,,,,
+HUNGRY_GHOST;Hungry Ghosts;;;;;;;;;;;;;,,,,,,,,,,,
+IGNORANCE;Ignorance;;;;;;;;;;;;;,,,,,,,,,,,
+,,,,,,,,,,,
+#sikh,,,,,,,,,,,
+sikh;Sikh;;;;;;;;;;;;;,,,,,,,,,,,
+sikh_DESC;Coming from the land of the Punjab in the distant land of Bharata, the Sikh religion sees itself as the universal religion that teaches the ultimate truth of god and unifies all believers, freeing them from falsehood.  The Sikhs follow a succession of 10 Gurus," with the line ending at the living guru in the form of the Guru Granth Sahib. Sikhs uphold a rigid code of conduct which includes wearing symbolic articles called the ""five K's"" and following the four prohibitions which make one into a Khalsa", a true member of the Sikh community.  By stressing universality and outreach, the Sikhs brought many into their fold noting the same, one god was worshiped by all from Bharata.;;;;;;;;;;;;;,,,,,
+GURU_GRANTH_SAHIB;Guru Granth Sahib;;;;;;;;;;;;;,,,,,,,,,,,
+GOD_IK_ONKAAR;Ik Onkaar;;;;;;;;;;;;;,,,,,,,,,,,
+NAAM;Naam;;;;;;;;;;;;;,,,,,,,,,,,
+AKAL;Akal;;;;;;;;;;;;;,,,,,,,,,,,
+HARI;Hari;;;;;;;;;;;;;,,,,,,,,,,,
+BAGHAVAN;Baghavan;;;;;;;;;;;;;,,,,,,,,,,,
+WAHEGURU;Waheguru;;;;;;;;;;;;;,,,,,,,,,,,
+PREET;Preet;;;;;;;;;;;;;,,,,,,,,,,,
+ASUR;Asur;;;;;;;;;;;;;,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+#Mainline,,,,,,,,,,,
+mainline;Mainline;;;;;;;;;;;;;x,,,,,,,,,,,
+mainline_DESC;The Mainline church is the union of several ancient churches, whose sisterhood dates to the founding of America itself. Many creeds and Gurus coexist within this church, following Gurus as diverse as Luther, Calvin, and Wesley. The binding doctrines holding these churches together is the need for the church to uplift all men, eliminating the evils of the world and bring everyone to the teachings of Christ, and for all men to be personally involved in their church.;;;;;;;;;;;;;x,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+LUCIFER;Lucifer;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_BIBLE;The Bible;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Puritan,,,,,,,,,,,
+puritan;Puritan;;;;;;;;;;;;;x,,,,,,,,,,,
+puritan_DESC;Followers of Guru Calvin. Believing that cooperating with false Gurus is a fraudulent virtue, and that the Mainline church has fallen into the heresy of Modernism, the post-Event Puritans reject ecumenism and have set up their own Presbyteries.;;;;;;;;;;;;;x,,,,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+LUCIFER;Lucifer;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_BIBLE;The Bible;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Pietist,,,,,,,,,,,
+pietist;Pietist;;;;;;;;;;;;;x,,,,,,,,,,,
+pietist_DESC;Followers of Guru Luther. Rejecting ritualism, and the need to focus outwards, Pietists instead focus internally, on those already faithful and on their own circumstances, spiritual and physical, instead of those outside the faith.;;;;;;;;;;;;;x,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+LUCIFER;Lucifer;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_BIBLE;The Bible;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Apostolic,,,,,,,,,,,
+apostolic;Apostolic;;;;;;;;;;;;;x,,,,,,,,,,,
+apostolic_DESC;The Armenian Apostolic Faith is one of the oldest faiths in Christendom, founded by the Apostles Bartholomew and Thaddeus. They are miaphysite believing Christ to have one nature where both the divine and human are united. After the event the Armenian Apostolic Community of California found itself separated from the Mother Church. In an attempt to stay united a church council was held in the Cathedral of Saint Leon and the Catholicosate of Los Angeles was established.;;;;;;;;;;;;;x,,,,,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_THEOTOKOS;The Theotokos;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+LUCIFER;Lucifer;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_BIBLE;The Bible;;;;;;;;;;;;;x,,,,,,,,,,,
+KHACHIHAMAR;Kach'ihamar;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Paraktelic,,,,,,,,,,,
+paraktelic;Paraktelic;;;;;;;;;;;;;x,,,,,,,,,,,
+paraktelic_DESC;After the Council of Cathedral of Saint Leon was held some Armenian Apostolics refused to acknowledge its decision, proclaiming the reigning Catholicos unworthy of leading the faithful. The Armenian Paraktelics see their faith as the true conintuation of the church founded by the Apostles Bartholomew and Thaddeus. All those outside the church are hetanosner and are not to be asscociated with.;;;;;;;;;;;;;x,,,,,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHRIST;Christ;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;the Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_THEOTOKOS;The Theotokos;;;;;;;;;;;;;x,,,,,,,,,,,
+SATAN;Satan;;;;;;;;;;;;;x,,,,,,,,,,,
+LUCIFER;Lucifer;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;the Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_BIBLE;The Bible;;;;;;;;;;;;;x,,,,,,,,,,,
+KHACHIHAMAR;Kach'ihamar;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Cosmist,,,,,,,,,,,
+cosmist;Cosmist;;;;;;;;;;;;;x,,,,,,,,,,,
+"cosmist_DESC;The Cosmists revere the divine spirit of the Universe. They see ""Mother Earth"" as but a small fragment of humanity's true benefactor. The vast expanse surrounding humanity all plays a role in giving Earth light", heat, minerals, energy, direction, inspiration, and imagination. The Physicists -- those who could truly understand and appreciate its vastness, and learn the secrets hidden within -- were great men who lived before the Event. They are gone now, only their words remain.;;;;;;;;;;;;;x,,,
+GOD_THE_UNIVERSE;The Universe;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SPACE;Space;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SAGAN;Sagan;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HAWKING;Hawking;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_FEYNMAN;Feynman;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_DEVOURER;The Devourer;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_COLD_DISORDER;The Cold Disorder;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CONVERGENCE;Convergence;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_TEAR;The Tear;;;;;;;;;;;;;x,,,,,,,,,,,
+ACCRETION;Accretion;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_LUMINARIES;The Luminaries;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Legislative,,,,,,,,,,,
+legislative;Legislative;;;;;;;;;;;;;x,,,,,,,,,,,
+legislative_DESC;After the event, those who sought to maintain the structures of the old provincial government became know as the Legislators. They maintain some semblance of democratic processes in Victoria out of their old seat of government, The Ledge. Despite their relative stability and dominance on the islands, they have had troubles bringing the many fractured realms and peoples of old Bee-Sea back into the fold. Legislators believe that only through the authority and mandate derived from The Crown can they find stability and prosperity. Legislative realms focus many of their resources on their fleets and navies, seeing the Salish Sea as the lifeblood of their civilization. They tend to be very decentralized in their way of life; leaving individual communities largely to govern themselves, and valuing the diversity within their lands.;;;;;;;;;;;;;x,,,,,,
+GOD_THE_CROWN;The Crown;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_MANDATE;The Mandate;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_COALITION;The Coalition;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_WACKY;Wacky;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_OTTAWA;Ottawa;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_YANKS;The Yanks;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_FRENCH;The French;;;;;;;;;;;;;x,,,,,,,,,,,
+PREMIER;Premier;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_CHARTER;The Charter;;;;;;;;;;;;;x,,,,,,,,,,,
+RECLAMATION;Reclamation;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Theosophy,,,,,,,,,,,
+theosophy;Theosophy;;;;;;;;;;;;;x,,,,,,,,,,,
+theosophy_DESC;The Theosophists are the followers of the Guru Krishnamurti, a renowned sage who was said to be the last in a long line of Masters that shepherded the spiritual and intellectual development of humanity. According to their teachings, it was when the world closed their hearts to the lessons of Krishnamurti that mankind grew distant from Nature and Truth, relying more and more upon the various systems that they used to build the Old World, before collapsing under the burden of ignorance and desire that it carried upon its back. Numerous legends even hold that Krishnamurti himself was alive to witness the Event, spending his final years guiding the Theosophists through those dark days of turmoil and uncertainty. The Theosophists de emphasize the importance of organized religion, scripture, ritual, and hierarchy as a source of direct enlightenment, viewing them simply as roads for every individual to access the source of Truth. ;;;;;;;;;;;;;x,,
+GOD_TRUTH;Truth;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_MASTERS;The Masters;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_KRISHNAMURTI;Krishnamurti;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SUFFERING;Suffering;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SYSTEMS_OF_MAN;The Systems of Man;;;;;;;;;;;;;x,,,,,,,,,,,
+KRISHNAMURTIS_NOTEBOOK;Krishnamurti's Notebook;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Navegante,,,,,,,,,,,
+navegante;Navegante;;;;;;;;;;;;;x,,,,,,,,,,,
+navegante_DESC;Navigants believe those who are brave, those who are patient, are blessed by the sea. Legends warn of the dangers and curses of the sea, but also speak of miracles and blessings from he who multiplies the fish. Our Savior and provider, call us to walk over the waters with you. And give us Our Daily Fish, Amen.;;;;;;;;;;;;;x,,,,,,
+GOD_THE_FISHER_OF_MEN;The Fisher of Men;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_ICHTYS;Ichtys;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LIVING_WATER;Living Water;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SALVADOR_GAVIOTA;Salvador Gaviota;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_DEVIL;The Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_TEMPEST;Tempest;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EL_MECHUDO;El Mechudo;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_GOSPEL;The Gosepel;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Triangulo Dorado,,,,,,,,,,,
+triangulo_dorado;Triángulo Dorado;;;;;;;;;;;;;x,,,,,,,,,,,
+triangulo_dorado_DESC;Proclaiming being the true lords of Mexico the days before the event, Contrabandistas cling to hubs of power and isolated fortresses. They believe laws and morals were suggestions, their honor and pride shapes them, and they are exempt if some good is done. They’re a brutal caste of tyrants, idolizing feats of bravery as sung in Los Corridos. But the Event robbed their trade routes and their clients, and now their power wanes. Are they really the lords of the land?;;;;;;;;;;;;;x,,,,,,
+GOD_EL_JEFE_DE_JEFE;El Jefe de Jefes;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CUERNO_DE_CHIVO;Cuerno de Chivo;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MALVERDE;Malverde;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HIERBA_MALA;Hierba Mala;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;The Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LOS_FEDERALES;Los Federales;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LOS_RINCHES;Los Rinches;;;;;;;;;;;;;x,,,,,,,,,,,
+LOS_CORRIDOS;Los Corridos;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Misional,,,,,,,,,,,
+misional;Misional;;;;;;;;;;;;;x,,,,,,,,,,,
+misional_DESC;As Jesus and the Apostles healed by faith, those gifted can work wonders through prayer and  intercession from El Niño Fidencio and San Chárbel. A wide range of beliefs, but united by miracles and signs.;;;;;;;;;;;;;x,,,,,,,,,
+GOD_DIOS;Dios;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_LORD;The Lord;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BLESSED_VIRGIN;The Blessed Virgin;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DEVIL;The Devil;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_PERSHING;Pershing;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LOS_FEDERALES;Los Federales;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Kojtumbrem (Yaqui Faith),,,,,,,,,,,
+kojtumbrem;Kojtumbrem;;;;;;;;;;;;;x,,,,,,,,,,,
+kojtumbrem_DESC;Among the Yaqui, the heirs of the Sun, an ancient tradition met the Gospel. Believing that at the end of the world those who were baptized were the only to be saved and inherit the world. These chosen are the proud Yaqui, free from the colonists yet armed with their catholic traditions.;;;;;;;;;;;;;x,,,,,,,,
+GOD_GOD;God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_ITOM_ACHAI;'Itom 'Achai;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JESUS;Jesus;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_YUKU;Yuku;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SUREM;The Surem;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BEBEJEERI;Bebeje'eri;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JUURAS;Juuras;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_CHAPAVEKAM;The Chapavekam;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_LEGENDS;The Legends;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Bohemian,,,,,,,,,,,
+bohemian;Bohemian;;;;;;;;;;;;;x,,,,,,,,,,,
+bohemian_DESC;Long has the name been known that even the Weavings Spiders wish not tread the ground of the Bohemians, a secret society of grove-captains across the wooded estates of the powerful men of Pre-Event California it is said that their wise and terrible guardian the screeching owl of the Grove protects their proceedings for those that wish to pry within their most holy of holies. Those that do are said to meet their maker drowned in circumstances that have been lost to time.;;;;;;;;;;;;;x,,,,,,,,,,
+GOD_STANFORD;Stanford;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EDWARD;Edward;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_IRWIN;Irwin;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JOHN;John;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_WISE_OWL;Wise Owl;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THOSE-WHO-WATCH;Those-Who-Watch;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BEGGAR;The Beggar;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_PHANTOM_PATRIOT;The Phantom Patriot;;;;;;;;;;;;;x,,,,,,,,,,,
+SIGNIFICANT_OTHER;Significant Other;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Fortunist,,,,,,,,,,,
+fortunist;Fortunist;;;;;;;;;;;;;x,,,,,,,,,,,
 fortunist_DESC;Without risk, there is no reward. Those who refuse are destined to fade into obscurity, never to join the High Rollers of old, never to drink, party, and gamble forever in the splendor of the House. Wealth is the ultimate form of fortune, the manifestation of Lady Luck’s favor. An extension of this premise, any can rise to greatness if the Odds are in their favor, from an all-conquering king to a peasant in the right place at the right time. The roll of the dice, the luck of the draw, and the spin of the wheel. All are signs of Lady Luck’s presence, and all are proof that our way is right.;;;;;;;;;;;;;x
-GOD_LADY_LUCK;Lady Luck;;;;;;;;;;;;;x
-GOD_THE_ODDS;The Odds;;;;;;;;;;;;;x
-GOD_NIKE;Nike;;;;;;;;;;;;;x
-GOD_JACK_OF_HEARTS;Jack of Hearts;;;;;;;;;;;;;x
-GOD_THE_HOUSE;The House;;;;;;;;;;;;;x
-GOD_ACE;Ace;;;;;;;;;;;;;x
-GOD_THE_ONE_ARMED_BANDIT;The One Armed Bandit;;;;;;;;;;;;;x
-GOD_THE_SAFE_BET;The Safe Bet;;;;;;;;;;;;;x
-THE_CARDS;The Cards;;;;;;;;;;;;;x
-
-#Haysian
-haysian;Haysian;;;;;;;;;;;;;x
-haysian_DESC;The Americans once crowded around great mirrors and scrying stones with religious compulsion, and in the searing light of ancient magic they witnessed an endless series of rapturous wonders. Empires rose and fell in an hour, lovers gasped and clung to each other with golden hair and red lips, crooning dark-haired troubadours sang to their loves and faced off against jealous villains, crag-faced warriors and conquerors reenacted stories written by men whose ancient bones were already dust. The glowing gods of Tragedia and Comedia strode through the electric dream-world in the flicker of magic lamps and gave color and life to dull muddy reality. This ancient art was practiced under the watchful eye of the Code of Hays, tempering the excess and wildness of the celebrity-thespians and ensuring moral cleanliness and right-minded behavior. As they say, the stars are indeed ageless.;;;;;;;;;;;;;x
-GOD_THE_ASSOCIATION;The Association;;;;;;;;;;;;;x
-GOD_HERO;Hero;;;;;;;;;;;;;x
-GOD_BEAUTY;Beauty;;;;;;;;;;;;;x
-GOD_VILLAIN;Villain;;;;;;;;;;;;;x
-GOD_FAME;Fame;;;;;;;;;;;;;x
-GOD_IDOL;Idol;;;;;;;;;;;;;x
-GOD_VILLAIN;Villain;;;;;;;;;;;;;x
-GOD_BLACKLIST;Blacklist;;;;;;;;;;;;;x
-THE_CODE;The Code;;;;;;;;;;;;;x
-premiere;Premiere;;;;;;;;;;;;;x
-
-#Siliconist
-siliconist;Siliconist;;;;;;;;;;;;;x
-siliconist_DESC;Long before the first spark, It was said that all was a part of the grand accordance of the All-Go-Rhythm, the song of the Universe composed by the Great Tek, the law which binds all together. The Code for which is as old as it is arcane performed as a secret and sacred rite of “transfer” (Divination). Men who have heard the All-Go-Rhythm, Diviners known as Eye-Tee, are said to cravenly hold the secrets of the song inside their giant temples called “Mainframes” which house idols of “dayta” said to be spirits in service to Tek.;;;;;;;;;;;;;x
-GOD_TEK;Tek;;;;;;;;;;;;;x
-GOD_ALL-GO-RYTHM;All-Go-Rythm;;;;;;;;;;;;;x
-GOD_CHIPTUNE;Chiptune;;;;;;;;;;;;;x
-GOD_TECHNI;Techni;;;;;;;;;;;;;x
-GOD_DAYTA;Dayta;;;;;;;;;;;;;x
-GOD_DISCORDANCE;Discordance;;;;;;;;;;;;;x
-GOD_TROJAN;Trojan;;;;;;;;;;;;;x
-GOD_WRINGING_BUGS;Wringing Bugs;;;;;;;;;;;;;x
-ASSIMILATION;Assimilation;;;;;;;;;;;;;x
-THE_ACCORDANCE;The Accordance;;;;;;;;;;;;;x
-TECH_PRIEST;Tech Priest;;;;;;;;;;;;;x
-
-#Wiccan
-wiccan;Wiccan;;;;;;;;;;;;;x
-wiccan_DESC;Wiccans are a diverse collection of occultist covens who, while emerging shortly before the event, claim to originate from a tradition of witchcraft who reach back to ancient times. While every coven has different practices, the Wiccan faithful share a belief in the power of magic and in the Wiccan Rede - "An it harm none, do what ye will";;;;;;;;;;;;;x
-THE_BOOK_OF_SHADOWS;The Book of Shadows;;;;;;;;;;;;;x
-GOD_DRYGHTEN;Dryghten;;;;;;;;;;;;;x
-GOD_THE_DARK_SPIRITS;The Dark Spirits;;;;;;;;;;;;;x
-GOD_MALICE;Malice;;;;;;;;;;;;;x
-GOD_THE_HORNED_GOD;The Horned God;;;;;;;;;;;;;x
-GOD_THE_TRIPLE_GODDESS;The Triple Goddess;;;;;;;;;;;;;x
-GOD_WYRD;Wyrd;;;;;;;;;;;;;x
-GOD_THE_SPIRITS;The Spirits;;;;;;;;;;;;;x
-HIGH_PRIEST;High Priest;;;;;;;;;;;;;x
-
-#Cowpoke
-cowpoke;Cowpoke;;;;;;;;;;;;;x
-cowpoke_DESC;The Cowpokes worship a broad syncretic pantheon of deities redolent of the heroes of the ancient west of America, headed by the Spirit of the West, a transcendent being responsible for shepherding mankind to the Last Roundup, though wicked souls are condemned to ride the skies forever, chasing a herd of accursed cattle.;;;;;;;;;;;;;x
-cowpoke_reformed;Cowpoke;;;;;;;;;;;;;x
-cowpoke_reformed_DESC;The Cowpokes worship a broad syncretic pantheon of deities redolent of the heroes of the ancient west of America, headed by the Spirit of the West, a transcendent being responsible for shepherding mankind to the Last Roundup, though wicked souls are condemned to ride the skies forever, chasing a herd of accursed cattle. Their traditions and heritage have been officially collected into a holy and codifying scripture.;;;;;;;;;;;;;x
-GOD_THE_SPIRIT_OF_THE_WEST;The Spirit of the West;;;;;;;;;;;;;x
-GOD_BUFFALO;Buffalo;;;;;;;;;;;;;x
-GOD_COYOTE;Coyote;;;;;;;;;;;;;x
-GOD_IRON_HORSE;Iron Horse;;;;;;;;;;;;;x
-GOD_EASTWOOD;Eastwood;;;;;;;;;;;;;x
-GOD_MISSUS_SURESHOT;Missus Sureshot;;;;;;;;;;;;;x
-GOD_THE_GHOST_RIDERS;The Ghost Riders;;;;;;;;;;;;;x
-GOD_COYOTE;Coyote;;;;;;;;;;;;;x
-GOD_THE_MAN_IN_BLACK;The Man in Black;;;;;;;;;;;;;x
-POSSE_BOSS;Posse Boss;;;;;;;;;;;;;x
-THE_TRAIL_GUIDE;The Trail Guide;;;;;;;;;;;;;x
-GREAT_DRIVE;Great Drive;;;;;;;;;;;;;x
-
-#Interstater
-interstater;Interstater;;;;;;;;;;;;;x
-interstater_DESC;The Interstaters are the followers of the Guru Eisenhower, the builder of the great ancient interstates of old America. They believe that after traveling "through Darkest America with Tank and Truck" their Champion Eisenhower transcended through understanding of the fine methods that brought unity amongst all people. It is this desire that led him to build the American Interstates with the aid of The Fund, the Holy Paver, and See-meant. The Interstaters believe that the fall of old America was caused by the neglect of Eisenhower's work, for when the roads that brought unity amongst all Americans stopped working, they began to see each other as foreign, conspire against one another, and a confusion of tongues quickly followed. This Infrastructure Cult places and high religious importance on unity between all men, the breaking down of barriers that seperate them, and the reverence of those things that keep them together.;;;;;;;;;;;;;x
-interstater_reformed;Interstater;;;;;;;;;;;;;x
-interstater_reformed_DESC;The Interstaters are the followers of the Guru Eisenhower, the builder of the great ancient interstates of old America. They believe that after traveling "through Darkest America with Tank and Truck" their Champion Eisenhower transcended through understanding of the fine methods that brought unity amongst all people. It is this desire that led him to build the American Interstates with the aid of The Fund, the Holy Paver, and See-meant. The Interstaters believe that the fall of old America was caused by the neglect of Eisenhower's work, for when the roads that brought unity amongst all Americans stopped working, they began to see each other as foreign, conspire against one another, and a confusion of tongues quickly followed. This Infrastructure Cult places and high religious importance on unity between all men, the breaking down of barriers that seperate them, and the reverence of those things that keep them together. Their ways have been codified into a holy text.;;;;;;;;;;;;;x
-GOD_CHAMPION_EISENHOWER;Champion Eisenhower;;;;;;;;;;;;;x
-GOD_THE_AUTOMOTIVE_AMERICAN;The Automotive American;;;;;;;;;;;;;x
-GOD_THE_FREEMANS_WAY;The Freeman's Way;;;;;;;;;;;;;x
-GOD_THE_SPIRIT_OF_THE_EYE;The Spirit of the Eye;;;;;;;;;;;;;x
-GOD_THE_HOLY_PAVER;The Holy Paver;;;;;;;;;;;;;x
-GOD_SEE-MEANT;See-Meant;;;;;;;;;;;;;x
-GOD_THE_66;The 66;;;;;;;;;;;;;x
-GOD_THE_FUND;The Fund;;;;;;;;;;;;;x
-GOD_EROSION;Erosion;;;;;;;;;;;;;x
-GOD_THE_DISREPAIRER;The Disrepairer;;;;;;;;;;;;;x
-GREAT_PAVEMENT;Great Pavement;;;;;;;;;;;;;x
-THE_YELLOW_BOOK;The Yellow Book;;;;;;;;;;;;;x
-GRADE_CREWMAN;Grade Crewman;;;;;;;;;;;;;x
-
-#Romano-Humanism
-romano-humanism;Romano-Humanism;;;;;;;;;;;;;x
-romano-humanism_DESC;This is a meme tier skeleton I made based around a specific music artist I was listening to as I did the code. Hopefully ya boi Mr. More comes and does a real one. Good music btw. -Idaho;;;;;;;;;;;;;x
-GOD_THE_HOBO_MY_HERO;The Hobo My Hero;;;;;;;;;;;;;x
-GOD_WILD_BILL_JONES;Wild Bill Jones;;;;;;;;;;;;;x
-GOD_THE_JIPSY_VALENTINE;The Jipsy Valentine;;;;;;;;;;;;;x
-GOD_SPEEDY_ATKINS;Speedy Atkins;;;;;;;;;;;;;x
-GOD_ICHABOD;Ichabod;;;;;;;;;;;;;x
-GOD_THE_HOG-EYED_MAN;The Hog Eyed Man;;;;;;;;;;;;;x
-GOD_THE_BUZZARD_AND_THE_BELL;The Buzzard and The Bell;;;;;;;;;;;;;x
-GOD_THE_COUNTY_OF_GRAVES;The County of Graves;;;;;;;;;;;;;x
-RAMBLE;Ramble;;;;;;;;;;;;;x
-THE_DUMP_ROAD_YODEL;The Dump Road Yodel;;;;;;;;;;;;;x
-FIRE_DREAMER;Fire Dreamer;;;;;;;;;;;;;x
-
-#Scientology
-scientology;Scientology;;;;;;;;;;;;;x
-scientology_DESC;The Scientologists jealously guard the communications and the revealed technology of their founder Chairman Hubbard. In their process and rituals they see authenticity, true ethics and love of knowledge setting itself against the false implants that distract and torment the various un-clear peoples. Tortured souls come dripping down the unknown gulf of trillions of years into our own time, where they fasten into the flesh and minds of living men and fester causing illness and madness. Scientologists believe that through the strictly controlled and monitored application of  Hubbard's knowledge and religious technology, one can cleanse the flesh and mind with the goal of becoming true self-moving souls.;;;;;;;;;;;;;x
-GOD_THE_CHAIRMAN;The Chairman;;;;;;;;;;;;;x
-GOD_SCIO;Scio;;;;;;;;;;;;;x
-GOD_LOGOS;Logos;;;;;;;;;;;;;x
-GOD_ETHICS;Ethics;;;;;;;;;;;;;x
-GOD_THE_SUPREME_BEING;The Supreme Being;;;;;;;;;;;;;x
-GOD_THE_SUPPRESSIVE;The Suppressive;;;;;;;;;;;;;x
-GOD_THE_PSYCHS;The Psychs;;;;;;;;;;;;;x
-OPERATION;Operation;;;;;;;;;;;;;x
-THE_COMMUNICATIONS;The Communications;;;;;;;;;;;;;x
-
-###########Title Names###########
-count_makah;Cha-batth;;;;;;;;;;;;;x
-duke_makah;A'aho Cha-batth;;;;;;;;;;;;;x
-k_nuuchahnulth;Nuu-chah-nulth;;;;;;;;;;;;;x
-k_nuuchahnulth_adj;Nuu-chah-nulthian;;;;;;;;;;;;;x
-k_kwakwakakawk;Kwakwaka'kawk;;;;;;;;;;;;;x
-k_kwakwakakawk_adj;Kwakwaka'kawkian;;;;;;;;;;;;;x
-k_makah;Makah;;;;;;;;;;;;;x
-k_makah_adj;Makahite;;;;;;;;;;;;;x
-k_the_ledge;The Ledge;;;;;;;;;;;;;x
-k_the_ledge_adj;Ledge-Men;;;;;;;;;;;;;x
-d_snowchainers;The Snowchainers;;;;;;;;;;;;;x
-d_snowchainers_adj;Snowchainers;;;;;;;;;;;;;x
-d_the_evergreen;The Evergreen;;;;;;;;;;;;;x
-d_the_evergreen_adj;Evergreeners;;;;;;;;;;;;;x
-d_the_quarrymen;The Quarrymen;;;;;;;;;;;;;x
-d_the_quarrymen_adj;Quarrymen;;;;;;;;;;;;;x
-d_the_bearkillers;The Bearkillers;;;;;;;;;;;;;x
-d_the_bearkillers_adj;Bearkillers;;;;;;;;;;;;;x
-d_the_six_rivers;The Six Rivers;;;;;;;;;;;;;x
-d_the_six_rivers_adj;Six-Rivermen;;;;;;;;;;;;;x
-d_the_thespians;The Thespians;;;;;;;;;;;;;x
-d_the_thespians_adj;Thespians;;;;;;;;;;;;;x
-d_jointbases;Joint Bases;;;;;;;;;;;;;x
-d_jointbases_adj;Jointbasers;;;;;;;;;;;;;x
-d_the_jackos;The Jackos;;;;;;;;;;;;;x
-d_the_jackos_adj;Jackosites;;;;;;;;;;;;;x
-d_bangors;Bangors;;;;;;;;;;;;;x
-d_bangors_adj;Bangorites;;;;;;;;;;;;;x
-d_timberrafters;Timber Rafters;;;;;;;;;;;;;x
-d_timberrafters_adj;Timber Rafters;;;;;;;;;;;;;x
-
-###########Nicknames###########
-nick_the_wanderer;the Wanderer;;;;;;;;;;;;;x
-nick_the_runner;the Runner;;;;;;;;;;;;;x
-nick_the_suspicious;The Suspicious;;;;;;;;;;;;;x
+GOD_LADY_LUCK;Lady Luck;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_ODDS;The Odds;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_NIKE;Nike;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_JACK_OF_HEARTS;Jack of Hearts;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_HOUSE;The House;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_ACE;Ace;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_ONE_ARMED_BANDIT;The One Armed Bandit;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SAFE_BET;The Safe Bet;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_CARDS;The Cards;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Haysian,,,,,,,,,,,
+haysian;Haysian;;;;;;;;;;;;;x,,,,,,,,,,,
+haysian_DESC;The Americans once crowded around great mirrors and scrying stones with religious compulsion, and in the searing light of ancient magic they witnessed an endless series of rapturous wonders. Empires rose and fell in an hour, lovers gasped and clung to each other with golden hair and red lips, crooning dark-haired troubadours sang to their loves and faced off against jealous villains, crag-faced warriors and conquerors reenacted stories written by men whose ancient bones were already dust. The glowing gods of Tragedia and Comedia strode through the electric dream-world in the flicker of magic lamps and gave color and life to dull muddy reality. This ancient art was practiced under the watchful eye of the Code of Hays, tempering the excess and wildness of the celebrity-thespians and ensuring moral cleanliness and right-minded behavior. As they say, the stars are indeed ageless.;;;;;;;;;;;;;x,,,,,
+GOD_THE_ASSOCIATION;The Association;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_HERO;Hero;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BEAUTY;Beauty;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_VILLAIN;Villain;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_FAME;Fame;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_IDOL;Idol;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_VILLAIN;Villain;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BLACKLIST;Blacklist;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_CODE;The Code;;;;;;;;;;;;;x,,,,,,,,,,,
+premiere;Premiere;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Siliconist,,,,,,,,,,,
+siliconist;Siliconist;;;;;;;;;;;;;x,,,,,,,,,,,
+siliconist_DESC;Long before the first spark, It was said that all was a part of the grand accordance of the All-Go-Rhythm, the song of the Universe composed by the Great Tek, the law which binds all together. The Code for which is as old as it is arcane performed as a secret and sacred rite of “transfer” (Divination). Men who have heard the All-Go-Rhythm, Diviners known as Eye-Tee, are said to cravenly hold the secrets of the song inside their giant temples called “Mainframes” which house idols of “dayta” said to be spirits in service to Tek.;;;;;;;;;;;;;x,,,,,,
+GOD_TEK;Tek;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_ALL-GO-RYTHM;All-Go-Rythm;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_CHIPTUNE;Chiptune;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_TECHNI;Techni;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_DAYTA;Dayta;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_DISCORDANCE;Discordance;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_TROJAN;Trojan;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_WRINGING_BUGS;Wringing Bugs;;;;;;;;;;;;;x,,,,,,,,,,,
+ASSIMILATION;Assimilation;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_ACCORDANCE;The Accordance;;;;;;;;;;;;;x,,,,,,,,,,,
+TECH_PRIEST;Tech Priest;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Wiccan,,,,,,,,,,,
+wiccan;Wiccan;;;;;;;;;;;;;x,,,,,,,,,,,
+wiccan_DESC;Wiccans are a diverse collection of occultist covens who, while emerging shortly before the event, claim to originate from a tradition of witchcraft who reach back to ancient times. While every coven has different practices," the Wiccan faithful share a belief in the power of magic and in the Wiccan Rede - ""An it harm none"," do what ye will"";;;;;;;;;;;;;x",,,,,,,
+THE_BOOK_OF_SHADOWS;The Book of Shadows;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_DRYGHTEN;Dryghten;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_DARK_SPIRITS;The Dark Spirits;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MALICE;Malice;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_HORNED_GOD;The Horned God;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_TRIPLE_GODDESS;The Triple Goddess;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_WYRD;Wyrd;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SPIRITS;The Spirits;;;;;;;;;;;;;x,,,,,,,,,,,
+HIGH_PRIEST;High Priest;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Cowpoke,,,,,,,,,,,
+cowpoke;Cowpoke;;;;;;;;;;;;;x,,,,,,,,,,,
+cowpoke_DESC;The Cowpokes worship a broad syncretic pantheon of deities redolent of the heroes of the ancient west of America, headed by the Spirit of the West, a transcendent being responsible for shepherding mankind to the Last Roundup, though wicked souls are condemned to ride the skies forever, chasing a herd of accursed cattle.;;;;;;;;;;;;;x,,,,,,,
+cowpoke_reformed;Cowpoke;;;;;;;;;;;;;x,,,,,,,,,,,
+cowpoke_reformed_DESC;The Cowpokes worship a broad syncretic pantheon of deities redolent of the heroes of the ancient west of America, headed by the Spirit of the West, a transcendent being responsible for shepherding mankind to the Last Roundup, though wicked souls are condemned to ride the skies forever, chasing a herd of accursed cattle. Their traditions and heritage have been officially collected into a holy and codifying scripture.;;;;;;;;;;;;;x,,,,,,,
+GOD_THE_SPIRIT_OF_THE_WEST;The Spirit of the West;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_BUFFALO;Buffalo;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_COYOTE;Coyote;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_IRON_HORSE;Iron Horse;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EASTWOOD;Eastwood;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_MISSUS_SURESHOT;Missus Sureshot;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_GHOST_RIDERS;The Ghost Riders;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_COYOTE;Coyote;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_MAN_IN_BLACK;The Man in Black;;;;;;;;;;;;;x,,,,,,,,,,,
+POSSE_BOSS;Posse Boss;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_TRAIL_GUIDE;The Trail Guide;;;;;;;;;;;;;x,,,,,,,,,,,
+GREAT_DRIVE;Great Drive;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Interstater,,,,,,,,,,,
+interstater;Interstater;;;;;;;;;;;;;x,,,,,,,,,,,
+interstater_DESC;The Interstaters are the followers of the Guru Eisenhower," the builder of the great ancient interstates of old America. They believe that after traveling ""through Darkest America with Tank and Truck"" their Champion Eisenhower transcended through understanding of the fine methods that brought unity amongst all people. It is this desire that led him to build the American Interstates with the aid of The Fund", the Holy Paver, and See-meant. The Interstaters believe that the fall of old America was caused by the neglect of Eisenhower's work, for when the roads that brought unity amongst all Americans stopped working, they began to see each other as foreign, conspire against one another, and a confusion of tongues quickly followed. This Infrastructure Cult places and high religious importance on unity between all men, the breaking down of barriers that seperate them, and the reverence of those things that keep them together.;;;;;;;;;;;;;x,,
+interstater_reformed;Interstater;;;;;;;;;;;;;x,,,,,,,,,,,
+interstater_reformed_DESC;The Interstaters are the followers of the Guru Eisenhower," the builder of the great ancient interstates of old America. They believe that after traveling ""through Darkest America with Tank and Truck"" their Champion Eisenhower transcended through understanding of the fine methods that brought unity amongst all people. It is this desire that led him to build the American Interstates with the aid of The Fund", the Holy Paver, and See-meant. The Interstaters believe that the fall of old America was caused by the neglect of Eisenhower's work, for when the roads that brought unity amongst all Americans stopped working, they began to see each other as foreign, conspire against one another, and a confusion of tongues quickly followed. This Infrastructure Cult places and high religious importance on unity between all men, the breaking down of barriers that seperate them, and the reverence of those things that keep them together. Their ways have been codified into a holy text.;;;;;;;;;;;;;x,,
+GOD_CHAMPION_EISENHOWER;Champion Eisenhower;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_AUTOMOTIVE_AMERICAN;The Automotive American;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_FREEMANS_WAY;The Freeman's Way;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SPIRIT_OF_THE_EYE;The Spirit of the Eye;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_HOLY_PAVER;The Holy Paver;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SEE-MEANT;See-Meant;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_66;The 66;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_FUND;The Fund;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_EROSION;Erosion;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_DISREPAIRER;The Disrepairer;;;;;;;;;;;;;x,,,,,,,,,,,
+GREAT_PAVEMENT;Great Pavement;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_YELLOW_BOOK;The Yellow Book;;;;;;;;;;;;;x,,,,,,,,,,,
+GRADE_CREWMAN;Grade Crewman;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Romano-Humanism,,,,,,,,,,,
+romano-humanism;Romano-Humanism;;;;;;;;;;;;;x,,,,,,,,,,,
+romano-humanism_DESC;This is a meme tier skeleton I made based around a specific music artist I was listening to as I did the code. Hopefully ya boi Mr. More comes and does a real one. Good music btw. -Idaho;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_HOBO_MY_HERO;The Hobo My Hero;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_WILD_BILL_JONES;Wild Bill Jones;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_JIPSY_VALENTINE;The Jipsy Valentine;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SPEEDY_ATKINS;Speedy Atkins;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_ICHABOD;Ichabod;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_HOG-EYED_MAN;The Hog Eyed Man;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_BUZZARD_AND_THE_BELL;The Buzzard and The Bell;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_COUNTY_OF_GRAVES;The County of Graves;;;;;;;;;;;;;x,,,,,,,,,,,
+RAMBLE;Ramble;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_DUMP_ROAD_YODEL;The Dump Road Yodel;;;;;;;;;;;;;x,,,,,,,,,,,
+FIRE_DREAMER;Fire Dreamer;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+#Scientology,,,,,,,,,,,
+scientology;Scientology;;;;;;;;;;;;;x,,,,,,,,,,,
+scientology_DESC;The Scientologists jealously guard the communications and the revealed technology of their founder Chairman Hubbard. In their process and rituals they see authenticity, true ethics and love of knowledge setting itself against the false implants that distract and torment the various un-clear peoples. Tortured souls come dripping down the unknown gulf of trillions of years into our own time, where they fasten into the flesh and minds of living men and fester causing illness and madness. Scientologists believe that through the strictly controlled and monitored application of  Hubbard's knowledge and religious technology, one can cleanse the flesh and mind with the goal of becoming true self-moving souls.;;;;;;;;;;;;;x,,,,,,,,
+GOD_THE_CHAIRMAN;The Chairman;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_SCIO;Scio;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_LOGOS;Logos;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_ETHICS;Ethics;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SUPREME_BEING;The Supreme Being;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_SUPPRESSIVE;The Suppressive;;;;;;;;;;;;;x,,,,,,,,,,,
+GOD_THE_PSYCHS;The Psychs;;;;;;;;;;;;;x,,,,,,,,,,,
+OPERATION;Operation;;;;;;;;;;;;;x,,,,,,,,,,,
+THE_COMMUNICATIONS;The Communications;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+###########Title Names###########,,,,,,,,,,,
+count_makah;Cha-batth;;;;;;;;;;;;;x,,,,,,,,,,,
+duke_makah;A'aho Cha-batth;;;;;;;;;;;;;x,,,,,,,,,,,
+k_nuuchahnulth;Nuu-chah-nulth;;;;;;;;;;;;;x,,,,,,,,,,,
+k_nuuchahnulth_adj;Nuu-chah-nulthian;;;;;;;;;;;;;x,,,,,,,,,,,
+k_kwakwakakawk;Kwakwaka'kawk;;;;;;;;;;;;;x,,,,,,,,,,,
+k_kwakwakakawk_adj;Kwakwaka'kawkian;;;;;;;;;;;;;x,,,,,,,,,,,
+k_makah;Makah;;;;;;;;;;;;;x,,,,,,,,,,,
+k_makah_adj;Makahite;;;;;;;;;;;;;x,,,,,,,,,,,
+k_the_ledge;The Ledge;;;;;;;;;;;;;x,,,,,,,,,,,
+k_the_ledge_adj;Ledge-Men;;;;;;;;;;;;;x,,,,,,,,,,,
+d_snowchainers;The Snowchainers;;;;;;;;;;;;;x,,,,,,,,,,,
+d_snowchainers_adj;Snowchainers;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_evergreen;The Evergreen;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_evergreen_adj;Evergreeners;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_quarrymen;The Quarrymen;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_quarrymen_adj;Quarrymen;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_bearkillers;The Bearkillers;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_bearkillers_adj;Bearkillers;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_six_rivers;The Six Rivers;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_six_rivers_adj;Six-Rivermen;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_thespians;The Thespians;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_thespians_adj;Thespians;;;;;;;;;;;;;x,,,,,,,,,,,
+d_jointbases;Joint Bases;;;;;;;;;;;;;x,,,,,,,,,,,
+d_jointbases_adj;Jointbasers;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_jackos;The Jackos;;;;;;;;;;;;;x,,,,,,,,,,,
+d_the_jackos_adj;Jackosites;;;;;;;;;;;;;x,,,,,,,,,,,
+d_bangors;Bangors;;;;;;;;;;;;;x,,,,,,,,,,,
+d_bangors_adj;Bangorites;;;;;;;;;;;;;x,,,,,,,,,,,
+d_timberrafters;Timber Rafters;;;;;;;;;;;;;x,,,,,,,,,,,
+d_timberrafters_adj;Timber Rafters;;;;;;;;;;;;;x,,,,,,,,,,,
+,,,,,,,,,,,
+###########Nicknames###########,,,,,,,,,,,
+nick_the_wanderer;the Wanderer;;;;;;;;;;;;;x,,,,,,,,,,,
+nick_the_runner;the Runner;;;;;;;;;;;;;x,,,,,,,,,,,
+nick_the_suspicious;The Suspicious;;;;;;;;;;;;;x,,,,,,,,,,,
